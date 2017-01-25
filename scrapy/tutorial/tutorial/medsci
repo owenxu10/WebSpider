@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="医学公式，MedSci医学公式">
+	<meta name="keywords" content="医学公式，MedSci医学公式">
+	<title>专科分类--MedSci医学公式</title>
+	<link rel="stylesheet" type="text/css" href="http://cdn.tools.medsci.cn/static/css/index.css" />
+	<link rel="stylesheet" type="text/css" href="http://cdn.tools.medsci.cn/static/css/css.css" />
+	<script src='http://cdn.tools.medsci.cn/static/js/jquery.js'></script>
+	<script src='http://cdn.tools.medsci.cn/static/js/iscroll.js'></script>
+	<script src='http://cdn.tools.medsci.cn/static/js/main.js'></script>
+	<script src='http://cdn.tools.medsci.cn/static/js/base.js'></script>
+	
+</head>
+<body>
+	<div class="main_top top">
+		<div class="top_in">
+			<a href="http://tools.medsci.cn/cal/common"><img src="http://cdn.tools.medsci.cn/static/img/medsci_logo.png" /></a>
+
+			<div>
+				<ul class="top_nav">
+					<li>
+						<a href="http://edu.medsci.cn/">首页</a>
+					</li>
+					<li >
+						<a href="http://edu.medsci.cn/course/">核心课程</a>
+					</li>
+					<li >
+						<a href="http://edu.medsci.cn/course_series/">系列课程</a>
+					</li>
+					<li class="top_m_a">
+						<a href="javascript:void(0)" >医学工具</a>
+						<div class="top_n_div">	
+							<a href="http://tools.medsci.cn/cal">医学公式</a>					
+							<a href="http://tools.medsci.cn/rand">随机化工具</a>
+							<a href="http://medsci.cn/sci/">SCI期刊查询</a>
+							<a href="http://medsci.cn/sci/nsfc.do">国家自然科学基金查询</a>
+						</div>
+					</li>
+					<li >
+						<a href="http://edu.medsci.cn/course_pubquestion/">题库</a>
+					</li>
+					
+					<li >
+						<a href="http://edu.medsci.cn/news/">学院介绍</a>
+					</li>
+					
+					<div class="clear"></div>
+				</ul>
+			</div>
+			<div class="nav_inc"><span class="nav_p"></span><span class="nav_p"></span><span class="nav_p"></span></div>
+		</div>
+	</div>
+	<div class="nav_3g">
+		<ul class="top_3g_nav">
+			<li>
+				<a href="http://edu.medsci.cn/">首页</a>
+			</li>
+			<li >
+				<a href="http://edu.medsci.cn/course/">核心课程</a>
+			</li>
+			<li >
+				<a href="http://edu.medsci.cn/course_series/">系列课程</a>
+			</li>
+			<li class="active">
+				<a href="http://tools.medsci.cn/cal">医学公式</a>
+			</li>
+			<li >
+				<a href="http://edu.medsci.cn/course_pubquestion/">题库</a>
+			</li>
+			<li >
+				<a href="http://edu.medsci.cn/news/">学院介绍</a>
+			</li>
+
+			
+			<div class="clear"></div>
+		</ul>
+	</div>
+	
+	<div class="top">
+		<ul class="nav" style="float:none">
+			<li >
+				<a href="http://tools.medsci.cn/cal/common">通用</a>
+			</li>
+			<li class="active">
+				<a href="http://tools.medsci.cn/cal/special">按专科</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/system">按系统</a>
+			</li>
+			<div class="clear"></div>
+		</ul>
+	</div>
+	
+
+<div class="wap_class_nav" id="nav_wrap">
+	<ul>
+			<li class="active">
+				<a href="http://tools.medsci.cn/cal/speclass?class=0">心脏病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=1">危重病人医疗</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=2">内分泌学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=3">胃肠病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=4">血液病学/肿瘤学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=5">肝脏病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=6">传染病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=7">肾脏病学</a>
+			</li>
+
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=8">神经病学</a>
+			</li>
+
+			
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=9">妇产科</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=10">矫形外科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=11">儿科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=12">肺病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=13">外科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=14">毒理学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=15">创伤外科</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=16">麻醉学</a>
+			</li>
+			<li style="display: none;">
+				<!-- <a href="http://tools.medsci.cn/cal/speclass?class=16">麻醉学</a> -->
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=18">精神心理科</a>
+			</li>
+			
+			<div class="clear"></div>
+		</ul>
+</div>
+<style type="text/css" media="screen">
+@media (max-width: 965px){
+	.wap_class_nav ul:first-child {
+	    width: 1410px;
+	}
+}
+</style>
+	<div class="f_page_cont spe_content">
+		<div class="f_page_cont_l m_p_c_l">
+	<div class="f_page_cont_top">按专科分类</div>
+	<div class="f_page_cont_nav" id="class_nav">
+		<ul>
+			<li class="active">
+				<a href="http://tools.medsci.cn/cal/speclass?class=0">心脏病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=1">危重病人医疗</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=2">内分泌学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=3">胃肠病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=4">血液病学/肿瘤学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=5">肝脏病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=6">传染病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=7">肾脏病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=8">神经病学</a>
+			</li>
+			
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=9">妇产科</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=10">矫形外科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=11">儿科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=12">肺病学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=13">外科学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=14">毒理学</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=15">创伤外科</a>
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=16">麻醉学</a>
+			</li>
+			<li style="display: none;">
+				<!-- <a href="http://tools.medsci.cn/cal/speclass?class=16">麻醉学</a> -->
+			</li>
+			<li>
+				<a href="http://tools.medsci.cn/cal/speclass?class=18">精神心理科</a>
+			</li>
+		</ul>
+	</div>
+</div>		<div class="f_page_cont_r m_p_c_r" id="id_f_page_cont_r">
+			<div class="f_page_cont_box f_m0">
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=1" class="blue">肺泡－动脉氧分压差</a>
+					</p>
+					<p>A-a O2 Gradient</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=3" class="blue">嗜中性粒细胞绝对值</a>
+					</p>
+					<p>Absolute Neutrophil Count (ANC)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=9" class="blue">重症监护室死亡率与APACHE II评分</a>
+					</p>
+					<p>APACHE II Score for ICU Mortality</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=11" class="blue">基础能量消耗</a>
+					</p>
+					<p>Basal Energy Expenditure</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=13" class="blue">碳酸氢盐缺乏</a>
+					</p>
+					<p>Bicarbonate Deficit</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=14" class="blue">体质指数和体表面积</a>
+					</p>
+					<p>BMI and Body Surface Area (BSA)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=19" class="blue">心房纤颤卒中风险的CHADS2评分</a>
+					</p>
+					<p>CHADS2 Score for Atrial Fibrillation Stroke Risk</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=23" class="blue">根据红细胞计数校正脑脊液白细胞计数</a>
+					</p>
+					<p>CSF WBC Correction for RBCs</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=24" class="blue">社区获得性肺炎CURB-65严重程度评分</a>
+					</p>
+					<p>CURB-65 Severity Score for Community-Acquired Pneumonia</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=25" class="blue">小儿气管插管的管道规则</a>
+					</p>
+					<p>Endotracheal Tube (ETT) Size for Pediatrics</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=27" class="blue">钠排泄分数</a>
+					</p>
+					<p>Fractional Excretion of Sodium (FENa)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=28" class="blue">尿素排泄分数</a>
+					</p>
+					<p>Fractional Excretion of Urea (FEUrea)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=33" class="blue">格拉斯哥昏迷评分</a>
+					</p>
+					<p>Glasgow Coma Scale/Score</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=34" class="blue">格拉斯哥-布拉奇福德出血评分</a>
+					</p>
+					<p>Glasgow-Blatchford Bleeding Score (GBS)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=41" class="blue">国王学院标准</a>
+					</p>
+					<p>King's College Criteria</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=43" class="blue">Light标准诊断渗出液</a>
+					</p>
+					<p>Light's Criteria for Exudative Effusions</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=45" class="blue">维持液体计算</a>
+					</p>
+					<p>Maintenance Fluids Calculations</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=47" class="blue">MDRD肌酐清除率计算公式</a>
+					</p>
+					<p>MDRD GFR Equation</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=48" class="blue">平均动脉压</a>
+					</p>
+					<p>Mean Arterial Pressure (MAP)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=56" class="blue">氧合指数</a>
+					</p>
+					<p>Oxygenation Index</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=57" class="blue">派克兰烧伤公式</a>
+					</p>
+					<p>Parkland Formula for Burns</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=59" class="blue">儿童的入量和出量（每公斤和每小时）</a>
+					</p>
+					<p>Pediatric Ins and Outs (per kg and per hour)</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=60" class="blue">儿童终末期肝病评分(12岁及12岁以下)</a>
+					</p>
+					<p>
+						PELD Score (Pediatric End-Stage Liver Disease) (younger than 12)
+					</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=61" class="blue">肺栓塞的PERC判定原则</a>
+					</p>
+					<p>PERC Rule for Pulmonary Embolism</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=62" class="blue">根据白蛋白或肾衰竭校正苯妥英钠浓度</a>
+					</p>
+					<p>Phenytoin/Dilantin Correction for Albumin or Renal Failure</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=64" class="blue">成人社区获得性肺炎严重性评分</a>
+					</p>
+					<p>PSI/PORT Score: Pneumonia Severity Index for Adult CAP</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=65" class="blue">胰腺炎死亡率Ranson评分</a>
+					</p>
+					<p>Ranson's Criteria for Pancreatitis Mortality</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=67" class="blue">旧金山晕厥严重预后预测评分</a>
+					</p>
+					<p>San Francisco Syncope Rule to Predict Serious Outcomes</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=68" class="blue">序贯器官衰竭估计评分</a>
+					</p>
+					<p>Sequential Organ Failure Assessment (SOFA) Score</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=70" class="blue">高血糖时钠浓度校正公式</a>
+					</p>
+					<p>Sodium Correction for Hyperglycemia</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=71" class="blue">低钠血症钠校正率</a>
+					</p>
+					<p>Sodium Correction Rate in Hyponatremia</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=72" class="blue">低钠血症的钠缺乏量计算</a>
+					</p>
+					<p>Sodium Deficit in Hyponatremia</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=74" class="blue">TIMI风险指数</a>
+					</p>
+					<p>TIMI Risk Index</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=79" class="blue">肺栓塞Well评分</a>
+					</p>
+					<p>Well's Criteria for Pulmonary Embolism/PE</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=81" class="blue">代谢性酸中毒代偿的Winters计算公式</a>
+					</p>
+					<p>Winters'Formula for Metabolic Acidosis Compensation</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=107" class="blue">镇静-躁动评分</a>
+					</p>
+					<p>Sedation-Agitation Scale</p>
+				</div>
+				<div class="f_results_line">
+					<p>
+						<a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=116" class="blue">Morse跌倒危险因素评估量表</a>
+					</p>
+					<p>Morse Fall Scale</p>
+				</div>
+				<div class="f_results_line">
+					<p><a href="http://tools.medsci.cn/cal/conView?sort=1&class=1&calc=117" class="blue">Braden压疮评分表</a></p>
+					<p>Braden Scale</p>
+				</div>
+
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-5460843-1', 'medsci.cn');
+			  ga('send', 'pageview');
+</script>
+<div class="footer">
+	<div >免费服务热线： 400-6408-988 Copyright 2014 MedSci 备案号 沪ICP备14018916号-1</div>
+</div>	</body>
+</html>
