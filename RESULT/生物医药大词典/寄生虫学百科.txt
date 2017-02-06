@@ -1,0 +1,46 @@
+寄生虫学百科
+
+immune evasion  - 免疫逃避
+Necator americanus  - 美洲板口线虫
+Spirometra mansoni  - 曼氏迭宫绦虫
+Giardia lamblia  - 蓝氏贾第鞭毛虫
+capsule   - 荚膜,被膜,囊胞
+parasite   - 寄生虫
+ascariasis   - 蛔虫病
+relapse   - 复发
+paragonimiasis   - 肺吸虫病
+sporocyst   - 胞蚴
+Anopheles   - 按蚊
+fertile egg  - 受精卵
+Nematode   - 线虫
+mosquito   - 蚊
+scolex   - 头节
+host   - 宿主
+hydatid cyst  - 棘球蚴囊
+filaria   - 丝虫
+filariasis   - 丝虫病
+louse   - 虱
+nymph   - 若虫
+helminth   - 蠕虫
+myiasis   - 蛆病
+malaria   - 疟疾
+somatic antigen  - 虫体抗原
+egg   - 卵
+surface antigen  - 表面抗原
+oocyst   - 卵囊
+ovum   - 卵,卵细胞
+merozoite   - 裂殖子
+schizont   - 裂殖体
+Leishmaniasis   - 利什曼病
+redia   - 雷蚴
+scabies   - 疥疮
+arthropod   - 节肢动物
+pseudocyst   - 假包囊
+flea   - 蚤
+larva   - 幼虫
+pupa   - 蛹
+fly   - 蝇
+Aedes   - 伊蚊
+Schistosomiasis   - 血吸虫病
+carrier   - 携带者，载体，载流子，带虫者
+elephantiasis   - 象皮肿

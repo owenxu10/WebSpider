@@ -1,0 +1,1543 @@
+遗传学百科
+
+genetic weapon - 基因武器，遗传学武器
+gene linkage - 基因连锁
+Tong Dizhou - 童第周
+Transgene technology - 转基因技术
+rolling-circle replication - 滚环复制
+genetic central dogma - 遗传学中心法则
+genetic migration - 基因迁移
+retrotransposon - 反转录转座子
+Clustered Regularly Interspaced Short Palindromic Repeats，CRISPR - 规律间隔成簇短回文重复序列
+guide RNA，gRNA - 导向RNA
+Bisulfite Genomic Sequencing - 亚硫酸氢钠测序法
+Inherited parameter - 遗传系数
+zygotic gene - 合子基因
+regulatory regions and sequence - 调控序列
+Localize - 定位
+Telomere - 端粒
+Polygenic Disorder - 多基因病
+Polymerase - 多聚酶
+Gene Mapping - 基因图谱
+Human Gene Therapy - 基因治疗
+Genome - 基因组
+Genome Project - 基因组计划
+Genomic Library - 基因组文库
+Meiosis - 减数分裂
+Base Pair，bp - 碱基对
+Base sequence - 碱基序列
+Base Sequence Analysis - 碱基序列分析
+Crossing over - 交叉
+Domain - 结构域
+动词，Cloning - 克隆
+名词，Clones - 克隆 
+Arrayed Library - 克隆矩阵
+Clone Bank - 克隆库
+Linkage - 连锁关系
+Linkage Map - 连锁图谱
+Contigs - 邻接片段
+Contig Map - 邻接图谱
+Macrorestriction Map - 酶切图谱
+Restriction Enzyme cutting site - 酶切位点
+Pyrimidine - 嘧啶
+Introns - 内含子
+Endonuclease - 内切核酸酶
+Guanine - 鸟嘌呤
+Shotgun  method - 鸟枪法
+Gamete - 配子
+Purine - 嘌呤
+Promoter - 启动子
+Chromosome - 染色体
+Karyotype - 染色体组型
+Informatics - 生物信息学
+Cosmid - 噬菌粒
+Bacteriophage - 噬菌体
+phage - 噬菌体
+Diploid - 双倍体
+Double Helix - 双螺旋
+Metaphase - 四分体时期
+Probe - 探针
+Somatic Cells - 体细胞
+Homologous Chromosome - 同源染色体
+Homologies - 同源性
+Mutation - 突变
+Exonclease - 外切酶
+PCR - 多聚酶链式反应
+Polymorphism - 多态性
+Translation - 翻译
+Histone deacetyltransferase ，HDAC - 组蛋白去乙酰化酶
+Histones  - 组蛋白
+Homeobox  -  同源框
+Homeotic genes  -  同源异形基因
+Homogametic sex  -  同配性别
+Homomultimeric protein  -  同源多聚体蛋白质
+Homozygote  -  纯合体
+Hotspot  - 热点
+HOX genes  - HOX 基因
+Hybrid DNA  -  杂交DNA
+Hybrid dysgenesis  -  杂种败育
+Hybridization  -  杂交
+Hydrolytic reaction  -  水解反应
+Hydropathy plot  -  亲水性分析
+Hydrophilic groups  -  亲水基团
+Hydrophobic groups  -  疏水基团
+Hyperchromicity  -  增色效应
+Hypervariable region  -  高度可变区
+Normal chromosomes  -  常染色体
+α-Amanitin -  鹅膏覃碱
+Oncogene - 癌基因
+Core particle  - 核心颗粒
+Corepressor  - 共阻碍物
+Cosmid  -  粘粒
+Cot  - 浓度时间常数
+Cot1/2 - 半变Cot 值
+Cotransfection  - 共转染
+Crossing-over  -  交换
+Crossover fixtion  -  交换固定
+Cruciform  -  十字架
+Cryptic satellite  -  隐蔽卫星
+Epistasis  - 上位性
+Essential gene  - 必须基因
+Eubacteria  - 真细菌
+Euchromatin  -  常染色体
+k chain marker allotype, km allotype, InV allotype - km[同种]异型
+α-thalassemia - α-珠蛋白生成障碍性贫血
+β-thalassemia - β-珠蛋白生成障碍性贫血
+Bardet-Biedl syndrome - 巴尔得-别德尔综合征
+interleukin-2, IL-2 - 白细胞介素-2
+interleukin-5, IL-5 - 白细胞介素-5
+interleukin-6, IL-6 - 白细胞介素-6
+phenylketonuria, PKU - 苯丙酮尿症
+Mikulicz's cell - 鼻硬结细胞
+anemic infarct - 贫血性梗死
+balanced polymorphism - 平衡多态性
+disruptive sequence - 破裂序列征
+Prader-Willi syndrome - 普拉德-威利综合征
+mosaic - 嵌合体
+bridged avidin-biotin, BAB - 桥联抗生物素蛋白-生物素法
+globoid cell leukodystropy, Krabbe's disease - 球形细胞脑白质营养不良
+deletion mapping - 缺失定位［法］
+Cockayne's syndrome - 科凯恩综合征
+Klinefelter's syndrome - 克兰费尔特综合征
+Crouzon's syndrome - 克鲁宗综合征
+Kupffer's cell - 库普弗细胞
+Russell-Silver syndrome - 拉塞尔-西尔弗综合征
+Russell's body - 拉塞尔小体
+Langhans' giant cell - 朗汉斯巨细胞
+steroid sulfatase deficiency - 类固醇硫酸酯酶缺乏症
+Reed-Sternberg cell - 里-施细胞
+association - 联合征
+lymphocyte defined locus, LD locus - 淋巴细胞限定的基因座
+lympholine-activated killer cell, LAK cell - 淋巴因子激活的杀伤细胞
+Rubinstein-Taybi syndrome - 鲁宾斯坦-泰比综合征
+familial hypophosphatemic rickets, vitamin D resistant rickets, X-linked hypophosphatemia - 家族性低磷酸血症佝偻病
+familial combined hyperlipidemia - 家族性复合高脂血症
+familial hyperlipidemia type Ⅲ - 家族性高脂血症Ⅲ型
+familial renal iminoglycinuria - 家族性肾性亚氨基甘氨酸尿症
+Gardner's syndrome - 加德纳综合征
+meiosis, maturation division - 减数分裂
+regional enteritis, Crohn's disease - 局限性肠炎
+avidin-biotin[peroxidase] complex, ABC - 抗生物素蛋白-生物素[过氧化物酶]复合物法
+Paget's disease - 佩吉特病
+dermatoglyphics - 皮纹学
+prereductional division - 前减数分裂
+colchicine effect - 秋水仙碱效应
+segment - 区段
+compartment - 区室
+compartmentation - 区室作用
+deformylase - 去甲酰酶
+global regulon - 全局调节子
+chromosome center, chromocenter - 染色中心
+heat shock gene - 热激基因
+Sanger-Couson method - 桑格-库森法
+upstream expressing sequence,UES - 上游表达序列
+upstream activating sequence, UAS - 上游激活序列
+upstream repressing sequence, URS - 上游阻抑序列
+biochemical mutant - 生化突变体
+cruciform loop - 十字形环
+double minute chromosome - 双微染色体
+isoacceptor - 同工 tRNA
+phenon - 同型种
+homoeobox - 同源框
+mutation pressure - 突变压力
+deoxyribonucleic acid, DNA - 脱氧核糖核酸
+retriever vector - 挽回载体
+microevolution - 微观进化
+satellite DNA - 卫星 DNA
+nulliplex - 无显性组合
+null mutation - 无效突变
+AP site - 无嘌呤嘧啶位点
+physical selection - 物理选择
+packaging ratio - 包装率
+saturation mutagenesis - 饱和诱变
+background genotype - 背景基因型
+ubiqutin - 遍在蛋白质
+incompatibility - 不相容性
+lateral element - 侧体
+supergene family - 超基因家族
+docking protein - 船坞蛋白质
+hermaphroditism, androgynism - 雌雄同株
+monozygotic twins, identical twins - 单卵双生
+haplotype - 单元型
+allelic exclusion - 等位基因排斥
+allelic exclusion - 等位排斥
+law of independent assortment - 独立分配定律
+polygyny - 多雌性
+multigene family - 多基因家族
+polyandry - 多雄性
+counterselection - 反选择
+Branch migration  -  分支迁移
+Breakage and reunion  -  断裂与重连
+regulatory regions and sequence - 调控序列
+Localize - 定位
+Telomere - 端粒
+Polygenic Disorder - 多基因病
+Polymerase - 多聚酶
+Gene Mapping - 基因图谱
+Human Gene Therapy - 基因治疗
+Genome - 基因组
+Genome Project - 基因组计划
+Genomic Library - 基因组文库
+Meiosis - 减数分裂
+Base Pair，bp - 碱基对
+Base sequence - 碱基序列
+Base Sequence Analysis - 碱基序列分析
+Crossing over - 交叉
+Domain - 结构域
+动词，Cloning - 克隆
+名词，Clones - 克隆 
+Arrayed Library - 克隆矩阵
+Clone Bank - 克隆库
+Linkage - 连锁关系
+Linkage Map - 连锁图谱
+Contigs - 邻接片段
+Contig Map - 邻接图谱
+Macrorestriction Map - 酶切图谱
+Restriction Enzyme cutting site - 酶切位点
+Pyrimidine - 嘧啶
+Introns - 内含子
+Endonuclease - 内切核酸酶
+Guanine - 鸟嘌呤
+Shotgun  method - 鸟枪法
+Gamete - 配子
+Purine - 嘌呤
+Promoter - 启动子
+Chromosome - 染色体
+Karyotype - 染色体组型
+Informatics - 生物信息学
+Cosmid - 噬菌粒
+Bacteriophage - 噬菌体
+phage - 噬菌体
+Diploid - 双倍体
+Double Helix - 双螺旋
+Metaphase - 四分体时期
+Probe - 探针
+Somatic Cells - 体细胞
+Homologous Chromosome - 同源染色体
+Homologies - 同源性
+Mutation - 突变
+Exonclease - 外切酶
+PCR - 多聚酶链式反应
+Polymorphism - 多态性
+Translation - 翻译
+Histone deacetyltransferase ，HDAC - 组蛋白去乙酰化酶
+Histones  - 组蛋白
+Hydrolytic reaction  -  水解反应
+Hydropathy plot  -  亲水性分析
+Hydrophilic groups  -  亲水基团
+Hydrophobic groups  -  疏水基团
+Hyperchromicity  -  增色效应
+Hypervariable region  -  高度可变区
+Normal chromosomes  -  常染色体
+α-Amanitin -  鹅膏覃碱
+Oncogene - 癌基因
+Core particle  - 核心颗粒
+Corepressor  - 共阻碍物
+Cosmid  -  粘粒
+Cot  - 浓度时间常数
+Cot1/2 - 半变Cot 值
+Cotransfection  - 共转染
+Crossing-over  -  交换
+Crossover fixtion  -  交换固定
+Cruciform  -  十字架
+Cryptic satellite  -  隐蔽卫星
+Epistasis  - 上位性
+Essential gene  - 必须基因
+Eubacteria  - 真细菌
+Euchromatin  -  常染色体
+Evolutionary clock  -  进化钟
+Exon  - 外显子
+Expression vector  -  表达载体
+Extranuclear genes  - 核外基因
+F1 generation  - F1 代
+Fast component  -  快速变性区
+Fate map  -  原基分布图
+Ffactor  - F 因子
+Figure eight  - 8 字型
+Fingerprint of DNA  - DNA 指纹图谱
+Fingerprint of protein  -  蛋白质指纹图谱
+Fluidity  -  游动性
+Focus formation  -  转化灶形成
+Focus formation units  -  转化灶单位
+Foldback DNA  -  折回DNA
+Forward mutations  -  正向突变
+Founder effect  -  始创效应
+G banding  - G 分带
+Homomultimeric protein  -  同源多聚体蛋白质
+Homozygote  -  纯合体
+Hotspot  - 热点
+HOX genes  - HOX 基因
+Hybrid DNA  -  杂交DNA
+Hybrid dysgenesis  -  杂种败育
+Hybridization  -  杂交
+Homeobox  -  同源框
+Homeotic genes  -  同源异形基因
+Homogametic sex  -  同配性别
+Gamete  -  配子
+Gap in DNA  - DNA 裂隙
+Gene /ciston  - 基因/顺反子
+Gene cluster  - 基因簇
+Gene conversion  -  基因转换
+Gene dosage  - 基因剂量
+Hapten  - 半抗原
+Helper virus  -  辅助病毒
+Hemizygote  -  半合体
+Heterochromatin  -  异染色质
+Heteroduplex  - hybrid DNA 
+Heterogametic sex  -  异配性别
+Heterogeneous nuclear  - hn RNA 
+Heterokaryon  -  异核体
+Heteromultimeric proteins  -  异源多聚体蛋白质
+Heterozygote  -  杂合体
+Highly repetitive DNA  -  高度重复DNA
+Histone acetyltransferase ，HAT -  组蛋白乙酰化酶
+Amino Acid - 氨基酸
+Cytosine - 胞嘧啶
+Conserved Sequence  - 保守序列
+Marker - 标记
+Autosome - 常染色体
+Tandem repeat sequences - 串联重复序列
+E Coli - 大肠杆菌
+Haploid - 单倍体
+Single Gene Disorder - 单基因病
+Protein - 蛋白质
+Alleles - 等位基因
+Electrophoresis - 电泳技术
+Centromere  -  着丝粒
+Centrosomes  -  中心体
+Chaperone  -  分子伴侣
+Chemical complexity  -  化学复杂度
+Chi sequemce  - Chi 序列
+Chi structure  - Chi 结构
+Chiasma  -  交叉
+Chromatids  -  染色单体
+Chromatin  -  染色质
+Chromatin remodeling  -  染色体重建
+Chromocenter  -  染色中心
+Chromomeres  -  染色粒
+Chromosome  -  染色体
+Chromosome walking  -  染色体步移
+cis configuration  - 顺势构型
+cis/trans assays -  顺/反测验
+cis-acting locus  -  顺式作用位点
+cis-acting protein  -  顺式作用蛋白质
+Ciston  -  顺反子
+Class switching  - 类别转换
+Clone  - 克隆
+Cloning vector  -  克隆载体
+Closed reading frame  -  关闭读框
+Coated vesicles  -  包被膜泡
+Coconversion  -  共转变
+Coding strand  - 编码链
+Codominant alleles  -  共显性等位基因
+Codon  - 密码子
+Coevolution  -  共进化
+Cognate tRNAs  - 同功tRNA
+Coincidental evolution  -  重合进化
+Cointegrate structure  - 共合结构
+Cold-sensitive  -  冷敏
+Colon hybridization  -  菌落杂交
+Compatibility group  -  相容组
+Complementation  -  互补
+Complementation assay  -  互补测验
+Complementation group  -  互补群
+Complex locus -  复合基因座
+Complexity  -  复杂度
+Composite transposons  -  复合转座子
+Concatemer  -  多联体DNA
+Concatenated circle  - 多联环
+Concerted evolution  -  协同进化
+Condensation reaction  -  缩合反应
+Conditional lethal mutations  -  条件致死突变
+Conjugation  - 接合
+Consensus sequemce  -  共有序列
+Conservative recombination  -  保守重组
+Conservative transposition  -  保守转座
+Constant regions  -  恒定区
+Constitutive genes  -  结构基因
+Cyclins  -  细胞周期蛋白质
+Cytokinesis  -  胞质分裂
+Cytological hybridization  -  细胞学杂交
+Cytoplasm  -  细胞质
+Cytoplasmic inheritance  -  胞质遗传
+Cytoplasmic protein synthesis  -  胞质蛋白质合成
+Cytoskeleton  -  细胞骨架
+Cytosol  -  胞质溶胶
+D loop  - D 环
+Degeneracy  -  简并性
+Deletion  - 缺失
+Denaturation of DNA or RNA  - DNA 或RNA 变性
+Denaturation of protein  - 蛋白质变性
+Depressed state  -  抑制状态
+Dicentric chromosome  -  双着丝粒染色体
+Diploid  - 二倍体
+Direct repeat  -  同向重复
+Discontinuous replication  - 不连续复制
+Disjuction  - 间断分布
+Divergence  -  差异百分率
+Divergent transcription  -  异向转录
+dna mutant  - dna 突变
+DNA poymerase  - DNA 聚合酶
+DNA replicase  - DNA 复制酶
+DNAase  - DNA 酶
+DNAase I hypersensitive  - DNA 酶I 超敏位点
+DNA-driven hybridization  - DNA 驱动杂交
+Domain of a chromasome  -  染色体结构域
+Domain of a protein  -  蛋白质结构域
+Dominant allele  -  显性等位基因
+Dosage compensation  -  剂量补偿效应
+Dowmstream  -  下游
+Down promoter mutation  -  启动子下降突变
+Early development  -  早期发育
+Ectopic expression  -  异位表达
+Elongation factors  - 延伸因子
+End labeling  - 末端标记
+Endocytic vesicle -  内吞膜泡
+Endocytosis  -  内吞作用
+Endonucleases  -  内切核酸酶
+Endoplasmic reticulum  -  内质网
+End-product inhibition  -  终产物抑制
+Enelopes  - 包膜
+Episome  -  附加体
+Episome change  -  后天改变
+Abundant mRNA -  高丰度mRNA 
+Acceptor splicing site  - 受体剪切位点
+Acentric fragment -  无着丝粒片段
+Active site -  活性位点
+Allele - 等位基因
+Allelic exclusion -  等位基因排斥
+Allosteric control - 别构调控
+Alu family  - Alu 家族
+Alu-equivalent family - Alu 相当序列基因
+Amber codon  -  琥珀密码子
+Amber mutation  -  琥珀突变
+Amber suppressors  -  琥珀抑制子
+Aminoacyl-tRNA  -  氨酰-tRNA
+Aminoacyl-tRNA synthetases  -  氨酰-tRNA 合成酶
+Amphipathic structure -  两亲结构
+Amplification  -  扩增
+Anchorage dependence  -  贴壁依赖
+Aneuploid  -  非整倍体
+Annealing  - 退火
+Antibody  -  抗体
+Anticoding strand  - 反编码链
+Antiparallel  - 反式平行
+Antitermination protein  -  抗终止蛋白质
+AP endonucleases  - AP 核酸内切酶
+Apoptosis  -  细胞凋亡
+Archeae  - 古细菌
+Ascue  - 子囊
+Att sites  - Att 位点
+Attenuation  - 衰减
+Attenuator  - 衰减子
+Autogenous control  -  自体调控
+Buoyant density  -  漂浮密度
+Golgi apparatus  -  高尔基体
+Gratuitous  - 安慰诱导物
+GT-AC rule  - GT-AG 规则
+Gyrase  -  螺旋酶
+Hairpin  - 发夹
+C gene  - C 基因
+C value  - C 值
+CAAT box  - CAAT 盒
+zygotic gene - 合子基因
+retroposon - 反转录子
+abiogenesis - 非生源说
+paracodon - 副密码子
+replicase - 复制酶
+replisome - 复制体
+negative interference - 负干涉
+cotranslational secrection - 共翻译分泌
+coadaptation - 共适应
+orphon - 孤独基因
+broad heritability - 广义遗传率
+HeLa cell - 海拉细胞
+small nuclear RNA, snRNA - 核内小 RNA
+heterogeneous nuclear RNA, hnRNA - 核内异质RNA
+nucleosome core particle - 核小体核心颗粒
+macroevolution - 宏观进化
+Maxam-Gilbert method - 化学测序法
+back mutation, reversion - 回复突变
+Haldane's rule - 霍尔丹法则
+Holliday structure - 霍利迪结构
+gene redundancy - 基因丰余
+signal peptidase - 信号肽酶
+mRNP, messenger ribonucleoprotein - 信使核糖核蛋白体
+sex dimorphism - 性二态现象
+sex index - 性指数
+selector gene - 选择者基因
+gene flow - 基因流
+Met-specific aminopeptidase - 甲硫氨酸特异性氨肽酶
+kappa particle - 卡巴粒子
+antirepressor - 抗阻抑物
+Klenow fragment - 克列诺片段
+class switch - 类别转换
+base analogue - 类碱基
+centimorgan, cM - 厘摩
+Renner effect - 伦纳效应
+pulse alternative field gel electrophoresis - 脉冲电场凝胶电泳
+immume response gene, Ir gene - 免疫应答基因
+terminal transferase - 末端转移酶
+nucleoid - 拟核
+fragment - 片段
+Pribnow box - 普里布诺框
+narrow heritability - 狭义遗传率
+differential staining technique - 显带技术
+negative eugenics - 消极优生学
+signal recognition particle, SRP - 信号识别颗粒
+signal peptide - 信号肽
+genetic typing - 遗传分型
+genetic extinction - 遗传绝灭
+genetic system - 遗传体系
+genetic fingerprint - 遗传指纹
+primase - 引发酶
+primer RNA - 引物 RNA
+cryptic splice site - 隐蔽剪接位点
+stringent control - 应急控制
+stringent factor - 应急因子
+preferential segregation - 优先分离
+progenote - 原生命
+enhanson - 增强子单元
+enhancer element - 增强子元件
+cosmid - 粘粒
+positive interference - 正干涉
+direct selection - 正选择
+centromeric sequence, CEN sequence - 中心粒序列
+neutral mutation - 中性突变
+central element - 中央成分
+double bar - 重棒眼
+transgene - 转基因
+centromere, kinetochore - 着丝粒
+suicide method - 自杀法
+foot printing - 足迹法
+threshold character - 阈值性状
+A chromosome - A 染色体
+A-form DNA - A 型 DNA
+activator-dissociation system - Ac-Ds 激活解离系统
+Alu repetitive sequence, Alu family - Alu 重复序列
+B chromosome - B 染色体
+B-form DNA - B型 DNA
+C-band - C 带
+constant gene, C gene - C 基因
+C-meiosis - C 减数分裂
+C-mitosis - C 有丝分裂
+CAT box - CAT 框
+ClB technique - ClB技术
+carboxy-terminal repeating heptamer, CT7n - C端重复七肽
+C value paradox - C值悖理
+diversity gene, D gene - D 基因
+fold-back element, FB element - FB因子
+GC box - GC 框
+GT-AG rule - GT-AG 法则
+HAT medium - HAT 培养基
+high-mobility group proteins, HMG proteins - HMG 蛋白质
+joining gene, J gene - J 基因
+N-band - N 带
+P element - P 因子
+Q-band - Q 带
+R-band - R 带
+R loop - R 环
+Rh factor - Rh 因子
+Ri-plasmid, root inducing plasmid - Ri质粒
+shine-dalgarno sequence, SD sequence - SD序列
+SOS pathway - SOS 途径
+suppressor-promoter-mutator system, SPM - SPM 系统
+Ti-plasmid - Ti 质粒
+variable gene, V gene - V 基因
+VDJC joining - VDJC连接
+VJC joining - VJC 连接
+W chromosome - W 染色体
+X body - X 小体
+Z-form DNA - Z型 DNA
+chi sequence - chi序列
+canalization - ［表型］限渠道化
+ρ factor - ρ因子
+σ factor - σ因子
+Balbiani ring - 巴尔比亚尼环
+Balbiani chromosome - 巴尔比亚尼染色体
+interphase - 分裂间期
+Nucleotide - 核苷酸
+Ribonucleic acid - 核糖核酸RNA
+Ribonsome - 核糖体
+Ribonsomal RNA rRNA - 核糖体RNA
+cDNA - 互补DNA
+Complementary sequence - 互补序列
+Gene - 基因
+Gene Expression - 基因表达
+Gene Product - 基因产物
+Gene Families - 基因家族
+Exons - 外显子
+Locus - 位点
+library - 文库
+Physics Map - 物理图谱
+Nucleos - 细胞核
+Restriction fragment length polymorphsm - 限制性长度多态性
+Restriction enzyme， endonuclease - 限制性内切酶
+MessengerRNA - 信使RNA
+Sex Chromosome - 性染色体
+Genetic Code - 遗传密码
+Primer - 引物
+FISH - 荧光原位杂交
+Prokaryote - 原核生物
+in situ hybridization - 原位杂交
+Heterozygosity - 杂和体
+Hybridization - 杂交
+Plasmid - 质粒
+Recombinant Clone - 重组克隆
+Transformation - 转化
+Transcription - 转录
+tRNA - 转运RNA
+Centromere - 着丝点
+Autoradiography - 自显影技术
+cDNA clone  - cDNA 克隆
+Cell cycle  -  细胞周期
+Cell hybrid  -  细胞杂交
+Centrioles  - 中心粒
+Constitutive heterochromatin  -  组成型异染色质
+Constitutive mutations  -  组成型突变
+Contractile ring  - 收缩环
+Controlling elements  -  控制成分
+Coordinate regulation  - 协同调控
+Cordycepin  -  蛹虫草菌素
+Core DNA  - 核心DNA
+Autonomous controlling element  -  自主控制元件
+Autoradiography  -  放射性子显影
+Autosomes  -  常染色体
+B lymphocytes or B cell  - B 淋巴细胞或B 细胞
+Back mutation  -  回复突变
+Backcross  - 回交
+Bacteriophage  - 细菌噬菌体
+Balbiani ring  - B 环
+Base pair  -  碱基对
+Bidirectinal replication  - 双向复制
+Bivalent  -  二价染色体
+Blastoderm  -  囊胚层
+Blocked reading frame  -  闭锁读框
+Blunt-end ligation  -  平端连接
+Cloning Vector - 克隆载体
+Amplification - 扩增
+cM - 厘摩
+CAP - CRP 
+Cap  - 帽
+Capsid  - 衣壳
+Caspases - 一个蛋白质酶家族，其成员在调亡
+Catabolite repression - 分解代谢物阻碍
+Homeobox - 很多基因中都会发现一些共同的碱基序列。
+self-incompatibility - 自交不亲和性
+repression - 阻抑
+repressor - 阻抑物
+histone octamer - 组蛋白八聚体
+mapping function - 作图函数
+constriction - 缢痕
+lod - 优势对数
+prepotency - 优先遗传
+sexual hybridization - 有性杂交
+mutagen - 诱变剂
+induction - 诱导
+inducible enzyme - 诱导酶
+inducer - 诱导物
+prokaryote - 原核生物
+protoplast fusion - 原生质体融合
+stock - 原种
+cross-compatibility - 杂交亲和性
+hybrid - 杂种
+enhancer element - 增强子元件
+cosmid - 粘粒
+eukaryote - 真核生物
+integration - 整合
+reciprocal crosses - 正反交
+positive control - 正控制
+xenia - 直感现象
+carcinogen - 致癌剂
+plasmid - 质粒
+neutral mutation - 中性突变
+termination factor - 终止因子
+terminator - 终止子
+repetitive DNA - 重复 DNA
+duplication - 重复
+recon - 重组子
+transgene - 转基因
+transcriptional control - 转录控制
+transcriptase - 转录酶
+transcript - 转录物
+transposase - 转座酶
+Genetic marker  -  遗传标记
+Homologs  -  同源染色体
+Hybridoma  -  杂交瘤
+G1 - 真核细胞周期中减数分裂后期到DNA 复制开始的时期。
+G2 - 真核细胞周期中DNA 复制结束到下一次减数分裂开始的时期。
+Excision  - 切除
+Exocytosis  -  外排
+nullisomy - 缺对性
+deletion - 缺失
+screening - 筛查
+epistasis - 上位性
+duplex - 双链体
+stable integration - 稳定整合
+covariation - 相关变异
+cultivar - [栽培]品种
+codon - 密码子
+gene diversity - 基因多样性
+phenon - 同型种
+ligase - 连接酶
+ecological niche - 生态小境
+biotechnology - 生物工程[学]
+excision repair - 切除修复
+paternity test - 亲权认定
+bioethics - 生物伦理学
+gene complex - 基因复合体
+cAMP - 磷酸基团连接核糖3￠和5￠位置的AMP 分子，其结合可激活CAP，原核生物转录中的正调控因子。
+Haplotype  -  单元型
+C banding - 在着丝粒附近产生着色区域的染色体分带技术。
+Anterograde  - 顺式转运
+Enhancer  -  增强子
+ctDNA - 即叶绿体DNA。
+amniocentesis - 羊膜穿刺
+chloroplast genome - 叶绿体基因组
+RNA-dependent RNA polymerase - 依赖于RNA的RNA聚合酶
+heredity - 遗传
+genetic manipulation - 遗传操作
+genetic polymorphism - 遗传多态性
+genetic variance - 遗传方差
+genetic engineering - 遗传工程
+tetrad - 四联体
+parallel evolution - 平行进化
+Pribnow box - 普里布诺框
+chromosome walking - 染色体步查
+mutability - 可突变性
+cloning - 克隆化
+circular DNA - 环状 DNA
+restorer - 恢复系
+gene theory - 基因学说
+gene duplication - 基因重复
+flow cytometry - 流式细胞仪
+neo-Darwinism - 新达尔文学说
+immunochemistry - 免疫化学
+immune surveillance - 免疫监视
+chromosome aberration - 染色体畸变
+chromosome mutation - 染色体突变
+chromosome library - 染色体文库
+recessive - 隐性
+dystrophy - 营养不良
+dystrophic calcification - 营养不良性钙化
+sclerosis - 硬化
+eugenics - 优生学
+emigration - 游出
+mitosis - 有丝分裂
+mutagenesis - 诱变
+induced mutation - 诱发突变
+congestion - 淤血
+healing - 愈合
+proto-oncogene - 原癌基因
+carcinoma in situ - 原位癌
+in situ hybridization - 原位杂交
+hybrid vigor - 杂合优势
+heterozygote - 杂合子
+outbreeding - 杂交繁殖
+hybridoma - 杂交瘤
+recanalization - 再通
+recurrence risk - 再现风险
+anticipation - 早现［遗传］
+enhancer - 增强子
+mucopolysaccharidosis - 粘多糖贮积症
+cavitation - 空洞形成
+immunotherapy - 免疫疗法
+immune tolerance - 免疫耐受[性]
+immunoglobulin - 免疫球蛋白
+immunoglobulin domain - 免疫球蛋白功能区
+immunoglobulin gene - 免疫球蛋白基因
+immune deficiency - 免疫缺陷
+immunobiology - 免疫生物学
+immunoadsorbent - 免疫吸附剂
+immunocyte - 免疫细胞
+immunology - 免疫学
+immune serum - 免疫血清
+immunogenetics - 免疫遗传学
+immunofluorescence - 免疫荧光[法]
+immunoprophylaxis - 免疫预防
+immune adherence - 免疫粘连
+inactivated vaccine - 灭活疫苗
+maternal inheritance - 母系遗传
+blastoma - 母细胞瘤
+cystadenocarcinoma - 囊腺癌
+cystadenoma - 囊腺瘤
+cystic fibrosis - 囊性纤维化病
+cyst - 囊肿
+meningococcal meningitis - 脑膜炎球菌性脑膜炎
+cerebral edema - 脑水肿
+antibody - 抗体
+diffusion coefficient - 扩散系数
+amplification - 扩增
+association - 联合征
+synapsis - 联会
+linkage - 连锁
+linkage disequilibrium - 连锁不平衡
+linkage analysis - 连锁分析
+sickle cell anemia - 镰状细胞贫血
+benign tumor - 良性瘤
+gap - 裂隙
+clinical immunology - 临床免疫学
+critical region - 临界区域
+lymph - 淋巴
+lymph node - 淋巴结
+lymphocyte - 淋巴细胞
+lymphocyte transformation test - 淋巴细胞转化试验
+lymphokine - 淋巴因子
+transudate - 漏出液
+oogonium - 卵原细胞
+ovum - 卵子
+oogenesis - 卵子发生
+nude mouse - 裸鼠
+leprosy - 麻风
+chronic inflammation - 慢性炎
+capping - 帽化
+mendelian inheritance - 孟德尔遗传
+density gradient centrifugation - 密度梯度离心
+immunity - 免疫[力]
+immunopathology - 免疫病理学
+anaplasia - 间变
+ligand - 配体
+gamete - 配子
+splenomegaly - 脾[肿]大
+cutis laxa - 皮肤松弛症
+leiomyoma - 平滑肌瘤
+leiomyosarcoma - 平滑肌肉瘤
+promoter - 启动子
+persistent hepatitis - 迁延性肝炎
+migration - 迁移
+prozone - 前带
+prior probability - 前概率
+pronucleus - 前核
+primary transcript - 前转录物
+mosaic - 嵌合体
+invasive growth - 侵袭性生长
+avidity - 亲合力
+paternity - 亲子关系
+agarose gel electrophoresis - 琼脂糖凝胶电泳
+chemotaxis - 趋化作用
+divergence - 趋异
+achromatopsia - 全色盲
+ischemia - 缺血
+ascertainment - 确认
+population genetics - 群体遗传学
+dye test - 染料试验
+chromosome - 染色体
+antigen - 抗原
+antigen presentation - 抗原呈递
+antigenic modulation - 抗原调变
+antigen processing - 抗原加工
+antigenicity - 抗原性
+variable region - 可变区
+soluble antigen - 可溶性抗原
+mesothelioma - 间皮瘤
+stroma - 间质
+interstitial pneumonia - 间质性肺炎
+splicing - 剪接
+spliceosome - 剪接体
+attenuated vaccine - 减毒疫苗
+plasma cell - 浆细胞
+glioma - 胶质瘤
+borderline tumor - 交界瘤
+mating type - 交配型
+polyposis coli - 结肠息肉病
+tuberculosis - 结核病
+binding constant - 结合常数
+conjugate - 结合物
+tubercle - 结节
+tuberous sclerosis - 结节性硬化症
+landmark - 界标
+inbreeding - 近交
+infiltration - 浸润
+sperm - 精子
+spermatogenesis - 精子发生
+classical pathway - 经典途径
+localization - 局限化
+polyacrylamide gel electrophoresis - 聚丙烯酰胺凝胶电泳[法]
+macroglobulin - 巨球蛋白
+strain - 菌株
+Kaposi's sarcoma - 卡波西肉瘤
+dystrophin - 抗肌萎缩蛋白
+active hepatitis - 活动性肝炎
+activated lymphocyte - 活化淋巴细胞
+rocket immunoelectrophoresis - 火箭免疫电泳[法]
+acquired immunity - 获得性免疫
+basic immunology - 基础免疫学
+basal cell carcinoma - 基底细胞癌
+motif - 基序
+gene - 基因
+gene cluster - 基因簇
+gene mapping - 基因定位
+gene family - 基因家族
+intergenic DNA - 基因间DNA
+intergenic sequence - 基因间序列
+gene flow - 基因流动
+gene frequency - 基因频率
+gene order - 基因顺序
+gene probe - 基因探针
+genotype - 基因型
+gene diagnosis - 基因诊断
+gene therapy - 基因治疗
+gene transfer - 基因转移
+genomic DNA - 基因组DNA
+genome - 基因组
+genomic library - 基因组文库
+locus - 基因座
+organization - 机化
+teratocarcinoma - 畸胎癌
+malformation - 畸形
+clubfoot - 畸形足
+hematocele - 积血
+loop - 箕形纹
+acute inflammation - 急性炎
+kindred - 家族
+additive gene - 加性基因
+condyloma acuminatum - 尖锐湿疣
+high risk - 高危
+isolate - 隔离群
+ontogeny - 个体发育
+donor site - 给位
+infarct - 梗死
+infarction - 梗死形成
+toxoplasmosis - 弓形体病
+arch - 弓形纹
+common antigen - 共同抗原
+consensus sequence - 共有序列
+cotransfection - 共转染
+drumstick - 鼓槌体
+osteosarcoma - 骨肉瘤
+osteomalacia - 骨软化[症]
+myeloma - 骨髓瘤
+association - 关联
+silicosis - 硅沉着病
+transitional type - 过渡型
+adoptive transfer - 过继转移
+anaphylatoxin - 过敏毒素
+anaphylaxis - 过敏反应
+hemosiderin - 含铁血黄素
+pyknosis - 核固缩
+karyolysis - 核溶解
+nucleosome - 核小体
+karyotype - 核型
+idiogram - 核型模式图
+zygote - 合子
+melanosis - 黑变病
+Kala-azar - 黑热病
+melanin - 黑色素
+melanoma - 黑色素瘤
+constant region - 恒定区
+red thrombus - 红色血栓
+posterior probability - 后概率
+synovial sarcoma - 滑膜肉瘤
+metaplasia - 化生
+bursa of Fabricius - 法氏囊
+translation - 翻译
+post-translational modification - 翻译后修饰
+reverse genetics - 反求遗传学
+inverted repeat - 反向重复［序列］
+antisense oligonucleotide - 反义寡核苷酸
+retrovirus - 反转录病毒
+reverse transcriptase - 反转录酶
+radioimmunoassay - 放射免疫测定
+autoradiography - 放射自显影
+aneuploid - 非整倍体
+mast cell - 肥大细胞
+atelectasis - 肺不张
+emphysema - 肺气肿
+differentiation - 分化
+segregation - 分离
+mitotic figure - 分裂象
+secretory component - 分泌成分
+secretory IgA - 分泌型IgA
+molecular pathology - 分子病理学
+molecular immunology - 分子免疫学
+molecular cytogenetics - 分子细胞遗传学
+molecular genetics - 分子遗传学
+molecular hybridization - 分子杂交
+rheumatism - 风湿病
+paraganglioma - 副神经节瘤
+replication - 复制
+paternal inheritance - 父系遗传
+episome - 附加体
+calcification - 钙化
+necrosis - 坏死
+back mutation - 回复突变
+mixed tumor - 混合瘤
+uniparental disomy - 单亲二体
+haplotype - 单体型
+protein A - 蛋白A
+allele - 等位基因
+allele - 等位片段
+hypophosphatasia - 低磷酸酯酶症
+control region - 调控区
+opsonin - 调理素
+site directed mutagenesis - 定向诱变
+kinetochore - 动粒
+aneurysm - 动脉瘤
+whorl - 斗形纹
+idiotype - 独特型
+reading frame - 读框
+telomere - 端粒
+short arm - 短臂
+transient expression - 短暂表达
+brachydactyly - 短指[畸形]
+brachydactyly - 短趾[畸形]
+break - 断裂
+polyploid - 多倍体
+polymorphism - 多态性
+pleomorphic adenoma - 多形性腺瘤
+multiplex PCR - 多重PCR
+infection - 感染
+hyperphenylalaninemia - 高苯丙氨酸血症
+malignancy - 恶性
+malignant change - 恶性变
+malignant lymphoma - 恶性淋巴瘤
+malignant tumor - 恶性瘤
+diploid - 二倍体
+bivalent - 二价体
+pathogenesis - 发病机制
+probe - 探针
+promotor - 启动子
+survival rate - 生存率
+gene expression - 基因表达
+vitality - 生活力
+linkage map - 连锁图
+continuous variation - 连续变异
+bisexuality - 两性现象
+chromosome association - 染色体联合
+homologous genes - 同源基因
+epigenesis - 后成说
+progeny test - 后代测验
+pairing - 配对
+combining ability - 配合力
+gametic ratio - 配子[分离]比
+complementation - 互补
+homogametic sex - 同配性别
+chromatid - 染色单体
+determinant - 决定子
+mobile genetic element - 可动遗传因子
+population dynamics - 群体动态
+chromomere - 染色粒
+chiasma - 交叉
+base ratio - 碱基比
+template - 模板
+mimic mutant - 模拟突变体
+exonuclease - 外切核酸酶
+genetic regulation - 遗传调节
+dosage compensation - 剂量补偿作用
+additive effect - 加性效应
+altruism - 利他行为
+cap - 帽
+temperature sensitive mutant - 温度敏感突变体
+mitochondrial genome - 线粒体基因组
+mutant - 突变体
+signal peptide - 信号肽
+helical structure - 螺旋结构
+unscheduled DNA synthesis - 期外DNA合成
+restriction map - 限制[性酶切]图
+restriction endonuclease - 限制性内切核酸酶
+random assortment - 随机分配
+coadaptation - 共适应
+DNA sequencing - DNA 序列测定
+DNA hybridization - DNA 杂交
+backcross - 回交
+palindrome - 回文序列
+amplicon - 扩增子
+haplotype - 单元型
+chromosomal aberration - 染色体畸变
+half life - 半寿期
+aberration - 畸变
+reciprocal cross - 反交
+chromosome map - 染色体图
+[chromosome] satellite - [染色体]随体
+breeding true - 纯育
+genetic information - 遗传信息
+genetics - 遗传学
+genetic map - 遗传学图
+genetic counseling - 遗传咨询
+decoding - 译码
+heterogametic sex - 异配性别
+outcross - 异型杂交
+allopolyploid - 异源多倍体
+heterogeneous population - 异质群体
+miscegenation - 异族通婚
+primase - 引发酶
+auxotroph - 营养缺陷体
+canalization - ［表型］限渠道化
+α chain - α链
+β chain - β链
+λ phage - λ噬菌体
+darwin - 达［尔文］
+C-band - C 带
+Darwinism - 达尔文学说
+marker gene - 标记基因
+HeLa cell - 海拉细胞
+hot spot - 热点
+heat shock - 热激
+heat shock protein - 热激蛋白质
+mismatch repair - 错配修复
+denaturation - 变性
+variation - 变异
+coefficient of variability - 变异系数
+polymorphism - 多态现象
+HAT medium - HAT 培养基
+M13 phage - M13 噬菌体
+repressor protein - 阻遏蛋白
+constitutive heterochromatin - 组成性异染色质
+histopathology - 组织病理学
+optimal proportion - 最适比例
+rickets - 佝偻病
+ridge count - 嵴数
+ridge line - 嵴线
+amber mutation - 琥珀型突变
+scar - 瘢痕
+epulis - 龈瘤
+qualitative trait - 质量性状
+central dogma - 中心法则
+tumor - 肿瘤
+tumor immunology - 肿瘤免疫学
+overlapping genes - 重叠基因
+repetitive DNA - 重复DNA
+restitution - 重建
+heavy chain - 重链
+rearrangement - 重排
+recombinant DNA - 重组DNA
+recombination - 重组
+recombinant - 重组体
+recombinant plasmid - 重组质粒
+atheroma - 粥样斑
+atheromatous plaque - 粥样斑块
+immigration - 移民
+shift - 移位
+transitional cell carcinoma - 移行细胞癌
+graft rejection - 移植物排斥[反应]
+insulinoma - 胰岛素瘤
+anti-oncogene - 抑癌基因
+suppressor gene - 抑制基因
+suppressor cell - 抑制细胞
+liability - 易患性
+vaccination - 疫苗接种
+heterochromatin - 异染色质
+alloantigen - 异型抗原
+chimera - 异源嵌合体
+heterogeneity - 异质[原]性
+primer extension - 引物延伸
+mucinous carcinoma - 粘液癌
+mucoepidermoid carcinoma - 粘液表皮样癌
+myxoma - 粘液瘤
+active immunity - 主动免疫
+major gene - 主基因
+transduction - 转导
+transformation - 转化
+transition - 转换
+transgenic animal - 转基因动物
+transcription - 转录
+transcriptional factor - 转录因子
+transfection - 转染
+metastasis - 转移
+transposition - 转座
+transposable element - 转座元件
+vegetation - 赘生物
+centromere - 着丝粒
+consultant - 咨询者
+filial generation - 子代
+endometriosis - 子宫内膜异位症
+autofluorescence - 自发荧光
+autolysis - 自溶
+autoantibody - 自身抗体
+autoimmunity - 自身免疫
+self recognition - 自身识别
+autosensitization - 自身致敏
+thymic epithelial cell - 胸腺上皮细胞
+sequence - 序列征
+selection pressure - 选择压力
+hemangioma - 血管瘤
+serology - 血清学
+thromboangiitis obliterans - 血栓闭塞性血管炎
+mucocele - 粘液囊肿
+myxedema - 粘液水肿
+euploid - 整倍体
+bronchopneumonia - 支气管肺炎
+bronchiectasis - 支气管扩张症
+bronchitis - 支气管炎
+mycoplasma infection - 支原体感染
+liposarcoma - 脂肪肉瘤
+fat embolism - 脂肪栓塞
+fatty streak - 脂纹
+fingerprint pattern - 指纹型
+carcinogen - 致癌原
+carcinogenesis - 致癌作用
+sensitization - 致敏作用
+lethal gene - 致死基因
+mental retardation - 智力低下
+phylogeny - 系统发育
+cell-mediated immunity - 细胞介导免疫
+cellular immunity - 细胞免疫
+cell injury - 细胞损伤
+cell line - 细胞系
+cytogenetics - 细胞遗传学
+cell hybridization - 细胞杂交
+cell cycle - 细胞周期
+cell strain - 细胞株
+bronchiolitis - 细支气管炎
+stenosis - 狭窄
+innate immunity - 先天免疫
+hemophilia - 血友病
+subset - 亚类
+subpopulation - 亚群
+inflammatory pseudotumor - 炎性假瘤
+inflammation - 炎症
+amniocentesis - 羊膜腔穿刺术
+amniotic fluid embolism - 羊水栓塞
+amniotic cell culture - 羊水细胞培养
+wild type - 野生型
+first cousin - 一级堂表亲
+concordance - 一致性
+medical genetics - 医学遗传学
+genetic background - 遗传背景
+heritability - 遗传度
+genetic compound - 遗传复合体
+genetic distance - 遗传距离
+genetic code - 遗传密码
+Hardy-Weinberg equilibrium - 遗传平衡
+humoral immunity - 体液免疫
+small pox - 天花
+natural immunity - 天然免疫
+siderosis - 铁沉着[病]
+path analysis - 通径分析
+sibship - 同胞群
+synchronization - 同步化
+congenic strain - 同类系
+synteny - 同线性
+homeobox - 同源框
+homology - 同源性
+homologous recombination - 同源重组
+fibroadenoma - 纤维腺瘤
+sialidosis - 涎酸贮积症
+microdissection - 显微切割
+dominance - 显性
+adenocarcinoma - 腺癌
+adenoma - 腺瘤
+adenoid cystic carcinoma - 腺样囊性癌
+restriction map - 限制[性内切酶]图
+restriction endonuclease - 限制酶
+mitochondrial gene - 线粒体基因
+mitochondrial inheritance - 线粒体遗传
+arteriolosclerosis - 小动脉硬化
+microphage - 小噬细胞
+microcephaly - 小头[畸形]
+minisatellite DNA - 小卫星DNA
+zinc finger protein - 锌指蛋白
+neoplasm - 新生物
+crescentic glomerulonephritis - 新月体性肾小球肾炎
+hydropericardium - 心包积液
+myocardial infarction - 心肌梗死
+sex differentiation - 性[别]分化
+sex ratio - 性比
+hydrothorax - 胸腔积液
+fitness - 适合度
+fertilization - 受精
+hydrosalpinx - 输卵管积水
+dendritic cell - 树突细胞
+quantitative trait - 数量性状
+embolus - 栓子
+allograft - 同种异体移植物
+gout - 痛风
+mutation - 突变
+mutant gene - 突变基因
+mutation rate - 突变率
+phagocyte - 吞噬细胞
+desensitization - 脱敏
+demyelination - 脱髓鞘[作用]
+penetrance - 外显率
+exon - 外显子
+exogenous gene - 外源基因
+lectin - 外源凝集素
+complete antigen - 完全抗原
+micronucleus - 微核
+fibrillin - 微纤维蛋白
+microinjection - 微注射
+site - 位点
+species - 物种
+speciation - 物种形成
+adsorption - 吸附[作用]
+pedigree - 系谱
+chromosome rearrangement - 染色体重排
+chromatin - 染色质
+human genetics - 人类遗传学
+fusion gene - 融合基因
+bacteriolysis - 溶菌
+sarcoma - 肉瘤
+granulomatous inflammation - 肉芽肿性炎
+cis-acting element - 顺式作用元件
+mitogen - 丝裂原
+tetraploid - 四倍体
+tetrad - 四分体
+satellite - 随体
+atopy - 特应性
+atopic asthma - 特应性哮喘
+coagulation necrosis - 凝固性坏死
+agglutination - 凝集[反应]
+agglutinin - 凝集素
+agglutination inhibition test - 凝集抑制试验
+pus cell - 脓细胞
+chondrosarcoma - 软骨肉瘤
+softening - 软化
+triploid - 三倍体
+trisomy - 三体性
+color blindness - 色盲
+epithelioid cell - 上皮样细胞
+neural tube defect - 神经管缺陷
+neuroblastoma - 神经母细胞瘤
+neuroendocrine carcinoma - 神经内分泌癌
+glomerulonephritis - 肾小球肾炎
+germinal center - 生发中心
+biochemical genetics - 生化遗传学
+biological product - 生物制品
+fertility - 生育率
+rigor mortis - 尸僵
+asbestosis - 石棉沉着病
+consolidation - 实变
+experimental pathology - 实验病理学
+parenchyma - 实质
+immune defence - 免疫防御
+I region - I 区
+RNA probe - RNA探针
+S-locus - S 基因座
+T lymphocyte - T淋巴细胞
+V gene - V 区基因
+X-linked recessive - X 连锁隐性
+denaturation - [DNA]变性
+renaturation - [DNA]复性
+banding pattern - [染色体]带型
+apoptosis - [细胞]凋亡
+apudoma - apud瘤
+β-thalassemia - β-珠蛋白生成障碍性贫血
+lambda light chain - λ[轻]链
+carcinoma - 癌
+oncogene - 癌基因
+carcinosarcoma - 癌肉瘤
+cancer - 癌症
+target cell - 靶细胞
+leukoplakia - 白斑
+B lymphocyte - B [淋巴]细胞
+C reactive protein - C 反应蛋白
+DNA probe - DNA探针
+reunion - [断裂]重接
+transmission - 传递
+telomerase - 端粒末端转移酶
+microevolution - 微观进化
+microbial genetics - 微生物遗传学
+degeneracy - 简并
+splice junction - 剪接点
+gene splicing - 基因剪接
+gene pool - 基因库
+gene amplification - 基因扩增
+gene flow - 基因流
+progressive evolution - 渐进化
+crossing over - 交换
+cytoplasmic inheritance - 细胞质遗传
+narrow heritability - 狭义遗传率
+Sendai virus - 仙台病毒
+site-specific recombination - 位点专一重组
+dominant lethal - 显性致死
+light chain - 轻链
+segment - 区段
+sex determination - 性[别]决定
+discontinuous variation - 不连续变异
+fusant - 融合子
+ribosome binding site - 核糖体结合位点
+nucleolus organizer - 核仁组织者
+rDNA - 核糖体DNA
+ribosomal protein - 核糖体蛋白质
+point mutation - 点突变
+regulon - 调节子
+lysogeny - 溶源性
+lac operon - 乳糖操纵子
+attenuation - 弱化
+attenuator - 弱化子
+compartment - 区室
+compartmentation - 区室作用
+trivalent - 三价体
+variety - 品种
+replicase - 复制酶
+replicon - 复制子
+haploidization - 单倍体化
+monohybrid - 单基因杂种
+univalent - 单价体
+RNA splicing - RNA 剪接
+R plasmid - R质粒
+incompatibility - 不相容性
+P element - P 因子
+R loop - R 环
+σ factor - σ因子
+enzyme linked immunosorbent assay - 酶联免疫吸附试验
+colony-stimulating factor - 集落刺激因子
+A chromosome - A 染色体
+F factor - F因子
+mosaic - [同源]嵌合体
+chimera - [异源]嵌合体
+maintainer line - 保持系
+pure breed - 纯种
+Western blotting - 蛋白质印迹法
+multivalent - 多价体
+polygamy - 多配
+antisense RNA - 反义 RNA
+reverse transcription - 反转录
+retrotransposon - 反转录转座子
+maternal inheritance - 母体遗传
+intron - 内含子
+cell determination - 细胞决定
+amphidiploid - 双二倍体
+phylogenetic tree - 系统树
+genetic equilibrium - 遗传平衡
+recognition site - 识别位点
+generation - 世代
+phasmid - 噬粒
+pollination - 授粉
+endomitosis - 核内有丝分裂
+endonuclease - 内切核酸酶
+nucleoid - 拟核
+pseudogene - 拟基因
+equilibrium population - 平衡群体
+cladogram - 进化树
+sex reversal - 性逆转
+sister chromatid - 姐妹染色单体
+modification - 修饰
+modifier - 修饰基因
+Hardy-Weinberg equilibrium - 哈迪-温伯格平衡
+addition line - 附加系
+interference - 干涉
+competence - 感受态
+cistron - 顺反子
+diploidization - 二倍化
+dimorphism - 二态性
+duplex - 二显性组合
+struggle for existence - 生存竞争
+inversion    - 倒位
+bioethics    - 生物伦理学，讨论生物学研究工作中，如遗传工程，器官移植等所牵涉到的伦理问题。
+plant genetics   - 植物遗传学
+biogenesis    - 生源说，又称“生物发生说”。
+reverse genetics   - 反求遗传学，在体外使基因某一片段产生突变，再将突变基因重新导入体内观察这种突变的遗传学效应的科学。
+genetic system   - 遗传体系，生物的交配方式，如自交、异交，或兼具两种交配方式。
+abiogenesis    - 非生源说，又称“自然发生说”。
+Y linkage   - Y连锁
+apomixis    - 无融合生殖
+sex index - 性指数
+parthenogenesis    - 孤雌生殖,又称“单性生殖”。
+double fertilization   - 双受精
+balanced translocation   - 平衡易位
+Persistent Organic Pollutants - 持久性有机污染物
+T-band - T 带
+operator - 操纵基因
+operon - 操纵子
+negative control - 负控制
+sex index - 性指数
+male sterility - 雄性不育
+consanguinity - 近亲
+sympatric speciation - 同地物种形成
+sequencing - 序列测定
+assortative mating - 选型交配
+plasmon - 细胞质基因组
+cytoplasmic male sterility - 细胞质雄性不育
+genetic system - 遗传体系
+etiology - 病因学
+syndactyly - 并指[畸形]
+syndactyly - 并趾[畸形]
+complement - 补体
+unequal crossing over - 不等互换
+atypical hyperplasia - 不典型增生
+aplasia - 不发育
+nondisjunction - 不分离
+discordance - 不一致性
+sequencing - 测序
+insertion - 插入
+autosomal recessive - 常染色体隐性
+long arm - 长臂
+hypervariable region - 超变区
+superantigen - 超抗原
+hypersensitivity - 超敏感性
+precipitation - 沉淀[反应]
+precipitin - 沉淀素
+housekeeping gene - 持家基因
+hyperemia - 充血
+primary immune response - 初次免疫应答
+primary oocyte - 初级卵母细胞
+birth defect - 出生缺陷
+hemorrhage - 出血
+petechia - 出血点
+shuttle vector - 穿梭载体
+infection - 传染
+founder effect - 创建者效应
+vertical transmission - 垂直传递
+pachytene stage - 粗线期
+fragile site - 脆性位点
+lobar pneumonia - 大叶性肺炎
+epidermolysis bullosa - 大疱性表皮松解症
+band - 带
+interleukin - 白细胞介素
+leukotriene - 白细胞三烯
+white line - 白线
+semiconservative replication - 半保留复制
+hapten - 半抗原
+endocytosis - 胞吞作用
+encapsulation - 包裹
+packaging signal - 包装信号
+protective antigen - 保护性抗原
+reporter gene - 报道基因
+passive transfer - 被动转移
+comparative immunology - 比较免疫学
+arm index - 臂指数
+coding region - 编码区
+allergy - 变态反应
+allergology - 变态反应学
+deformation sequence - 变形序列征
+variant - 变异体
+allergen - 变应原
+allergenicity - 变应原性
+expression vector - 表达载体
+epidermoid cyst - 表皮样囊肿
+epitope - 表位
+haploid number - 单倍体数
+mononuclear cell - 单核细胞
+expressivity - 表现度
+phenotype - 表型
+virus hepatitis - 病毒性肝炎
+pathophysiology - 病理生理学
+pathomorphology - 病理形态学
+pathology - 病理学
+DNA amplification - DNA 扩增
+cDNA - 与RNA 互补的单链DNA，通过体内RNA 逆转录而合成。
+molecular evolution - 分子进化
+molecular cloning - 分子克隆
+test cross - 测交
+X body - X 小体
+Y linkage - Y 连锁
+Y chromosome - Y 染色体
+Y body - Y 小体
+Ti-plasmid - Ti 质粒
+X linkage - X 连锁
+X chromosome - X 染色体
+X chromosome inactivation - X 染色体失活
+bp - 是碱基对的简称，表示DNA 之间的距离。
+somatic hybridization - 体细胞杂交
+soma - 体质

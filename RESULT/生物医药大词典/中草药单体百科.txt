@@ -1,0 +1,1226 @@
+中草药单体百科
+
+Radix Achyranthis Bidentatae(拉) - 牛膝
+Rhizoma Atractylodis(拉) - 苍术
+Radix et Rhizoma Rhei(拉) - 大黄
+Radix Rehmanniae Preparata(拉)  - 熟地黄
+Lasiosphaera seu Calvatiae(拉)  - 马勃
+Exocarpium Citri Grandis(拉)  - 化橘红
+Radix Paeoniae Rubra(拉)  - 赤芍
+Radix Ginseng Rubra(拉)  - 红参
+Rhizoma Curcumae(拉)   - 莪术
+Fructus Oryzae Germinatus(拉)  - 稻芽
+Radix Tinosporae(拉)   - 金果榄
+Radix Stellariae(拉)   - 银柴胡
+Flos Rosae Rugosae(拉)  - 玫瑰花
+Lignum Dalbergiae Odoriferae(拉)  - 降香
+Lignum Santali Albi(拉)  - 檀香
+Os Sepiellae seu Sepiae(拉)  - 海螵蛸
+Fructus Alpiniae oxyphyllae(拉)  - 益智
+Semen Ziziphi Spinosae(拉)  - 酸枣仁
+Fructus Meliae Toosendan(拉)  - 川楝子
+Concretio Silicea Bambusae(拉)  - 天竹黄
+Caulis Bambusae in Taenia(拉)  - 竹茹
+Semen Citri Reticulatae(拉)  - 橘核
+Bulbus Fritillariae Thunbergii(拉)  - 浙贝母
+Semen Allii Tuberosi(拉)  - 韭菜子
+Caulis Polygoni Multiflori(拉)  - 首乌藤
+Rhizoma Curcumae Longae(拉)  - 姜黄
+Ramulus Uncariae Cum Uncis(拉)  - 钩藤
+Radix Sophorae Tonkinensis(拉)  - 山豆根
+Fructus Amomi Villosi(拉)  - 砂仁
+Agkistrodon(拉)    - 蕲蛇
+Herba Artemisiae Scopariae(拉)  - 茵陈
+Pericarpium Citri Reticulatae Viride(拉)  - 青皮
+Semen Dalichoris Album(拉)  - 白扁豆
+Fructus Ammomi Rotundus（拉）  - 白豆蔻
+Radix Paeoniae Alba(拉)  - 白芍
+Mel(拉)    - 蜂蜜
+Poria(拉)    - 茯苓
+Gecko(拉)    - 蛤蚧
+Folium Ilex (拉);  - 功劳叶
+Herba Desmodii (拉);  - 广金钱草
+Syngnathus(拉)    - 海龙
+Hippocampus(拉)    - 海马
+Sargassum(拉)    - 海藻
+herba rhodiolae (拉);  - 红景天
+Herba Visci (拉);  - 槲寄生
+Ophicalcitum(拉)    - 花蕊石
+Talcum(拉)    - 滑石
+Rhizoma Coptidis(拉)   - 黄连
+Fructus Tribuli(拉)   - 蒺藜
+Aspongopus(拉)    - 九香虫
+Exocarpium Citri rubrum(拉)  - 橘红
+Cortex Meliae(拉)   - 苦楝皮
+Semen Raphani(拉)   - 莱菔子
+Omphalia(拉)    - 雷丸
+Ganoderma(拉)    - 灵芝
+Sulfur(拉)    - 硫黄
+Os Draconis (拉)  - 龙骨
+Rhizoma Phragmitis(拉)   - 芦根
+Aaloe(拉)    - 芦荟
+Cacumen Asparagi (拉);  - 芦笋
+Galamina(拉)    - 炉甘石
+Radix Aconiti Preparata(拉)  - 制川乌
+Rhizoma Dioscorea Bulbifera .(拉) - 黄药子
+Rhizoma et Radix Notopterygii(拉) - 羌活
+Radix aristolochiae fangchii (拉); - 广防己
+Radix Angelicae Pubescentis(拉) doubleteeth - 独活
+Radix Polygoni Multiflori Preparata(拉) - 制何首乌
+Herba Duchesnea Indica (拉) - 蛇莓
+①Thallus Laminariae ②Thallus Eckloniae(拉) - 昆布
+Fructus Tritici Levis .(拉) - 浮小麦
+Semen Sinapis Albae (拉) - 芥子
+Massa Medicata Fermentata (拉) - 神曲
+Radix Ginseng Indici (拉) - 野山参
+houttuynia cordata Thunb. (拉) - 鱼腥草
+Colla Corii Asini (拉); - 阿胶
+Radix Rehmaniae Recens (拉); - 生地黄
+Rhizome Pinelliae Preparata (拉); - 姜半夏
+radix Stephaniae Tetrandrae (拉); - 防己
+Radix Panacis Quinquefolii(拉)  - 西洋参
+Fructus Amomi Rotundus(拉)  - 豆蔻
+Cornu Saigae Tataricae(拉)  - 羚羊角
+Herba Scutellariae Barbatae(拉)  - 半枝莲
+Rhizoma Arisaematis Cum bile(拉)  - 胆南星
+Semen Armeniacae Amarum(拉)  - 杏仁
+Semen Sesami Nigri(拉)  - 黑芝麻
+Radix Cynanchi Atrati(拉)  - 白薇
+Semen Sterculiae Lychnophorae(拉)  - 胖大海
+Semen Astragali Complanati(拉)  - 沙苑子
+Radix Polygoni Multiflori(拉)  - 何首乌
+Rhizoma Polygonati Odorati(拉)  - 玉竹
+Olibanum (拉)   - 乳香
+Rhizoma Zingiberis Recens(拉)  - 生姜
+Fructus Quisqualis(拉)   - 使君子
+Fructus Alpiniae Galangae(拉)  - 红豆蔻
+Endothelium Corneum Gigeriae Galli(拉)   - 鸡内金
+Radix Euphorbiae Kansui(拉)  - 甘遂
+Fructus Hordei Germinatus(拉)  - 麦芽
+Rhizoma Polygoni Cuspidati(拉)  - 虎杖
+Rhizoma Zingiberis(拉)   - 干姜
+Rhizoma Smilacis Glabrae(拉)  - 土茯苓
+Semen Trigonellae(拉) - 胡芦巴
+Fructus Chaenomelis(拉) - 木瓜
+Radix Aconiti(拉) - 川乌
+Medulla Junci(拉) - 灯心草
+Spica Prunellae(拉) - 夏枯草
+Rhizoma Dioscoreae(拉) - 山药
+Semen Vaccariae(拉) - 王不留行
+Fructus Crotonis(拉) - 巴豆
+Herba Taraxaci(拉) - 蒲公英
+Flos Daturae(拉) - 洋金花
+Cornu Cervi(拉) - 鹿角
+Herba Dendrobii(拉) - 石斛
+Cortex Dictamni(拉) - 白鲜皮
+Herba Clinopodii(拉) - 断血流
+Herba Cistanches(拉) - 肉苁蓉
+Radix Saposhnikoviae(拉) - 防风
+Semen Cuscutae(拉) - 菟丝子
+Sanguis Draconis(拉) - 血竭
+Resina Toxicodendri(拉) - 干漆
+Herba Aristolochiae(拉) - 天仙藤
+Fructus Aristolochiae(拉) - 马兜铃
+Radix Ophiopogonis(拉) - 麦冬
+Radix Bupleuri(拉) - 柴胡
+Fructus Canarii(拉) - 青果
+Cortex Lycii(拉) - 地骨皮
+Lapis Chloriti(拉) - 青礞石
+Herba Lysimachiae(拉) - 金钱草
+Flos Chrysanthemi(拉) - 菊花
+Rhizoma Ligustici - 川芎
+Rhizoma Cibotii(拉) - 狗脊
+Periostracum Cicadae(拉) - 蝉蜕
+Bulbus Fritillariae - 川贝母
+Fructus Citri(拉) - 香橼
+Flos Caryophylli(拉) - 丁香
+Fructus Malvae(拉) - 冬葵果
+Semen Momordicae(拉) - 木鳖子
+Radix Asparagi(拉) - 天冬
+Bungarus Parvus(拉) - 金钱白花蛇
+Semen Coicis(拉) - 薏苡仁
+Radix Linderae(拉) - 乌药
+Herba Andrographis(拉) - 穿心莲
+Rhizoma Anemarrhenae(拉) - 知母
+Radix Aucklandiae(拉) - 木香
+Rhizoma Bletillae(拉) - 白及
+Rhizoma Sparganii(拉) - 三棱
+Fructus Carpesii(拉) - 鹤虱
+Herba Ephedrae(拉)   - 麻黄
+Myrrha(拉)    - 没药
+Radix Changii(拉)   - 明党参
+Caulis Akebiae (拉);  - 木通
+Calculus Bovis(拉)   - 牛黄
+Caulis Sinomenii(拉)   - 青风藤
+Calomelas(拉)    - 轻粉
+Folium Artemisiae Argyi(拉) - 艾叶
+Flos Albiziae(拉) - 合欢花
+Cortex Phellodendri(拉) - 黄柏
+Radix Dichroae(拉) - 常山
+Concha Arcae(拉) - 瓦楞子
+Pericarpium Arecae(拉) - 大腹皮
+Semen Arecae(拉) - 槟榔
+Caulis Clematis armanoii(拉); - 川木通
+Cortex Fraxini(拉) - 秦皮
+Fructus Corni(拉) - 山茱萸
+Rhizoma Menispermi(拉) - 北豆根
+Ramulus Uncariae Cum Uncis(拉)  - 钩藤
+Radix Sophorae Tonkinensis(拉)  - 山豆根
+Fructus Amomi Villosi(拉)  - 砂仁
+Agkistrodon(拉)    - 蕲蛇
+Herba Artemisiae Scopariae(拉)  - 茵陈
+Pericarpium Citri Reticulatae Viride(拉)  - 青皮
+Semen Dalichoris Album(拉)  - 白扁豆
+Fructus Ammomi Rotundus（拉）  - 白豆蔻
+Radix Paeoniae Alba(拉)  - 白芍
+Mel(拉)    - 蜂蜜
+Poria(拉)    - 茯苓
+Gecko(拉)    - 蛤蚧
+Folium Ilex (拉);  - 功劳叶
+Herba Desmodii (拉);  - 广金钱草
+Syngnathus(拉)    - 海龙
+Hippocampus(拉)    - 海马
+Sargassum(拉)    - 海藻
+herba rhodiolae (拉);  - 红景天
+Herba Visci (拉);  - 槲寄生
+Ophicalcitum(拉)    - 花蕊石
+Talcum(拉)    - 滑石
+Rhizoma Coptidis(拉)   - 黄连
+Fructus Tribuli(拉)   - 蒺藜
+Aspongopus(拉)    - 九香虫
+Exocarpium Citri rubrum(拉)  - 橘红
+Cortex Meliae(拉)   - 苦楝皮
+Semen Raphani(拉)   - 莱菔子
+Omphalia(拉)    - 雷丸
+Ganoderma(拉)    - 灵芝
+Sulfur(拉)    - 硫黄
+Os Draconis (拉)  - 龙骨
+Rhizoma Phragmitis(拉)   - 芦根
+Aaloe(拉)    - 芦荟
+Cacumen Asparagi (拉);  - 芦笋
+Galamina(拉)    - 炉甘石
+Radix Aconiti Preparata(拉)  - 制川乌
+Rhizoma Dioscorea Bulbifera .(拉) - 黄药子
+Rhizoma et Radix Notopterygii(拉) - 羌活
+Radix aristolochiae fangchii (拉); - 广防己
+Radix Angelicae Pubescentis(拉) doubleteeth - 独活
+Radix Polygoni Multiflori Preparata(拉) - 制何首乌
+Herba Duchesnea Indica (拉) - 蛇莓
+①Thallus Laminariae ②Thallus Eckloniae(拉) - 昆布
+Fructus Tritici Levis .(拉) - 浮小麦
+Semen Sinapis Albae (拉) - 芥子
+Massa Medicata Fermentata (拉) - 神曲
+Radix Ginseng Indici (拉) - 野山参
+houttuynia cordata Thunb. (拉) - 鱼腥草
+Colla Corii Asini (拉); - 阿胶
+Radix Rehmaniae Recens (拉); - 生地黄
+Rhizome Pinelliae Preparata (拉); - 姜半夏
+radix Stephaniae Tetrandrae (拉); - 防己
+Radix Panacis Quinquefolii(拉)  - 西洋参
+Fructus Amomi Rotundus(拉)  - 豆蔻
+Cornu Saigae Tataricae(拉)  - 羚羊角
+Herba Scutellariae Barbatae(拉)  - 半枝莲
+Rhizoma Arisaematis Cum bile(拉)  - 胆南星
+Semen Armeniacae Amarum(拉)  - 杏仁
+Semen Sesami Nigri(拉)  - 黑芝麻
+Radix Cynanchi Atrati(拉)  - 白薇
+Semen Sterculiae Lychnophorae(拉)  - 胖大海
+Semen Astragali Complanati(拉)  - 沙苑子
+Radix Polygoni Multiflori(拉)  - 何首乌
+Rhizoma Polygonati Odorati(拉)  - 玉竹
+Olibanum (拉)   - 乳香
+Rhizoma Zingiberis Recens(拉)  - 生姜
+Fructus Quisqualis(拉)   - 使君子
+Fructus Alpiniae Galangae(拉)  - 红豆蔻
+Endothelium Corneum Gigeriae Galli(拉)   - 鸡内金
+Radix Euphorbiae Kansui(拉)  - 甘遂
+Fructus Hordei Germinatus(拉)  - 麦芽
+Rhizoma Polygoni Cuspidati(拉)  - 虎杖
+Rhizoma Zingiberis(拉)   - 干姜
+Rhizoma Smilacis Glabrae(拉)  - 土茯苓
+Fructus Ligustri Lucidi(拉)  - 女贞子
+Rhizoma Fagopyri Dibotryis(拉)  - 金荞麦
+Rhizoma Acori Tatarinowii(拉)  - 石菖蒲
+Eupolyphaga Seu Steleophaga(拉)  - 土鳖虫
+Radix Astragali seu Hedysari(拉)  - 黄芪
+Herba Ecliptae(拉)   - 墨旱莲
+Fructus Aurantii Immaturus(拉)  - 枳实
+Rhizoma Panacis Japonici(拉)  - 竹节参
+Caulis Piperis Kadsurae(拉)  - 海风藤
+Ssemen Alpiniae Katsumadai(拉)  - 草豆蔻
+Radix Aconiti Kusnezoffii(拉)  - 草乌
+Rhizoma Atractylodis Macrocephalae(拉)  - 白术
+Radix Gentianae Macrophyllae(拉)  - 秦艽
+Rhizoma Alpiniae Offininarum(拉)  - 高良姜
+Radix Sophorae Flavescentis(拉)  - 苦参
+Fructus Piperis Longi(拉)  - 荜茇
+Bulbus Allii Macrostemonis(拉)  - 薤白
+Nodus Nelumbinis Rhizomatis(拉)  - 藕节
+Retinervus Luffae Fructus(拉)  - 丝瓜络
+Rhizoma Dryopteris Crassirhizomatis(拉)  - 绵马贯众
+Caulis Aristolochiae Manshuriensis(拉)  - 关木通
+Lapis Micae Aureus(拉)  - 金礞石
+Herba Swertiae Mileensis(拉)  - 青叶胆
+Radix Polygalae(拉)   - 远志
+Fructus Setariae Germinatus(拉)  - 谷芽
+Radix Morindae Officinalis(拉)  - 巴戟天
+Cortex Mori(拉)   - 桑白皮
+Folium et Cacumen Murrayae(拉)  - 九里香
+Radix et Rhizoma Nardostachyos(拉)  - 甘松
+Cortex Magnoliae Officinalis(拉)  - 厚朴
+Flos Magnoliae Officinalis(拉)  - 厚朴花
+Radix Cynanchi Paniculati(拉)  - 徐长卿
+Radix Euphorbiae Pekinensis(拉)  - 京大戟
+Fructus Piperis Nigri(拉)  - 胡椒
+Ccornu Cervi Pantotrichum(拉)  - 鹿茸
+Fructus Polygoni Orientalis(拉)  - 水红花子
+Pseudobulbus Cremastrae seu Pleiones(拉)  - 山慈菇
+Rhizome Dioscoreae Hypoglaucae(拉)  - 萆薢
+Rhizoma Pinelliae Preparatum(拉)  - 法半夏
+Flos Chrysanthemi Indici(拉)  - 野菊花
+Rhizoma Cynanchi Stauntonii(拉)  - 白前
+Resina Ferulae(拉)   - 阿魏
+Benzoinum(拉)    - 安息香
+Alumen(拉)    - 白矾
+Herba Hedyotis (拉)  - 白花蛇舌草
+Herba Solani （拉）;  - 白毛藤
+Bulbus Lilii(拉)   - 百合
+Herba Patriniae (拉)  - 败酱草
+Mylabris(拉)    - 斑蝥
+Radix Glehniae (拉);  - 北沙参
+Bulbus Fritillaria (拉);  - 贝母
+Venenum Bufonis(拉)   - 蟾酥
+Fructus Leonuri(拉)   - 茺蔚子
+Fructus Broussonetiae(拉)   - 楮实子
+Radix Cyathulae (拉);  - 川牛膝
+Squama Manis(拉)   - 穿山甲
+Magnetitum(拉)    - 磁石
+Radix Rehmanniae(拉)   - 地黄
+Lumbricus(拉)    - 地龙
+Exocarpium Benincasae(拉)   - 冬瓜皮
+Semen Benincasae (拉);  - 冬瓜子
+Radix Glycyrrhizae(拉) - 甘草
+Radix Liriopes(拉) - 山麦冬
+Arillus Longan(拉) - 龙眼肉
+Herba Glechomae(拉) - 连钱草
+Herba Lophatheri(拉) - 淡竹叶
+Folium Eriobotryae(拉) - 枇杷叶
+Folium Nelumbinis(拉) - 荷叶
+Plumula Nelumbinis(拉) - 莲子心
+Receptaculum Nelumbinis(拉) - 莲房
+Semen Nelumbinis(拉) - 莲子
+Stamen Nelmbinis(拉) - 莲须
+Semen Litchi(拉) - 荔枝核
+Fructus Psoraleae(拉) - 补骨脂
+Herba Asari(拉) - 细辛
+Otheca Mantidis(拉) - 桑螵蛸
+Radix Hedysari(拉) - 红芪
+Fructus Evodiae(拉) - 吴茱萸
+Medulla Tetrapanacis(拉) - 通草
+Flos Carthami(拉) - 红花
+Stigma Croci(拉) - 西红花
+Radix Notoginseng(拉) - 三七
+Lignum Sappan(拉) - 苏木
+Caulis Sargentodoxae(拉) - 大血藤
+Fructus Hippophae(拉) - 沙棘
+Folium Sennae(拉) - 番泻叶
+Oleum Sesami(拉) - 麻油
+Radix Zanthoxyli(拉) - 两面针
+Fructus Viticis(拉) - 蔓荆子
+Fructus Xanthii(拉) - 苍耳子
+Herba Siegesbeckiae(拉) - 豨莶草
+Cortex Albiziae(拉) - 合欢皮
+Radix Aristolochiae(拉) - 青木香
+Herba Centipedae(拉) - 鹅不食草
+Fructus Mume(拉) - 乌梅
+Zaocys(拉) black-tail - 乌梢蛇
+Periostracum Serpentis(拉) - 蛇蜕
+Fructus Trichosanthis(拉) - 瓜蒌
+Pericarpium Trichosanthis(拉) - 瓜蒌皮
+Natrii Sulfas(拉) - 芒硝
+Rhizoma Polygonati(拉) - 黄精
+Herba Cynomori(拉) - 锁阳
+Herba Selaginellae(拉) - 卷柏
+Radix Stemonae(拉) - 百部
+Bombyx Batryticatus(拉) - 僵蚕
+Herba Sedi(拉) - 垂盆草
+Caulis Spatholobi(拉) - 鸡血藤
+Herba Artemisiae Annuae(拉) - 青蒿
+Rhizoma Gastrodiae(拉) - 天麻
+Radix Codonopsis(拉) - 党参
+Radix Asteris(拉) - 紫菀
+Herba Violae(拉) - 紫花地丁
+Cortex Ailanthi(拉) - 椿皮
+Semen Trichosanthis(拉) - 瓜蒌子
+Flos Campsis(拉) - 凌霄花
+Radix Curcumae(拉) - 郁金
+Carapax Trionycis(拉) - 鳖甲
+Radix Rhaponrici(拉) - 漏芦
+Fructus Forsythiae(拉) - 连翘
+Rhizoma Pinelliae Preparata (拉) - 清半夏
+①Radix Arnebiae ②Radix Lithospermi(拉) - 紫草
+①Semen Lepidii ②Semen Descurainiae(拉) - 葶苈子
+Radix et Caulis Acanthopanacis Senticosi(拉) - 刺五加
+Radix et Rhizome Achyranthes(拉) - 土牛膝
+Carapax et Plastrum Testudinis(拉)  - 龟甲
+Cortex Moutan Radicis(拉)  - 牡丹皮
+Cortex Acanthopanax Radicis (拉); - 五加皮
+①Herba Erodii ②Herba Geranii(拉) - 老鹳草
+Fructus Gleditsiae Abnormalis(拉) chinese - 猪牙皂
+Calyx seu fructus Physalis(拉) - 锦灯笼
+Herba Equiseti Hiemalis(拉)  - 木贼
+Herba seu Radix Cirsii Japonici(拉) - 大蓟
+Folium Viticis Negundo(拉)  - 牡荆叶
+Radix Aconiti Lateralis Preparata(拉) - 附子
+Radix Aconiti Kusnezoffii Preparata(拉) - 制草乌
+Radix Ranunculi Ternati(拉)  - 猫爪草
+Fructus Rosae Laevigatae(拉)  - 金樱子
+Fructus Anisi Stellati(拉)  - 八角茴香
+Herba Lobeliae Chinensis(拉)  - 半边莲
+Lignum Aquilariae Resinatum(拉)  - 沉香
+Radix Angelicae Sinensis(拉)  - 当归
+Herba Potentillae Chinensis(拉)  - 委陵菜
+Fructus Schisandrae Chinensis(拉)  - 五味子
+Flos Rosae Chinensis(拉)  - 月季花
+Flos Celosiae Cristatae(拉)  - 鸡冠花
+Herba Polygoni Avicularis(拉)  - 萹蓄
+Herba Euphorbiae Humifusae(拉)  - 地锦草
+Concha Meretricis seu Cyclinae(拉)  - 蛤壳
+Radix Angelicae Dahuricae(拉)  - 白芷
+Folium Rhododendri Daurici(拉)  - 满山红
+Radix Salviae Miltiorrhizae(拉)  - 丹参
+Rhizoma Corydalis Decumbentis(拉)  - 夏天无
+Colla Corni Cervi(拉)  - 鹿角胶
+Cornu Cervi Degelatinatum(拉)  - 鹿角霜
+Foliun Apocyni Veneti(拉)  - 罗布麻叶
+Pericarpium Citri Reticulatae(拉)  - 陈皮
+Natrii Sulfas Exsiccatus(拉)  - 玄明粉
+Radix Pseudostellariae(拉) heterophylly  - 太子参
+Rhizoma Pinelliae Fermentata(拉);  - 半夏曲
+Semen Sojae Preparatum(拉)  - 淡豆豉
+Fructus Citri Sarcodactylis(拉)  - 佛手
+Rhizoma Picrorhizae(拉) - 胡黄连
+Herba Schizonepetae(拉) - 荆芥
+Oviductus Ranae(拉) - 哈蟆油
+Herba Eupatorii(拉) - 佩兰
+Petiolus Trachycarpi(拉) - 棕榈
+Rhizoma Drynariae(拉) - 骨碎补
+Radix Adenophorae(拉) - 南沙参
+Rhizoma Kaempferiae(拉) - 山柰
+Semen Impatientis(拉) - 急性子
+Radix Sanguisorbae(拉) - 地榆
+Rhizoma Typhonii(拉) - 白附子
+Folium Ginkgo(拉) - 银杏叶
+Semen Ginkgo(拉) - 白果
+Radix Ginseng(拉) - 人参
+Folium Ginseng(拉) - 人参叶
+Cortex Pseudolaricis(拉) - 土荆皮
+Ssemen Euryales(拉) - 芡实
+Semen Torreyae(拉) - 榧子
+Fructus Arctii(拉) - 牛蒡子
+Fructus Momordicae(拉) - 罗汉果
+Herba Agrimoniae(拉) - 仙鹤草
+Fructus Crataegi(拉) - 山楂
+Nux Prinsepiae(拉) - 蕤仁
+Fructus Cannabis(拉) - 火麻仁
+Semen Hyoscyami(拉) - 天仙子
+Radix Dipsaci(拉) - 续断
+Herba Lycopi(拉) - 泽兰
+Radix Peucedani(拉) - 前胡
+Nidus Vespae(拉) - 蜂房
+Flos Lonicerae(拉) - 金银花
+Caulis Lonicerae(拉) - 忍冬藤
+Placenta Hominis(拉) - 紫河车
+Radix Rubiae(拉) - 茜草
+Semen Oroxyli(拉) - 木蝴蝶
+Flos Inulae(拉) - 旋覆花
+Herba Inulae(拉) - 金沸草
+Radix Inulae(拉) - 土木香
+Radix Isatidis(拉) - 板蓝根
+Semen Canavaliae(拉) - 刀豆
+Rhizoma Arisaematis(拉) - 天南星
+Radix Ampelopsis(拉) - 白蔹
+Spora Lygodii(拉) - 海金沙
+Fructus Sophorae(拉) - 槐角
+Radix Knoxiae(拉) - 红大戟
+Radix Puerariae(拉) - 葛根
+Rhizoma Imperatae(拉) - 白茅根
+Rhizoma Cimicifugae(拉) - 升麻
+Flos Genkwa(拉) - 芫花
+Herba Dianthi(拉) - 瞿麦
+Fructus Chebulae(拉) - 诃子
+Herba Leonuri(拉) - 益母草
+Fructus Litseae(拉) - 荜澄茄
+Fructus Mori(拉) - 桑椹
+Folium Mori(拉) - 桑叶
+Ramulus Mori(拉) - 桑枝
+Radix Semiaquilegiae(拉) - 天葵子
+Concha Margaritifera(拉) - 珍珠母
+Indigo Naturalis(拉) - 青黛
+Rhizoma Cyperi(拉) - 香附
+Semen Myristicae(拉) - 肉豆蔻
+Semen Strychni(拉) - 马钱子
+Rhizoma Homalomenae(拉) - 千年健
+Caulis Erycibes(拉) - 丁公藤
+Fructus Aurantii(拉) - 枳壳
+Rhizoma Alismatis(拉) - 泽泻
+Concha Ostreae(拉) - 牡蛎
+Flos Sophorae(拉) - 槐花
+Flos Buddlejae(拉) - 密蒙花
+Fructus Rubi(拉) - 覆盆子
+Rhizoma Bolbostematis(拉) - 土贝母
+Rhizoma Paridis(拉) - 重楼
+Semen Persicae(拉) - 桃仁
+Herba Menthae(拉) - 薄荷
+Fructus Perillae(拉) - 紫苏子
+Folium Perillae(拉) - 紫苏叶
+Caulis Perillae(拉) - 紫苏梗
+Calyx Kaki(拉) - 柿蒂
+Semen Pharbitidis(拉) - 牵牛子
+Pollen Pini(拉) - 松花粉
+Rhizoma Pinelliae(拉) - 半夏
+Flos Eriocauli(拉) - 谷精草
+Herba Plantaginis(拉) - 车前草
+Semen Plantaginis(拉) - 车前子
+Radix Platycodonis(拉) - 桔梗
+Flos Mume(拉) - 梅花
+Radix Phytolaccae(拉) - 商陆
+Pericarpium Granati(拉) - 石榴皮
+Pericarpium Papaveris(拉) - 罂粟壳
+Pericarpium Zanthoxyli(拉) - 花椒
+Herba Portulacae(拉) - 马齿苋
+Herba Pyrolae(拉) - 鹿衔草
+Halloysitum Rubrum(拉) - 赤石脂
+Semen Phaseoli(拉) - 赤小豆
+Folium Isatidis(拉) - 大青叶
+Semen Juglandis(拉) - 核桃仁
+Radix Ephedrae(拉) - 麻黄根
+Herba Epimedii(拉) - 淫羊藿
+Cortex Eucommiae(拉) - 杜仲
+Herba Verbenae(拉) - 马鞭草
+Semen Celosiae(拉) - 青葙子
+Fructus Foeniculi(拉) - 小茴香
+Herba Cirsii(拉) - 小蓟
+Radix Scrophulariae(拉) - 玄参
+Semen Lini(拉) - 胡麻子
+aweto - 冬虫夏草
+nuxvomica - 马钱子
+trigonelline - 葫芦巴碱
+anthraquinones - 蒽醌类化合物
+dien - 二烯
+melanocyte - 黑色素细胞
+lignan - 木脂素
+chromone - 色原酮
+scopoletin - 东莨菪素
+fuming - 复明
+amyloid-beta - 淀粉样蛋白
+steamed - 清蒸
+renocortical - 肾皮质
+alpha-glucosidase - α-葡萄糖苷酶
+antagonism - 对抗作用
+storax - 苏合香
+extractives - 浸出物
+tranquilizing - 镇静
+tannic - 鞣质
+alkekengi - 酸浆
+rumex - 酸模属
+nootropic - 智
+alum - 白矾
+liniments - 搽剂
+frankincense - 乳香
+vaccinium - 越橘
+baccatin - 巴卡亭
+indometacin - 消炎痛
+mesaconitine - 新乌头碱
+palmatine - 掌叶防己碱
+leeches - 水蛭
+syrup - 糖浆剂
+lonicera - 忍冬属
+pharmacology - 药物学
+eclampsia - 惊厥
+fel - 胆汁
+glycosides - 配糖体
+scutellarin - 黄芩素
+panax - 人参属
+phloretin - 根皮素
+salvia - 鼠尾草属植物
+trillium - 延龄草
+sargassum - 海藻
+carbuncle - 痈
+nucleosides - 核苷类化合物
+shikonin - 左旋紫草素
+tca - 牛磺胆酸
+virtue - 功效
+og - og组
+pharmacochemistry - 药物化学
+escin - 七叶皂苷
+tcl - 薄层色谱法
+genistin - 染料木苷
+gasp - 喘气
+genuineness - 道地性
+infusion - 浸剂
+alimentary - 营养性
+monarch - 君臣佐使
+antitoxic - 抗毒
+defecated - 排便
+syringin - 丁香甙
+notoginsenoside - 三七皂甙
+fennel - 小茴香
+sarsasapogenin - 菝葜皂甙元
+antispasmodic - 解痉
+triterpenoid - 三萜类
+auricula - 耳廓
+tetracosanoic - 二十四烷
+mirabilite - 朴硝
+drunkenness - 醉酒
+slough - 蛇蜕
+paeony - 芍药
+figwort - 玄参
+harmine - 骆驼蓬碱
+ovariectomy - 卵巢摘除术
+postpone - 延
+rheum - 大黄属
+daidzein - 大豆素
+antelope - 羚
+tannins - 丹宁
+repercussion - 消肿
+tricin - 麦黄酮
+boxthorn - 枸杞
+scorpion - 蝎子
+heartache - 心痛
+xmt - 心脉通
+mce - 苦瓜素
+invigoration - 补益
+limax - 蛞蝓
+sesquiterpenes - 倍半萜类
+leonurine - 益母草
+minister - 君臣佐使
+chenopodium - 土荆芥油
+fule - 妇乐
+decoct - 煎剂
+jel - 凝胶
+farnesol - 法尼醇
+asarone - 细辛醚
+acanthus - 老鼠簕
+antidiabetic - 抗糖尿病
+adjuvant - 佐药
+antidiuretic - 抗利尿
+henbane - 莨菪
+decoct - 煎煮
+cumene - 枯烯
+paeonol - 牡丹酚
+cineol - 桉油精
+sterol - 甾醇类
+sporoderm - 孢壁
+saute - 炒
+sore - 疡
+flavanone - 二氢黄酮
+farina - 花粉
+tonic - 补剂
+daphne - 瑞香属
+atractylodes - 苍术属
+liniments - 擦剂
+margarita - 珍珠
+braising - 蒸制
+costus - 闭鞘姜属
+safrole - 黄樟醚
+karyotes - 有核细胞
+uv-spectrum - 紫外光谱
+bupleurum - 柴胡属植物
+pyocyanin - 绿脓菌素
+deer - 鹿属
+isoimperatorin - 氧化前胡素
+goldenrod - 一枝黄花
+drug-treated - 用药
+lycopodium - 石松
+pterostilbene - 紫檀
+natriuresis - 尿钠排泄
+phelloderm - 栓内层
+escin - 七叶皂甙
+glucosan - 葡聚糖
+senecio - 千里光属
+mpp - 神经毒素mpp
+mtc - 最大耐受浓度
+pedo - 小儿
+gardenin - 栀子苷
+bromobenzene - 溴代苯
+galla - 没食子
+gallocatechin - 没食子儿茶素
+supraliminal - 阈上
+oregano - 中药牛至
+deoxyribonucleotide - 脱氧核苷酸
+engulfment - 吞噬
+tyrosol - 苷元酪醇
+enyl - 烯基
+microcalorimetry - 微量热学
+cannabinoid - 大麻素
+schefflera - 鹅掌柴
+hypnotic - 催眠的
+hyperpyrexia - 高体温
+nape - 颈背
+cardamom - 豆蔻
+excrement - 大便
+hplc-uv - 高效液相色谱-紫外检测法
+counteraction - 对抗作用
+salviol - 丹参酚
+dosis - 剂量
+retching - 干呕
+rosewood - 降香
+collagenous - 胶原的
+euphorbia - 大戟属植物
+metabolin - 代谢产物
+antithrombotic - 抗血栓形成的
+fruitage - 果实
+caffeoyl - 咖啡
+lot - 抽签
+ilex - 冬青属植物
+jar - 广口瓶
+glandless - 无腺
+celadon - 灰绿色
+xanthophyl - 叶黄素
+safranine - 藏红花
+xanthium - 苍耳属
+monkshood - 乌头
+urs - 乌苏
+sesquiterpene - 倍半萜类
+syngeneic - 同基因的
+insolation - 曝晒
+tetanus - 强直收缩
+schizandrin - 五味子素
+vernier - 游标尺
+microcalorimetry - 微量量热学
+micro-well - 微量
+serpentine - 蛇根碱
+recuperation - 再生
+corydaline - 延胡索碱
+shishi - 石室
+wreath - 花环
+pharmacodynamic - 药效的
+myricetin - 杨梅黄素
+sarcomas - 肉瘤s
+physcione - 大黄素甲醚
+ointments - 软膏剂
+panting - 喘气
+pant - 喘气
+hyperlipidaemia - 高血脂症
+isodose - 等剂量的
+bugle - 筋骨草
+gossypol - 棉子酚
+amorpha - 紫穗槐属
+chloramine - 氯亚明
+portulaca - 马齿苋属
+ecement - 榄香烯
+hawk - 老鹰
+valerian - 缬草属
+acetonitrile-water - 乙睛-水
+papaveraceae - 罂粟科植物
+tannide - 鞣质
+quinic - 酰基奎宁
+twitching - 抽动
+efficacy - 效验
+treptomycin - 链霉素
+borneol - 莰醇
+nettles - 荨麻
+morphometry - 形态计量法
+achillea - 蓍属
+wormwood - 蒌蒿
+rt-pcr - 逆转录-多聚酶联反应
+methoxybenzoic - 甲氧基
+methoxyflavone - 甲氧基黄酮
+illicium - 八角科
+croton - 巴豆属
+cerebroside - 脑苷
+diarrhea - 下利
+encapsuled - 包合物
+neutralise - 中和
+regurgitation - 反胃
+pulsatilla - 白头翁属
+hematopoiesis - 血细胞生成
+injectio - 注射剂
+catechin - 儿茶酸
+pinnae - 耳廓
+hyperspace - 多维空间
+antidote - 解毒药
+hesperidin - 陈皮苷
+stilbene - 二苯乙烯
+kaempferol - 山奈酚
+pharmacodynamics - 药效
+herbs - 方药
+triterpenoid - 三萜
+cinnamaldehyde - 桂皮醛
+daphne - 芫花
+smb - 丹参
+centipede - 蜈蚣
+macroreticular - 大孔吸附
+decapitation - 断头
+hyperin - 金丝桃苷
+scorpion - 全蝎
+bezoar - 牛黄
+kaempferol - 山柰酚
+nourishing - 滋补
+turmeric - 姜黄
+hypnosis - 催眠
+tannins - 鞣质
+aconite - 乌头
+cordycepin - 虫草素
+ig - ig给药
+senna - 番泻叶
+atractylodes - 苍术
+isatis - 菘蓝
+epicatechin - 表儿茶素
+sophora - 豆子
+phellodendron - 黄柏
+stomachs - 胃
+amygdalin - 苦杏仁苷
+dendrobium - 石斛属
+scolopendra - 蜈蚣
+cinnamon - 肉桂
+aloin - 芦荟苷
+genuine - 道地
+cassia - 肉桂
+earthworm - 地龙
+assaying - 含量测定
+sepia - 乌贼
+pharmacognostic - 生药学
+papaver - 罂粟
+strychnos - 马钱子
+daphne - 瑞香
+anthraquinone - 蒽醌类
+adulterants - 伪品
+flavones - 黄酮类化合物
+harmine - 去氢骆驼蓬碱
+pharmacognostic - 生药
+bergamot - 佛手
+mentha - 薄荷
+kudzu - 葛根
+selaginella - 卷柏
+verbena - 马鞭草
+colchicines - 秋水仙碱
+glucoside - 葡萄糖苷
+rhynchophylline - 钩藤碱
+polydatin - 虎杖苷
+capsaicin - 辣椒碱
+rhizoma - 根茎
+eupatorium - 野马追
+purgative - 泻下
+saikosaponin - 柴胡皂甙
+viscum - 槲寄生
+mtd - 最大耐受量
+ginkgo - 白果
+hyperin - 金丝桃甙
+bacteriostasis - 抑菌作用
+rehmanniae - 地黄
+magnolia - 厚朴
+lonicera - 金银花
+decocting - 煎煮
+oridonin - 冬凌草甲素
+cocos - 茯苓
+notoginsenoside - 皂苷
+replenishing - 益
+gentiopicroside - 龙胆苦苷
+shikonin - 紫草素
+pharmacopoeia - 药典》
+curcuma - 莪术
+gegen - 葛根
+decocted - 煎
+hypericin - 金丝桃素
+gingko - 银杏
+hypnotic - 催眠
+pharmacognosy - 生药学
+icariin - 淫羊藿甙
+strychnine - 马钱子碱
+antifatigue - 抗疲劳
+anthraquinones - 蒽醌
+hirudo - 水蛭
+portulaca - 马齿苋
+gastrodin - 天麻素
+anthraquinones - 蒽醌类
+antagonize - 对抗
+tannin - 鞣质
+diosgenin - 薯蓣皂苷元
+tlc - 薄层鉴别
+polygonatum - 玉竹
+wei - 胃
+isatis - 板蓝根
+taraxacum - 蒲公英
+asarum - 细辛
+antiaging - 抗衰老
+physcion - 大黄素甲醚
+angelica - 白芷
+triterpene - 三萜
+pharmacodynamic - 药效
+tumefaction - 肿胀
+nutgall - 五倍子
+pteris - 半边
+eugenol - 丁香酚
+palmatine - 巴马汀
+palmatine - 巴马
+smilax - 菝葜
+rp-hplc - 采用rp-hplc
+lotion - 洗液
+bovis - 牛黄
+silymarin - 水飞蓟素
+extractive - 提取物
+isorhamnetin - 异鼠李素
+lanceolata - 党参
+crocetin - 西红花酸
+bacteriostatic - 抑菌作用
+coumarins - 香豆素
+tet - 粉防己碱
+phenol-sulfuric - 苯酚-硫酸
+flavones - 总黄酮
+pentobarbital - 戊巴比妥钠
+antipyretic - 解热
+extract - 浸膏
+extract - 提液
+saponin - 皂甙
+writhing - 扭
+aconitine - 乌头碱
+phagocytosis - 吞噬功能
+baicalin - 黄芩甙
+salvianolic - 酚
+pharmacology - 药理学
+coptis - 黄连
+panax - 西洋参
+pharmacological - 药理学
+salvianolic - 丹酚
+kunming - 昆明种
+tlc - 薄层色谱鉴别
+psoralen - 补骨脂素
+gallic - 没食子酸
+glycosides - 苷
+pharmacodynamic - 药效学
+flavonoids - 黄酮类
+san - 散
+bupleurum - 柴胡
+tlc - 薄层层析
+prescription - 方剂
+pill - 丸中
+achyranthes - 牛
+aristolochic - 铃
+aristolochic - 兜铃
+chinensis - 黄连
+glycogen - 肝糖
+gardenia - 栀子
+pinellia - 半夏
+decoction - 汤剂
+antioxidation - 抗氧化作用
+rheum - 大黄
+delayed - 迟发型
+invigorating - 补
+tc - 血清tc
+poria - 茯苓
+ginkgolide - 银杏内酯
+brucine - 马钱子碱
+antler - 鹿茸
+musk - 麝香
+atractylodes - 白术
+gan - 肝
+licorice - 甘草
+glycyrrhizic - 甘草
+schisandra - 五味子
+osthole - 蛇床子素
+subthreshold - 阈下
+anemarrhena - 知母
+glycyrrhetinic - 甘草次酸
+curcuma - 姜黄
+ischemia-reperfusion - 脑缺血-再灌注
+dauricine - 蝙蝠葛碱
+moschus - 麝香
+aconite - 附子
+tlc - 薄层层析法
+yanhusuo - 延胡索
+catechu - 儿茶
+phagocyte - 巨噬细胞
+microscopical - 显微
+granule - 颗粒
+puerarin - 葛根素
+ginkgo - 银杏
+polysaccharides - 多糖
+dose - 剂量组
+extracts - 提取物
+emodin - 大黄素
+pharmacological - 药理
+baicalin - 黄芩苷
+mixture - 合剂
+herbs - 中药
+biloba - 银杏
+salvia - 丹参
+fingerprint - 指纹图谱
+berberine - 小檗碱
+content - 含量测定
+pill - 丸
+angelica - 当归
+flavonoids - 黄酮
+curcumin - 姜黄素
+ginsenoside - 人参皂苷
+notoginseng - 三七
+pharmacological - 药理作用
+herb - 中药
+matrine - 苦参碱
+ferulic - 阿魏
+tanshinone - 丹参酮
+sinensis - 当归
+membranaceus - 黄芪
+panax - 三七
+pills - 丸
+decoction - 方
+extract - 提取液
+decoction - 煎剂
+extract - 提
+prescription - 方
+constituents - 成分
+flavonoids - 总黄酮
+rg - 人参皂苷rg
+recipe - 方
+decoction - 煎
+lucidum - 灵芝
+astragali - 黄芪
+processing - 炮制
+saponins - 皂苷
+tlc - 薄层色谱
+pharmacodynamics - 药效学
+resveratrol - 白藜芦醇
+tetramethylpyrazine - 川芎嗪
+rsm - 丹参
+dimethylbenzene - 二甲苯
+clearance - 廓清
+leech - 水蛭
+cornus - 山茱萸
+pharmacologic - 药理
+plaster - 膏
+senility - 衰老
+hyp - 羟脯氨酸
+folium - 叶
+decoction - 煎煮
+genistein - 染料木素
+sophora - 苦参
+purslane - 马齿苋
+forsythia - 连翘
+leonurus - 益母草
+sitosterol - 谷甾醇
+aps - 黄芪多糖
+daidzein - 大豆苷元
+caffeic - 咖啡
+astragaloside - 黄芪甲甙
+pharmacology - 药理作用
+tlc - 薄层扫描法
+scanning - 扫描法
+linearity - 线性关系
+oleanolic - 齐墩果
+icariin - 淫羊藿苷
+granules - 冲剂
+chrysophanol - 大黄酚
+rutin - 芦丁
+tlc - 薄层色谱法
+paeoniflorin - 中芍药苷
+saponins - 皂甙
+panax - 人参
+reproducibility - 重现性
+borneol - 冰片
+astragaloside - 黄芪甲苷
+flavones - 黄酮
+ethanol - 醇
+pharmacology - 药理
+saponin - 皂苷
+ursolic - 熊果
+oxymatrine - 氧化苦参碱
+fingerprints - 指纹图谱
+alloxan - 四氧嘧啶
+propolis - 蜂胶
+edema - 肿胀
+pentobarbital - 戊巴比妥
+glycyrrhiza - 甘草
+adjuvant - 佐剂性
+hemolysin - 溶血素
+ephedrine - 麻黄碱
+paeonol - 丹皮酚
+constituents - 化学成分
+capsules - 胶囊
+polysaccharide - 多糖
+hplc - hplc法
+determination - 含量测定
+column - 色谱柱
+liquid - 口服液
+rsd - rsd为
+astragalus - 黄芪
+honeysuckle    - 金银花
+orpiment    - 雄黄
+parsnip    - 防风
+bungarus - 金钱白花蛇
+galactosamine - 氨基半乳糖
+antithrombotic - 抗血栓形成
+lumbricus - 地龙
+ternate - 半夏
+trigonelline - 胡芦巴碱
+antisepsis - 抗菌
+tyrosol - 酪醇
+herbal - 草药
+sgpt - 血清谷丙转氨酶
+xanthium - 苍耳子
+croton - 巴豆
+mesaconitine - 中乌头碱
+radioprotective - 抗辐射
+sterols - 甾醇类
+babu - 巴布
+starfish - 海星
+sinapis - 芥子
+counterfeit - 伪品
+wolfberry - 枸杞子
+notopterygium - 羌活
+sedation - 镇静作用
+salvianolic - 丹参酚
+piper - 荜
+monkshood - 川乌
+convulsant - 惊厥
+palmatine - 黄藤素
+fasted - 空腹
+aloin - 芦荟甙
+solanine - 龙葵碱
+curcuma - 姜黄属
+emasculated - 去势
+ginkgolide - 银杏苦内酯
+barometz - 脊
+nutmeg - 肉豆蔻
+salvia - 鼠尾草属
+coptis - 黄连属
+scopoletin - 莨菪亭
+apn - 穿心莲
+alkaloidal - 生物碱
+carthamus - 红花注射液
+adrenaline-induced - 肾上腺素
+isoflavones - 异黄酮类
+eupolyphaga - 虫
+flaxseed - 亚麻子
+caspase-3 - 半胱氨酸天冬氨酸蛋白酶-3
+barbaloin - 芦荟苷
+glucoside - 葡萄糖甙
+galactosamine - 半乳糖胺
+medica - 药用
+gasping - 喘息
+antler - 鹿角
+scutellarin - 野黄芩甙
+galangin - 高良姜素
+lotions - 洗剂
+influenzavirus - 流感病毒
+percolation - 渗漉法
+caspase - 半胱氨酸天冬氨酸蛋白酶
+pyrogallic - 邻苯三酚
+ethionine - 乙硫氨酸
+adulterant - 伪品
+adulterants - 混伪品
+lignans - 木脂素类
+dodder - 菟丝子
+lappa - 牛蒡
+prunella - 夏枯草
+liposoluble - 脂溶性
+disassembled - 拆
+rutoside - 芸香苷
+muscovite - 云母
+lignans - 木脂素
+bornyl - 龙脑
+pulvis - 散
+habitat - 产地
+daidzein - 大豆甙元
+euphorbia - 狼毒
+melanogenesis - 黑素生成
+flavones - 黄酮类
+ellagic - 鞣花
+triterpenes - 三萜
+sbe - sbe法
+mistura - 合剂
+curcuma - 郁金
+bergenin - 岩白菜素
+hazel - 榛
+excipient - 赋形剂
+purpurea - 菊
+gecko - 蛤蚧
+bract - 苞叶
+gasping - 喘气
+pills - 丸剂
+cinnabar - 朱砂
+hoo - 五加
+curcumin - 姜黄色素
+reticuloendothelial - 网状内皮
+muskrat - 麝鼠
+bark - 茎皮
+paeony - 赤芍
+rp - 采用rp
+valerian - 缬草
+pdb - 翻白草
+antiallergic - 抗过敏
+clematis - 铁线莲
+exocarp - 外种皮
+celosia - 鸡冠花
+localities - 产地
+selaginella - 卷柏属
+scopoletin - 东莨菪内酯
+liriope - 麦冬
+honeysuckle - 忍冬
+quinolinic - 喹啉
+cinobufagin - 华蟾酥毒基
+veratrum - 藜芦
+shamoperated - 假手术
+karyocyte - 有核细胞
+patchouli - 广藿香
+adulterant - 混淆品
+plantago - 车前子
+clearance - 廓清率
+Daidzin - 异黄酮苷
+Watermelon Seed - 西瓜籽
+Ligustilide - 东当归酞内酯
+ligustilide - 藁本内酯
+hop    - 蛇麻子
+hops    - 槐花
+horst    - 地参
+indigo    - 青黛
+leonurus    - 益母草
+lichen    - 地骨皮
+liquorice    - 甘草
+lovage    - 独活草
+mace    - 豆蔻花
+malt    - 麦芽
+medlar    - 枸杞子
+menthol    - 薄荷脑
+myrrha    - 没药
+nutgall    - 五倍子
+pith    - 通草
+plantain    - 车前草
+polygonum    - 首乌
+white fungus   - 银耳
+rhinoceros horn   - 犀牛角
+almond    - 苦杏
+alum    - 白矾
+amber    - 琥珀
+anemarrhena    - 知母
+arsenic    - 砒霜
+asarum    - 细辛
+asarum    - 野姜
+asparagus    - 天冬
+bupleurum    - 柴胡
+caladium    - 贝母
+calamus    - 白菖蒲
+allspice    - 众香子
+fructus corni   - 净萸肉
+hovenia dulcis   - 枳壳
+gastrodia elata   - 天麻
+tartar emetic   - 吐酒石
+herba epimedii   - 淫羊霍
+ginger    - 生姜
+gypsum    - 石膏
+hawthorn    - 山楂子
+hemlock    - 毒参
+Chinese Angelica - Extrat 当归提取物
+Conjugated Linoleic Acid (CLA) - 共轭亚油酸
+shrubby    - 麻黄
+storax    - 苏合香
+talcum    - 滑石粉
+tarragon    - 茵陈蒿
+toad    - 蟾蜍
+turmeric    - 姜黄
+vermillion    - 银砂
+vitriol    - 绿矾
+vulgaris    - 艾叶
+walnut    - 核桃
+yam    - 淮白
+zinnia    - 百日草

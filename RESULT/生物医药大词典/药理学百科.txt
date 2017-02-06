@@ -1,0 +1,1532 @@
+药理学百科
+
+SFDA，State Food and Drug Administration - 中国国家食品药品监督管理局
+FDA，Food and Drug Administration - 食品药品监督管理局
+receptor hypersensitization - 受体增敏
+Zhiwu Mingshi Tukao, Treatise on the Names, Facts and Illustrations of plants - 植物名实图考
+intermediate - 中间体
+medium grade [drug] - 中品
+spot of oil cavity - 朱砂点
+autolysis - 自溶［作用］
+autolysate - 自溶产物
+glycoside - 苷
+pyrrolidine alkaloid - 吡咯生物碱
+indolizidine alkaloid - 吲哚联啶生物碱
+quinolizidine alkaloid - 喹啉联啶生物碱
+community pharmacy, retail pharmacy - 社会药房
+main part of root and short rhizome - 身
+Shennong - 神农
+Shennong Bencaojing, Shen Nong's Herbal - 神农本草经
+physiological and biochemical property - 生理生化特征
+physical dependence - 生理依赖性
+biogenesis - 生源
+lifting, lowering, floating and sinking - 升降浮沉
+Shengji Zonglu, General Medical Collection of Royal Benevolence - 圣济总录
+eighteen incompatible medicaments - 十八反
+decade - 十倍程
+nineteen medicaments of mutual restraint - 十九畏
+non-classical prescriptions - 时方
+dietotherapy - 食治
+recognition - 识别
+four nature of drugs - 四气
+SU Jing - 苏敬
+SU Song - 苏颂
+SUN Si-Miao - 孙思邈
+TANG Shen-Wei - 唐慎微
+carbohydrate - 糖类
+TAO Hong-Jing - 陶弘景
+upper part of root or rhizome - 头
+mutabiosynthesis - 突变生物合成
+rider peak - 驼峰
+WANG Ang - 汪昂
+microbial medicine - 微生物药物
+lower part of root - 尾
+52 Bingfang - 五十二病方
+five flavours - 五味
+low grade [drug] - 下品
+aromatic drug - 香药
+effector - 效应物
+synergism - 协同
+Xinxiu Bencao, Newly Revised Canon of Materia Medica - 新修本草
+message - 信息
+preparation of crude drugs - 修事
+toxicokinetics - 毒动学
+toxicodynamics - 毒效学
+idiophase - 繁殖期
+rebound - 反跳
+tool for weighing medicine in ancient China - 方寸匕
+eufomer [disfomer] - 非等活性[对映]异构体
+molecular weight - 分子量
+molecular breeding - 分子育种
+take minerals - 服石
+negative mutant - 负变株
+extreme microorganism - 极端微生物
+admixture - 加药配液
+toluene distillation method - 甲苯蒸馏法
+chitin - 甲壳质
+formol titration - 甲醛滴定
+spacer - 间隔区
+simultaneous equations method - 解线性方程组法
+Jinkui Yaolue, Medical Treasures of the Golden Chamber - 金匮要略
+psychotropic - 精神药物
+classical prescriptions - 经方
+macerate in wine - 酒渍
+radial striations - 菊花心
+cluster analysis - 聚类分析
+biomass - 菌体量
+monarch,  minister, assistant and guide - 君臣佐使
+antiseptic - 抗菌防腐药
+KOU Zong-Shi - 寇宗
+drug dependent organism - 赖药菌
+Leigong Paozhilun, Lei Gong's Treatise on the Preparation - 雷公炮炙论
+LEI Xiao - 雷
+proteinoid - 类蛋白质
+heparinoid - 类肝素
+LI Shi-Zhen - 李时珍
+amphiphilic - 两亲的
+burning - 燎
+luminol - 鲁米诺
+distillate, exposed in the air at night - 露[剂]
+powder for anethesia - 麻沸散
+narcotic - 麻醉药
+proenzyme, zymogen - 酶原
+MENG Shen - 孟诜
+secret recipe - 秘方
+Mingyi Bielu - 名医别录
+mother liquor - 母液
+ruggedness - 耐用性
+external conversion of energy - 能量外转换
+blood coagulation factor - 凝血因子
+swelling degree - 膨胀度
+disk electrophoresis；flat-bed electrophoresis - 平板电泳仪
+Puji Fang, Prescriptions for Universal Relief - 普济方
+seven relations - 七情
+dismutation reaction - 歧化反应
+fermented medicine - 曲剂
+thermo-energy analyser, TEA - 热能分析器
+lysis - 溶胞［作用］
+lysogenic strain - 溶原性菌株
+three grades of drugs - 三品
+Sandell's sensitivity - 桑德尔灵敏度
+Shanghan Lun, Treatise on Cold-induced Febride Diseases - 伤寒论
+top grade [drug] - 上品
+supernatant - 上清液
+bureau of the Administration of Royal Medicinal Affairs - 尚药局
+positive mutant - 正变株
+Zhenghe Bencao - 政和本草
+Zhenglei Bencao, Classified Materia Medica - 证类本草
+azeotropic method - 共沸法
+co-synthesis                                                                   ? - 共合成
+Heji Ju Fang, Prescriptions of the Pharmacy Bureau - 和剂局方
+Muslin Medical Institute - 回回药物院
+The Bureau of People's Welfare Pharmacies, People's welfare pharmacies - 惠民和剂局
+minimal medium, MM - 基本培养基
+Pharmacokinetics Parameters - 药代动力学参数
+AUC - 血浆药物浓度—时间曲线下面积
+histamine - 组胺
+levodopa - 左旋多巴
+per os - 口服
+quinine - 奎宁
+quinolones - 喹诺酮类
+ranitidine - 雷尼替丁
+diuretic - 利尿剂
+reserpine - 利血平
+streptokinase - 链激酶
+magnesium sulfate - 硫酸镁
+pralidoxime chloride - 氯解磷定
+spiramycin - 螺旋霉素
+ephedrine - 麻黄碱
+morphine - 吗啡
+pilocarpine - 毛果云香碱
+methadone - 美沙酮
+metoprolol - 美托洛尔
+naloxone - 纳洛酮
+resistance - 耐药性，阻力
+nimodipine - 尼莫地平
+nitrendipine - 尼群地平
+ligand - 配体
+prednisone - 泼尼松
+prednisolone - 泼尼松龙
+propafenone - 普罗帕酮
+cardiac glycoside - 强心甙
+amoxicillin - 羟氨苄青霉素(阿莫西林)
+affinity - 亲和力
+artemisinin - 青蒿素
+hydrocortisone - 氢化可的松
+hydrochlorothiazide - 氢氯噻嗪
+gentamicin - 庆大霉素
+aldosterone - 醛固酮
+salbutamol - 沙丁胺醇
+sublingual - 舌下的
+neuroleptanalgesia - 神经安定镇痛术
+adrenoceptor - 肾上腺受体
+biochemical pharmacology - 生化药理学
+lithium carbonate - 碳酸锂
+terbutaline - 特布他林
+replacement therapy - 替代治疗
+amitriptyline - 阿密替林
+aspirin - 阿斯匹林
+atenolol - 阿替洛尔
+atropine - 阿托品
+diazepam - 安定
+ampicillin - 氨苄青霉素(阿比西林)
+aminoglycosides - 氨基糖甙类
+barbiturates - 巴比妥类
+allergy - 变态反应
+propylthiouracil - 丙基硫氧嘧啶
+sodium valproate - 丙戊酸钠
+Ibuprofen - 布洛芬
+residual period - 残留期
+stimulation - 刺激
+acetaminophen - 醋氨酚
+metabolite - 代谢物
+dicaine - 的卡因
+digoxin - 地高辛
+dexamethasone - 地塞米松
+scopolamine - 东莨菪碱
+catecholamine - 儿茶酚胺
+metformin - 二甲双胍
+excretion - 分泌,排泄
+fentanyl - 芬太尼
+phentolamine - 酚妥拉明
+halothane - 氟烷
+heroin - 海洛因
+sulfonylureas - 磺酰脲类药物
+agonist - 激动剂,兴奋剂，主动肌
+excitation - 激发，兴奋
+acute reaction - 急性反应
+dosage - 剂量
+nitroglycerin - 硝酸甘油
+carrier - 携带者，载体，载流子，带虫者
+laxative - 泻药
+propranolol - 心得安
+euphoria - 欣快症
+Neostigmine - 新斯的明
+bretylium - 溴苄胺
+angiotensin converting - 血管紧张素转换
+nicotine - 烟碱
+digitalis - 洋地黄
+oxidation - 氧化
+pharmacodynamics - 药（物）效（应）动力学
+agent - 药剂
+drug metabolism - 药物代谢
+metronidazole - 甲硝唑(灭滴灵)
+antagonist - 拮抗剂
+detoxification - 解毒,解毒作用
+psychopharmacology - 精神药理学
+caffeine - 咖啡因
+carbamazepine - 卡巴西平
+carbidopa - 卡比多巴
+kanamycin - 卡那霉素
+antiepileptic drug - 抗癫痫药
+antihypertensive drug - 抗高血压药
+antianxiety - 抗焦虑
+antimalarial drug - 抗疟药
+antibiotics - 抗生素
+antidiabetic drug - 抗糖尿病药
+negative chronotropic action - 负性变时效应
+mechanism of action - 作用机制
+neuromuscular blocking drug - 神经肌肉阻断药
+structure activity relationship - 构效关系
+margin of safety - 安全范围
+glycoside - 苷
+aglycone - 苷元
+chelation - 螯合作用
+bufanolide - 蟾蜍甾
+hydroxyl value - 羟值
+acceptor - 接纳体
+inoculum size - 接种量
+node - 节点
+anticoagulant - 抗凝血药
+antimalarial drug - 抗疟[疾]药
+light scattering - 光散射
+indirect action - 间接作用
+decoction - 煎剂
+consolidation - 固结
+solid dispersion - 固体分散物
+solid solution - 固体溶液
+acute toxicity - 急性毒性
+genetic engineering - 基因工程
+hormones - 激素类
+kinin - 激肽
+flavonoid - 黄酮类
+flavanone - 黄烷酮
+configuration - 构型
+immobilized enzyme - 固定化酶
+competitive inhibition - 竞争性抑制
+refined degree - 净度
+cleansing - 净制
+conformer - 构象异构体
+gene therapy - 基因疗法
+gene mapping - 基因图谱
+respiratory chain - 呼吸链
+integrator - 积分仪
+intramuscular injection - 肌内注射
+agonism - 激动
+agonist - 激动药[剂]
+anisotropic - 各向异性
+prosthetic group - 辅基
+coenzyme - 辅酶
+mixture - 合剂
+oven drying method - 烘干法
+cofactor - 辅因子
+by-product - 副产物
+side effect - 副作用
+application - 敷贴
+radiation sterilization - 辐射灭菌
+nucleic acid - 核酸
+ribose - 核糖
+ribosylation - 核糖基化
+nucleoside - 核苷
+carbohydrate - 糖类
+glucocorticoids - 糖皮质激素类
+sequence - 序列
+flocculation - 絮凝
+potentiation - 增强
+solubilizer - 增溶剂
+drug of choice - 选用药
+elimination - 消除
+disinfectant - 消毒药
+digestive enzymes - 消化酶类
+response time - 响应时间
+up regulation - 向上调节
+polarimeter - 旋光计
+lead compound - 先导化合物
+plasminogen activator - 纤溶酶原激活药
+cellulose - 纤维素
+suspension - 悬浮[液]
+bolus - 推注
+color fading - 褪色
+quintet - 五重峰
+pentosan - 戊聚糖
+pentose - 戊糖
+prodrug - 前药
+sterility - 无菌度
+sterile room - 无菌室
+bending vibration - 弯曲振动
+pill - 丸剂
+alkylating agent - 烷化剂
+modern drugs - 现代药
+restriction endonuclease - 限制［性内切核酸］酶
+linear kinetics - 线性动力学
+inhalation - 吸入
+inhalation - 吸入剂
+adsorbent - 吸附剂
+absorbance - 吸光度
+glycosaminoglycan - 糖胺聚糖
+glycoprotein - 糖蛋白
+syrup - 糖浆剂
+taste - 味
+primary action - 原发作用
+sedimentation - 疏松度
+topological index - 拓扑指数
+tubing - 输液管
+acid - 酸
+glycogen - 糖原
+glycolipid - 糖脂
+predictive value - 预测价值
+prophylactic - 预防用药
+food toxicology - 食品毒理学
+food additive - 食品添加剂
+rate constant - 速度常数
+solubilization - 增溶作用
+plasticizer - 增塑剂
+synergist - 增效剂
+related substance - 有关物质
+ecotoxicology - 生态毒理学
+biosensor - 生物传感器
+biocatalyst - 生物催化剂
+biomacromolecule - 生物大分子
+bioequivalence - 生物等效性
+time constant - 时间常数
+coagulant - 凝血药
+Newtonian fluid - 牛顿流体
+deionized water - 去离子水
+flexibility - 柔性
+botulinum toxin - 肉毒杆菌毒素
+hilum - 脐点
+organic synthesis - 有机合成
+organic acid - 有机酸
+thermal sterilization - 热力灭菌法
+cultural characteristic - 培养特征
+spray - 喷雾
+chromatography - 色谱法
+chromosomal aberration - 染色体断裂
+hot - 热
+thermocouple detector - 热电偶检测器
+holoenzyme - 全酶
+ethnic drug - 民族药
+embryotoxic - 胚胎[中]毒
+membrane potential - 膜电位
+membrane toxicology - 膜毒理学
+exposed in the sun - 曝
+filter - 滤器
+filtrate - 滤液
+spirostane - 螺甾烷
+pattern - 模式
+pattern recognition - 模式识别
+modeling and parameter estimation - 模型化与参数估计
+blue shift - 蓝移
+chloride - 氯化物
+filter cake - 滤饼
+ferrule - 卡套
+oleanane - 齐墩果烷
+foaming agent - 起泡剂
+initiation codon - 起始密码子
+antipyretic - 解热药
+luminol - 鲁米诺
+antipyretic analgesic - 解热镇痛药
+sterilization - 灭菌
+crystallinity - 结晶性
+depolymerization - 解聚
+burning - 燎
+immunoglobulins - 免疫球蛋白类
+immunosuppressant - 免疫抑制药
+immunoblotting - 免疫印迹
+Raney nickel - 拉尼镍
+wax - 蜡
+hypoglycemic - 降血糖药
+hypolipidemic - 降血脂药
+psychotropic - 精神药物
+antiviral drug - 抗病毒药
+preclinical - 临床前
+clinical trial - 临床试验
+crystal - 结晶
+crystallizer - 结晶罐
+antibiosis - 抗生作用
+antacid - 抗酸药
+anti-arrhythmic - 抗心律失常药
+Technology Study - 工艺研究
+Macroporous Adsorption Resin - 大孔树脂
+potency - 效价强度
+C  - 在t时的血药浓度（mg/L或μmol/L）
+Ca  - 在吸收部位液体中的药物浓度（mg/L或μmol/L）
+Cb  - 血液中的药物浓度（mg/L或μmol/h）
+Cbd  - 血浆中的结合药物浓度（mg/L或μmol/L）
+CD  - 离开透析器时透析液药物浓度（mg/L或μmol/L）
+CL  - 代谢抑制剂浓度（mg/L或μmol/L）
+CL  - 血浆药物总清除率（L/h）
+CLD  - 血浆药物透析清除率(L/h)
+CLR  - 药物肾消除率（L/h）
+Clu  - 未结合药物消除率（L/h）
+Cmax  - 一次给药后的最大血药浓度（mg/L或μmol/L）
+Cn  - 在第n次给药间隔期间任何t时的血药浓度
+Cpc  - 腹腔中药物浓度（mg/L或μmol/L）
+Css  - 在零级过程滴注（即恒速静脉滴注）后达稳态时的血药浓度（mg/L或μmol/L）
+C0  - 静脉注射后瞬时的血药浓度
+C∞  - 反复用药达稳态时每一给药间隔期间内任一时间t时的血药浓度
+CT  - 血浆外体液平均药物浓度（mg/L或μmol/L）
+Cu  - 血液中未结合药物浓度（mg/L或μmol/L）
+Cv  - 静脉血液中药物浓度（mg/L或μmol/L）
+D2  - 负荷剂量（mg或μmol/L）
+DM  - 固定剂量方案的维持剂量（mg或μmol/L）
+Aa  - 在吸收部位有待于吸收的药量（mg或μmol）
+Amin  - 达到预期药物效应的所需最小药量（mg或μmol）
+AN,t  - 在第N次给药后的t时间点的体内药量（mg或μmol）
+ARE  - 单次给药后，有待从尿中排泄的药量（mg或μmol）
+ASS  - 在恒速静脉滴注时，稳态时的体内药量（mg或μmol）
+Pharmacokinetics Parameters - 药代动力学参数
+distribution - 分布
+sealing - 封口
+sealing machine - 封口机
+peak time - 峰时间
+plaster - 膏药
+compartment - 隔室
+conjugate gradient method - 共轭梯度法
+conformation - 构象
+buccal - 含服
+assay - 含量测定
+cold - 寒
+environmental toxicology - 环境毒理学
+iridoid - 环烯醚萜
+bradykinin - 缓激肽
+resonance - 共振
+conjugation - 共轭
+thyroid hormones - 甲状腺激素类
+bogus drugs - 假药
+spacer - 间隔区
+ground state - 基态
+genetic manipulation - 基因操作
+nanoparticle - 毫微粒
+ribozyme - 核酶
+fractionation - 分级［分离］
+anticonvulsant - 抗惊厥药
+polyacrylamide gel - 聚丙烯酰胺凝胶
+aggregation - 聚集
+cluster analysis - 聚类分析
+polycation - 聚阳离子
+polyanion - 聚阴离子
+autolytic - 自溶的
+free energy - 自由能
+mutagenesis - 诱发突变
+callus - 愈伤组织
+wettability - 润湿性
+initiator - 引发剂
+primer - 引物
+moistening - 润
+propellent - 抛射剂
+processing - 炮制
+bark - 皮
+intradermal injection - 皮内注射
+parent compound - 母体化合物
+discriminant analysis - 判别分析
+dissolution - 溶出度
+solvent - 溶剂
+sol - 溶胶
+artificial neural network - 人工神经网络
+artificial intelligence - 人工智能
+fusant - 融合体
+melting point - 熔点
+lysis - 溶胞［作用］
+clinical verification - 临床验证
+clinical pharmacology - 临床药理学
+clinical pharmacist - 临床药师
+clinical pharmacy - 临床药学
+enzymatic activity - 酶活性
+enzymes - 酶类
+ion exchange - 离子交换
+ion exchange chromatography - 离子交换色谱法
+ion exchange resin - 离子交换树脂
+ionic strength - 离子强度
+narcotic - 麻醉药
+narcotics - 麻醉药品
+batch record - 批记录
+approbation - 批准
+anesthetic - 麻醉剂
+deflection - 曲折
+anthelmintic - 驱肠虫药
+migration time - 迁移时间
+spheroplast - 球形体
+zone electrophoresis - 区带电泳
+antirheumatic - 抗风湿药
+anti-infective - 抗感染药
+lignin - 木素
+lignan - 木脂体
+wood - 木
+antidiuretic - 抗利尿药
+particle size - 粒度
+particle size distribution - 粒度分布
+particle beam - 粒子束
+particle shape - 粒子形态
+buccal tablet - 口含片剂
+diuretic - 利尿药
+utilization - 利用
+stereoselective synthesis - 立体选择合成
+anti-tumor activity - 抗肿瘤活性
+clavulanic acid - 克拉维酸
+porosity - 孔隙率
+antiseptic - 抗菌防腐药
+antioxidant - 抗氧剂
+starch granule - 淀粉粒
+dispensing - 调剂
+telomer - 调聚物
+long term toxicity - 长期毒性
+feedback regulation - 反馈调节
+feedback inhibition - 反馈抑制
+countercurrent - 反流
+countercurrent distribution - 反流分布法
+dimer - 二聚体
+disulfide bond - 二硫键
+charge density - 电荷密度
+charge transfer - 电荷转移
+toxic effect - 毒效应
+protein binding - 蛋白结合
+proteolysis - 蛋白酶解
+proteolytic - 蛋白水解药
+secondary structure - 二级结构
+substitute - 代用品
+guarantine - 待验
+distribution of toxicant - 毒物分布
+t-test - t检验
+case control study - 病例对照研究
+hyaluronic acid - 玻璃酸
+disintegration - 崩解[作用]
+refractoriness - 不应性
+fraction - 部分
+secondary structure - 次生构造
+crude extract - 粗提物
+sesquiterpene - 倍半萜
+passive transport - 被动转运
+behavioral toxicology - 行为毒理学
+sex hormones - 性激素类
+stretching vibration - 伸缩振动
+over-effect - 过度作用
+transition state - 过渡态
+over dose - 过量
+azeotropic distillation - 共沸蒸馏
+molecular distillation - 分子蒸馏
+powder technology - 粉体[工]学
+rhizome - 根茎
+molecular pharmacology - 分子药理学
+molecular breeding - 分子育种
+filtration sterilization - 过滤灭菌
+anaphylactic response - 过敏反应
+anaphylaxis - 过敏性
+peroxide value - 过氧化值
+nonlinear mapping - 非线性映射
+parenteral administration - 非消化道给药
+generic drugs - 非专利药
+autoclave - 高压灭菌器
+hypertonic solution - 高张溶液
+high speed centrifugation - 高速离心
+preservative - 防腐剂
+monoclonal antibodies - 单克隆抗体类
+isolation - 单离
+polypeptide - 多肽
+equivalent diameter - 等效径
+section - 段
+polymer - 多聚体
+polysaccharide - 多糖
+epimerization - 差向异构化
+resolution - 拆分
+liniment - 搽剂
+hypnotic - 催眠药
+emetic - 催吐药
+friability - 脆碎度
+primary structure - 初生构造
+nourishing yin - 养阴
+fluorimetry - 荧光分析法
+generation - 相生
+sorting - 整理
+substitute - 替代药
+additive - 添加剂
+packing material - 填料
+labelling - 贴标签
+regeneration - 再生[作用]
+average diameter - 算术平均径
+adrenergic - 肾上腺素能药
+adrenoceptor - 肾上腺素受体
+stabilization - 稳定作用
+homolog - 同系物
+congener - 同源物
+absolute configuration - 绝对构型
+enzyme inhibitor - 酶抑制药
+enzyme induction - 酶诱导
+convergence - 收敛
+ridge regression - 岭回归
+tincture - 酊剂
+elixir - 酏剂
+microsphere - 微球
+microemulsion - 微乳
+microbiological assay - 微生物效价测定
+autolysis - 自溶［作用］
+combinatorial chemistry - 组合化学
+histological structure - 组织构造
+traditional Chinese drug - 中药
+Chinese materia medica - 中药学
+biosynthesis - 生物合成
+biosynthesis pathway - 生物合成途径
+biological activity - 生物活性
+light stability - 光稳定性
+respiratory toxicology - 呼吸系统毒理学
+sulfonamides - 磺胺类药
+adulterant - 混淆品
+suspension - 混悬剂
+computer graphics - 计算机图形学
+invigorating the stomach - 健胃
+strain improvement - 菌种选育
+zwitterion - 两性离子
+quantum chemistry - 量子化学
+antibiotic - 抗生素
+immunoassay - 免疫测定
+diffusion - 扩散
+mydriatic - 扩瞳药
+flow rate - 流速
+code - 密码
+enzyme electrode - 酶电极
+coagulation - 凝固作用
+agglutination - 凝集
+crushing strength - 破碎强度
+glucosidase inhibitor - 葡糖苷酶抑制药
+prostaglandins - 前列腺素类
+precursor - 前体
+herb - 全草
+powder - 散剂
+homogenate - 匀浆
+homogenization - 匀浆化
+homogenizer - 匀浆器
+sieve - 筛
+sieving - 筛析
+screening model - 筛选模型
+oily solution - 油溶液剂
+oleoresin - 油树脂
+optimization method - 最优化方法
+sensitization - 增敏
+receptor - 受体
+carbapenems - 碳青霉烯类
+degassing - 脱气
+decolorization - 脱色
+deoxyribose - 脱氧核糖
+soil microorganism - 土壤微生物
+vitamin - 维生素
+vitamins - 维生素类
+asepsis - 无菌
+aseptic - 无菌的
+bacterial endotoxin - 细菌内毒素
+lower epidermis - 下表皮
+balsam - 香树脂
+response surface - 响应面
+certificate - 许可证
+accumulation - 蓄积
+sera - 血清类
+cation exchange resin - 阳离子交换树脂
+alumina - 氧化铝
+biflavone - 双黄酮
+double bond - 双键
+biopharmacy - 生物药学
+bioorganic chemistry - 生物有机化学
+biological indicator - 生物指示剂
+snake venom - 蛇毒[液]
+uptake - 摄取
+mucopolysaccharide - 粘多糖
+binder - 粘合剂
+mucilage - 粘液
+hybridization - 杂交
+cross breeding - 杂交育种
+foreign matter - 杂质
+cultivation - 栽培
+longitudinal section - 纵切片
+repression - 阻遏
+block - 阻滞
+parent strain - 亲株
+penicillinase - 青霉素酶
+laxative - 轻泻药
+optimum pH - 最适pH
+least square method - 最小二乘法
+amylopectin - 支链淀粉
+bronchodilator - 支气管扩张药
+lipopolysaccharide - 脂多糖
+nootropic - 益智药
+tertiary structure - 三级结构
+unfolding - 伸展
+biopolymer - 生物高分子
+blotting - 印迹
+nutritional supplement - 营养补剂
+apolipoprotein - 载脂蛋白
+inactivation - 失活
+expiration date - 失效期
+test set - 试验集
+transformant - 转化子
+transposon - 转座子
+content uniformity - 装量差异
+carcinogen - 致癌物
+metabolism - 新陈代谢
+sedative - 镇静
+sedative - 镇静药
+subunit - 亚单元
+subacute toxicity - 亚急性毒性
+drug toxicology - 药物毒理学
+drug addiction - 药物成瘾性
+drug delivery system - 药物传递系统
+duckbill valve - 鸭嘴阀
+pharmacist - 药师
+decay - 衰变
+attenuation - 衰减
+warming yang - 温阳
+double blind - 双盲[法]
+warm - 温
+warming the kidney - 温肾
+effector - 效应物
+synergism - 协同
+calibration - 校正
+titer - 效价
+efficacy - 效能
+effect - 效应
+microsome - 微粒体
+micro cell - 微量吸收池
+trace element - 微量元素
+angiotensin converting enzyme inhibitor - 血管紧张素转化酶抑制药
+vasoconstrictor - 血管收缩药
+anabolic hormones - 同化激素类
+isomorphism - 同晶型
+homopolymer - 同聚物
+microporous membrane - 微孔滤膜
+microparticle - 微粒
+clearance - 清除率
+subjugation - 相乘
+relative density - 相对密度
+relative intensity - 相对强度
+biocompatibility - 生物相容性
+recognition - 识别
+initial response - 始初反应
+ketose - 酮糖
+isomer - 同分异构[体]
+elution - 洗脱
+eluant - 洗脱剂
+eluate - 洗脱物
+vaccine - 疫苗
+potential energy - 势能
+indication - 适应证
+bioassay - 生物检定
+bioavailability - 生物利用度
+bioinorganic chemistry - 生物无机化学
+cutting - ●咀
+half-life - 半衰期
+feeding - 补料
+feed rate - 补料速率
+collection - 采集
+collection period - 采收期
+reference electrode - 参比电极
+disintegration - 崩解时限
+pyrethroid - 除虫菊素类
+formulary - 处方集
+electrolytes - 电解质类
+ionization - 电离
+ultra-filtration - 超过滤
+ultrafiltration - 超滤
+protein - 蛋白质
+toxicity - 毒性
+toxicity test - 毒性实验
+poisonous substances - 毒性药品
+disaccharide - 二糖
+modulator - 调质
+wound - 跌打损伤
+watered - 发汗
+reverse osmosis - 反渗透
+rebound - 反跳
+reversed phase - 反相
+antitussive - 镇咳药
+analgesic - 镇痛药
+steaming - 蒸
+recrystallization - 重结晶
+heavy metal - 重金属
+furanose - 呋喃糖
+maintenance dose - 维持剂量
+mutual promotion - 相须
+condensation reaction - 缩合反应
+anaerobe - 厌氧菌
+yang - 阳
+drug release - 药物释放
+antagonism - 拮抗
+antagonist - 拮抗药[剂]
+pharmacokinetics - 药动学
+non-Newtonian fluid - 非牛顿流体
+agarose gel - 琼脂糖凝胶
+de-fatting - 去油
+aldose - 醛糖
+mutant - 突变株
+star graph - 星图
+shape, form - 形状
+cytochrome - 细胞色素
+bacterium - 细菌
+Ames test - 细菌回复突变试验
+leaf - 叶
+chloroplast - 叶绿体
+intrapleural injection - 胸膜内注射
+percolation - 渗滤法
+manufacture - 生产
+androgens - 雄激素类
+angle of repose - 休止角
+drug abuse - 药物滥用
+folic acid - 叶酸
+nitrous oxide - 一氧化亚氮(笑气)
+promethazine - 异丙嗪
+inhibition - 抑制
+depression - 抑制，减压
+indomethacin - 吲哚美辛,消炎痛
+redistribution - 再分布
+sedatives - 镇静药
+analgesia - 镇痛
+analgesics - 镇痛药
+carcinogenicity - 致癌力
+lethal dose - 致死量
+tranquilize - 安定
+tranquilizer - 安定药
+safety range - 安全范围
+safety evaluation - 安全评价
+safety - 安全性
+odorless - 无臭
+cytotoxicity - 细胞毒性
+cytokines - 细胞活素类
+cytokinins - 细胞激肽类
+incompatibility - 相畏
+signal processing - 信号处理
+message - 信息
+characteristics - 性状
+chemical carcinogens - 化学致癌剂
+chemotherapy - 化学治疗学
+chemotherapeutic drug - 化学治疗药
+antidiabetic - 抗糖尿病药
+action - 功能
+activation energy - 活化能
+activity - 活性
+active site - 活性部位
+activating blood circulation to dissipate blood stasis - 活血化瘀
+degradation - 降解
+contraindication - 禁忌证
+active substance - 活性物质
+active center - 活性中心
+jelly - 胶冻剂
+mucilage - 胶浆剂
+colloidal particle - 胶粒
+molecular sieve - 分子筛
+molecular formula - 分子式
+pectin - 果胶
+process analysis - 过程分析
+in process control - 过程质量控制
+chitin - 甲壳质
+admixture - 加药配液
+processing - 加工
+additivity - 加和性
+filtration - 过滤
+chemical modification - 化学修饰
+chemical drugs - 化学药品
+nucleotide - 核苷酸
+light line - 光辉带
+breed - 养殖
+drug screening - 药物筛选
+medicinal gas - 药用气体
+resources of medicinal plant - 药用植物资源
+stele - 中柱
+termination - 终止
+terpenoid - 萜类
+anthraquinone - 蒽醌
+spirit - 醑剂
+limulus test - 鲎试验
+abnormality - 异常
+isomerization - 异构化
+boil with water - 水煮
+triplet - 三联体
+pigment - 色素
+chromone - 色酮
+color - 色泽
+immunomodulator - 免疫调节药
+lectin - 凝集素
+gel electrophoresis - 凝胶电泳
+gel filtration - 凝胶过滤
+gel - 凝胶剂
+gel chromatography - 凝胶色谱法
+chromatogram - 色谱图
+bulk density - 堆密度
+fermentation period - 发酵周期
+official name - 法定名
+legal obligation - 法律责任
+dalton - 道尔顿
+filament - 灯丝
+isoelectric point - 等电点
+isoelectrofocusing - 等电聚焦
+fermentation technology - 发酵工艺
+fermentor - 发酵罐
+fermentation broth - 发酵液
+protein drug - 蛋白质类药物
+blender - 捣碎器
+toxicokinetics - 毒动学
+toxicology - 毒理学
+quantitative pharmacology - 定量药理学
+cohort study - 定群调查
+kinetic resolution - 动力学拆分
+back propagation - 反向传播
+monosaccharide - 单糖
+monomer - 单体
+check valve - 单向阀
+capping - 顶裂
+lozenge - 锭剂
+metered-dose inhaler - 定量吸入器
+encapsulation - 包囊
+coated tablet - 包衣片剂
+target - 靶
+amino acid - 氨基酸
+amino acids - 氨基酸类
+oligomer - 寡聚体
+oligosaccharide - 寡糖
+oligopeptide - 寡肽
+split - 分流
+partition coefficient - 分配系数
+excited state - 激发态
+centipede venom - 蜈蚣毒[液]
+chelate - 螯合物
+calcining - 煅
+styloid - 柱晶
+expectorant - 祛痰药
+habituation - 习惯性
+detergent - 洗涤剂
+lotion - 洗剂
+peptide bond - 肽键
+peptide antibiotics - 肽类抗生素
+peptide chain - 肽链
+peptone - 胨
+therapeutic action - 治疗作用
+Chinese patent medicine - 中成药
+intoxication - 中毒
+mass spectrum - 质谱图
+drug information - 药物信息
+materia medica - 药物学
+vein - 叶脉
+lipid - 脂质
+size - 大小
+metabolite - 代谢产物
+polishing - 打光
+macroporous resin - 大孔树脂
+iodide - 碘化物
+drip - 滴注
+substrate - 底物
+cholinergic - 胆碱能药
+invigorating the kidney - 补肾
+promoter - 促进剂
+gonadotrophins - 促性腺激素类
+purity - 纯度
+purification - 纯化
+magnetic microsphere - 磁性微球
+ionizing radiation - 电离辐射
+electrofusion - 电融合
+deformation vibration - 变形振动
+deterioration - 变质
+label - 标签
+prescription drugs - 处方药
+amino acid composition - 氨基酸组成
+aminoglycoside modifying enzyme - 氨基糖苷钝化酶
+aminoglycoside antibiotics - 氨基糖苷类抗生素
+aging - 陈化
+ultrafilter - 超滤器
+hyperplane - 超平面
+sedimentation - 沉降
+sedimentation velocity - 沉降速度
+N-terminal - N端
+clarity - 澄清度
+gear pump - 齿轮泵
+incubation - 保温
+essential fatty acid - 必需脂肪酸
+expression vector - 表达型载体
+apparent viscosity - 表观粘度
+surfactant - 表面活性剂
+specific heat - 比热
+colorimetric method - 比色法
+unsaturated fatty acid - 不饱和脂肪酸
+asymmetric synthesis - 不对称合成
+specific surface area - 比表面积
+specific activity - 比活
+addiction - 成瘾性
+film dispersion method - 薄膜分散法
+residue - 残基
+residual solvent - 残留溶剂
+chemotherapy      - 化学药物治疗
+drug reaction     - 药物反应
+immunogenicity      - 免疫原性
+prohormone      - 激素原
+oligosaccharides      - 低聚糖
+haptene      - 半抗原
+excipients      - 辅料
+carrier      - 载体
+gamma rays     - 丙种射线
+adjuvant      - 佐剂
+biopharmacy      - 生物药剂学
+effective rate     - 有效率
+molarity      - 摩尔浓度
+disintegration      - 崩解度
+macromolecule      - 大分子
+proenzyme      - 酶原
+antagonism      - 拮抗作用
+isomerase      - 异构酶
+acetylcholine      - 乙酰胆碱乙酰胆碱
+biological product     - 生物制品
+saponins      - 皂甙
+acetylcholinesterase      - 乙酰胆碱酯酶
+levulose      - 左旋糖
+transmitter      - 递质
+preparation      - 制剂
+penetration enhancers     - 穿透促进剂
+dextrose      - 右旋糖
+bactericidal activity     - 杀菌活性
+cold-storage      - 冷藏
+dosage form     - 剂型
+superoxide      - 过氧化物
+gas analysis     - 气体分析
+liniments      - 搽剂
+glycolysis      - 酵解
+antibacterial spectrum     - 抗菌谱
+potency      - 效价强度
+chiral drug     - 手性药物
+normal solution     - 当量溶液
+coated tablet     - 包衣片
+hydrolysis      - 水解（作用）
+detoxication      - 解毒作用
+drug combination     - 合并用药
+sensitization      - 致敏作用
+normality      - 当量浓度
+acute toxicity test    - 急性毒性实验
+implants      - 埋植剂
+solute      - 溶质
+drug standard     - 药品质量标准
+oral administration     - 口腔内给药
+synergism      - 协同作用
+light quantum     - 光量子
+aerogel      - 气凝胶
+receptor antagonist     - 受体拮抗剂
+activation      - 激活作用
+artificial antigen     - 人工合成抗原
+drug sensitive test    - 药敏试验
+drug distribution     - 药物分布
+monoclonal antibody     - 单克隆抗体
+additive      - 附加剂
+potency      - 效价
+mole      - 摩尔
+inhalation      - 吸入法
+crude drugs     - 生药
+drug absorption     - 药物吸收
+lag time     - 时滞
+inulin - 菊糖
+chewable tablet - 咀嚼片剂
+chewing - 咀嚼用
+colloid mill - 胶体磨
+colloidal solution - 胶体溶液
+cross-contamination - 交叉污染
+electrostatic spray - 静电喷雾
+intravenous drip - 静脉滴注
+intravenous injection - 静脉注射
+anxiolytic - 抗焦虑药
+capsule - 胶囊剂
+gelation - 胶凝作用
+anticholinergic - 抗胆碱能药
+antithrombotic - 抗血栓药
+compressibility - 可压性
+physical and chemical identification - 理化鉴定
+spray drying - 喷雾干燥
+nebulizer - 喷雾器
+swelling degree - 膨胀度
+batch number - 批号
+complex - 络合物
+membrane filtration - 膜过滤
+pellicle - 膜剂
+membrane fluidity - 膜流动性
+membrane permeability - 膜通透性
+concentration-time curve - 浓度-时间曲线
+concentration - 浓度
+odour - 气
+stomatal index - 气孔指数
+aerosol - 气雾剂
+affinity chromatography - 亲和色谱法
+affinity - 亲和性
+heat stability - 热稳定性
+pyrogen - 热原
+cream - 乳膏
+emulsifier - 乳化剂
+emulsion - 乳剂
+supernatant - 上清液
+drink - 饮
+decoction pieces - 饮片
+efficacy - 有效性
+sexual propagation - 有性繁殖
+sticking - 粘冲
+viscoelasticity - 粘弹性
+viscometer - 粘度计
+bioreactor - 生物反应器
+heteropolysaccharide - 杂多糖
+hybridization - 杂化
+gum - 树胶
+numerical taxonomy - 数值分类法
+acidity - 酸度
+acidic mucopolysaccharide - 酸性粘多糖
+scalding - 烫
+inhaler - 吸入器
+factor analysis - 析因分析
+linear programming method - 线性规划法
+angiotensin - 血管紧张素
+vacuum distillation - 真空蒸馏
+true density - 真密度
+blood viscosity - 血液粘度
+fumigant - 熏剂
+plant tissue culture - 植物组织培养
+licensed pharmacist - 执业药师
+pharmaceutical administration - 药事管理
+trypsin inhibitor - 胰蛋白酶抑制剂
+specificity - 专一性
+quality standard - 质量标准
+sterol - 甾醇
+steroid - 甾族化合物
+main constituent - 主成分
+backbone - 主链
+drying in the sun - 晒干
+upper punch - 上冲
+cutting - 切
+substituent - 取代基
+deproteinization - 去蛋白作用
+controlled trial - 对照试验
+draught - 顿服
+dopamine agonist - 多巴胺激动药
+variance - 方差
+analysis of variance - 方差分析
+oily - 泛油
+aromatase inhibitor - 芳香酶抑制药
+electrophoresis - 电泳
+electroporation - 电致孔[作用]
+fermentation - 发酵
+fermentation parameter - 发酵参数
+rigidity - 刚性
+molecular weight - 分子量
+negative feedback - 负反馈
+dosage regimen - 给药方案
+chemical bond - 化学键
+chemical equilibrium - 化学平衡
+C-terminal - C端
+safety factors - 安全因素
+placebo - 安慰剂
+saturated calomel electrode - 饱和甘汞电极
+saturated fatty acid - 饱和脂肪酸
+Northern blot - RNA印迹
+analog - [结构]类似物
+filter press - 板框压滤机
+intermediate product - 半成品
+molecular size - 分子大小
+molecular orbital - 分子轨道
+dry cell weight - 干菌量
+drying - 干燥
+excipient - 赋形剂
+compound recipe - 复方
+complementarity - 互补性
+anthocyanin - 花色苷
+dose-effect relationship - 剂量效应关系
+specification - 规格
+regression coefficient - 回归系数
+recovery - 回收
+base pairing - 碱基配对
+shear viscosity - 剪切粘度
+tachyphylaxis - 快速耐受
+mineral salts - 矿物盐类
+proteinoid - 类蛋白质
+heparinoid - 类肝素
+continuous development - 连续展开
+beaded - 连珠状
+chondroitin sulfate - 硫酸软骨素
+sulfate - 硫酸盐
+germination period - 萌发期
+lysogenic strain - 溶原性菌株
+heterokaryon - 异核体
+yin - 阴
+cyanide - 氰化物
+prototype - 原型
+tertiary structure - 三生构造
+trisaccharide - 三糖
+hardness - 硬度
+plaster - 硬膏剂
+hard capsule - 硬胶囊剂
+preliminary identification - 早期鉴别
+saponification - 皂化
+saponins - 皂苷类
+sapogenin - 皂苷元
+biotechnology - 生物技术
+decade - 十倍程
+transudate - 渗出液
+osmolarity - 渗量
+astringent - 收敛药
+yield - 收率
+chirality - 手性
+chiral separation - 手性拆分
+compliance - 顺从性
+pith - 髓
+withdrawal syndrome - 停药综合征
+air flow - 通气量
+microbial medicine - 微生物药物
+micelle - 微团
+raw material - 原料
+protoplast - 原生质体
+chronic toxicity - 慢性毒性
+ruggedness - 耐用性
+quality evaluation - 品质评价
+calm - 平
+granulator - 颗粒机
+granule - 颗粒剂
+anti-arthritic - 抗关节炎药
+photon - 光子
+broad spectrum - 广谱
+thrombolytic - 溶血栓药
+solution - 溶液
+hexose - 己糖
+dose - 剂量
+regression analysis - 回归分析
+library searching - 库检索
+fast Fourier transform - 快速傅里叶变换
+freezing test - 结冻试验
+binding site - 结合部位
+bound water - 结合水
+calcium salt - 钙盐
+base - 碱
+alkalinity - 碱度
+fed-batch fermentation - 分批补料发酵
+dispersion - 分散
+hormone - 激素
+critical process - 关键工艺
+functional group - 官能团
+paste - 糊剂
+bionics - 仿生学
+scale-up - 放大试验
+radionuclide - 放射性核素
+actinomycete - 放线菌
+deuterium - 氘
+tritium - 氚
+peptide - 肽
+stewing - 炖
+factorial experiment - 析因实验
+adsorption - 吸附
+rare actinomycete - 稀有放线菌
+action - 作用
+mode of action - 作用方式
+dilution method - 稀释法
+relative bioavailability - 相对生物利用度
+relative viscosity - 相对粘度
+inhibitor - 抑制剂
+cohesiveness - 粘着性
+folding - 折叠
+conjugated protein - 缀合蛋白质
+coloring agent - 着色剂
+chalone - 抑素
+resources - 资源
+standard deviation - 标准差
+standard substance - 标准品
+standard curve - 标准曲线
+standard error - 标准误［差］
+expression - 表达
+toxic action - 毒作用
+medicinal herb - 草药
+side chain - 侧链
+ultracentrifugation - 超速离心
+precipitation - 沉淀
+electrodialysis - 电渗析
+three dimensional structure - 三维结构
+homeopathy - 顺势疗法
+sliver - 丝
+sodium tetraphenylborate - 四苯硼钠
+pesticide - 杀虫药
+chiral molecule - 手性分子
+identification - 鉴别
+protostane - 原萜烷
+renaturation - 复性
+peritoneal injection - 腹膜内注射
+dead-stop titration - 永停滴定法
+refrigeration - 冷冻［作用］
+biomass - 菌体量
+cell concentration - 菌体浓度
+enzyme - 酶
+enzymatic reaction - 酶促反应
+mean diameter - 平均粒径
+fluidity - 流动性
+endotoxin - 内毒素
+endopeptidase - 内肽酶
+reverse transcriptase - 逆［转］录酶
+silica gel - 硅胶
+silica gel column chromatography - 硅胶柱色谱法
+alchemy - 炼丹术
+cool - 凉
+amphiphilic - 两亲的
+chemical constituent - 化学成分
+chemical kinetics - 化学反应动力学
+mixing - 混合
+mixer - 混合机
+interfacial tension - 界面张力
+dielectric constant - 介电常数
+mediator - 介质
+sweet - 甘
+intermolecular - 分子间[的]
+molecular structure - 分子结构
+molecular mechanics - 分子力学
+molecular connectivity - 分子连接性
+enema - 灌肠剂
+lavage - 灌洗
+perfusion - 灌注
+filling machine - 灌装机
+adulteration - 掺伪
+toxigenicity - 产毒性
+output - 产量
+producing strain - 产生菌
+finished product - 成品
+vertex degree - 点指数
+metabolic pathway - 代谢途径
+cholic acid - 胆酸
+bile acid - 胆汁酸
+bile salt - 胆汁盐
+toxicologist - 毒理学家
+benzophenone - 二苯甲酮
+electronic configuration - 电子构型
+starch - 淀粉
+dopaminergic - 多巴胺能药
+Area Under the Curve - 药时曲线下面积/血药浓度-时间曲线下面积
+Aspartate aminotransferase - 天门冬氨酸氨基转移酶
+attenuated total reflection - 衰减全反射法
+Body Mass Index - 体质指数
+Compassionate use - 体恤使用
+Excel - 依格斯公司
+hydration - 水合
+hydrate - 水合物
+hydrolysis - 水解
+extract - 提取物
+in vitro tests - 体外试验
+isotope - 同位素
+microencapsulation - 微囊化
+striation - 纹理
+stabilizer - 稳定剂
+stability study - 稳定性试验
+system model - 系统模型
+correlation coefficient - 相关系数
+addition - 相加
+restriction - 相克
+pungent - 辛
+salting out - 盐析
+oxygen consumption rate - 氧消耗率
+evaporation - 蒸发
+distillation - 蒸馏
+steam sterilization - 蒸汽灭菌
+UV irradiation - 紫外光照射
+median diameter - 中间粒径
+intermediate - 中间体
+tolerance - 耐受
+resistant organism - 耐药菌
+resistance - 耐药性
+solubility - 溶解度
+dissolved oxygen - 溶解氧
+fibrinolytic - 溶纤维蛋白药
+slice - 片
+tablet - 片剂
+core - 片心
+antineoplastic - 抗肿瘤药
+hypertoxic - 剧毒的
+drug combination - 联合用药
+union - 联接头
+antihyperglycemic - 抗高血糖药
+enzyme immunoassay, EIA - 酶联免疫分析
+enzyme inhibition - 酶抑制
+bitter - 苦
+cytotoxic - 细胞[中]毒
+X  - 在t时体内的药量，稳态时体内的“平均”药量（mg或μmol）
+XA  - 在t时吸收到体循环中的药量（mg或μmol）
+enzyme-linked immunosorbent assay - 酶联免疫吸附测定
+splitless - 无分流
+determination of water - 水分测定
+ceramic filter - 陶瓷滤器
+intrinsic viscosity - 特性粘度
+gradient centrifugation - 梯度离心
+gradient elution - 梯度洗脱
+extraction - 提取
+biotransformation - 生物转化
+crude drug - 生药
+pharmacognosy - 生药学
+fertility index - 生育指数
+idiosyncrasy - 特异质
+feature - 特征
+neurotoxic - 神经[中]毒
+neurotransmitter - 神经递质
+reproductive toxicology - 生殖毒理学
+sublimation - 升华
+neuromuscular blocking drug - 神经肌肉阻滞药
+Shennong - 神农
+acid value - 酸值
+pharmacology - 药理学
+drug - 药品
+hemorheology - 血液流变学
+blood coagulation - 血液凝固
+genetic toxicology - 遗传毒理学
+direct compression - 直接压片
+amylose - 直链淀粉
+hospital pharmacy - 医院药房
+hospital pharmacy - 医院药学
+fibrinolysis - 血纤蛋白溶解
+plasminogen - 血纤蛋白溶解酶原
+pharmacophore - 药效团
+pharmacodynamics - 药效学
+pharmacy - 药学
+pharmaceutics - 药剂学
+drug standard - 药品标准
+drug dependence - 药物依赖性
+pharmaceutical preparation - 药物制剂
+salt - 咸
+microscopical identification - 显微鉴定
+pharmaceutical technology - 制药工艺学
+plasmid-mediated resistance - 质粒介导的耐药性
+boiling - 煮
+spore suspension - 孢子悬浮液
+quinoline alkaloid - 喹啉生物碱
+preparative chromatography - 制备色谱法
+carbonizing - 制炭
+expert system - 专家系统
+digestant - 助消化药
+suspending agent - 助悬剂
+storage - 贮藏
+registration - 注册
+syringe pump - 注射泵
+injection - 注射剂
+replacement - 置换
+ammonia nitrogen - 氨氮
+amino nitrogen - 氨基氮
+surface energy - 表面能
+surface character - 表面特征
+surface tension - 表面张力
+particulate matter - 不溶性微粒
+reluctance - 磁阻
+estrogens - 雌激素类
+Michelson interferometer - 迈克尔森干涉仪
+Rac  - 累积指数（无单位）
+E  - 抽提比（无单位）
+EC50  - 产生1/2最大效应的浓度（mg/L或μmol/L）
+EH  - 肝抽提比（无单位）
+Emax  - 最大效应（使用效应测量单位）
+fp  - 血浆中未结合药物的分数
+fs  - 唾液中未结合药物的分数
+F  - 药物生物利用度(无单位)
+fO  - 透析治疗期间，透析清除率占总清除率的分数（无单位）
+fe  - 原形药物在尿中的排泄分数（无单位）
+FEV1  - 一秒钟的强制呼吸量（L）
+FH  - 进入肝脏的药物逃过首过消除的分数（无单位）
+fm  - 进入体循环的药物转变为代谢物的分数（无单位）
+Fm  - 以代谢物形式进入体循环的药物占药物剂量的比例分数（无单位）
+FR  - 在肾小管重吸收的药物分数（无单位）
+fu  - 血浆未结合药物与总药物浓度的比例分数（无单位）
+fu  - 当结合力改变时，血浆未结合药物与总药物浓度的比例分数（无单位）
+fuR  - 细胞内液中未结合药物与总药物浓度的比例分数（无单位）
+fuT  - 血浆外组织中未结合药物与总药物浓度的比例分数（无单位）
+γ  - 浓度—效应关系曲线的形状因子（无单位）
+GFR  - 肾小球滤过率（mL/min或L/h）
+K  - 在一定模型的表观一级消除速率常数（h-1）
+KA  - 药物与蛋白的结合常数（L/mol）
+kD  - 透析治疗中，患者的消除速率常数（h-1）
+Ke  - 尿排泄速率常数，也指表观一级吸收速率常数（h-1）
+K0  - 在一室模型表现一级肾脏排泄速率常数，也指零级输入或滴注速率常数（h-1）
+K10  - 从中央室消除的表观一级速率常数
+kf  - 代谢物形成速率常数（h-1）
+K1  - 抑制平衡常数（mg/L或μmol）
+Km  - 在一室模型代谢转化的表观一级速率常数（即代谢物的消除速率常数），也有代表Michaelis常数（h-1）
+Ki  - 在肾衰竭时的处置速率常数（h-1）
+Kp  - 药物在血液或血浆与组织之间的平衡分布比例系数（无单位）
+RT  - 药物离开组织的速率分数（h-1）
+kt  - 转换速率分数（h-1）
+m  - 效应强度-对数浓度曲线中段的斜率（使用效应测量单位）
+MRT  - 一个分子在体内的平均驻留时间(h)
+Mu  - 到t时尿中排泄的代谢物量
+n  - 多次用药所给剂量的次数
+P  - 通透系数（cm/min或cm/h）
+Q  - 总体清除率（L/min或L/h）
+Q0  - 肾清除率
+Qc  - 肌酐肾清除率
+QD  - 血液透析系统中的透析液流量（L/min或L/h）
+Qf  - 血液滤过系统中滤过液的流速(L/min或L/h)
+QH  - 肝血流量（门静脉加肝动脉）(L/min或L/h)
+ρ  - 血细胞内药物与血浆未结合药物的浓度比（无单位）
+Rd  - 某特殊病人未结合清除率与普通病人未结合清除率的比例（无单位）
+RF  - 某特殊病人的肾功能与普通病人肾功能的比例分数（无单位）
+Ro  - 恒速静脉滴注速率（mg/h）
+Rt  - 转换率（mg/h）
+S  - 纯度因子（无单位）
+SA  - 表面积（m2）
+τ  - 给药间隔（h）
+Tmax  - 维持血浆浓度于Cupper和Clower之间的最大给药间隔时间（h）
+Tmax  - 血管外给药时，达到最大血药浓度时的时间（h）
+td  - 作用持续时间（h）
+tp  - 一次给药后最大血药浓度出现的时间
+tp  - 反复用药达稳态时，在每一给药间隔期间最大血药浓度出现的时间
+Tm  - 药物转运（分泌）进入肾小管的最大速率（mg/h）
+Tt  - 转换时间（h）
+V  - 建立在血浆浓度基础上的表观分布容积，即在一室模型药物的表观分布容积（L）
+VB  - 血液容量（L）
+Vc  - 中央室的分布表观容积（L）
+Vd  - 在多室模型药物的表观分布容积，系指体内药量和后分布相血药浓度之间的一个比例常数（L）
+V1  - 起始稀释房室容积（L）
+Vm  - 用动力学Michaelis-Menten所描述过程的理论上的最大速率（mg/h或μmol/L）
+Vp  - 血浆容量（L）
+VPC  - 腹腔中透析液容量（L）
+VR  - 细胞内液中的水容量（L）
+VT  - 血浆外药物分布的生理容量（L）
+Vss  - 建立在血浆药物浓度基础上的稳态表观分布容积（L）
+Vu  - 建立在血浆未结合药物浓度基础上的表观分布容积
+Xc  - 在t时中央室的药量（mg或μmol）
+Xn  - 反复用药在第n个给药间隔期间任何时间t时的体内药量（mg或μmol）
+Xt  - 在周边室的药量（mg或μmol）
+Xu  - 尿中排泄的原形药物累积药量（mg或μmol）
+X0  - 负荷剂量或初剂量（mg或μmol）
+Ae  - 尿中累积原形药物排泄量（mg或μmol）

@@ -1,0 +1,102 @@
+动物学百科
+
+Climbing perch - 龟壳攀鲈鱼
+opah - 月鱼
+Chinese mitten crab (Eriocheir sinensis) - 大闸蟹
+Balanus albicostatus - 白脊藤壶
+Elaphrus viridis - 三角绿步行虫
+Fabricius;Sternochetus frigidus - 芒果象甲
+Otistarda - 大鸨
+Grusnigricollis - 黑颈鹤
+Apusapus - 楼燕
+Lepus tolai - 蒙古兔
+Glareolamaldivarum - 燕鸻
+Pipilo crissalis eremophilus - 北美红眼雀
+Cuculusmicropterus - 四声杜鹃
+Milvusmilvus - 鸢
+Aquila chrysaetos - 金鵰
+Gypaetusbarbatus - 胡兀鹫
+Lophuranycthemera - 白鹇
+Syrmaticus - 长尾雉
+Tragopan caboti - 黄腹角雉
+Egrettagarzetta - 白鹭
+Cuculuscanorus - 大杜鹃
+peacock - 孔雀
+chicken - 鸡，雏鸡
+hen - 母鸡
+cock - 公鸡
+heron - 苍鹰
+walrus - 海象
+porpoise - 大西洋鼠海豚
+dolphin - 河豚
+armadillo - 犰狳
+porcupine - 箭猪，豪猪
+hedgehog - 刺猬
+koala - 考拉，树袋熊
+anteater - 食蚁兽
+sloth - 獭猴
+monkey - 猴子
+voles - 田鼠
+mouse - 家鼠
+mole - 鼹鼠
+marmot - 土拨鼠
+gopher - 囊地鼠
+hare - 野兔
+boar - 种猪
+heifer - 小母牛
+cow - 母牛
+buffalo - 水牛
+ox - 牛
+mule - 骡
+mustang - 野马
+pony - 矮马
+frog - 青蛙
+tortoise - 玳瑁
+turtle - 龟
+alligator - 短吻鳄，美洲鳄
+macaw - 金刚鹦鹉
+parrot - 鹦鹉
+albatross - 信天翁
+snipe - 鹬
+stork - 鹳
+ptarmigan - 雷鸟
+partridge - 石鸡，鹧鸪
+grouse - 松鸡
+pheasant - 雉，野鸡
+pigeon - 野鸽
+dove - 鸽
+cob - 雄天鹅
+pelican - 鹈鹕
+goose - 鹅
+teal - 小野鸭
+mallard - 野鸭，凫
+duck - 鸭
+peacock - 孔雀
+chicken - 鸡，雏鸡
+hen - 母鸡
+cock - 公鸡
+heron - 苍鹰
+walrus - 海象
+porpoise - 大西洋鼠海豚
+dolphin - 河豚
+armadillo - 犰狳
+porcupine - 箭猪，豪猪
+hedgehog - 刺猬
+koala - 考拉，树袋熊
+anteater - 食蚁兽
+sloth - 獭猴
+monkey - 猴子
+voles - 田鼠
+mouse - 家鼠
+mole - 鼹鼠
+marmot - 土拨鼠
+gopher - 囊地鼠
+hare - 野兔
+boar - 种猪
+heifer - 小母牛
+cow - 母牛
+buffalo - 水牛
+ox - 牛
+mule - 骡
+mustang - 野马
+pony - 矮马

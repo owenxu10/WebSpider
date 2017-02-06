@@ -1,0 +1,28 @@
+通用公式
+ 
+年龄 / Age
+贝叶斯定理灵敏度、特异性及概率 / Bayesian Sensitivity, Specificity, Probabilities
+体质指数和体表面积 / BMI and Body Surface Area (BSA)
+小儿气管插管的管道规则 / Endotracheal Tube (ETT) Size for Pediatrics
+链球菌咽炎的修正Centor 评分 / Modified Centor Score for Strep Pharyngitis
+似然比(LR) / Likelihood Ratios
+比值比-概率 / Odds-Probability
+验后概率(Sn/Sp) / Post-test Prob.(Sn/Sp)
+验后概率(LR) / Post-test Probability(LR)
+日常生活能力量表(ADL)(Barthel指数) / Activity of Daily Living Scale，ADL
+抑郁自评量表(SDS) / Self-Rating Depression Scale,SDS
+焦虑自评量表(SAS) / Self-Rating Anxiety Scale,SAS
+贝克抑郁自评量表 Beck Depression Inventory,BDI
+
+
+
+
+
+
+
+
+
+
+
+
+

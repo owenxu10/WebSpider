@@ -1,0 +1,312 @@
+林业百科
+
+Allometric Growth Relationship - 异速生长关系
+tree stratum - 乔木层
+stem analysis - 树干解析
+stem volume - 树干材积
+grove - 树丛
+thinning - 疏伐
+sediment discharge - 输沙量
+seedling seed orchard - 实生苗种子园
+rockery - 石假山
+wettability - 湿润性
+living resources - 生物资源
+biosphere reserve - 生物圈保护区
+growth stress - 生长应力
+growth model - 生长模型
+dune - 沙丘
+desert - 沙漠
+sanding - 砂光
+forest recreation - 森林游乐
+forest soil - 森林土壤
+forest ecology - 森林生态学
+forest ecosystem - 森林生态系统
+forest climate - 森林气候
+rigging - 索具
+condensed tannin - 缩合类单宁
+particle - 碎料
+headward erosion - 溯源侵蚀
+rosin acid - 松香酸
+soil and water conservation measures - 水土保持措施
+water loss - 水损失
+water erosion - 水蚀
+aquatic plant - 水生植物
+phellandrene - 水芹烯
+arboretum - 树木园
+overhead shading - 上方遮荫
+undergrowth - 下木层
+bed load - 推移质
+soil conservation - 土壤保持
+coating - 涂布
+bleed-through - 透胶
+poaching - 偷猎
+tung oil - 桐油
+stiffness - 挺度
+overlay - 贴面
+skyline - 天际线
+uronic acid - 糖醛酸
+terrace garden - 台地园
+terrace - 台
+pagoda - 塔
+cable system - 索系
+pine wood nematode - 松材线虫
+gully erosion - 切沟侵蚀
+tree stratum - 乔木层
+stem analysis - 树干解析
+stem volume - 树干材积
+grove - 树丛
+thinning - 疏伐
+sediment discharge - 输沙量
+seedling seed orchard - 实生苗种子园
+rockery - 石假山
+wettability - 湿润性
+living resources - 生物资源
+biosphere reserve - 生物圈保护区
+growth stress - 生长应力
+growth model - 生长模型
+dune - 沙丘
+desert - 沙漠
+sanding - 砂光
+forest recreation - 森林游乐
+forest soil - 森林土壤
+forest ecology - 森林生态学
+forest ecosystem - 森林生态系统
+forest climate - 森林气候
+rigging - 索具
+condensed tannin - 缩合类单宁
+particle - 碎料
+headward erosion - 溯源侵蚀
+rosin acid - 松香酸
+soil and water conservation measures - 水土保持措施
+water loss - 水损失
+water erosion - 水蚀
+aquatic plant - 水生植物
+phellandrene - 水芹烯
+arboretum - 树木园
+overhead shading - 上方遮荫
+undergrowth - 下木层
+bed load - 推移质
+soil conservation - 土壤保持
+coating - 涂布
+bleed-through - 透胶
+poaching - 偷猎
+tung oil - 桐油
+stiffness - 挺度
+overlay - 贴面
+skyline - 天际线
+uronic acid - 糖醛酸
+terrace garden - 台地园
+terrace - 台
+pagoda - 塔
+cable system - 索系
+pine wood nematode - 松材线虫
+bloom - 起霜
+combustion system - 燃烧系统
+wood decay - 木材腐朽
+wood processing - 木材加工学
+charcoal - 木炭
+xylitol - 木糖醇
+carpenter ant - 木蚁
+burst - 耐破度
+crease resistance - 耐皱性
+mudflow - 泥流
+debris flow - 泥石流
+bird's-eye view - 鸟瞰图
+lemon oil - 柠檬油
+forest form - 林相
+forestry - 林业
+forest policy - 林业政策
+cant - 毛方
+surface erosion - 面蚀
+seedbed - 苗床
+heading back - 抹头
+cemetery - 墓园
+impression - 刻槽
+chain saw - 链锯
+craze - 裂纹
+compartment - 林班
+stand - 林分
+stand structure - 林分结构
+forest fire - 林火
+kinds of forest fire - 林火种类
+clearing - 林中空地
+leaching - 淋失
+age group - 龄组
+gall rust - 瘤锈病
+borneol - 龙脑
+storied building - 楼
+drainability - 滤水性
+dipping - 浸渍
+refiner - 精磨机
+curl - 卷丝
+reeling machine - 卷筒机
+mycorrhizae - 菌根
+mortality - 枯损量
+litter - 枯枝落叶层
+diffusion process - 扩散法
+broad leaved forest - 阔叶林
+hardwood - 阔叶树材
+cable crane - 缆索起重机
+site - 立地
+site classification - 立地分类
+site type - 立地类型
+site evaluation - 立地评价
+elevation - 立面图
+flavonoids - 黄酮类化合物
+lath - 灰板条
+mixed forest - 混交林
+fire spread - 火蔓延
+fire intensity - 火强度
+fire danger - 火险
+alkaline treatment - 碱处理
+mowing - 剪草坪
+clipping - 剪切
+clipper - 剪切机
+splash erosion - 溅蚀
+plywood - 胶合板
+glue ball - 胶团
+winch - 绞盘机
+difference method - 较差法
+clear cutting - 皆伐
+topping - 截梢
+knot - 节子
+closeness - 紧度
+ingrowth - 进界生长
+tenoning - 开榫
+furfural - 糠醛
+boom - 河绠
+black heart - 黑心材
+cross cutting - 横截
+red stain - 红变
+red heart - 红心材
+flower border - 花境
+cyanidin - 花青定
+garden - 花园
+wafer - 华夫刨花
+chuting - 滑道集材
+inhibition - 化学灭火
+chemical cleaning - 化学透光伐
+environmental greening - 环境绿化
+banding - 环阻法
+fire frequency - 火险频度
+fire danger weather - 火险天气
+genetic resources - 基因资源
+spar - 集材杆
+memorial park - 纪念公园
+Canada balsam - 加拿大香胶
+heel in - 假植
+planting [by vegetative propagation] - 分殖造林
+scenic spot - 风景点
+scenic area - 风景区
+landscape design - 风景设计
+wind erosion - 风蚀
+dryness - 干度
+check - 干裂
+retort - 干馏釜
+stemflow - 干流
+public park - 公园
+bowing - 弓弯
+arch bridge - 拱桥
+blister - 鼓泡
+classical garden - 古典园林
+check dam - 谷坊
+bunching - 归堆
+national park - 国家天然公园
+moisture gradient - 含水率梯度
+surface fire - 地表火
+stump - 伐根
+felling - 伐木
+linalool - 芳樟醇
+square - 方材
+protection forest - 防护林
+epithelial cell - 分泌细胞
+K value - 高锰酸钾值
+gobi - 戈壁
+loft - 阁
+pure forest - 纯林
+secondary forest - 次生林
+beating - 打浆
+flake - 大片刨花
+band saw - 带锯
+tannic acid - 单宁酸
+conditioning - 调温调湿
+cascade - 跌水
+overlap - 叠芯
+toxicity test - 毒性试验
+gutta percha - 杜仲胶
+cross section - 断面图
+smothering - 断氧灭火
+blow-out - 暴发性火
+epigallocatechin - 表●儿茶素
+face veneer - 表板
+villa - 别墅
+integrated pest management - 病虫害综合治理
+lawn - 草坪
+side view - 侧面图
+lateral erosion - 侧向侵蚀
+slenderness ratio - 长厚比
+aspect ratio - 长宽比
+strand - 长条薄片刨花
+urban forestry - 城市林业
+lumber - 成材
+molder - 成型铣床
+skyline - 承载索
+dimensional stability - 尺寸稳定性
+afforestation - [无林地]造林
+γ-cellulose - γ纤维素
+dowel pin - 暗销
+brightness - 白度
+white water - 白水
+termite - 白蚁
+cedrol - 柏木脑
+dubbing - 板边欠厚
+board - 板材
+slab - 板皮
+associated tree species - 伴生树种
+semifixed dune - 半固定沙丘
+patcher - 补节机
+rough patch - 补块毛糙
+reburn - 补烧
+stepping stone - 步石
+edger - 裁边锯,齐边机
+drilling machine, boring machine - 钻孔机
+terpene - 萜烯
+dodder - 菟丝子
+carene - 蒈烯
+pinane - 蒎烷
+abietane - 枞烷
+eucalyptus oil - 桉叶油
+cineole - 桉油素
+planting bar - 植树锹
+pulp - 纸浆
+landing - 装车场
+shellac - 紫胶片
+natural park - 自然公园
+natural erosion - 自然侵蚀
+natural resources - 自然资源
+free water - 自由水
+holocellulose - 综纤维素
+total alkali - 总碱
+longitudinal cutting - 纵向切削
+fire retardant - 阻燃剂
+mistletoe - 槲寄生
+olive oil - 橄榄油
+pleat - 褶层
+ellagic acid - 鞣花酸
+humidifier - 增湿机
+home garden - 宅园
+conservatory - 展览温室
+softwood - 针叶树材
+gum rosin - 脂松香
+pulping - 制浆
+patio - 中庭庭园
+planting design - 种植设计
+bead - 珠缘
+wildlife - 野生动物
+wildlife refuge - 野生动物保护区
+bleeding - 溢油
+isoborneol - 异龙脑
+stress relaxation - 应力松弛
+alkali charge - 用碱量
+prepressing - 预压
+log - 原木

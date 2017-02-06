@@ -1,0 +1,5763 @@
+中医百科
+
+Asian toddalia root (bark) - 飞龙掌血
+six climatic factors - 六气
+five zang viscera - 五脏
+visceral manifestations - 脏象
+zang-fu viscera - 脏腑
+seven emotions - 七情
+	traditional Chinese medicine - 中医学
+Chinese materia medica - 中药学
+integration of traditional and western medicine - 中西医结合
+traditional Chinese medicine and pharmacology - 中医药学
+illness of child viscera affecting the mother one - 子病及母
+illness of mother viscera affecting the child one - 母病及子
+wood generating fire - 木生火
+fire generating earth - 火生土
+earth generating metal - 土生金
+metal generating water - 金生水
+water generating wood - 水生木
+mutual restriction of five phases - 五行相克
+over-restriction of five phases - 五行相乘
+doctrine of five evolutive phases and six climatic factors - 运气学说
+five evolutive phases - 五运
+vitamins               - 维生素
+velvet deerhorn - 鹿茸
+menstrual disorder - 月经失调
+acorus [root] - 石菖蒲
+anemarrhena [root]              - 知母
+white peony [root]             - 白芍
+cooked rehmannia [root]             - 熟地黄
+rhubarb               - 大黄,锦纹大黄
+Chinese angelica              - 当归
+ginseng               - 人参
+corydalis [root]              - 延胡索
+coptis [root]              - 黄连
+phellodendron [bark]              - 黄柏
+sparganium [root]              - 三棱
+trichosanthes root              - 天花粉
+department of ophthalmology         - 眼科
+Chinese materia medica         - 中药
+Chinese materia medica         - 中药学
+powder for anesthesia         - 麻沸散
+eight tactical arrays         - 八阵
+erudite for massage         - 按摩博士
+department of obstetric         - 产科
+Imperial Medical Service         - 太医局
+department of wind         - 风科
+moxibustion contraindications          - 灸禁
+adaptation array          - 因阵
+odd-ingredient prescriptions          - 奇方
+stone needle          - 砭石
+materia medica          - 本草
+seven kinds of prescriptions        - 七方
+Yin Shan Zhengyao; Principles of Correct Diet     - 饮膳正要
+Wan Mizhai Yixue Quanshu; Wan Mizhai's Complete Medical Book   - 万密斋医学全书
+Xu Lingtai Yixue Quanshu; Xu Lingtai's Complete Medical Book   - 徐灵胎医学全书
+Meichuang Milu; Secret Record for Syphilis      - 霉疮秘录
+Shengji Zonglu; General Records of Holy Universal Relief    - 圣济总录
+Xinxiu Bencao; Newly Revised Materia Medica      - 新修本草
+Li Yue Pianwen; Rhymed Discourse for Topical Remedies    - 理瀹骈文
+Shennong Bencao Jing; Shennong's Classic of Materia Medica    - 神农本草经
+Bencao Shiyi; A Supplement to Materia Medica     - 本草拾遗
+department of acupuncture and moxibustion       - 针灸科
+science of acupuncture and moxibustion of traditional Chinese medicine   - 针灸学
+department of dentistry and stomatology       - 口齿科
+department of incantation and psychology       - 祝由科
+Shoushi Baoyuan; Longevity and Life Preservation      - 寿世保元
+traditional Chinese medicine and pharmacology       - 中医药学
+traditional Chinese medicine and pharmacology       - 中医药
+department of pharynx and larynx       - 咽喉科
+department of sores and wounds       - 金疮肿科
+integration of traditional and western medicine      - 中西医结合
+Waitai Miyao Fang; Arcane Essentials from the Imperial Library   - 外台秘要方
+Medical Institute of Benevolence        - 惠民局
+pox inoculation          - 人痘接种术
+palace physician          - 太医
+classical formulae          - 经方
+medical record          - 医案
+astringent formula          - 涩剂
+harmonizing method          - 和法
+purgative formula          - 泄剂
+moist formula          - 湿剂
+light formula          - 轻剂
+obstruction-removing formula          - 通剂
+lubricating formula          - 滑剂
+resolving method          - 消法
+diffusing formula          - 宣剂
+dry formula          - 燥剂
+heavy formula          - 重剂
+even-ingredient prescriptions          - 偶方
+case record          - 诊籍
+minor prescriptions          - 小方
+gentle prescriptions          - 缓方
+urgent prescriptions          - 急方
+compound recipe          - 重方
+clearing method          - 清法
+warming method          - 温法
+emetic method          - 吐法
+pharmaceutical botany          - 药用植物学
+needling contraindications          - 刺禁
+medical sage          - 医圣
+medical classic          - 医经
+Wenyi Lun; On Plague Diseases       - 温疫论
+Lingshu Jing; Miraculous Pivot        - 灵枢经
+Chishui Xuanzhu; Black Pearl from Red River     - 赤水玄珠
+Ji Yin Gangmu; Outline for Women's Diseases     - 济阴纲目
+Piwei Lun; Treatise on Spleen and Stomach     - 脾胃论
+Shanghan Lun; Treatise on Cold Pathogenic Diseases     - 伤寒论
+Yilin Gaicuo; Correction on Errors in Medical Classics    - 医林改错
+ten functional types of formularies       - 十剂
+science of tuina of traditional Chinese medicine     - 中医推拿学
+osteology and traumatology of traditional Chinese medicine     - 中医骨伤科学
+Jingui Yaolue; Synopsis of Golden Chamber      - 金匮要略
+four scholastic sects of Jin-yuan dynasties      - 金元四家
+theories of schools of traditional Chinese medicine     - 中医各家学说
+Yanfang Xin Bian; New Compilation of Effective Recipes    - 验方新编
+Yizong Jinjian; Golden Mirror of Medicine      - 医宗金鉴
+Chinese Association of Minority Medicine       - 中国民族医药学会
+Imperial Academy of Medicine        - 太医院
+thirteen branches of medicine        - 十三科
+erudite for general medicine        - 医博士
+Gujin Yitong Daquan; Medical Complete Book, Ancient and Modern   - 古今医统大全
+Jiuhuang Bencao; Materia Medica for Famines      - 救荒本草
+Shiliao Bencao; Materia Medica for Dietotherapy      - 食疗本草
+Tangye Bencao; Materia Medica for Decoctions      - 汤液本草
+Wanbing Huichun; Curative Measures for All Diseases     - 万病回春
+Haiyao Bencao; Oversea Materia Medica       - 海药本草
+pharmacology of Chinese materia medica       - 中药药理学
+chemistry of Chinese materia medica       - 中药化学
+pharmacy of Chinese materia medica       - 中药药剂学
+identification of Chinese materia medica       - 中药鉴别学
+prescriptions of Chinese materia medica       - 方剂学
+Bencao Yanyi; Augmented Materia Medica                 - 本草衍义
+Danxi Xinfa; Danxi's Mastery of Medicine                - 丹溪心法
+Leigong Paozhi Lun; Master Lei's Discourse on Drug Processing             - 雷公炮炙论
+Waike Zhengzong; Orthodox Manual of External Diseases               - 外科正宗
+Michuan Yanke Longmu Lun; Nagajuna's Ophthalmology Secretly Handed Down             - 秘传眼科龙木论
+Yi Guan; Key Link of Medicine                - 医贯
+Chonglou Yuyao; Jade Key to the Secluded Chamber    - 重楼玉钥
+Shennong Bencao Jing Jizhu; Variorum of Shennong's Classic of Materia Medica - 神农本草经集注
+Chuanya Nei Bian; Internal Therapies of Folk Medicine    - 串雅内编
+Tangtou Gejue; Recipes in Rhymes       - 汤头歌诀
+Zhu Bing Yuan Hou Lun; General Treatise on Causes and Manifestations of All Diseases - 诸病源候论
+Shiyi Xin Jian; Heart Mirror of Dietotherapy     - 食医心鉴
+Zhouhou Beiji Fang; Handbook of Prescriptions for Emergency    - 肘后备急方
+medical department for children        - 小方脉
+acupuncture and moxibustion chart        - 明堂图
+Mingyi Leian; Classified Case Records of Celebrated Physicians    - 名医类案
+Huangdi Neijing; Inner Canon of Huangdi      - 黄帝内经
+Lanshi Micang; Secret Book of Orchid Chamber     - 兰室秘藏
+Houke Zhizhang; Guide Book for Laryngology      - 喉科指掌
+Xuezheng Lun; On Blood Syndromes       - 血症论
+Leigong Paozhi Lun; Master Lei's Discourse on Drug Processing             - 雷公炮炙论
+Waike Zhengzong; Orthodox Manual of External Diseases               - 外科正宗
+Michuan Yanke Longmu Lun; Nagajuna's Ophthalmology Secretly Handed Down             - 秘传眼科龙木论
+Yi Guan; Key Link of Medicine                - 医贯
+Chonglou Yuyao; Jade Key to the Secluded Chamber    - 重楼玉钥
+Shennong Bencao Jing Jizhu; Variorum of Shennong's Classic of Materia Medica - 神农本草经集注
+Chuanya Nei Bian; Internal Therapies of Folk Medicine    - 串雅内编
+Tangtou Gejue; Recipes in Rhymes       - 汤头歌诀
+Zhu Bing Yuan Hou Lun; General Treatise on Causes and Manifestations of All Diseases - 诸病源候论
+Shiyi Xin Jian; Heart Mirror of Dietotherapy     - 食医心鉴
+Zhouhou Beiji Fang; Handbook of Prescriptions for Emergency    - 肘后备急方
+medical department for children        - 小方脉
+acupuncture and moxibustion chart        - 明堂图
+Mingyi Leian; Classified Case Records of Celebrated Physicians    - 名医类案
+Huangdi Neijing; Inner Canon of Huangdi      - 黄帝内经
+Lanshi Micang; Secret Book of Orchid Chamber     - 兰室秘藏
+Houke Zhizhang; Guide Book for Laryngology      - 喉科指掌
+Xuezheng Lun; On Blood Syndromes       - 血症论
+Sanyin Ji Yi Bingzheng Fang Lun; Treatise on Three Categories of Pathogenic Factors - 三因极一病证方论
+department of osteology         - 正骨科
+department of incantation         - 禁科
+Royal Drug Museum         - 御药院
+Chinese medical literature         - 中医文献学
+traditional Chinese medicine         - 中医学
+traditional Chinese physician         - 中医师
+traditional Chinese pharmacist         - 中药师
+Chinese medical history         - 中国医学史
+Bureau for Compounding         - 和剂局
+Imperial Medical Academy         - 太医署
+erudite for exorcism         - 咒禁博士
+erudite for acupuncture         - 针博士
+Xiaoer Yao Zheng Zhi Jue; Key to Therapeutics of Children's Diseases - 小儿药证直诀
+Shi Yi De Xiao Fang; Effective Formulae Handed Down for Generations - 世医得效方
+Youyou Jicheng; Complete Work on Children's Diseases     - 幼幼集成
+China Association of Traditional Chinese Medicine and Pharmacy    - 中华中医药学会
+State Administration of Traditional Chinese Medicine      - 国家中医药管理局
+basic theory of traditional Chinese medicine      - 中医基础理论
+internal medicine of traditional Chinese medicine      - 中医内科学
+Chinese Association of the Integration of Traditional and Western Medicine  - 中国中西医结合学会
+Zhiwu Mingshi Tukao; Textual Research on Reality and Titles of Plants - 植物名实图考
+Taiping Shenghui Fang; Taiping Holy Prescriptions for Universal Relief   - 太平圣惠方
+Bencao Gangmu Shiyi; Supplement to Compendium of Materia Medica   - 本草纲目拾遗
+Xu Mingyi Leian; Supplement to Classified Case Records of Celebrated Physicians - 续名医类案
+science of rehabilitation of traditional Chinese medicine     - 中医康复学
+science of preservation of traditional Chinese medicine     - 中医养生学
+science of nursery of [traditional] Chinese medicine     - 中医护理学
+analysising drug form of Chinese materia medica     - 中药制剂分析
+The World Federation of Acupuncture-Moxibustion Societies      - 世界针灸学会联合会
+Waike Jingyao; Essence of External Diseases      - 外科精要
+science of emergentology of traditional Chinese medicine     - 中医急诊学
+Shisijing Fahui; Elucidation of Fourteen Channels      - 十四经发挥
+Jufang Fahui; Elaboration of Bureau Prescription      - 局方发挥
+Yixue Gangmu; Compendium of Medicine       - 医学纲目
+Zhenjiu Dacheng; Compendium of Acu-moxibustion       - 针灸大成
+Bencao Gangmu; Compendium of Materia Medica      - 本草纲目
+Nan Jing; Classic of Questioning       - 难经
+Lei Jing; Canon of Classification       - 类经
+Bureau of Administration of Royal Medicinal Affairs     - 尚药局
+Youyou Xin Shu; New Book of Pediatrics     - 幼幼新书
+proctology of traditional Chinese medicine       - 中医肛肠科学
+gynecology of traditional Chinese medicine       - 中医妇科学
+otorhinolaryngology of traditional Chinese medicine       - 中医耳鼻喉科学
+surgery of traditional Chinese medicine       - 中医外科学
+diagnostics of traditional Chinese medicine       - 中医诊断学
+science of processing Chinese materia medica      - 中药炮制学
+①traditional Chinese medicine②traditional Chinese physician       - 中医
+Shen Shi Yao Han; Precious Book of Ophthalmology    - 审视瑶函
+Linzheng Zhinan Yi'an; Guide to Clinical Practice with Medical Records  - 临证指南医案
+Huangdi Neijing Taisu; Grand Simplicity of Inner Canon of Huangdi  - 黄帝内经太素
+Gezhi Yu Lun; Further Discourses on the Properties of Things  - 格致余论
+Fu Qingzhu Nüke; Fu Qingzhu's Obstetrics and Gynecology    - 傅青主女科
+Huihui Yaofang; Huihui Formularies        - 回回药方
+Zhulinsi Nüke; Bamboo Forest Temple’s Secret on Women’s Diseases   - 竹林寺女科
+Zhengzhi Zhunsheng; Standards for Diagnosis and Treatment     - 证治准绳
+Xiyuan Lu; Records for Washing Away of Wrong Cases   - 洗冤录
+Puji Fang; Prescriptions for Universal Relief      - 普济方
+science of epidemic febrile disease of traditional Chinese medicine   - 温病学
+sect of epidemic febrile diseases       - 温病学派
+Renzhai Zhi Zhi Fang; Effective Recipes from Renzhai House   - 仁斋直指方
+Beiji Qianjin Yao Fang; Essential Recipes for Emergent Use Worth A Thousand Gold - 备急千金要方
+Furen Daquan Liang Fang; Complete Effective Prescriptions for Women's Diseases  - 妇人大全良方
+Liu Juanzi Guiyi Fang; Liu Juanzi's Remedies Bequeathed by Ghosts  - 刘涓子鬼遗方
+Chuanya Wai Bian; External Therapies of Folk Medicine    - 串雅外编
+Yangke Xinde Ji; Experience Gained in Treating External Diseases   - 疡科心得集
+Yifang Jijie; Collected Exegesis of Recipes      - 医方集解
+Ruizhutang Jingyan Fang; Empirical Recipes from Auspicious Bamboo Hall   - 瑞竹堂经验方
+department of miscellaneous diseases        - 杂医科
+Rumen Shi Qin; Confucians' Duties for Parents     - 儒门事亲
+Shanghan Mingli Lun; Concise Exposition on Cold Pathogenic Diseases   - 伤寒明理论
+Jingyue Quanshu; Jingyue's Complete Works       - 景岳全书
+Bencao Pinghui Jingyao; Collected Essential of Species of Materia Medica  - 本草品汇精要
+Xuanming Lun Fang; Clear Synopsis on Recipes     - 宣明论方
+Mai Jing; Pulse Classic        - 脉经
+Sheng Ji Jing; Classic of Holy Benevolence     - 圣济经
+ophthalmology of traditional Chinese medicine       - 中医眼科学
+pediatrics of traditional Chinese medicine       - 中医儿科学
+dermatology of traditional Chinese medicine       - 中医皮肤科学
+save               - 济
+save               - 省
+savory               - 剪刀草
+acupuncture points             - 腧穴
+soreness              - 酸
+manipulation              - 推拿
+acid regurgitation             - 吞酸
+inspection              - 望诊
+gastric ulcer             - 胃溃疡
+stomach ache             - 胃痛
+positive elements             - 阳
+dysphagia              - 噎嗝
+intrathecal injection             - 鞘内注射
+eliminating pathogens             - 祛邪
+common cold             - 伤风
+inquiry              - 问诊
+regurgitation              - 反胃
+atelectasis              - 肺不张
+block therapy             - 封闭疗法
+intra-articular injection             - 关节内注射
+full pulse             - 洪脉
+spermatorrhea              - 滑精
+amnesia              - 健忘
+tenosynovitis              - 腱鞘炎
+numbness              - 麻
+numbness              - 麻木
+migraine              - 偏头痛
+cupping therapy             - 拔火罐
+diagnosis and treatment            - 辨证施治
+pathogenesis              - 病机
+asthma              - 喘症
+cholelithiasis              - 胆石症
+night sweat             - 盗汗
+electro-acupuncture              - 电针
+body fluid             - 津液
+trismus              - 口噤
+delirium              - 谵语
+acupuncture anesthesia             - 针刺麻醉
+acupuncturist              - 针灸医生
+routine treatment             - 正治法
+bronchial asthma             - 支气管哮喘
+hemorrhoid              - 痔
+apoplexy              - 中风
+heaviness              - 重
+strong heat             - 壮热
+burning heat             - 灼热
+receptacle               - 器
+rape seed oil             - 油菜子油
+red arsenic              - 红信石
+red powder              - 红升丹
+recover               - 恢
+recover               - 愈
+recover               - 痊
+eliminating pathogens             - 祛邪
+common cold             - 伤风
+inquiry              - 问诊
+regurgitation              - 反胃
+atelectasis              - 肺不张
+block therapy             - 封闭疗法
+intra-articular injection             - 关节内注射
+full pulse             - 洪脉
+spermatorrhea              - 滑精
+amnesia              - 健忘
+tenosynovitis              - 腱鞘炎
+numbness              - 麻
+numbness              - 麻木
+migraine              - 偏头痛
+cupping therapy             - 拔火罐
+diagnosis and treatment            - 辨证施治
+pathogenesis              - 病机
+asthma              - 喘症
+cholelithiasis              - 胆石症
+night sweat             - 盗汗
+electro-acupuncture              - 电针
+body fluid             - 津液
+trismus              - 口噤
+minium               - 国丹
+minium               - 朱丹
+menstrual period              - 月经期
+minium               - 朱粉
+minium               - 松丹
+minium               - 红丹
+minium               - 铅丹
+minium               - 铅华
+minium               - 铅黄
+midline               - 中行
+minium               - 陶丹
+menstrual period              - 经期
+minium               - 黄丹
+melasma               - 化血胆
+menstrual flow              - 经水
+menstrual blood              - 经血
+melissa               - 鼻血草
+melon               - 果瓜
+melon               - 甘瓜
+melon               - 甜瓜
+mildew               - 霉
+menstruation               - 月信
+menstruation               - 月水
+menstruation               - 月经
+menstruation               - 经水
+military               - 军
+milk               - 乳汁
+sago               - 西谷米
+safeguard               - 保
+safeguard               - 护
+Sakyamuni               - 释
+Sanskrit               - 梵
+salamander               - 杉木鱼
+rhubarb               - 将军
+rotation               - 捻转
+rhubarb               - 峻
+sex               - 色
+shift               - 传变
+sheath               - 鞘
+shift               - 移
+shift               - 转
+sexual intercourse              - 入房
+sheen               - 泽
+shin               - 胻
+sheep               - 羊
+shine out              - 彰
+shine               - 照
+side               - 边
+Shining Sea              - 照海
+shell               - 壳
+side-effect               - 副作用
+running up              - 上竟
+running nose              - 鼻流涕
+rush               - 抢
+rush               - 贲
+rouse               - 奋
+rheumatism               - 风湿病
+ritual               - 文
+rosemary               - 迷迭香
+river               - 江
+river               - 河
+rhinitis               - 鼻炎
+rhinoceros horn              - 低密
+rhinoceros               - 犀
+rickets               - 佝
+ship               - 舶
+rotator               - 旋转肌
+rhubarb               - 川军
+rouge               - 胭
+rhubarb               - 火参
+rouge               - 胭脂
+rigid               - 强直
+rock               - 摇
+rhubarb               - 肤如
+rhubarb               - 锦纹
+rock               - 癌
+rhubarb               - 黄良
+tendon               - 肌腱
+tea               - 茶
+tangible               - 有形
+tendon               - 腱
+tenesmus               - 里急后重
+tea [leaf]              - 茶叶
+tense               - 紧张
+teach               - 傅
+Tear Hole              - 泪孔
+tension               - 挛急
+loss of visual acuity            - 视力减退
+black morning glory [seed]            - 黑牵牛子
+autoimmune hemolytic anemia (AIHA)            - 自身免疫性溶血性贫血
+external treatment              - 外治
+face               - 颜
+fat               - 肪
+face               - 颜面
+fat               - 胖
+fat               - 脂
+exudation               - 流滋
+exudation               - 渗出
+exudation               - 渗出物
+father               - 父
+facial paralysis              - 面瘫
+fatigue               - 倦怠
+fatigue               - 劳累
+facial complexion              - 面色
+fatigue               - 疲乏
+fatigue               - 疲倦
+facing               - 对
+fatigue               - 疲劳
+failing to close             - 久不收口
+expel               - 驱逐
+extreme               - 极
+expel               - 驱除
+expel wind              - 驱风
+extremities               - 四肢
+extremity               - 端
+eyelash               - 睫
+eyelash               - 睫毛
+experiment               - 验
+exuberance               - 亢盛
+exuberant               - 彧
+eyelid               - 目胞
+eyelid               - 目裹
+explore               - 探
+eyelid               - 眼睑
+eyelid               - 眼胞
+fatigue               - 罢
+failure               - 不
+old               - 陈
+orange               - 橙
+orchid               - 兰
+old tea              - 陈茗
+otolith               - 鱼首石
+ottelia               - 龙舌草
+oven               - 炉
+otter               - 獭
+nosebleed               - 鼻衄血
+oak               - 橡
+nostril               - 畜门
+oak bark              - 橡木皮
+nostril               - 鼻孔
+oar               - 桡
+oar               - 舟楫
+obesity               - 形体肥胖
+not               - 不
+non-glutinous rice              - 大米
+not sound              - 不秘
+offspring               - 昆
+non-glutinous rice              - 粳米
+nongonococcal urethritis (NGU)             - 非淋菌性尿道炎
+oil               - 油
+orchitis               - 睾丸炎
+old tea              - 陈茶
+one-sided               - 偏
+order               - 秩
+oldenlandia               - 白花蛇舌草
+onion               - 洋葱
+orpiment               - 昆仑黄
+onion               - 洋葱头
+oreas               - 牛毛七
+orpiment               - 雌黄
+onion               - 玉葱
+oreocharis               - 小岩白菜
+onion               - 葱头
+only               - 才
+only               - 甫
+organ               - 器
+onset               - 初
+organ               - 器官
+onset               - 初起
+not yet              - 未
+not               - 莫
+observe               - 司
+oil rape              - 芸
+not               - 非
+oil rape              - 青菜
+oldenlandia               - 目目生珠草
+oldenlandia               - 矮脚白花蛇利草
+Central Pivot              - 中枢
+abandon               - 舍
+central nervous system             - 中枢神经系统
+Central Hole              - 中空
+chain               - 链
+chalk               - 白垩
+chalky               - 如积粉
+chamber               - 室
+chamomile               - 母菊
+ceramic               - 瓷
+change               - 换
+cerebellum               - 小脑
+cerebral palsy              - 大脑性瘫痪
+cauldron               - 釜
+cauliflower               - 椰菜花
+cauliflower               - 花椰菜
+cauliflower               - 花茎甘蓝
+cauliflower               - 花菜
+cauliflower               - 青花菜\Q{??}
+cell membrane              - 细胞膜
+cause of disease             - 发病原因
+[body] hair              - 毛
+cause               - 成因
+celosia               - 青箱
+celosia               - 青葙
+throat               - 颃
+cementum               - 齿垩质
+cauterization               - 烙法
+centipeda               - 鹅不食草
+centaurea               - 苦蒿
+centipede               - 千足
+centaury               - 埃蕾
+cautions               - 注意事项
+centipede               - 蜈
+centella               - 崩大碗
+centipede               - 蜈蚣
+centella               - 积雪草
+centella               - 落得打
+abalone shell              - 九孔决明
+cave               - 洞
+centella               - 雷公根
+cavity               - 腔
+abalone shell              - 石决明
+celery               - 洋芹菜
+abalone               - 鲍
+cerebral hemorrhage              - 脑出血
+catch cold              - 受凉
+catch               - 着
+glechoma               - 连钱草
+catch cold              - 着凉
+renal failure              - 肾衰竭
+respiration               - 呼吸
+rib               - 肋骨
+respiratory failure              - 呼吸衰竭
+respiratory tract              - 息道
+render               - 烊化
+respond to              - 应
+pyuria               - 脓尿
+radermachera               - 菜豆树
+radial artery              - 桡动脉
+radish               - 土酥
+radish               - 罗服
+radish               - 莱菔
+quaff               - 顿服
+radish               - 菜头
+quail               - 鹌
+radish               - 萝
+quail               - 鹌鹑
+quantity               - 分量
+radish               - 萝卜
+quantity               - 量
+quell               - 伐
+quick               - 疾
+quick               - 速
+radish               - 萝白
+radish               - 萝菔
+radius               - 桡骨
+quicken the blood             - 活血
+radius               - 辅骨
+rat               - 鼠
+purslane               - 马齿苋
+quiver               - 振
+rabbit               - 兔
+rabid               - 狾
+rabid               - 猘
+rabies               - 狂犬病
+pupil               - 瞳仁
+purslane               - 马齿菜
+pyelonephritis               - 肾盂肾炎
+pupil               - 瞳孔
+pupil               - 瞳神
+pylorus               - 幽门
+pyrite               - 石髓铅
+pyrite               - 自然铜
+pyrola               - 鹿衔草
+pyrolusite               - 无名异
+python               - 蚺
+psilopeganum               - 山麻黄
+pull               - 扯
+pull               - 拉
+intermittent               - 时时
+insufferable               - 不可忍
+intermittent               - 闰
+insufficiency               - 不足
+injury               - 损伤
+interstices               - 腠理
+ink               - 墨
+insufficient               - 不足
+ink [NID]              - 墨
+ink               - 香墨
+insufflation               - 吹药
+internal damage              - 内伤
+intestinal obstruction              - 肠梗阻
+intangible               - 无形
+Inner Court              - 内庭
+indiscriminate use              - 概用
+inflammatory               - 炎性的
+inhibited               - 不利
+inhibited               - 不畅
+infection               - 传染
+infection               - 感染
+inferior               - 卑
+insomnia               - 不得眠
+insomnia               - 不眠
+infertility               - 不妊
+insomnia               - 不睡
+infertility               - 不孕
+infertility               - 女性不孕症
+insomnia               - 失眠
+Infertility               - 绝孕
+insomnia               - 无眠
+inspect               - 审
+inspect               - 察
+interlocking               - 错
+intermediary               - 间
+inhibition               - 不利
+inflate               - 膨
+indistinct               - 渺
+inflation               - 膨胀
+indeed               - 审
+indocalamus               - 箬
+indented               - 凹
+influenza               - 流行性感冒
+index finger              - 手食指
+index finger              - 食指
+indulge               - 纵
+infuse               - 泡
+ingenuity               - 伎
+ingenuity               - 巧
+ingredient               - 组成
+wood ear              - 黑木耳
+without               - 无
+withstand               - 耐
+wooden tongue              - 木舌
+Winter Solstice              - 冬至
+wind evil              - 风邪
+wisdom               - 智
+wisdom tooth              - 智齿
+wisdom tooth              - 真牙
+Wrist Bone              - 腕骨
+write               - 撰
+wok               - 锅
+writing               - 文
+writings               - 书
+wolf               - 狼
+woodworm               - 蠡
+wrong               - 忒
+wrong               - 错
+woman               - 女
+woman               - 妇
+woman               - 妇人
+womb               - 女子胞
+work               - 工
+womb               - 子宫
+womb               - 胞
+womb               - 胞宫
+wild celery              - 香芹
+wild soybean              - 马料豆
+with               - 与
+with               - 从
+with               - 挟
+with cold              - 挟寒
+with fire              - 挟火
+wondrous               - 妙
+with heat              - 挟热
+window               - 窗
+withered               - 悴
+wild poppy              - 野罂粟
+wing               - 翅
+wing               - 翼
+willow               - 柳
+winnow               - 簸
+willow leaf              - 柳叶
+wind-heat               - 风热
+wind patterns              - 风的证候
+winnow               - 簸扬
+winter               - 冬
+wick               - 炷
+weep               - 泣
+whiskers               - 须
+black morning glory [seed]            - 黑牵牛子
+autoimmune hemolytic anemia (AIHA)            - 自身免疫性溶血性贫血
+yin and yang            - 阴阳
+blood stasis             - 瘀血
+aphasia              - 失语
+acupuncture points             - 腧穴
+soreness              - 酸
+manipulation              - 推拿
+acid regurgitation             - 吞酸
+inspection              - 望诊
+gastric ulcer             - 胃溃疡
+stomach ache             - 胃痛
+positive elements             - 阳
+dysphagia              - 噎嗝
+intrathecal injection             - 鞘内注射
+eliminating pathogens             - 祛邪
+common cold             - 伤风
+inquiry              - 问诊
+regurgitation              - 反胃
+atelectasis              - 肺不张
+block therapy             - 封闭疗法
+intra-articular injection             - 关节内注射
+full pulse             - 洪脉
+spermatorrhea              - 滑精
+amnesia              - 健忘
+tenosynovitis              - 腱鞘炎
+numbness              - 麻
+numbness              - 麻木
+migraine              - 偏头痛
+cupping therapy             - 拔火罐
+diagnosis and treatment            - 辨证施治
+pathogenesis              - 病机
+asthma              - 喘症
+cholelithiasis              - 胆石症
+night sweat             - 盗汗
+electro-acupuncture              - 电针
+body fluid             - 津液
+trismus              - 口噤
+eyebrow               - 眉
+Eyebrow               - 眉头
+feces               - 粪
+faint               - 晕倒
+faint               - 晕厥
+far-reaching               - 羕
+feeble               - 无力
+farsightedness               - 能远怯近
+feel the pulse             - 切脉
+feel               - 扪
+feel               - 捻
+feel               - 摸
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+blood sugar              - 血糖
+bloody stool              - 大便下血
+bloody stool              - 大便出血
+bloody stool              - 血便
+blood vessel              - 血脉
+boil               - 沸
+boil               - 煨水
+boil               - 熬
+blow               - 吹气
+boschniakia               - 草苁蓉
+blind               - 瞎
+blindness               - 视觉缺失
+bladder disease              - 膀胱病
+blink               - 眨
+blink               - 瞬
+blinking               - 目眨
+blistering               - 发泡
+blistering               - 提泡
+blistering               - 起泡
+bloating               - 饱胀
+block               - 拦
+blood               - 血液
+blood circulation              - 血液循环
+blood thirst              - 血渴
+blood heat              - 血热
+blood loss              - 出血
+bleed               - 放血
+bleeding               - 出血
+bleeding wound              - 创伤出血
+bleeding               - 流血
+black eye              - 眼胞瘀痛
+black tea              - 红茶
+blemish               - 疵
+blepharoptosis               - 睑下垂
+blood loss              - 失血
+bicuspids               - 二尖齿
+black soy              - 豆黄
+saposhnikovia               - 屏风
+saffron               - 藏红花
+saposhnikovia               - 防风
+saffron               - 西红花
+salamander               - 羌活鱼
+sag               - 垂
+salience               - 微甚
+saposhnikovia               - 风肉
+sagacious               - 圣
+salpingitis               - 输卵管炎
+salsola               - 猪毛菜
+salt               - 盐
+scorpion               - 全虫
+salt               - 细盐
+scapula               - 肩胛
+salt               - 食盐
+scorpion               - 干蝎
+scar               - 疤瘌
+scorpion               - 蝎
+scar               - 瘌
+schistosomiasis               - 血吸虫病
+scald               - 烫伤
+scale               - 鳞
+schizonepeta               - 荆芥
+rouse               - 振
+rorippa               - 塘葛菜
+rorippa               - 江剪刀菜
+rorippa               - 田葛菜
+rorippa               - 辣米菜
+royal jelly              - 乳浆
+rust               - 铁锈
+rustle               - 簌
+rub               - 搽
+rub               - 摩
+rub               - 擦
+S               - 天干
+rub               - 磨
+S1               - 甲
+S10               - 癸
+rose               - 徘徊花
+rubbing               - 揉法
+rubella               - 德国麻疹
+rose               - 湖花
+S2               - 乙
+rose               - 玫
+S3               - 丙
+S4               - 丁
+scar               - 瘢
+sargassum               - 海藻
+scar               - 瘢痕
+song               - 歌
+spasm               - 痉挛
+soot               - 炱
+spatula               - 锅铲
+sour               - 馊
+spearmint               - 香花菜
+special               - 异
+spinach               - 菠
+spinach               - 菠斯菜
+source point              - 原穴
+special               - 殊
+spinach               - 菠棱
+source               - 源
+special               - 特
+spinach               - 菠棱菜
+spinach               - 菠菜
+soybean milk              - 豆腐浆
+soleus muscle              - 比目鱼肌
+snoring               - 打呼
+sore throat              - 咽喉痛
+soybean               - 黄豆
+solid               - 板
+snoring               - 打鼾
+solidago               - 一枝黄花
+soliloquy               - 独语
+snoring               - 鼻鼾
+snow               - 雪
+sore throat              - 喉咙痛
+sore throat              - 喉痛
+sore               - 疮疡
+sore               - 痍
+soreness               - 酸痛
+banyan               - 榕
+baeckea               - 岗松
+bag               - 兜
+bar               - 关上
+baking               - 热烘
+bear               - 承
+bear               - 熊
+barbarian               - 蛮
+bald               - 秃
+beard               - 须
+bark               - 树皮
+axillary               - 腋窝
+ash [bark]              - 蜡树皮
+axillary vein              - 腋静脉
+at               - 于
+azoospermia               - 无精子
+At the Spring             - 在泉
+azurite               - 扁青
+sag               - 垂
+salience               - 微甚
+saposhnikovia               - 风肉
+sagacious               - 圣
+salpingitis               - 输卵管炎
+salsola               - 猪毛菜
+salt               - 盐
+scorpion               - 全虫
+salt               - 细盐
+scapula               - 肩胛
+salt               - 食盐
+scorpion               - 干蝎
+scar               - 疤瘌
+scorpion               - 蝎
+scar               - 瘌
+schistosomiasis               - 血吸虫病
+scald               - 烫伤
+scale               - 鳞
+schizonepeta               - 荆芥
+rouse               - 振
+rorippa               - 塘葛菜
+rorippa               - 江剪刀菜
+rorippa               - 田葛菜
+rorippa               - 辣米菜
+royal jelly              - 乳浆
+rust               - 铁锈
+rustle               - 簌
+rub               - 搽
+rub               - 摩
+rub               - 擦
+S               - 天干
+rub               - 磨
+S1               - 甲
+S10               - 癸
+rose               - 徘徊花
+rubbing               - 揉法
+rubella               - 德国麻疹
+rose               - 湖花
+S2               - 乙
+rose               - 玫
+S3               - 丙
+S4               - 丁
+scar               - 瘢
+sargassum               - 海藻
+scar               - 瘢痕
+scar               - 皮肤瘢痕
+salvation               - 济
+scarlet fever              - 猩红热
+sartorius muscle              - 缝匠肌
+sasa               - 簝叶竹根
+pancreatitis               - 胰脏炎
+patchouli               - 香枝
+parrot               - 鹦
+pause               - 顿
+parsely               - 洋芫荾
+pavilion               - 亭
+parsely               - 洋香菜
+parsely               - 香芹菜
+parsnip               - 美国防己
+parti-colored               - 驳
+package               - 裹
+oxygen               - 氧
+packet               - 剂
+paederia               - 鸡屎藤
+paederia               - 鸡矢藤
+paederus               - 花蚁虫
+palm               - 掌
+oyster mushroom              - 平菇
+patella               - 膑
+patella               - 膝盖
+paraplegia               - 截瘫
+patella               - 膝膑
+pakchoi               - 夏菘
+patella               - 膝髌
+patella               - 髌
+pakchoi               - 小白菜
+pakchoi               - 江门白菜
+patella               - 髌骨
+pakchoi               - 油白菜
+path               - 道
+pakchoi               - 菘菜
+paratyphoid fever              - 副伤寒
+pathology               - 病变
+pathomechanism               - 病机
+overeating               - 进食过饱
+oriole               - 莺
+ophiorrhiza               - 蛇根草
+oversee               - 监
+pain               - 疼痛
+pain               - 痛楚
+paper               - 纸
+oyster               - 牡蛎肉
+palpate               - 扪
+palpate               - 触
+papilla               - 乳头
+palpation               - 切诊
+papule               - 丘疹
+oyster               - 蚝
+papule               - 胗
+papules               - 疹子
+arsenic               - 白砒
+arsenic               - 砒
+aversion to              - 厌
+arsenic               - 砒石
+assail               - 侵袭
+ankle               - 脚腕
+ankle               - 脚踝
+aloe               - 讷会
+ankle               - 足腕
+alone               - 独
+along               - 沿
+along               - 缘
+annotate               - 注
+apply               - 搽
+apply               - 敷
+anorexia nervosa              - 精神性食欲缺乏
+apply               - 涂
+anorexia               - 食欲缺乏
+anoxia               - 缺氧症
+apply               - 贴
+ant               - 蚁
+apprehensive               - 怵
+antelope               - 羚
+appropriate               - 宜
+approximate               - 概
+approximately               - 许
+apricot kernel              - 木落子
+apricot               - 杏
+anvil               - 砧
+arborvitae               - 柏
+aromatic               - 芳
+armpit               - 腋窝
+aromatic               - 芳香
+around               - 绕
+arrest               - 顿
+aubergine               - 茄
+all               - 皆
+all               - 诸
+all over              - 遍
+amber               - 虎魄
+anger               - 怒气
+allergic rhinitis              - 变态反应性鼻炎
+ameba               - 阿米巴
+allergic purpura              - 过敏性紫癜
+angina pectoris              - 心绞痛
+ameba               - 阿米巴原虫
+amebic dysentery              - 阿米巴痢疾
+amenorrhea               - 经闭不行
+allergy               - 过敏
+alleviate               - 蠲
+tachycardia               - 心搏快速
+talcum               - 留石
+tachycardia               - 心搏过速
+talcum               - 番石
+taciturn               - 沉默寡言
+talcum               - 硬滑石
+tarsal bones              - 跗骨
+swollen throat              - 嗌肿
+talcum               - 脆石
+tartar               - 牙垢
+talcum               - 脱石
+tartar               - 牙石
+talent               - 才
+Tartar               - 鞑
+talk               - 说
+tail               - 尾
+talking nonsense              - 说糊话
+tall               - 乔
+supplement               - 加
+sword               - 铍
+sympathetic nervous system             - 交感神经系统
+symphysis               - 联合
+SYMPTOM               - 泄气
+symptom               - 症状
+synapse               - 神经键
+take               - 取
+swelling               - 肿块
+swelling               - 肿胀
+take               - 把
+tap               - 叩
+syphilis               - 梅毒
+swelter               - 熏蒸
+syrup               - 糖水
+syrup               - 糖浆
+syrup               - 蜜浆
+system               - 系统
+supplement               - 补养
+supreme               - 至
+swan               - 鹄
+sweat               - 发汗
+sweat gland              - 汗腺
+sweet pepper              - 甜椒
+sweet orange              - 甜橙
+sweating               - 出汗
+sweating               - 发汗
+swollen nose              - 鼻肿
+sweating               - 发汗法
+sweating               - 有汗
+sweet potato              - 甜薯
+sweating               - 汗出
+deficient               - 不及
+datura               - 曼陀罗
+decisive               - 决
+deformed               - 畸
+deformity               - 畸形
+depressor               - 降肌
+deprive               - 剥
+deprived of              - 失
+decoct               - 煎汤
+decoct               - 煎熬
+depuration               - 清肃
+deranged               - 乱
+decoction               - 汤液
+decoction               - 煎药法
+delayed               - 迟
+delicate               - 娇
+decoctum               - 汤
+dermatitis               - 皮肤炎
+decoctum               - 煮
+dermatosis               - 皮病
+decoctum               - 熬
+dawn               - 旦
+decomposition               - 腐熟
+destroy               - 毁
+dianella               - 山猫儿
+dianthus               - 洛阳花
+dendrobium               - 石蓫
+daily dosage              - 一日量
+dancing               - 娑
+dandelion               - 公英
+dandelion               - 凫公英
+dandelion               - 蒲公英
+dampness               - 湿
+dandelion               - 黄花地丁
+dandruff               - 头皮屑
+dangerous               - 危
+Daoism               - 道家
+Daoist               - 道家
+dark eyes              - 两目暗黑
+deafness               - 耳聩
+dark sleeper              - 土附
+dark               - 晦
+dark               - 晦暗
+dark               - 暗
+debilitation               - 衰微
+cynomorium               - 锁严子
+cynomorium               - 锁阳
+cyperus               - 莎草
+cuticle               - 表皮
+cysticercosis               - 囊虫病
+large valley              - 大谷
+stick               - 粘
+steam               - 熏蒸
+steam               - 蒸制
+stiff               - 僵
+stiff               - 殭
+steamer               - 笼屉
+stiff neck              - 项强
+stifle               - 憋
+still               - 还
+steaming bone              - 骨蒸
+steep               - 洎
+sting               - 蜇
+steep               - 浸
+sting               - 螫
+steep               - 浸泡
+stingray               - 海鳐渔
+steep               - 渍
+stellaria               - 银柴
+stingy               - 啬
+stellaria               - 银柴胡
+stinkbug               - 九香虫
+stinkbug               - 屁板虫
+stinkbug               - 黑兜虫
+stir               - 拌
+stir               - 触动
+knotgrass               - 扁猪牙
+knotgrass               - 扁畜
+kingfisher               - 翠
+lacrimal gland              - 泪腺
+koumiss               - 酪
+Large Bone              - 大骨
+later               - 后
+lactation               - 泌乳
+kumquat [fruit]              - 金橘
+ladle               - 杓
+latissimus dorsi muscle             - 背阔肌
+Kunlun Mountains              - 昆仑
+lagopsis               - 夏至草
+laughter               - 笑
+labia               - 阴唇
+knotgrass               - 扁竹
+kingfisher               - 鱼狗
+knotgrass               - 扁竹蓼
+knotgrass               - 扁蓄
+labyrinth               - 迷路
+knotgrass               - 编竹
+lac               - 洋干漆
+knotgrass               - 萹竹
+knotgrass               - 萹蓄
+centipeda               - 鹅不食草
+centaurea               - 苦蒿
+centipede               - 千足
+centaury               - 埃蕾
+cautions               - 注意事项
+centipede               - 蜈
+centella               - 崩大碗
+centipede               - 蜈蚣
+centella               - 积雪草
+centella               - 落得打
+abalone shell              - 九孔决明
+cave               - 洞
+centella               - 雷公根
+cavity               - 腔
+abalone shell              - 石决明
+celery               - 洋芹菜
+abalone               - 鲍
+cerebral hemorrhage              - 脑出血
+catch cold              - 受凉
+catch               - 着
+glechoma               - 连钱草
+catch cold              - 着凉
+catfish               - 土杀
+catfish               - 塘虱鱼
+catfish               - 胡子鲶
+Bermuda grass              - 铁线草
+catnip               - 假荆芥
+carriage               - 车
+caloglossa               - 鹧鸪菜
+longan               - 龙眼
+abalone shell              - 鲍鱼皮
+Central Hub              - 中冲
+abalone               - 鳆
+cardiac catheterization              - 心脏导管插入
+cassytha               - 无爷藤
+castor bean              - 萆麻子
+cape               - 披肩
+carduus               - 飞廉
+castor oil              - 蓖麻油
+careful               - 慎
+cat               - 猫
+careworn               - 忡
+catalpa               - 梓
+caries               - 龋齿
+beet               - 红菜头
+carp               - 鲤
+catty               - 斤
+carry out              - 施
+carry               - 负
+caper               - 老鼠爪
+intimidate               - 凌
+intractable               - 痼
+inhale               - 吸气
+inherit               - 嗣
+instep               - 跗
+intermittent               - 时作时休
+intersection point              - 交会穴
+institute               - 院
+intermittent               - 时发时止
+instructions               - 嘱
+intermittent               - 时时
+insufferable               - 不可忍
+intermittent               - 闰
+insufficiency               - 不足
+injury               - 损伤
+interstices               - 腠理
+ink               - 墨
+insufficient               - 不足
+ink [NID]              - 墨
+ink               - 香墨
+insufflation               - 吹药
+internal damage              - 内伤
+intestinal obstruction              - 肠梗阻
+intangible               - 无形
+Inner Court              - 内庭
+indiscriminate use              - 概用
+inflammatory               - 炎性的
+inhibited               - 不利
+inhibited               - 不畅
+infection               - 传染
+infection               - 感染
+inferior               - 卑
+insomnia               - 不得眠
+insomnia               - 不眠
+infertility               - 不妊
+insomnia               - 不睡
+infertility               - 不孕
+infertility               - 女性不孕症
+insomnia               - 失眠
+Infertility               - 绝孕
+insomnia               - 无眠
+inspect               - 审
+inspect               - 察
+interlocking               - 错
+intermediary               - 间
+inhibition               - 不利
+inflate               - 膨
+indistinct               - 渺
+inflation               - 膨胀
+indeed               - 审
+feel               - 捻
+feel               - 摸
+female               - 女
+female infertility              - 女子绝子
+female genitals              - 女性生殖器
+female infertility              - 妇人绝子
+female               - 牝
+femoral artery              - 股动脉
+femur               - 大楗骨
+femur               - 大腿骨
+femur               - 髀骨
+fence               - 篱
+fennel [fruit]              - 土茴香
+fight               - 抗
+fight               - 斗
+fennel               - 茴
+filariasis               - 丝虫病
+file               - 剉
+file               - 锉
+firefly               - 萤
+firefly               - 萤火
+fetus               - 胎儿
+filial piety              - 孝
+filiform needle              - 毫针
+final stage              - 后期
+fear               - 怕
+extinguish               - 灭
+fear of water             - 恐水
+fall               - 下陷
+fear               - 惕
+extraordinary               - 奇
+fall               - 垂
+fear               - 畏
+fall               - 落
+fear of people             - 畏人
+fearful               - 忡
+fearful               - 怔
+eye disease              - 眼疾
+fall               - 跌
+fearing               - 相畏
+eye               - 眼睛
+eye symptoms              - 眼科症状
+febrile disease              - 热性病
+eye patterns              - 眼科证候
+febrile disease              - 热病
+fallopian tubes              - 输卵管
+fecal               - 大便
+eyeball               - 目珠
+herba Scutellariae barbatae - 半枝莲
+Hedyotis diffusa - 白花蛇舌草
+pea               - 荷兰豆
+pepper               - 古月
+pea               - 豌
+pear               - 快果
+pear               - 果宗
+pepper               - 浮椒
+pea               - 豌豆
+pear               - 梨
+pepper               - 玉椒
+pea               - 雪豆
+pepper               - 胡椒
+parallel               - 并
+palpitations               - 悸
+paralysis               - 摊缓
+paralysis               - 痪
+paralysis               - 瘫痪
+palsy               - 痹
+pancreas               - 胰
+passage               - 隧
+paralysis               - 麻痹
+past               - 往
+paste               - 糊
+paralyzed               - 不遂
+patch               - 癜
+pancreatic               - 胰的
+patchouli               - 广藿香
+pancreatitis               - 胰脏炎
+patchouli               - 香枝
+parrot               - 鹦
+pause               - 顿
+parsely               - 洋芫荾
+pavilion               - 亭
+parsely               - 洋香菜
+parsely               - 香芹菜
+parsnip               - 美国防己
+parti-colored               - 驳
+package               - 裹
+oxygen               - 氧
+packet               - 剂
+paederia               - 鸡屎藤
+paederia               - 鸡矢藤
+paederus               - 花蚁虫
+palm               - 掌
+oyster mushroom              - 平菇
+patella               - 膑
+patella               - 膝盖
+paraplegia               - 截瘫
+patella               - 膝膑
+pakchoi               - 夏菘
+patella               - 膝髌
+Chinese chive              - 韭
+Chinese quince fruit             - 木梨
+chief complaint              - 主诉
+Cherokee rose              - 金樱花
+chilblain               - 冻疮
+childbirth               - 分诞
+chestnut               - 板栗
+childbirth               - 胎产
+Chinese medicinal              - 中药
+chestnut               - 栗子
+chestnut               - 栗果
+Chinese pharmacy              - 中药学
+childlessness               - 无子
+childlessness               - 绝子
+Chinese quince fruit             - 土木瓜
+cheek               - 面颊
+chew               - 咀
+chew               - 咀嚼
+chew               - 嚼
+chicken pox              - 水疮
+chicken               - 鸡
+chicken               - 鸡肉
+cherry               - 含桃
+child               - 儿
+Chinese medicine              - 中医
+cherry               - 朱果
+child               - 子
+cherry               - 朱桃
+child               - 孩
+cherry               - 樱
+cherry               - 樱桃
+Chinese medicine              - 中医学
+cherry               - 樱珠
+cherry               - 荆桃
+cerebral hemorrhage              - 脑溢血
+chicken breast              - 鸡胸
+chin               - 下巴壳
+chickenpox               - 水痘
+chin               - 颔
+cerebrospinal fluid              - 脑脊液
+cerebrum               - 大脑
+cerumen               - 耵
+cerumen               - 耵聍
+cerumen               - 聍
+cervical spondylosis              - 颈椎病
+Cervix               - 子宫颈
+cervix uteri              - 子宫颈
+channel               - 经脉
+channel catfish              - 鮠鱼
+chaos               - 混
+east               - 东
+dull pain              - 隐痛
+eclipta               - 旱莲草
+East Wind              - 东风
+dull pain              - 隐隐作痛
+dull               - 黯
+eclipta               - 莲子草
+eclipta               - 鳢肠草
+ectopic pregnancy              - 异位妊娠
+ear disease              - 耳病
+ectropion               - 胞睑外翻
+dwarfism               - 侏儒病
+dual               - 两
+dwell               - 处
+dye               - 染
+duck               - 鹜
+dynamic               - 势
+dynasty               - 朝代
+dysentery               - 下痢
+dysentery               - 痢
+dry skin              - 皮肤干燥
+dysentery               - 痢疾
+dysfunctional uterine bleeding             - 功能性子宫出血
+dry eyes              - 目干涩
+dry eyes              - 目枯涩
+dysmenorrhea               - 痛经
+dry eyes              - 目涩
+dry eyes              - 眼涩不爽
+drink               - 啜
+drink               - 喝
+drink               - 饮子
+downpour               - 下注
+drought               - 旱
+drown               - 溺
+drowning               - 人溺水死
+duodenum               - 十二指肠
+durian               - 榴莲
+dusk               - 昏
+drug               - 药物
+dry scalp              - 头皮干枯
+dust               - 埃
+dust               - 尘
+early               - 初
+early stage              - 初期
+early               - 早
+drinker               - 酒客
+dregs               - 渣
+dressing               - 敷剂
+drip               - 沥
+drumstick               - 槌
+medical matters              - 医物
+melon               - 银瓜
+melon               - 青皮瓜
+melon               - 香瓜
+melon               - 黄金瓜
+medication               - 用药
+metabolism               - 新陈代谢
+Metacarpophalangeal               - 指掌
+millet               - 小米
+manipulate               - 操
+marten               - 貂
+manipulation               - 手法
+manipulation               - 操纵
+martial               - 武
+manna               - 刺糖
+manna               - 刺蜜
+massage               - 按摩
+manna               - 羊刺蜜
+massage               - 按蹻
+manna               - 阳塔克西克尔
+manna               - 骆驼刺糖
+mansion               - 府
+mastitis               - 乳腺炎
+mat               - 席
+mat               - 茵
+material               - 料
+mantis               - 螳
+maternal               - 母
+mantis               - 螳螂
+matting               - 篱
+mature               - 陈
+dendrobium               - 禁生
+dianthus               - 瞿
+deliver               - 送
+detoxify               - 解毒
+dendrobium               - 金钗花
+dendrobium               - 黄草
+dense               - 密
+diaphragm               - 横膈
+dense               - 抟
+deviated mouth              - 口角歪斜
+deviated               - 喎斜
+dentin               - 齿质
+depart               - 离
+depletion               - 亏
+deviation               - 喎斜
+depletion               - 亏损
+depletion               - 亏虚
+defecate               - 排便
+diarrhea               - 便泄
+toe               - 趾
+tissue               - 组织
+torpor               - 迟钝
+tithonia               - 提汤菊
+title               - 衔
+to               - 于
+torreya               - 柀
+trace elements              - 微量元素
+toad               - 虾
+tonsillitis               - 扁桃腺炎
+torreya               - 榧
+trachea               - 气管
+Tonsils               - 扁桃
+Tonsils               - 扁桃体
+trachoma               - 沙眼
+toad               - 蛤
+tonsils               - 扁桃腺
+tool               - 具
+toona               - 椿
+toad               - 蟆
+togther               - 共
+toilette               - 更衣
+thyroid gland              - 甲状腺
+time               - 时
+thyroid               - 靥
+tomato               - 洋柿子
+tomato               - 番柿
+toothache               - 牙痛
+tomato               - 西红柿
+toothache               - 牙齿痛
+toothache               - 齿痛
+tin               - 锡
+top grade              - 上品
+tincture               - 酊
+tincture               - 酊剂
+tinea capitis              - 头癣
+tinea               - 癣
+tinea cruris              - 股癣
+tinea pedis              - 足癣
+YAL               - 阳维
+wound               - 创
+wound               - 创伤
+wrap               - 裹
+yellow wine              - 黄酒
+yarrow               - 洋蓍草
+YAS               - 阳跷
+yawn               - 呵
+yawn               - 呼欠
+yawn               - 失欠
+water spinach              - 空筒菜
+tooth               - 牙齿
+treasury               - 藏
+tossing and turning             - 辗转不安
+thyme               - 百里香
+tooth decay              - 齿龋
+tobacco               - 烟草
+toe               - 脚趾
+tooth decay              - 龋齿
+toe               - 趾
+tissue               - 组织
+torpor               - 迟钝
+tithonia               - 提汤菊
+title               - 衔
+to               - 于
+torreya               - 柀
+trace elements              - 微量元素
+toad               - 虾
+tonsillitis               - 扁桃腺炎
+torreya               - 榧
+trachea               - 气管
+Tonsils               - 扁桃
+Tonsils               - 扁桃体
+trachoma               - 沙眼
+toad               - 蛤
+tonsils               - 扁桃腺
+tool               - 具
+toona               - 椿
+toad               - 蟆
+togther               - 共
+toilette               - 更衣
+thyroid gland              - 甲状腺
+time               - 时
+thyroid               - 靥
+tomato               - 洋柿子
+tomato               - 番柿
+toothache               - 牙痛
+tomato               - 西红柿
+toothache               - 牙齿痛
+toothache               - 齿痛
+tin               - 锡
+top grade              - 上品
+tincture               - 酊
+tincture               - 酊剂
+tinea capitis              - 头癣
+tinea               - 癣
+tinea cruris              - 股癣
+tinea pedis              - 足癣
+YAL               - 阳维
+wound               - 创
+wound               - 创伤
+convulsion               - 抽搦
+continuous               - 绵绵不休
+cordyceps               - 虫草
+convulsion               - 搐
+correspondence               - 相应
+continuous               - 绵绵不已
+corridor               - 廊
+continuous               - 绵绵不断
+convulsion               - 搐搦
+core               - 心
+continuous               - 绵绵不绝
+corrugator               - 皱肌
+continuous               - 缘缘
+cook               - 炊
+coriander               - 胡荽
+continuous               - 连绵不休
+coriander               - 芫荽
+cooked               - 熟
+thrombophlebitis               - 血栓性静脉炎
+thrombosis               - 血栓
+throughout               - 彻
+three               - 参
+throw               - 丢
+throw               - 投
+thrush               - 鹅口疮
+thud               - 憺
+thumb               - 大指
+thumb               - 手大指
+thumb               - 拇
+thumb               - 母指
+thump               - 挫
+thumping               - 振法
+toad               - 蟾
+thirst               - 口渴
+therefore               - 故
+thirst               - 渴
+Three Kingdoms              - 三国
+this               - 兹
+this               - 是
+three corpses              - 三尸
+thoracic               - 胸
+thoracic vertebrae              - 胸椎骨
+thoracic cavity              - 胸腔
+throat               - 咙
+throat               - 咽
+throat               - 咽喉
+tight               - 秘
+tetany               - 发痉
+tetany               - 痉病
+tend               - 偏
+palpebral               - 眼胞
+palpitations               - 心悸
+overuse               - 过用
+opium               - 鸦片
+opposite               - 异
+overwhelming               - 相乘
+overwork               - 劳累过多
+opposite and complementary             - 相反相成
+owl               - 鸱
+owl               - 鸱肉
+oppress               - 掯
+oppression               - 悗
+owl               - 鸱鸺
+orostachys               - 瓦松
+ox               - 牛
+outlying               - 隅
+optic nerve              - 眼神经
+outstanding               - 尤
+outstanding               - 杰
+oyster               - 蛎
+outstanding               - 豪
+origin               - 肌起
+over               - 过
+outcome               - 转归
+Outer Life              - 外命
+originally               - 本
+coriander seed              - 芫荽仁
+coriander seed              - 芫荽子
+coriander               - 香荽
+coriander               - 香菜
+cotton seed              - 棉花子
+cormorant               - 鹚
+cotton seed              - 草棉花子
+corn               - 玉蜀黍
+cottonseed oil              - 棉子油
+cooked rice              - 饭
+cooking               - 烹
+cough               - 咳嗽
+lepisorus               - 石豇豆
+leprosy               - 大风
+lentinus               - 香蕈
+lightening               - 电
+leonurus               - 月母草
+leonurus               - 益明
+leonurus               - 益母
+let (out)              - 放
+leonurus               - 益母草
+let blood              - 放血
+letter               - 信
+lettuce               - 千金菜
+penis               - 鞭
+pennisetum               - 狼尾草
+patient               - 患人
+patient               - 患者
+palate               - 上-
+palate               - 上颚
+panning               - 淘
+paresis               - 轻瘫
+patient               - 病家
+patrinia               - 败酱
+paroxysmal cough              - 咳嗽阵作
+patrinia               - 败酱草
+pattern               - 证候
+pale yellow              - 淡黄
+pattern identification              - 辨证
+paulownia wood              - 桐木
+pea               - 毕豆
+pea               - 留豆
+pea               - 荷兰豆
+pepper               - 古月
+pea               - 豌
+pear               - 快果
+pear               - 果宗
+pepper               - 浮椒
+pea               - 豌豆
+pear               - 梨
+pepper               - 玉椒
+pea               - 雪豆
+pepper               - 胡椒
+parallel               - 并
+palpitations               - 悸
+paralysis               - 摊缓
+paralysis               - 痪
+paralysis               - 瘫痪
+palsy               - 痹
+pancreas               - 胰
+passage               - 隧
+paralysis               - 麻痹
+past               - 往
+paste               - 糊
+paralyzed               - 不遂
+patch               - 癜
+pancreatic               - 胰的
+patchouli               - 广藿香
+pancreatitis               - 胰脏炎
+patchouli               - 香枝
+parrot               - 鹦
+pause               - 顿
+parsely               - 洋芫荾
+pavilion               - 亭
+valuable               - 贵
+urine               - 尿液
+urine               - 水泉
+urine               - 溲
+vertex               - 颠顶
+Urine               - 溺水
+urine odor              - 臊味
+vanquished               - 败坏
+variant               - 加减
+vesicle               - 水-+
+vacuity               - 虚弱
+variation               - 加减
+vesicle               - 水泡
+variation               - 加减法
+urticaria               - 荨麻疹
+variation               - 化裁
+vessel               - 脉
+varied               - 化裁
+variola               - 天花
+veins               - 筋脉
+uterus               - 女子胞
+uterus               - 子宫
+uterus               - 胞
+uterus               - 胞宫
+uterus               - 阴胞
+vacuous               - 虚弱
+uvea               - 葡萄膜
+urinary calculus              - 尿石
+uveitis               - 葡萄膜炎
+venison               - 鹿肉
+Urinary Bladder              - 尿胞
+uvula               - 帝丁
+uvula               - 帝钟
+uvula               - 悬壅垂
+uvula               - 悬雍
+vagina               - 阴道
+uvula               - 悬雍垂
+vaginal discharge              - 带
+vaginal discharge              - 带下
+vermiculite               - 金精石
+vermilion               - 银朱
+vaginal discharge              - 白带
+verruca vulgaris              - 寻常疣
+urinary infection              - 泌尿系感染
+verruca plana              - 扁平疣
+vertebra               - 脊椎骨
+vaginitis               - 阴道炎
+upper arm              - 肱
+upper eyelid              - 胞
+Upper Arm              - 臂臑
+eardrum               - 耳鼓
+earlier               - 先
+Eight Points              - 八点
+eel               - 鳗
+eel               - 鳗鱼
+eat raw              - 生食
+eel               - 鳗鲡
+eel               - 鳗鲡鱼
+eat               - 茹
+eel               - 鳝
+eat steamed              - 蒸食
+eight principles              - 八纲
+earlobe               - 耳垂
+eelgrass               - 海带
+effect               - 作用
+elephantopus               - 苦地胆
+effect               - 功效
+effect               - 效果
+eating habits              - 食性
+elephantopus               - 草鞋底
+dry               - 枯
+earthworm               - 寒蚓
+duckweed               - 田萍
+each other              - 互
+earthworm               - 曲蟺
+each               - 各
+earthworm               - 白颈蚯蚓
+duckweed               - 萍
+each other              - 相
+duckweed               - 薸
+earthworm               - 虫蟺
+eagle               - 鹰
+earthworm               - 蚯
+earthworm               - 蚯蚓
+earthworm               - 蜿蟺
+earthworm               - 附蚓
+ear lock              - 兑发
+dryland               - 旱
+earwax               - 耳垢
+earwax               - 耳屎
+earwax               - 耵
+eclipta               - 墨菜
+earwax               - 耵聍
+eclipta               - 墨记菜
+earwax               - 聍
+east               - 东
+dull pain              - 隐痛
+eclipta               - 旱莲草
+East Wind              - 东风
+dull pain              - 隐隐作痛
+bloody stool              - 大便出血
+bloody stool              - 血便
+blood vessel              - 血脉
+boil               - 沸
+boil               - 煨水
+boil               - 熬
+blow               - 吹气
+boschniakia               - 草苁蓉
+blind               - 瞎
+blindness               - 视觉缺失
+bladder disease              - 膀胱病
+blink               - 眨
+blink               - 瞬
+blinking               - 目眨
+blistering               - 发泡
+blistering               - 提泡
+blistering               - 起泡
+bloating               - 饱胀
+block               - 拦
+blood               - 血液
+blood circulation              - 血液循环
+blood thirst              - 血渴
+blood heat              - 血热
+blood loss              - 出血
+bleed               - 放血
+bleeding               - 出血
+bleeding wound              - 创伤出血
+bleeding               - 流血
+black eye              - 眼胞瘀痛
+black tea              - 红茶
+blemish               - 疵
+blepharoptosis               - 睑下垂
+blood loss              - 失血
+bicuspids               - 二尖齿
+black soy              - 豆黄
+bladder               - 胞
+black scraper              - 马面单棘鲀
+bladder               - 膀胱
+beneath               - 底
+bite               - 咬
+benefit               - 利
+bite               - 啮
+benevolence               - 仁
+benevolent               - 惠
+bitter orange              - 枳
+benevolent               - 慈
+black               - 乌
+black sand              - 乌痧
+black soybean              - 黑豆
+black vinegar              - 黑醋
+toad               - 虾
+tonsillitis               - 扁桃腺炎
+torreya               - 榧
+trachea               - 气管
+Tonsils               - 扁桃
+Tonsils               - 扁桃体
+trachoma               - 沙眼
+toad               - 蛤
+tonsils               - 扁桃腺
+tool               - 具
+toona               - 椿
+toad               - 蟆
+togther               - 共
+toilette               - 更衣
+thyroid gland              - 甲状腺
+time               - 时
+thyroid               - 靥
+tomato               - 洋柿子
+tomato               - 番柿
+toothache               - 牙痛
+tomato               - 西红柿
+toothache               - 牙齿痛
+toothache               - 齿痛
+tin               - 锡
+top grade              - 上品
+tincture               - 酊
+tincture               - 酊剂
+tinea capitis              - 头癣
+tinea               - 癣
+tinea cruris              - 股癣
+tinea pedis              - 足癣
+YAL               - 阳维
+wound               - 创
+wound               - 创伤
+wrap               - 裹
+yellow wine              - 黄酒
+yarrow               - 洋蓍草
+YAS               - 阳跷
+yawn               - 呵
+yawn               - 呼欠
+yawn               - 失欠
+water spinach              - 空筒菜
+volatile oils              - 挥发油
+wandering               - 游走
+wasabi               - 山葵
+wash               - 冲洗
+wash               - 洗
+water chestnut              - 荸
+vomiting and diarrhea             - 吐下
+weighing scales              - 秤
+pleural effusion              - 胸膜渗液
+pleural cavity              - 胸膜腔
+pile               - 痔疮
+pharyngitis               - 咽炎
+pelican               - 鹈
+phellinus               - 桑黄
+permanent teeth              - 恒齿
+pellet               - 弹
+perpendicular               - 直
+red tongue              - 红舌
+recurrent               - 反复发作
+recurrent aphthae              - 复发性口疮
+red nose              - 红鼻子
+red sage              - 五色梅
+red sage root             - 五色梅根
+red tongue              - 舌质红
+reach               - 及
+reflect               - 候
+reflection               - 意
+tamarind               - 酸角
+tamarisk               - 柽
+taro               - 芋
+swertia               - 獐牙菜
+swertia               - 青叶丹
+tabanus               - 牛苍蝇
+swertia               - 青叶胆
+tabanus               - 牛虻
+tabanus               - 牛蚊子
+tabanus               - 瞎虻虫
+tangerine               - 橘
+TB               - 三焦
+worms               - 诸虫
+worrying               - 弄
+sweet pepper              - 青椒
+sweet wormwood              - 青蒿
+swill               - 飧
+talcum               - 共石
+tabanus               - 瞎蚂蜂
+tabanus               - 虻
+talcum               - 夕冷
+tabanus               - 虻虫
+talcum               - 夜石
+tabanus               - 蜚虻
+swimming crab              - 蝤蛑
+swine               - 豕
+taro [root]              - 蹲鸱
+talcum               - 画石
+tachycardia               - 心搏快速
+talcum               - 留石
+tachycardia               - 心搏过速
+sweet wormwood              - 青蒿
+swill               - 飧
+talcum               - 共石
+tabanus               - 瞎蚂蜂
+tabanus               - 虻
+talcum               - 夕冷
+tabanus               - 虻虫
+talcum               - 夜石
+tabanus               - 蜚虻
+swimming crab              - 蝤蛑
+swine               - 豕
+taro [root]              - 蹲鸱
+talcum               - 画石
+tachycardia               - 心搏快速
+talcum               - 留石
+tachycardia               - 心搏过速
+talcum               - 番石
+taciturn               - 沉默寡言
+talcum               - 硬滑石
+tarsal bones              - 跗骨
+swollen throat              - 嗌肿
+talcum               - 脆石
+tartar               - 牙垢
+talcum               - 脱石
+tartar               - 牙石
+talent               - 才
+Tartar               - 鞑
+talk               - 说
+tail               - 尾
+talking nonsense              - 说糊话
+tall               - 乔
+supplement               - 加
+sword               - 铍
+sympathetic nervous system             - 交感神经系统
+symphysis               - 联合
+SYMPTOM               - 泄气
+symptom               - 症状
+synapse               - 神经键
+take               - 取
+swelling               - 肿块
+swelling               - 肿胀
+take               - 把
+tap               - 叩
+syphilis               - 梅毒
+swelter               - 熏蒸
+syrup               - 糖水
+syrup               - 糖浆
+syrup               - 蜜浆
+system               - 系统
+supplement               - 补养
+savory               - 剪刀草
+schima [root bark]             - 木荷
+saw               - 锯
+say               - 曰
+scratch               - 抓
+salvia [root]              - 野苏子根
+scratch               - 搔
+salvinia               - 蜈蚣萍
+scratch               - 搔抓
+say               - 爰
+scratch               - 搔痒
+screen               - 屏
+screen               - 屏翳
+screen               - 阑
+schisandra               - 菋
+scab               - 痂
+sand               - 痧子
+scabies               - 疥疮
+saffron               - 洎夫蓝
+salamander               - 秉氏鲵
+saposhnikovia               - 唐防风
+saffron               - 番红花
+saposhnikovia               - 屏风
+saffron               - 藏红花
+saposhnikovia               - 防风
+saffron               - 西红花
+salamander               - 羌活鱼
+sag               - 垂
+salience               - 微甚
+saposhnikovia               - 风肉
+sagacious               - 圣
+salpingitis               - 输卵管炎
+salsola               - 猪毛菜
+salt               - 盐
+scorpion               - 全虫
+salt               - 细盐
+scapula               - 肩胛
+salt               - 食盐
+scorpion               - 干蝎
+scar               - 疤瘌
+scorpion               - 蝎
+scar               - 瘌
+schistosomiasis               - 血吸虫病
+scald               - 烫伤
+scale               - 鳞
+schizonepeta               - 荆芥
+rouse               - 振
+rorippa               - 塘葛菜
+rorippa               - 江剪刀菜
+rorippa               - 田葛菜
+somnolence               - 嗜睡
+spinach               - 鼠根菜
+speckle               - 点
+space               - 间
+speech               - 言
+spinal cord              - 脊髓
+speech               - 话
+speech               - 语言
+spindle               - 缍
+spell               - 阵
+spine               - 冈
+spermatorrhea               - 遗精
+spermatozoon               - 精子
+spit               - 吐
+spit               - 唾
+sphenomeris               - 乌韭
+sphenomeris               - 大叶金花草
+sphincter               - 括约肌
+sphincter muscle              - 约束
+soybean oil              - 豆油
+soybean milk              - 豆浆
+somnolence               - 多寐
+sparrow               - 麻雀
+somnolence               - 好眠
+somnolence               - 好睡
+son               - 子
+song               - 歌
+spasm               - 痉挛
+soot               - 炱
+spatula               - 锅铲
+sour               - 馊
+spearmint               - 香花菜
+special               - 异
+spinach               - 菠
+spinach               - 菠斯菜
+source point              - 原穴
+special               - 殊
+spinach               - 菠棱
+source               - 源
+special               - 特
+spinach               - 菠棱菜
+spinach               - 菠菜
+soybean milk              - 豆腐浆
+soleus muscle              - 比目鱼肌
+snoring               - 打呼
+sore throat              - 咽喉痛
+soybean               - 黄豆
+solid               - 板
+snoring               - 打鼾
+solidago               - 一枝黄花
+sleeping pills              - 安眠剂
+snake bite              - 蛇伤
+sleeplessness               - 不寐
+sleeplessness               - 不眠
+sluggish               - 謇
+sleeplessness               - 不睡
+sleeplessness               - 无眠
+sluggish               - 蹇
+sleeve               - 袖
+sluice               - 渎
+snake venom              - 蛇毒
+shy               - 羞
+side               - 侧
+sink               - 没
+similar               - 类
+simple               - 单
+sinusitis               - 鼻窦炎
+skin               - 肤
+skin               - 胕
+slop               - 溏
+six               - 陆
+skip               - 越
+skirt               - 裙
+smooth delivery              - 顺产
+smallpox               - 天花
+skull               - 头颅骨
+shoulder blade              - 肩甲
+silkworm               - 蚕虫
+shoulder joint              - 肩解
+shoulder blade              - 胛
+slice               - 切
+slice               - 切片
+sixth               - 第六
+sit               - 坐
+sizing               - 修制
+Sjogren's syndrome              - 干燥关节炎综合症
+skeleton               - 骨骼
+six ways              - 六合
+skeleton               - 骸
+skimmia               - 茵芋
+shoot               - 芽
+shore               - 濒
+short               - 短
+silk               - 丝
+silk floss              - 丝绵
+short               - 矮
+single               - 单
+shouting               - 呼
+shrimp               - 对虾
+silver               - 银
+amenorrhea               - 闭经
+American ginseng              - 佛兰参
+anguish               - 懊
+American ginseng              - 花旗参
+allow               - 许
+anguish               - 懊-+
+American ginseng              - 西参
+All-Round Construction              - 周营
+American ginseng              - 西洋参
+anxious               - 愁
+aorta               - 主动脉
+aortic valve              - 主动脉瓣
+arborvitae               - 檗
+ark               - 蚶
+aplastic anemia              - 再生障碍性贫血
+apluda               - 水蔗草
+aponeurosis               - 腱膜
+appendectomy               - 阑尾切除术
+arm               - 手
+appendicitis               - 阑尾炎
+appendix               - 阑尾
+arm               - 手臂
+arm               - 膊
+appetite               - 食欲
+apple               - 天然子
+arm               - 臂膊
+apple               - 平波
+apple               - 柰
+apple               - 柰子
+armillaria               - 松蕈
+apple               - 苹
+apple               - 苹果
+all fractures              - 一切折伤
+ancient               - 古
+amaranth               - 白苋
+amaranth               - 苋
+and               - 而
+amaranth               - 苋菜
+andrographis               - 一见喜
+amaranth               - 青香苋
+andrographis               - 榄核莲
+amber               - 兽魄
+amber               - 珀
+amber               - 琥
+red               - 赪
+relapse               - 复
+relaxed               - 松
+refute               - 驳
+release               - 放
+red face              - 面赤
+see               - 视
+seed               - 仁
+seed               - 子
+sea urchin              - 海胆
+seedling               - 秧
+seam               - 分
+seek               - 求
+serum               - 血清
+seethe               - 沸
+searching               - 寻
+sea cucumber              - 海鼠
+sesame oil              - 胡麻油
+seasickness               - 晕船
+selaginella               - 卷柏
+season               - 时令
+schizophrenia               - 精神分裂症
+scallion               - 菜伯
+sandal               - 檀
+scallion               - 葱
+sandalwood               - 檀香
+scallion               - 葱仔
+sandalwood               - 真檀
+school               - 校
+scrotum               - 肾囊
+school of thought             - 派
+sciatica               - 坐骨神经痛
+scrotum               - 阴囊
+scilla               - 绵枣儿
+scirpus               - 荆三棱
+scurry               - 流窜
+scalp               - 头皮
+scaly skin              - 肌若鱼鳞
+scleroderma               - 硬皮病
+scoparia               - 野甘草
+scorch               - 烁
+margin               - 际
+meal               - 餐
+mark               - 痕
+market               - 市
+mean               - 曰
+mean               - 爰
+measles               - 痧子
+mania               - 狂易
+mandarin               - 柑
+measles               - 麻疹
+medial malleolus              - 内踝
+medial               - 正
+mediastinum               - 纵隔
+medical matters              - 医物
+melon               - 银瓜
+breakfast               - 早餐
+borax               - 大朋砂
+breakfast               - 早饭
+borax               - 月石
+borax               - 盆砂
+borax               - 硼
+bountiful               - 丰
+borax               - 蓬砂
+breast               - 乳房
+borax               - 西月石
+borax               - 鹏砂
+border               - 际
+bow               - 弓
+borderland               - 蕃
+breast milk              - 乳汁
+bore               - 穿
+bore               - 钻
+borneol               - 冰片
+blue               - 绀
+blue               - 蓝
+bolt               - 楗
+blood block              - 血闭
+bluebeard               - 兰香草
+bluebeard               - 山薄荷
+Bone Growth              - 成骨
+blurred vision              - 目糊
+blurred vision              - 目视-+
+blurred vision              - 目视-+-+
+blurred vision              - 目视-+-+无所见
+blurred vision              - 目视模糊
+blurred vision              - 视物-+-+
+blurred vision              - 视物模糊
+blurred vision              - 视物模糊不清
+bone fracture              - 骨折
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+blood sugar              - 血糖
+bloody stool              - 大便下血
+bloody stool              - 大便出血
+west               - 西
+white cabbage              - 西土蓝
+white face              - 面白
+water spinach              - 藤藤菜
+warm               - 暖
+watermelon               - 夏瓜
+watermelon               - 天生白虎汤
+water trough              - 水沟
+watermelon               - 寒瓜
+watermelon               - 西瓜
+save               - 济
+save               - 省
+savory               - 剪刀草
+schima [root bark]             - 木荷
+saw               - 锯
+say               - 曰
+scratch               - 抓
+salvia [root]              - 野苏子根
+scratch               - 搔
+salvinia               - 蜈蚣萍
+scratch               - 搔抓
+say               - 爰
+scratch               - 搔痒
+screen               - 屏
+screen               - 屏翳
+screen               - 阑
+schisandra               - 菋
+scab               - 痂
+sand               - 痧子
+scabies               - 疥疮
+saffron               - 洎夫蓝
+salamander               - 秉氏鲵
+saposhnikovia               - 唐防风
+saffron               - 番红花
+saposhnikovia               - 屏风
+saffron               - 藏红花
+saposhnikovia               - 防风
+saffron               - 西红花
+salamander               - 羌活鱼
+sag               - 垂
+salience               - 微甚
+saposhnikovia               - 风肉
+sagacious               - 圣
+salpingitis               - 输卵管炎
+salsola               - 猪毛菜
+salt               - 盐
+scorpion               - 全虫
+salt               - 细盐
+scapula               - 肩胛
+salt               - 食盐
+sensitive plant              - 含羞草
+shark               - 鲛
+section               - 段
+section               - 节
+sever               - 割
+sensitive               - 敏
+section               - 部
+several               - 数
+sexual intercourse              - 同房
+sesame oil              - 麻油
+selenite               - 太乙玄精石
+selenite               - 太阴元精石
+selenite               - 太阴玄精
+selenite               - 太阴玄精石
+setting sun              - 夕
+selenite               - 玄精石
+selenite               - 阴精石
+self               - 己
+seasonal               - 时行
+self-sown               - 稆
+sexual function              - 生殖机能
+sexual desire              - 色欲
+sexual intercourse              - 行房
+seasonal influenza              - 时行感冒
+sell               - 卖
+shake               - 振
+sell               - 沽
+shake               - 摇
+semen               - 精液
+shake               - 震
+shallot               - 冬葱
+shallot               - 冻葱
+shallot               - 分葱
+shallot               - 回回葱
+shallot               - 科葱
+shallot               - 胡葱
+secluded               - 幽
+wrench               - 闪
+wrenching               - 闪伤
+Yellow Emperor              - 黄帝
+you               - 尔
+zinc oxide              - 氧化锌
+zucchini               - 福禄瓜
+young ginger              - 嫩姜
+young               - 稚
+younger sister              - 妹
+zelkova               - 榉
+youngia               - 黄鹌菜
+zero               - 零
+zestful               - 弈
+macaque               - 猕
+malaria               - 痎疟
+magnet               - 磁
+malaria               - 麻剌利亚
+lupus erythematosus              - 红斑狼疮
+Luster               - 光彩
+lycopus               - 小泽兰
+lycopus               - 泽兰
+lycopus               - 泽兰叶
+lycopus               - 草泽兰
+luxuriant               - 苒
+magpie               - 鹊
+lygodium               - 左转藤
+maiden               - 室女
+male               - 男
+lygodium               - 海金沙草
+maidenhair               - 猪鬃草
+male               - 男子
+lung disease              - 肺病
+lung cancer              - 肺癌
+dilatation               - 扩张
+dilated pupils              - 瞳神散大
+difference               - 差
+differentiate               - 鉴别
+dilator               - 开大肌
+dill               - 莳
+dill               - 莳萝苗
+discuss               - 论
+discussion               - 话
+disease               - 疾患
+disease               - 疾病
+dispersing               - 散法
+distant               - 缅
+distant               - 辽
+dinner               - 晚餐
+distant               - 远
+dinner               - 晚饭
+dispersion               - 消法
+dinodon               - 赤链蛇
+disease               - 痾
+coconut milk              - 椰子浆
+cocoon               - 茧
+codium               - 水松
+clouding               - 蒙蔽
+clove               - 丁子
+clove               - 丁子香
+clove               - 丁香
+dig               - 挖
+directions               - 用法
+diet therapy              - 食治
+cordyceps               - 冬虫夏草
+convulsion               - 惊厥
+continuous               - 连绵不断
+connective tissue              - 结缔组织
+continuous               - 连绵不绝
+conspicuous               - 显
+cool               - 清
+contract               - 冒犯
+constant               - 不断
+constipation               - 便秘
+constrained               - 不舒
+constipation               - 大便不行
+constipation               - 大便不解
+constipation               - 大便不通
+constipation               - 大便秘
+constipation               - 大便秘结
+constrictor               - 缩肌
+damage               - 损伤
+damage               - 残
+cuscuta               - 菟丝
+complex               - 夹杂
+complex               - 夹错
+congenital               - 先天性的
+complex               - 繁
+complex patterns              - 证候错杂
+congenital cataract              - 发育性白内障
+complexion               - 色泽
+columbine               - 漏斗菜
+colysis               - 大石韦
+coma               - 昏迷不醒
+complicated cataract              - 并发性白内障
+coma               - 神志昏迷
+complicated by              - 挟
+compose               - 组
+combination               - 相兼
+congest               - 雍
+compress               - 罨
+combine               - 配
+combine               - 配伍
+conceive               - 摄精
+conceive               - 摄精成孕
+constipation               - 秘结
+constituent               - 成分
+cooperate               - 协
+constituent               - 组成
+copious sweat              - 汗多
+confine               - 挟
+cold and heat             - 寒热
+commonplace               - 庸
+confucian scholar              - 儒
+bacillary dysentery              - 细菌性痢疾
+wedelia               - 蟛蜞菊
+whiplash               - 鞘
+wax gourd              - 枕瓜
+Western medicine              - 西方医学
+wax gourd              - 白瓜
+wax               - 蜡
+way of life             - 起居
+wether               - 羯
+whittle               - 破削
+carcinoma of the breast            - 乳腺癌
+Rhubarb and Ground Beetle*& Pill           - 大黄蟅虫丸
+worker               - 工
+works               - 着
+yawning               - 呵欠
+year               - 岁
+year               - 年
+worm accumulation              - 虫积
+yeast               - 酵母
+Yellow Emperor              - 公孙
+wood ear              - 木檽
+wriggle               - 蜿
+wriggle               - 蠕
+withered               - 萎
+wood ear              - 木蛾
+wrinkle               - 皱纹
+wood ear              - 树鸡
+wrist               - 手腕
+wrist               - 手踝
+wood ear              - 耳子
+wood ear              - 黑木耳
+without               - 无
+withstand               - 耐
+wooden tongue              - 木舌
+Winter Solstice              - 冬至
+wind evil              - 风邪
+wisdom               - 智
+wisdom tooth              - 智齿
+wisdom tooth              - 真牙
+Wrist Bone              - 腕骨
+write               - 撰
+wok               - 锅
+writing               - 文
+writings               - 书
+wolf               - 狼
+woodworm               - 蠡
+wrong               - 忒
+wrong               - 错
+woman               - 女
+woman               - 妇
+know               - 知
+lac               - 紫虫胶
+klebsiella pneumonia              - 克雷白杆菌肺炎
+lac               - 紫铆\Q{??}
+knuckle               - 本节
+lac               - 虫胶
+lac               - 赤胶
+laceration               - 裂伤
+lack               - 欠
+lack of warmth             - 欠温
+lacquer               - 干漆
+Korea               - 韩
+lacquer               - 漆
+knee joint              - 膝关节
+kidney bean              - 唐豇
+knee cap              - 膝盖
+kidney bean              - 敏豆
+knee cap              - 膝膑
+kidney bean              - 白豆
+kidney bean              - 白饭豆
+knee cap              - 膝髌
+kneecap               - 髌
+Kneecap               - 髌骨
+killing               - 相杀
+kind               - 种
+kind               - 类
+knock               - 打
+kind               - 般
+king               - 王
+lacquer               - 漆干
+kaolin               - 白符
+kaolin               - 白陶土
+kaolin               - 高岭土
+jujube               - 红枣
+jujube               - 美枣
+keep fit              - 颐养
+keloid               - 瘢瘤
+keloid               - 蟹足肿
+kelp               - 昆布
+kidney bean              - 隐元豆
+kelp               - 海昆布
+knotgrass               - 地萹蓄
+knotgrass               - 大蓄片
+joint               - 节
+joint               - 骨节
+joint pain              - 骨节疼痛
+joint pain              - 骨节痛
+joint               - 骱
+kale               - 绿叶甘蓝
+kalimeris               - 田菊
+bearing               - 所载
+balsam pear              - 苦瓜
+barnyard grass              - 稗
+barnyard grass              - 稗根苗
+base               - 根盘
+beast               - 兽
+basil               - 九层塔
+balsam pear              - 菩达
+beat               - 打
+beat               - 搏动
+basil               - 兰香
+B12               - 亥
+B2               - 丑
+atrial fibrillation              - 心房颤动
+B3               - 寅
+atrophic rhinitis              - 萎缩性鼻炎
+back               - 底
+B4               - 卯
+attach               - 附
+B5               - 辰
+attack               - 击
+back pain              - 背痛
+B6               - 巳
+B7               - 午
+bacteria               - 细菌
+B8               - 未
+B9               - 申
+bandage               - 裹帘
+bad breath              - 口臭
+bandit               - 贼
+bad smell              - 臭气
+bacillary dysentery              - 细菌性痢疾
+oven-dry               - 烘干
+onset               - 起病
+onychium               - 小叶金花草
+organelle               - 细胞器
+organs               - 脏腑
+osteogenesis imperfecta              - 成骨不全
+ovarian cyst              - 卵巢囊肿
+osteomalacia               - 软骨病
+osteomyelitis               - 骨髓炎
+open heart surgery             - 开心外科手术
+osteoporosis               - 骨质疏松症
+ovaries               - 卵巢
+other               - 别
+otitis externa              - 外耳炎
+oven               - 灶
+otolith               - 石首鱼头石
+orifice               - 空窍
+otolith               - 鱼脑石
+endowed with              - 禀
+epilepsy               - 癫痫
+epilepsy               - 羊痫风
+endure               - 茹
+epilepsy               - 羊癫风
+engendering               - 相生
+enhance               - 修
+epimedium               - 三枝九叶草
+embolism               - 栓塞
+epimedium               - 仙灵脾
+epimedium               - 淫羊藿
+enrich               - 剩
+epimedium               - 羊藿
+epinephrine               - 肾上腺素
+enduring illness              - 久病
+essentially               - 本
+eggplant               - 茄
+elbow joint              - 肘关节
+Empirical Formula              - 经验方,验方
+eggplant               - 茄子
+elbow               - 肘腕
+elm               - 榆
+empowering               - 相使
+elder sister              - 姊
+elder brother              - 昆
+empty               - 缺
+eggplant               - 草鳖甲
+enamel               - 釉
+eggplant               - 落苏
+enamel               - 釉质
+eggplant               - 酪酥
+elder               - 蒴藋
+elder               - 走马箭
+encephalitis               - 脑炎
+eggshell               - 凤凰蜕
+encircle               - 围
+eggshell               - 混沌皮
+eggshell               - 鸡卵壳
+encircling               - 围药
+elderberry               - 蒴藋赤子
+encircling               - 箍围疗法
+eggshell               - 鸡子壳
+encircling               - 箍围药
+elderly gentleman              - 公
+eggshell               - 鸡子蜕
+encounter               - 遇
+electricity               - 电
+eggshell               - 鸡沌池
+eggshell               - 鸡蛋壳
+egret               - 鹭肉
+borax               - 大朋砂
+breakfast               - 早饭
+borax               - 月石
+borax               - 盆砂
+borax               - 硼
+bountiful               - 丰
+borax               - 蓬砂
+breast               - 乳房
+borax               - 西月石
+borax               - 鹏砂
+border               - 际
+bow               - 弓
+borderland               - 蕃
+breast milk              - 乳汁
+bore               - 穿
+bore               - 钻
+borneol               - 冰片
+blue               - 绀
+blue               - 蓝
+bolt               - 楗
+blood block              - 血闭
+bluebeard               - 兰香草
+bluebeard               - 山薄荷
+Bone Growth              - 成骨
+blurred vision              - 目糊
+blurred vision              - 目视-+
+blurred vision              - 目视-+-+
+blurred vision              - 目视-+-+无所见
+blurred vision              - 目视模糊
+blurred vision              - 视物-+-+
+blurred vision              - 视物模糊
+blurred vision              - 视物模糊不清
+bone fracture              - 骨折
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+blood sugar              - 血糖
+bloody stool              - 大便下血
+bloody stool              - 大便出血
+bloody stool              - 血便
+bud               - 苞
+buttock               - 臀
+Buddha               - 佛
+buttocks               - 屁
+calomel               - 汞粉
+calomel               - 轻粉
+calomel               - 银粉
+button               - 钮
+borneol               - 冰片脑
+borneol               - 梅冰
+borneol               - 梅片
+breast feeding              - 授乳
+borneol               - 梅花片脑
+borneol               - 梅花脑
+borneol               - 梅花脑子
+borneol               - 片脑
+breast               - 臆
+borneol               - 瑞龙脑
+borneol               - 脑子
+bronchi               - 支气管
+bronchial asthma              - 支气管炎哮喘
+break               - 折
+bronchiectasis               - 支气管扩张
+break               - 断
+bronchioles               - 细支气管
+brimming               - 羕
+bronchitis               - 支气管炎
+brine               - 盐水
+bronchopneumonia               - 支气管肺炎
+bronchospasm               - 支气管痉挛
+bristle brush              - 毛刷
+bronze               - 铜
+brittle               - 脆
+broad bean              - 仙豆
+broad bean              - 佛豆
+broad bean              - 南豆
+broad               - 博
+broomrape               - 列当
+brown sugar              - 红糖
+brown sugar              - 赤沙糖
+bosom               - 怀
+bosom               - 膺
+bosom               - 膺中
+bosom               - 臆
+borneol               - 龙脑
+breasts               - 乳房
+breathing               - 呼吸
+broad               - 广
+brachial artery              - 肱动脉
+broad bean              - 秬豆
+aphasia              - 失语
+acupuncture points             - 腧穴
+soreness              - 酸
+manipulation              - 推拿
+acid regurgitation             - 吞酸
+inspection              - 望诊
+gastric ulcer             - 胃溃疡
+stomach ache             - 胃痛
+positive elements             - 阳
+dysphagia              - 噎嗝
+intrathecal injection             - 鞘内注射
+eliminating pathogens             - 祛邪
+common cold             - 伤风
+inquiry              - 问诊
+regurgitation              - 反胃
+atelectasis              - 肺不张
+block therapy             - 封闭疗法
+intra-articular injection             - 关节内注射
+full pulse             - 洪脉
+spermatorrhea              - 滑精
+amnesia              - 健忘
+tenosynovitis              - 腱鞘炎
+numbness              - 麻
+numbness              - 麻木
+migraine              - 偏头痛
+cupping therapy             - 拔火罐
+diagnosis and treatment            - 辨证施治
+pathogenesis              - 病机
+asthma              - 喘症
+cholelithiasis              - 胆石症
+night sweat             - 盗汗
+electro-acupuncture              - 电针
+body fluid             - 津液
+trismus              - 口噤
+contrast               - 对待
+contrasting               - 对待法
+contributory factor              - 成因
+control               - 任
+coronary               - 冠
+control               - 控
+control malaria              - 治疟
+coronary bypass              - 冠状动脉旁路手术
+contact dermatitis              - 接触性皮炎
+coral               - 珊
+container               - 筒
+coral               - 珊瑚
+container               - 罐
+Controlling High              - 制高
+corbicula               - 蚬
+contend               - 相搏
+decoct               - 煎汤
+decoct               - 煎熬
+depuration               - 清肃
+deranged               - 乱
+decoction               - 汤液
+decoction               - 煎药法
+delayed               - 迟
+delicate               - 娇
+decoctum               - 汤
+dermatitis               - 皮肤炎
+decoctum               - 煮
+dermatosis               - 皮病
+decoctum               - 熬
+dawn               - 旦
+decomposition               - 腐熟
+destroy               - 毁
+dianella               - 山猫儿
+dianthus               - 洛阳花
+dendrobium               - 石蓫
+daily dosage              - 一日量
+dancing               - 娑
+dandelion               - 公英
+dandelion               - 凫公英
+dandelion               - 蒲公英
+dampness               - 湿
+dandelion               - 黄花地丁
+dandruff               - 头皮屑
+dangerous               - 危
+Daoism               - 道家
+Daoist               - 道家
+dark eyes              - 两目暗黑
+deafness               - 耳聩
+dark sleeper              - 土附
+dark               - 晦
+dark               - 晦暗
+dark               - 暗
+debilitation               - 衰微
+cynomorium               - 锁严子
+cynomorium               - 锁阳
+cyperus               - 莎草
+cuticle               - 表皮
+cysticercosis               - 囊虫病
+damp-heat               - 湿热
+cystitis               - 膀胱炎
+cystolithiasis               - 膀胱石病
+cytoplasm               - 细胞质
+dace               - 鲮
+depression               - 罅陷
+debregeasia               - 冬里麻
+depression               - 郁滞
+laryngitis               - 喉炎
+lean on              - 靠
+land               - 陆
+leap               - 跳
+Leap               - 跳跃
+late afternoon              - 晡
+leather               - 革
+late periods              - 经迟
+laparotomy               - 剖腹术
+late summer              - 长夏
+leech               - 水蛭
+leech               - 水麻贴
+Large Pile              - 大敦
+leech               - 沙塔干
+leech               - 红蛭
+laver               - 子菜
+laver               - 甘紫菜
+lake               - 湖
+laver               - 索菜
+lame               - 尪
+laver               - 紫菜
+lament               - 哀
+lamp               - 灯
+scutellaria               - 芩
+scorching hot              - 灼热
+sea perch              - 鲈鱼
+Seabed               - 海底
+sea cucumber              - 刺参
+seal               - 肭
+seal               - 腽
+scales               - 鳞屑
+scallion               - 和事草
+scallion               - 四季葱
+scallion               - 火葱
+scallion               - 芤
+sedan chair              - 轿
+sea               - 海
+sea cucumber              - 海参
+see               - 看
+see               - 视
+seed               - 仁
+seed               - 子
+sea urchin              - 海胆
+seedling               - 秧
+seam               - 分
+seek               - 求
+serum               - 血清
+seethe               - 沸
+searching               - 寻
+sea cucumber              - 海鼠
+inhibited               - 不畅
+infection               - 传染
+infection               - 感染
+inferior               - 卑
+insomnia               - 不得眠
+insomnia               - 不眠
+infertility               - 不妊
+insomnia               - 不睡
+infertility               - 不孕
+infertility               - 女性不孕症
+insomnia               - 失眠
+Infertility               - 绝孕
+insomnia               - 无眠
+inspect               - 审
+inspect               - 察
+interlocking               - 错
+intermediary               - 间
+inhibition               - 不利
+inflate               - 膨
+indistinct               - 渺
+inflation               - 膨胀
+indeed               - 审
+indocalamus               - 箬
+indented               - 凹
+influenza               - 流行性感冒
+index finger              - 手食指
+index finger              - 食指
+indulge               - 纵
+infuse               - 泡
+ingenuity               - 伎
+ingenuity               - 巧
+ingredient               - 组成
+infant               - 婴儿
+Inner Thigh              - 股内
+infant               - 小儿
+infantile               - 小儿
+insanity               - 疯
+inguinal region              - 阴股
+inhale               - 吸
+insect bites              - 虫咬
+inhale               - 吸入
+impotence               - 阴痿
+idol               - 偶
+impress               - 印
+if               - 若
+improper               - 失宜
+ilex               - 苦丁茶
+iliopsoas muscle              - 髂腰肌
+ilium               - 髂
+indication               - 主治
+horn               - 角
+hobble               - 蹶
+house               - 屋
+hog               - 豨
+house               - 府
+horning               - 角法
+hemiplegia               - 偏废不仁
+hickory               - 山核桃
+hemiplegia               - 偏瘫
+hemiplegia               - 半身不遂
+hold               - 持
+hemiplegia               - 半身不随
+hemiptelea               - 刺榆
+hole               - 孔
+hole               - 穴道
+hemophilia               - 血友病
+holism               - 整体观念
+high               - 高
+hostility               - 忤
+honey               - 蜂糖
+herb               - 草药
+hinge               - 机关
+honey               - 蜂蜜
+hip               - 胯
+hip bone              - 胯骨
+honey               - 蜜
+hot tears              - 泪热
+honey               - 蜜糖
+hereby               - 兹
+honey               - 食蜜
+hip joint              - 髀厌
+hip               - 髁
+hot compress              - 热敷
+heart and vessels             - 心脉
+heavenly stem              - 天干
+heart attack              - 心脏麻痹
+heavy               - 沉
+heavy               - 沉重
+hemoptysis               - 咯血
+henbane               - 莨
+hemorrhage               - 出血
+high fever              - 高热
+high bone              - 高骨
+honest               - 敦
+hemorrhoid               - 痔疮
+hemorrhoid               - 肛门生痔
+hill               - 丘
+heavy eye              - 目瞑
+heavy eye              - 瞑
+hematite               - 须丸
+prolong               - 曼
+prosperous               - 昌
+prolong               - 迁
+prolonged               - 日久
+prostatitis               - 前列腺炎
+prolonged               - 迁
+protect against              - 防
+protein               - 蛋白
+proteins               - 蛋白质
+pure               - 纯
+proteinuria               - 蛋白尿
+prick               - 速刺
+prickle               - 芒
+primrose               - 樱草根
+principle               - 则
+principle               - 原则
+principle of treatment             - 治则
+principle of treatment             - 治疗原则
+principle of treatment             - 治病法则
+principle               - 纲领
+prinsepia               - 蕤
+process               - 制
+processed               - 熟
+prominence               - 隆凸
+prominent               - 着
+promote contraction              - 收敛
+pulse               - 脉
+proton               - 质子
+protrude               - 凸
+Protuberance               - 兑中
+pulse               - 脉象
+prescription               - 处方
+poria               - 伏灵
+poria               - 伏苓
+prescription               - 处方笺
+poria               - 松木薯
+prescription               - 药方
+poria               - 松腴
+poria               - 松苓
+poria               - 松薯
+poria               - 茯兔
+present               - 今
+poria               - 茯灵
+present               - 现
+poria               - 茯苓
+presenting signs              - 见症
+practice               - 习
+practitioner               - 医工
+press               - 压
+practitioner               - 工
+gecko               - 蚧蟹
+ginseng fruit              - 人参子
+generalized               - 遍身
+ginseng               - 人衔
+galinsoga               - 辣子草
+galium               - 八仙草
+galium               - 猪殃殃
+galium               - 血见愁
+gecko               - 蛤
+gecko               - 蛤蚧
+gentle formula              - 缓方
+gem               - 珍
+general diseases              - 一般疾病
+geomancy               - 风水
+general pattern              - 全身证候
+gerbera               - 毛大丁草
+gingivitis               - 齿龈炎
+general               - 概
+get worse              - 加剧
+generalized               - 全身
+garlic               - 蒜
+garlic leaf              - 青蒜
+gallbladder               - 胆囊
+gastroenteritis               - 胃肠炎
+gastrointestinal               - 胃肠
+frozen               - 冻
+gastrectomy               - 胃切除术
+gastritis               - 胃炎
+fume               - 熏（熏）
+gangrene               - 坏疽
+fumigate               - 烟熏
+function               - 功
+function               - 功能
+furl               - 翕
+g               - 公克
+gastrocnemius muscle              - 腓肠肌
+frozen shoulder              - 肩凝
+gardenia               - 栀
+gallbladder disease              - 胆病
+frigidity               - 性冷
+fruit               - 实
+gardenia flower              - 栀子花
+fruit               - 果
+fruit section              - 果部
+frustration               - 求谋不遂
+frog tadpole              - 蝌蚪
+frog               - 青蛙
+gargle               - 漱喉
+from               - 从
+from               - 由
+breakdown               - 失权
+breakdown               - 无权
+botulism               - 肠菌毒病
+breakfast               - 早餐
+borax               - 大朋砂
+breakfast               - 早饭
+borax               - 月石
+borax               - 盆砂
+borax               - 硼
+bountiful               - 丰
+borax               - 蓬砂
+breast               - 乳房
+borax               - 西月石
+borax               - 鹏砂
+border               - 际
+bow               - 弓
+borderland               - 蕃
+breast milk              - 乳汁
+bore               - 穿
+bore               - 钻
+borneol               - 冰片
+blue               - 绀
+blue               - 蓝
+bolt               - 楗
+blood block              - 血闭
+bluebeard               - 兰香草
+bluebeard               - 山薄荷
+Bone Growth              - 成骨
+blurred vision              - 目糊
+blurred vision              - 目视-+
+blurred vision              - 目视-+-+
+blurred vision              - 目视-+-+无所见
+blurred vision              - 目视模糊
+blurred vision              - 视物-+-+
+blurred vision              - 视物模糊
+blurred vision              - 视物模糊不清
+bone fracture              - 骨折
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+mobile               - 善走
+mobile               - 走而不守
+mouse               - 鼷
+moderate               - 缓和
+moustache               - 须
+modern medicine              - 现代医学
+mulberry               - 乌椹
+mulberry               - 文武实
+mouth               - 兑
+mulberry               - 桑
+moist               - 濡
+mulberry               - 桑仁
+mouth sore              - 口中生疮
+mulberry leaf              - 桑叶
+morning               - 上午
+mouth sore              - 口疮
+morning sickness              - 恶阻
+mouth sores              - 口破
+morning               - 早
+mulberry               - 桑实
+morning               - 早上
+mouth               - 嘴
+mulberry               - 桑果
+morning               - 朝
+mouth               - 颌
+mulberry               - 桑枣
+mole               - 痣
+mole               - 胞
+mouthwash               - 含漱
+mouthwash               - 漱口
+mouthwash               - 漱涤
+mulberry               - 桑椹
+mortar               - 捣筒
+mulberry               - 桑椹子
+mortar               - 臼
+move               - 移
+mollissima               - 寻骨风
+mosla               - 香戎
+mollugo               - 地麻黄
+mosla               - 香茸
+move water              - 行水
+mosla               - 香葇
+mosla               - 香薷
+move               - 迁
+momordica               - 拉汗果
+mosla               - 香薷草
+move               - 鼓运
+mulberry               - 桑粒
+mostly               - 多
+moth               - 灯蛾
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+blood sugar              - 血糖
+bloody stool              - 大便下血
+bloody stool              - 大便出血
+bloody stool              - 血便
+blood vessel              - 血脉
+boil               - 沸
+boil               - 煨水
+boil               - 熬
+blow               - 吹气
+boschniakia               - 草苁蓉
+blind               - 瞎
+blindness               - 视觉缺失
+bladder disease              - 膀胱病
+blink               - 眨
+blink               - 瞬
+blinking               - 目眨
+blistering               - 发泡
+blistering               - 提泡
+blistering               - 起泡
+bloating               - 饱胀
+block               - 拦
+blood               - 血液
+blood circulation              - 血液循环
+blood thirst              - 血渴
+blood heat              - 血热
+blood loss              - 出血
+bleed               - 放血
+bleeding               - 出血
+bleeding wound              - 创伤出血
+bleeding               - 流血
+black eye              - 眼胞瘀痛
+black tea              - 红茶
+blemish               - 疵
+blepharoptosis               - 睑下垂
+blood loss              - 失血
+bicuspids               - 二尖齿
+black soy              - 豆黄
+bladder               - 胞
+black scraper              - 马面单棘鲀
+bladder               - 膀胱
+soybean               - 毛豆
+skull               - 颅
+Skull               - 颅囟
+snail               - 蜗
+smear               - 涂
+skull               - 颅盖
+smell               - 嗅
+snail               - 蜗牛
+slack               - 弛
+slack               - 弛纵
+snail shell              - 蜗牛壳
+slow               - 徐
+slacken               - 弛纵
+slow               - 慢
+slackening               - 瘲
+slaked lime              - 熟石灰
+smoke               - 烟
+slave               - 奴
+snake bite              - 毒蛇咬伤
+sleep               - 寝
+soothe               - 塌
+soothe the liver             - 舒肝
+soar               - 腾
+sober               - 醒酒
+south               - 南
+skin               - 皮肤
+six channels              - 六经
+smolder               - 蕴
+sleep               - 眠
+sleep               - 睡眠
+snake               - 蛇
+slug               - 蛞蝓
+sluggish               - 懈
+sleeping pills              - 安眠剂
+snake bite              - 蛇伤
+sleeplessness               - 不寐
+sleeplessness               - 不眠
+sluggish               - 謇
+sleeplessness               - 不睡
+sleeplessness               - 无眠
+sluggish               - 蹇
+sleeve               - 袖
+sluice               - 渎
+snake venom              - 蛇毒
+shy               - 羞
+side               - 侧
+sink               - 没
+similar               - 类
+simple               - 单
+sinusitis               - 鼻窦炎
+pinch               - 捏
+pneumonia               - 肺炎
+pinch               - 掐
+plain               - 素
+picture               - 图
+pneumothorax               - 气胸
+picture               - 画
+pierce               - 穿
+plait               - 编
+piercing eyes              - 眼目窜视
+plait               - 辫
+pig               - 猪
+plane               - 刨
+polyporus               - 豕零
+polyporus               - 豭猪屎
+polyporus               - 野猪屎
+poria               - 茯菟
+pork               - 猪
+platform               - 台
+polyposis               - 息肉病
+platter               - 盘
+pork               - 猪肉
+portal vein              - 门静脉
+position               - 位
+position               - 部
+precipitation               - 通下
+possibly               - 或
+pomelo               - 柚
+possibly               - 许
+post-               - 后
+pomelo               - 柚子
+pile up              - 迭
+pistachio               - 无名子
+plum               - 嘉庆子
+pistachio               - 阿月浑子
+plum               - 李
+point               - 点
+plant               - 植
+point               - 穴位
+point               - 穴道
+plantago               - 当道
+plantago               - 牛甜菜
+pine               - 松
+plantago               - 牛舄
+plantago               - 田波菜
+pigeon               - 鸽
+pine nut              - 松子
+plantago               - 胜舄菜
+pointed               - 尖
+pine nut              - 松子仁
+Central Hole              - 中空
+chain               - 链
+chalk               - 白垩
+chalky               - 如积粉
+chamber               - 室
+chamomile               - 母菊
+ceramic               - 瓷
+change               - 换
+cerebellum               - 小脑
+cerebral palsy              - 大脑性瘫痪
+cauldron               - 釜
+cauliflower               - 椰菜花
+cauliflower               - 花椰菜
+cauliflower               - 花茎甘蓝
+cauliflower               - 花菜
+cauliflower               - 青花菜\Q{??}
+cell membrane              - 细胞膜
+cause of disease             - 发病原因
+[body] hair              - 毛
+cause               - 成因
+celosia               - 青箱
+celosia               - 青葙
+throat               - 颃
+cementum               - 齿垩质
+cauterization               - 烙法
+centipeda               - 鹅不食草
+centaurea               - 苦蒿
+centipede               - 千足
+centaury               - 埃蕾
+cautions               - 注意事项
+centipede               - 蜈
+centella               - 崩大碗
+centipede               - 蜈蚣
+centella               - 积雪草
+centella               - 落得打
+abalone shell              - 九孔决明
+cave               - 洞
+centella               - 雷公根
+cavity               - 腔
+abalone shell              - 石决明
+celery               - 洋芹菜
+abalone               - 鲍
+cerebral hemorrhage              - 脑出血
+catch cold              - 受凉
+catch               - 着
+glechoma               - 连钱草
+catch cold              - 着凉
+catfish               - 土杀
+catfish               - 塘虱鱼
+catfish               - 胡子鲶
+Warring States              - 战国
+wart               - 枯筋箭
+wart               - 疣赘
+vitreous hemorrhage              - 玻璃体积血
+wart               - 瘊
+wart               - 瘊子
+vivus               - 生
+wart               - 皮肤疣
+voice               - 嗓
+water accumulation              - 积水
+wart               - 赘疣
+water spinach              - 空心菜
+wart               - 饭蕊
+valley               - 谷
+urine               - 前溲
+urine               - 小水
+urine               - 小溲
+valuable               - 贵
+urine               - 尿液
+urine               - 水泉
+urine               - 溲
+vertex               - 颠顶
+Urine               - 溺水
+urine odor              - 臊味
+vanquished               - 败坏
+variant               - 加减
+vesicle               - 水-+
+vacuity               - 虚弱
+variation               - 加减
+vesicle               - 水泡
+variation               - 加减法
+urticaria               - 荨麻疹
+variation               - 化裁
+vessel               - 脉
+varied               - 化裁
+variola               - 天花
+veins               - 筋脉
+uterus               - 女子胞
+uterus               - 子宫
+uterus               - 胞
+uterus               - 胞宫
+uterus               - 阴胞
+vacuous               - 虚弱
+uvea               - 葡萄膜
+urinary calculus              - 尿石
+uveitis               - 葡萄膜炎
+venison               - 鹿肉
+Urinary Bladder              - 尿胞
+uvula               - 帝丁
+uvula               - 帝钟
+gum               - 牙龂
+gum               - 牙龈
+gum               - 齿龈
+gum               - 龂
+grip               - 绞
+gums               - 齿龈
+grit               - 砂
+gurgle               - 沥
+groaning               - 呻
+groaning               - 呻吟
+hair loss              - 毛发脱落
+groin               - 阴股
+gush               - 涌
+granulated sugar              - 沙糖
+gr               - 公克
+grab               - 抓
+grabbing               - 搦
+great thirst              - 口大渴
+grid               - 格
+great               - 大
+grief               - 哀
+guard               - 守
+guava               - 番石榴
+great adductor muscle             - 大收肌
+grind with water             - 水磨
+gueldenstaedtia               - 甜地丁
+gueldenstaedtia               - 米口带地丁
+gueldenstaedtia               - 萝卜地丁
+greedy               - 贪
+great water              - 大水
+Guest House              - 筑宾
+grind               - 研碎
+grind               - 研磨
+grape               - 山葫芦
+gold leaf              - 金箔
+gold leaf              - 飞金
+grape               - 葡萄
+gold               - 黄金
+goose               - 鹅
+great               - 巨
+grasp               - 拿
+grasp               - 捉
+green amaranth              - 绿苋
+grasping               - 拿法
+green               - 翠
+great               - 祁
+gorilla               - 猩
+grate               - 剉
+grate               - 锉
+gourd               - 瓜
+vegetarian               - 素
+vehicle               - 车
+veiled               - 冒
+urinary incontinence              - 小便失禁
+vein               - 青筋
+vein               - 静脉
+upper gastrointestinal bleeding             - 上消化道出血
+umbilicaria               - 石耳
+unable to              - 不得
+upper limb              - 上肢
+uncle               - 伯
+unstable               - 不稳定
+upper arm              - 上膊
+unclear vision              - 视物不清
+unconsciousness               - 不省人事
+unconsciousness               - 人事不省
+Upper Gate              - 上门
+unconstrained               - 舒
+unyielding               - 刚
+uncontrollable               - 不能自主
+upper extremity              - 手
+unicorn               - 麒
+unicorn               - 麟
+twice               - 再
+ulceration               - 溃烂
+uplift               - 升举
+twig               - 条
+unilateral               - 偏
+ulcerative colitis              - 溃疡性结肠炎
+twig               - 枝
+ulcers               - 溃疡病
+twilight               - 昏
+ulna               - 尺骨
+ulna               - 正骨
+ulnar artery              - 尺动脉
+twirl               - 转
+Upper Gate              - 上关
+twirling               - 捻转
+upper body              - 上半身
+uninhibited               - 快
+twist               - 扭
+uninhibited               - 畅
+two               - 两
+unite               - 联
+umbilical cord              - 脐带
+universal               - 普
+unlike               - 异
+twelve               - 十二
+tympanic membrane              - 鼓膜
+tympanoplasty               - 鼓膜成形术
+vomiting and diarrhea             - 吐泻
+vomiting               - 呕吐
+waste               - 费
+water caltrop starch             - 菱粉
+watercress               - 凉菜
+watercress               - 水蔊菜
+watercress               - 西洋菜
+watercress               - 豆瓣菜
+Water Divide              - 水分
+ward               - 病房
+vertebral arch              - 椎骨弓
+urinate               - 排尿
+vertebral column              - 脊柱
+urination               - 小便
+vertex               - 头顶
+urine               - 下泉
+vetch               - 大巢菜
+ustus               - 焦
+usual               - 素
+vasodilator               - 血管舒张药
+vexation               - 心烦
+vast               - 阔
+vexation               - 烦心
+Water Gate              - 水门
+warming               - 温法
+vitiligo               - 白斑病
+water flow              - 瀼
+vitiligo               - 白癜风
+Warring States              - 战国
+wart               - 枯筋箭
+wart               - 疣赘
+vitreous hemorrhage              - 玻璃体积血
+wart               - 瘊
+wart               - 瘊子
+vivus               - 生
+wart               - 皮肤疣
+voice               - 嗓
+water accumulation              - 积水
+wart               - 赘疣
+water spinach              - 空心菜
+wart               - 饭蕊
+valley               - 谷
+urine               - 前溲
+urine               - 小水
+urine               - 小溲
+valuable               - 贵
+urine               - 尿液
+urine               - 水泉
+urine               - 溲
+vertex               - 颠顶
+sign               - 征象
+sign               - 证候
+shallot               - 蒜葱
+shallot               - 蕗荞葱
+shallow               - 浅
+second               - 再
+second toe              - 大趾次趾
+shame               - 耻
+second               - 次
+second toe              - 次趾
+second               - 第二
+second toe              - 足次趾
+secondary               - 副
+secondary               - 次
+senile dementia              - 老年痴呆症
+secret formula              - 禁方
+secretion               - 分泌
+secretion               - 分泌物
+sensitive plant              - 含羞草
+shark               - 鲛
+section               - 段
+section               - 节
+sever               - 割
+sensitive               - 敏
+section               - 部
+several               - 数
+sexual intercourse              - 同房
+sesame oil              - 麻油
+selenite               - 太乙玄精石
+selenite               - 太阴元精石
+selenite               - 太阴玄精
+selenite               - 太阴玄精石
+setting sun              - 夕
+selenite               - 玄精石
+selenite               - 阴精石
+self               - 己
+seasonal               - 时行
+self-sown               - 稆
+sexual function              - 生殖机能
+sexual desire              - 色欲
+sexual intercourse              - 行房
+seasonal influenza              - 时行感冒
+sell               - 卖
+shake               - 振
+sell               - 沽
+shake               - 摇
+semen               - 精液
+shake               - 震
+shallot               - 冬葱
+shallot               - 冻葱
+fish               - 鱼
+fire heat              - 火热
+fig               - 无花果
+Five Dynasties              - 五代
+five seasons              - 五时
+fire needle              - 火针
+fixator               - 固定肌
+finished               - 了
+fir               - 杉
+fern               - 蕨
+field cricket              - 大头狗
+fishing line              - 纶
+fissure               - 裂伤
+field               - 田
+fist               - 拳
+fierce               - 武
+fistula               - 漏疮
+fierce               - 猛
+fine               - 毫
+fine needle              - 毫针
+fine jade              - 琼
+fever               - 发烧
+firewood               - 柴
+fever               - 发热
+firewood               - 薪
+fine powder              - 细粉
+fiber               - 纤维
+fenugreek [seed]              - 胡芦巴
+fibre               - 纤
+fibrillation               - 纤维颤动
+fibula               - 劳堂骨
+ferment               - 酵
+fibula               - 腓骨
+first               - 先
+fibula               - 辅骨
+finger               - 手指
+finger               - 指
+ficus               - 榕
+first               - 第一
+fiery               - 烈
+diarrhea               - 泻肚
+dew               - 露水
+diarrhea               - 泻肚子
+difficult               - 难
+difficult question              - 难
+diarrhea               - 腹泄
+diarrhea               - 腹泻
+depression               - 宛
+depression               - 宛宛
+depression               - 罅
+night               - 暮
+ocean               - 洋
+north               - 北
+ninth               - 第九
+nipple               - 乳头
+niter               - 消石
+niter               - 火消
+Northern Dynasties              - 北朝
+niter               - 火硝
+niter               - 焰消
+niter               - 焰硝
+niter               - 硝石
+niter               - 银硝
+nucleolus               - 核仁
+number               - 号
+noble               - 贵
+number of packets             - 帖数
+Nocturia               - 夜尿
+number               - 数
+nose               - 明堂
+numbness               - 不仁
+thrombophlebitis               - 血栓性静脉炎
+thrombosis               - 血栓
+throughout               - 彻
+three               - 参
+throw               - 丢
+throw               - 投
+thrush               - 鹅口疮
+thud               - 憺
+thumb               - 大指
+thumb               - 手大指
+thumb               - 拇
+thumb               - 母指
+thump               - 挫
+thumping               - 振法
+toad               - 蟾
+thirst               - 口渴
+therefore               - 故
+thirst               - 渴
+Three Kingdoms              - 三国
+this               - 兹
+this               - 是
+three corpses              - 三尸
+thoracic               - 胸
+thoracic vertebrae              - 胸椎骨
+thoracic cavity              - 胸腔
+throat               - 咙
+throat               - 咽
+throat               - 咽喉
+tight               - 秘
+varied               - 化裁
+variola               - 天花
+veins               - 筋脉
+uterus               - 女子胞
+uterus               - 子宫
+eyebrow               - 眉
+Eyebrow               - 眉头
+feces               - 粪
+faint               - 晕倒
+faint               - 晕厥
+far-reaching               - 羕
+feeble               - 无力
+farsightedness               - 能远怯近
+feel the pulse             - 切脉
+feel               - 扪
+feel               - 捻
+feel               - 摸
+female               - 女
+female infertility              - 女子绝子
+female genitals              - 女性生殖器
+female infertility              - 妇人绝子
+female               - 牝
+femoral artery              - 股动脉
+femur               - 大楗骨
+femur               - 大腿骨
+femur               - 髀骨
+fence               - 篱
+fennel [fruit]              - 土茴香
+fight               - 抗
+fight               - 斗
+fennel               - 茴
+filariasis               - 丝虫病
+file               - 剉
+file               - 锉
+firefly               - 萤
+firefly               - 萤火
+fetus               - 胎儿
+filial piety              - 孝
+filiform needle              - 毫针
+final stage              - 后期
+fear               - 怕
+extinguish               - 灭
+fear of water             - 恐水
+fall               - 下陷
+fear               - 惕
+extraordinary               - 奇
+fall               - 垂
+fear               - 畏
+fall               - 落
+fear of people             - 畏人
+outcome               - 转归
+Outer Life              - 外命
+originally               - 本
+red tongue              - 红舌
+recurrent               - 反复发作
+recurrent aphthae              - 复发性口疮
+red nose              - 红鼻子
+red sage              - 五色梅
+red sage root             - 五色梅根
+red tongue              - 舌质红
+reach               - 及
+reflect               - 候
+reflection               - 意
+tamarind               - 酸角
+tamarisk               - 柽
+taro               - 芋
+swertia               - 獐牙菜
+swertia               - 青叶丹
+tabanus               - 牛苍蝇
+swertia               - 青叶胆
+tabanus               - 牛虻
+tabanus               - 牛蚊子
+tabanus               - 瞎虻虫
+tangerine               - 橘
+TB               - 三焦
+worms               - 诸虫
+worrying               - 弄
+sweet pepper              - 青椒
+sweet wormwood              - 青蒿
+swill               - 飧
+talcum               - 共石
+tabanus               - 瞎蚂蜂
+tabanus               - 虻
+talcum               - 夕冷
+tabanus               - 虻虫
+talcum               - 夜石
+tabanus               - 蜚虻
+swimming crab              - 蝤蛑
+swine               - 豕
+taro [root]              - 蹲鸱
+talcum               - 画石
+tachycardia               - 心搏快速
+talcum               - 留石
+tachycardia               - 心搏过速
+talcum               - 番石
+taciturn               - 沉默寡言
+talcum               - 硬滑石
+tarsal bones              - 跗骨
+swollen throat              - 嗌肿
+talcum               - 脆石
+smoke               - 烟
+slave               - 奴
+snake bite              - 毒蛇咬伤
+sleep               - 寝
+soothe               - 塌
+soothe the liver             - 舒肝
+soar               - 腾
+sober               - 醒酒
+south               - 南
+skin               - 皮肤
+six channels              - 六经
+smolder               - 蕴
+sleep               - 眠
+sleep               - 睡眠
+snake               - 蛇
+slug               - 蛞蝓
+sluggish               - 懈
+sleeping pills              - 安眠剂
+snake bite              - 蛇伤
+sleeplessness               - 不寐
+sleeplessness               - 不眠
+sluggish               - 謇
+sleeplessness               - 不睡
+sleeplessness               - 无眠
+sluggish               - 蹇
+sleeve               - 袖
+sluice               - 渎
+snake venom              - 蛇毒
+shy               - 羞
+side               - 侧
+sink               - 没
+similar               - 类
+simple               - 单
+sinusitis               - 鼻窦炎
+skin               - 肤
+skin               - 胕
+slop               - 溏
+six               - 陆
+skip               - 越
+skirt               - 裙
+smooth delivery              - 顺产
+smallpox               - 天花
+skull               - 头颅骨
+shoulder blade              - 肩甲
+silkworm               - 蚕虫
+shoulder joint              - 肩解
+shoulder blade              - 胛
+slice               - 切
+slice               - 切片
+sixth               - 第六
+suppress               - 杀
+superior vena cava             - 上腔静脉
+superior               - 尚
+superior mesenteric vein             - 肠系膜上静脉
+suppuration               - 化脓
+supinator               - 旋后肌
+suppurative otitis media             - 化脓性中耳炎
+swallow               - 下
+supine               - 仰
+swallow               - 咽
+supine               - 仰卧
+swallow               - 燕
+supine               - 偃
+supper               - 飧
+supplementation               - 补养
+surging               - 洪
+summer               - 夏
+sunflower seed              - 向日葵子
+sunflower               - 向日葵花
+sunken eyes              - 目下陷
+sunken eyes              - 目窠内陷
+surround               - 环
+supple               - 茹
+subservient               - 从
+substance               - 质
+substantial               - 有形
+sudden               - 霍
+suddenly               - 乍
+successive               - 陆
+suddenly               - 突
+suddenly               - 顿
+suck               - 吮
+suffocation               - 憋气
+sugar cane              - 甘蔗
+suckle               - 吮
+sugar cane juice             - 甘蔗汁
+suckle               - 吮乳
+suckle               - 哺
+sugar               - 糖
+sugar syrup              - 糖浆
+suction cup              - 抽气罐
+sugars               - 糖类
+sulfur               - 石硫黄
+sulfur               - 硫
+susceptibility to              - 易受
+sudden death              - 人卒暴死
+sudden collapse              - 僵仆
+subclavian artery              - 锁骨下动脉
+sudden               - 卒
+storax               - 帝膏
+spray               - 喷
+squint               - 偏视
+squint               - 斜视
+squint               - 目偏视
+spread out              - 扩
+squint               - 目珠偏斜
+spread to              - 波及
+squirrel               - 松鼠
+spread               - 铺
+stain               - 染
+stalactite               - 卢布
+stalactite               - 夏乳根
+stalactite               - 夏石
+stalactite               - 石钟乳
+stalactite               - 芦石
+stalactite               - 钟乳
+stalactite               - 钟乳石
+stalactite               - 黄石砂
+stalk               - 蒂
+stamen               - 蕊
+stanch bleeding              - 止血
+stand beside              - 侠
+stand               - 立
+stand               - 站
+standard               - 格
+stellaria               - 银胡
+split               - 劈
+split               - 擘
+spring               - 春
+splitting headache              - 头痛如劈
+splitting headache              - 头痛如破
+spodiopogon               - 茨菇草
+Spring and Autumn             - 春秋
+spine               - 膂骨
+spider               - 蛛
+spider               - 蜘
+spider               - 蜘蛛
+spring               - 泉
+spoon               - 匙
+spirit mechanism              - 神机
+sprout               - 苗
+spotted grouper              - 玳瑁石斑
+sprouting               - 发芽
+spinach               - 赤根菜
+spinach               - 鹦鹉菜
+spleen disease              - 脾病
+splenic artery              - 脾动脉
+spin               - 纺
+spin               - 转
+spina bifida              - 裂脊柱
+frankincense               - 多伽罗香
+foreign               - 胡
+frankincense               - 天泽香
+foreign               - 舶
+frankincense               - 摩勒香
+foreskin               - 包皮
+forest frog              - 哈士蟆
+frankincense               - 西香
+four limbs              - 四肢
+For Peasants              - 向农
+frankincense               - 马尾香
+forest               - 林
+forget               - 忘
+forgetfulness               - 健忘
+forgetfulness               - 善忘
+five phases              - 五行
+follow-up               - 随访
+flatulence               - 下气
+floss               - 绒
+flatus               - 矢气
+flossing               - 制绒
+fluctuating               - 起伏
+fluctuating               - 起伏不定
+food               - 饭
+food               - 饮食
+food and drink             - 饮食
+fluid               - 水液
+forceful               - 有力
+fleshy exterior              - 肌表
+forceless               - 无力
+flexor               - 屈肌
+forearm               - 下膊
+forearm               - 前臂
+fluids               - 津液
+fluorine               - 氟
+flaccid               - 迟缓
+flag               - 旗
+flake               - 屑
+flour               - 面
+flow               - 溜
+flower               - 花
+food               - 水谷
+five               - 伍
+flax               - 亚麻
+flea               - 蚤
+Fifth Place              - 五处
+flake               - 镑
+flame               - 炎
+flame               - 焰
+flare               - 熛
+open heart surgery             - 开心外科手术
+osteoporosis               - 骨质疏松症
+ovaries               - 卵巢
+other               - 别
+otitis externa              - 外耳炎
+oven               - 灶
+otolith               - 石首鱼头石
+orifice               - 空窍
+otolith               - 鱼脑石
+obstruction               - 障
+old woman              - 婆
+old               - 旧
+optic neuritis              - 视神经炎
+omphalia               - 雷丸
+oral liquid              - 口服液
+on               - 当
+oral cavity              - 口腔
+On Channel              - 经中
+old               - 陈
+orange               - 橙
+orchid               - 兰
+old tea              - 陈茗
+otolith               - 鱼首石
+ottelia               - 龙舌草
+oven               - 炉
+otter               - 獭
+nosebleed               - 鼻衄血
+oak               - 橡
+nostril               - 畜门
+oak bark              - 橡木皮
+nostril               - 鼻孔
+oar               - 桡
+oar               - 舟楫
+obesity               - 形体肥胖
+not               - 不
+non-glutinous rice              - 大米
+not sound              - 不秘
+offspring               - 昆
+non-glutinous rice              - 粳米
+nongonococcal urethritis (NGU)             - 非淋菌性尿道炎
+oil               - 油
+orchitis               - 睾丸炎
+old tea              - 陈茶
+one-sided               - 偏
+order               - 秩
+oldenlandia               - 白花蛇舌草
+onion               - 洋葱
+orpiment               - 昆仑黄
+onion               - 洋葱头
+oreas               - 牛毛七
+late summer              - 长夏
+leech               - 水蛭
+leech               - 水麻贴
+Large Pile              - 大敦
+leech               - 沙塔干
+leech               - 红蛭
+laver               - 子菜
+laver               - 甘紫菜
+lake               - 湖
+laver               - 索菜
+lame               - 尪
+laver               - 紫菜
+lament               - 哀
+lamp               - 灯
+scutellaria               - 芩
+scorching hot              - 灼热
+sea perch              - 鲈鱼
+Seabed               - 海底
+sea cucumber              - 刺参
+seal               - 肭
+seal               - 腽
+scales               - 鳞屑
+scallion               - 和事草
+scallion               - 四季葱
+scallion               - 火葱
+scallion               - 芤
+sedan chair              - 轿
+sea               - 海
+sea cucumber              - 海参
+see               - 看
+see               - 视
+seed               - 仁
+seed               - 子
+sea urchin              - 海胆
+seedling               - 秧
+seam               - 分
+seek               - 求
+serum               - 血清
+seethe               - 沸
+searching               - 寻
+sea cucumber              - 海鼠
+sesame oil              - 胡麻油
+seasickness               - 晕船
+selaginella               - 卷柏
+season               - 时令
+schizophrenia               - 精神分裂症
+scallion               - 菜伯
+sandal               - 檀
+scallion               - 葱
+sandalwood               - 檀香
+feel               - 摸
+female               - 女
+female infertility              - 女子绝子
+female genitals              - 女性生殖器
+female infertility              - 妇人绝子
+female               - 牝
+femoral artery              - 股动脉
+femur               - 大楗骨
+femur               - 大腿骨
+femur               - 髀骨
+fence               - 篱
+fennel [fruit]              - 土茴香
+fight               - 抗
+fight               - 斗
+fennel               - 茴
+filariasis               - 丝虫病
+file               - 剉
+file               - 锉
+firefly               - 萤
+firefly               - 萤火
+fetus               - 胎儿
+filial piety              - 孝
+filiform needle              - 毫针
+final stage              - 后期
+fear               - 怕
+extinguish               - 灭
+fear of water             - 恐水
+fall               - 下陷
+fear               - 惕
+extraordinary               - 奇
+fall               - 垂
+fear               - 畏
+fall               - 落
+fear of people             - 畏人
+fearful               - 忡
+fearful               - 怔
+eye disease              - 眼疾
+fall               - 跌
+fearing               - 相畏
+eye               - 眼睛
+eye symptoms              - 眼科症状
+febrile disease              - 热性病
+eye patterns              - 眼科证候
+febrile disease              - 热病
+fallopian tubes              - 输卵管
+fecal               - 大便
+eyeball               - 目珠
+herba Scutellariae barbatae - 半枝莲
+Hedyotis diffusa - 白花蛇舌草
+rice bean              - 赤小豆
+have               - 有
+hay fever              - 枯草热
+hazelnut               - 榛子
+head               - 头
+head wind              - 头风
+head               - 首
+headache               - 头痛
+hard               - 硬
+halitosis               - 口臭
+Hall of Fame             - 名堂
+hall               - 堂
+hare               - 兔
+halloysite               - 吃油脂
+halloysite               - 石脂
+harelip               - 兔唇
+halloysite               - 红高岭
+halloysite               - 赤石土
+halloysite               - 赤石脂
+hallucination               - 妄有所见
+hallucination               - 妄见
+gymnema               - 武靴藤
+harm               - 害
+hammer               - 椎
+gymnotheca               - 水折耳
+hamper               - 妨碍
+hamper               - 碍
+harmonious               - 雍
+gynostemma               - 七叶胆
+harmonization               - 和法
+gynura               - 三七草
+ground beetle              - 地鳖
+ground beetle              - 地鳖虫
+grow               - 长
+gruel               - 稀饭
+half               - 半
+halfbeak               - 鱵+鱼
+guard               - 侠
+harmonization               - 和解法
+gypsum               - 白虎
+gypsum               - 石膏
+harmonization               - 调和
+hand               - 夫
+hand               - 手
+happiness               - 福
+happy               - 乐
+harass               - 扰乱
+harass               - 闹
+halite               - 大青盐
+halite               - 戎咸
+hard               - 坚硬
+apple               - 平波
+apple               - 柰
+apple               - 柰子
+armillaria               - 松蕈
+apple               - 苹
+apple               - 苹果
+all fractures              - 一切折伤
+ancient               - 古
+amaranth               - 白苋
+amaranth               - 苋
+and               - 而
+amaranth               - 苋菜
+andrographis               - 一见喜
+amaranth               - 青香苋
+andrographis               - 榄核莲
+amber               - 兽魄
+amber               - 珀
+amber               - 琥
+acorus               - 菖
+acute gastritis              - 急性胃炎
+acute gastroenteritis              - 急性胃肠炎
+acrid               - 辣
+acute pancreatitis              - 急性胰腺炎
+acromegaly               - 肢端肥大病
+agastache               - 土藿香
+acute appendicitis              - 急性阑尾炎
+centella               - 连钱草
+emilia               - 一点红
+coleus               - 金耳环
+marsdenia               - 乌骨藤
+digenea               - 鹧鸪菜
+sweet potato              - 地瓜
+ability to eat             - 能吃
+able to              - 能
+abnormal               - 失常
+acetabulum               - 髋臼
+abnormal               - 无常
+achievement               - 功
+achillea               - 一枝蒿
+aching bones              - 骨楚
+abort               - 堕
+abortion               - 半产
+abortion               - 小产
+abortion               - 流产
+abortion               - 胎堕
+pakchoi               - 白菜
+parmelia               - 石花
+shiraia               - 竹黄
+garlic               - 大蒜
+pea               - 寒豆
+elephantopus               - 草鞋底
+dry               - 枯
+earthworm               - 寒蚓
+duckweed               - 田萍
+each other              - 互
+earthworm               - 曲蟺
+each               - 各
+earthworm               - 白颈蚯蚓
+duckweed               - 萍
+each other              - 相
+duckweed               - 薸
+earthworm               - 虫蟺
+eagle               - 鹰
+earthworm               - 蚯
+earthworm               - 蚯蚓
+earthworm               - 蜿蟺
+earthworm               - 附蚓
+ear lock              - 兑发
+dryland               - 旱
+earwax               - 耳垢
+earwax               - 耳屎
+earwax               - 耵
+eclipta               - 墨菜
+earwax               - 耵聍
+eclipta               - 墨记菜
+earwax               - 聍
+east               - 东
+dull pain              - 隐痛
+eclipta               - 旱莲草
+East Wind              - 东风
+dull pain              - 隐隐作痛
+dull               - 黯
+eclipta               - 莲子草
+eclipta               - 鳢肠草
+ectopic pregnancy              - 异位妊娠
+ear disease              - 耳病
+ectropion               - 胞睑外翻
+dwarfism               - 侏儒病
+dual               - 两
+dwell               - 处
+dye               - 染
+duck               - 鹜
+dynamic               - 势
+dynasty               - 朝代
+dysentery               - 下痢
+dysentery               - 痢
+dry skin              - 皮肤干燥
+dysentery               - 痢疾
+dysfunctional uterine bleeding             - 功能性子宫出血
+dry eyes              - 目干涩
+anorexia nervosa              - 精神性食欲缺乏
+apply               - 涂
+anorexia               - 食欲缺乏
+anoxia               - 缺氧症
+apply               - 贴
+ant               - 蚁
+apprehensive               - 怵
+antelope               - 羚
+appropriate               - 宜
+approximate               - 概
+approximately               - 许
+apricot kernel              - 木落子
+apricot               - 杏
+anvil               - 砧
+arborvitae               - 柏
+aromatic               - 芳
+armpit               - 腋窝
+aromatic               - 芳香
+around               - 绕
+arrest               - 顿
+aubergine               - 茄
+all               - 皆
+all               - 诸
+all over              - 遍
+amber               - 虎魄
+anger               - 怒气
+allergic rhinitis              - 变态反应性鼻炎
+ameba               - 阿米巴
+allergic purpura              - 过敏性紫癜
+angina pectoris              - 心绞痛
+ameba               - 阿米巴原虫
+amebic dysentery              - 阿米巴痢疾
+amenorrhea               - 经闭不行
+allergy               - 过敏
+alleviate               - 蠲
+amenorrhea               - 闭经
+American ginseng              - 佛兰参
+anguish               - 懊
+American ginseng              - 花旗参
+allow               - 许
+anguish               - 懊-+
+American ginseng              - 西参
+All-Round Construction              - 周营
+American ginseng              - 西洋参
+anxious               - 愁
+aorta               - 主动脉
+aortic valve              - 主动脉瓣
+arborvitae               - 檗
+ark               - 蚶
+aplastic anemia              - 再生障碍性贫血
+dissolve               - 冲化
+distal               - 远
+distal surface              - 远侧面
+dizziness               - 眩晕
+dizziness               - 眴
+doris               - 海牛
+dragonfly               - 蜒
+dragonfly               - 蜻
+dosage               - 用量
+dosage               - 药量
+do not eat             - 忌食
+doctor               - 医
+doctor               - 医师
+doctor               - 大夫
+double               - 加倍
+doctor fish              - 臭都鱼
+double               - 双
+drift               - 逸
+disharmonious               - 乖
+distill               - 蒸露
+disharmony               - 不和
+distillate               - 药露
+dissipate               - 发散
+distillate               - 露剂
+disharmony               - 失调
+disharmony               - 逆调
+distilled water              - 蒸馏水
+distinct               - 晰
+dissipate cold              - 散寒
+distorted vision              - 目瞀
+distress               - 急迫
+dissipate heat              - 散热
+distress               - 逼迫
+ditch               - 沟
+diuresis               - 利尿
+divergence               - 别
+dissipate               - 涣
+dissipate               - 涣散
+dizziness               - 头晕目眩
+disintegrate               - 破削
+doctrine               - 说
+dislocate               - 脱
+dislocation               - 脱位
+dislocation               - 脱臼
+donkey               - 驴
+dragon horn              - 龙角
+frequent               - 时时
+frontal               - 额
+frequent               - 频数
+frequent masturbation              - 频犯手淫
+obstruction               - 障
+old woman              - 婆
+old               - 旧
+optic neuritis              - 视神经炎
+omphalia               - 雷丸
+oral liquid              - 口服液
+on               - 当
+oral cavity              - 口腔
+On Channel              - 经中
+old               - 陈
+orange               - 橙
+orchid               - 兰
+old tea              - 陈茗
+otolith               - 鱼首石
+ottelia               - 龙舌草
+oven               - 炉
+otter               - 獭
+nosebleed               - 鼻衄血
+oak               - 橡
+nostril               - 畜门
+oak bark              - 橡木皮
+nostril               - 鼻孔
+oar               - 桡
+oar               - 舟楫
+obesity               - 形体肥胖
+not               - 不
+non-glutinous rice              - 大米
+not sound              - 不秘
+offspring               - 昆
+non-glutinous rice              - 粳米
+nongonococcal urethritis (NGU)             - 非淋菌性尿道炎
+oil               - 油
+orchitis               - 睾丸炎
+old tea              - 陈茶
+one-sided               - 偏
+order               - 秩
+oldenlandia               - 白花蛇舌草
+onion               - 洋葱
+orpiment               - 昆仑黄
+onion               - 洋葱头
+oreas               - 牛毛七
+orpiment               - 雌黄
+onion               - 玉葱
+oreocharis               - 小岩白菜
+onion               - 葱头
+only               - 才
+only               - 甫
+organ               - 器
+onset               - 初
+organ               - 器官
+pimple               - 瘩
+placenta               - 胎盘
+pimples               - 痤疮
+placenta               - 胎衣
+pin               - 钉
+placenta               - 胞衣
+pinch               - 侠
+pinch               - 夹
+plague               - 鼠疫
+pneumococcal pneumonia              - 肺炎球菌肺炎
+plain               - 单
+pinch               - 挟
+pneumococcus               - 肺炎球菌
+phragmites               - 苇
+platycodon               - 桔
+phyllanthus               - 叶下珠
+phyllanthus               - 叶合草
+phyllanthus               - 叶后珠
+phyllanthus               - 珍珠草
+pinworm               - 线虫
+pinworm               - 蛲
+physician               - 医
+pleura               - 胸膜
+physician               - 医师
+pigweed               - 藜
+physician               - 医生
+pleural effusion              - 胸膜渗液
+pleural cavity              - 胸膜腔
+pile               - 痔疮
+pharyngitis               - 咽炎
+pelican               - 鹈
+phellinus               - 桑黄
+permanent teeth              - 恒齿
+pellet               - 弹
+perpendicular               - 直
+malnutrition               - 营养不良
+mace               - 钱
+macleaya               - 博落回
+malt sugar              - 饴
+make               - 制
+malt sugar              - 饴糖
+malvastrum               - 赛葵
+make offerings              - 赛
+lygodium               - 海金砂藤
+male duck              - 雄鸭
+lygodium               - 金砂藤
+male genitals              - 鞭
+lymph gland              - 淋巴腺
+mandarin fish              - 鳜
+mandarin duck              - 鸳
+menstrual period              - 月经期
+minium               - 朱粉
+minium               - 松丹
+minium               - 红丹
+minium               - 铅丹
+minium               - 铅华
+minium               - 铅黄
+midline               - 中行
+minium               - 陶丹
+menstrual period              - 经期
+minium               - 黄丹
+melasma               - 化血胆
+menstrual flow              - 经水
+menstrual blood              - 经血
+melissa               - 鼻血草
+melon               - 果瓜
+melon               - 甘瓜
+melon               - 甜瓜
+mildew               - 霉
+menstruation               - 月信
+menstruation               - 月水
+menstruation               - 月经
+menstruation               - 经水
+military               - 军
+milk               - 乳汁
+mental retardation              - 智能落后
+mental               - 精神
+menthol               - 薄荷脑
+mint               - 南薄荷
+mercury               - 汞
+mint               - 猫儿薄荷
+mint               - 番荷菜
+mint               - 薄苛
+mint               - 薄荷
+mesentery               - 肠系膜
+mint               - 薄荷草
+mistaken               - 缪
+mistletoe               - 寄生
+mistletoe               - 寄生树
+mistletoe               - 寄生草
+mirabilite               - 盆消
+mistletoe               - 桑上寄生
+mirabilite               - 芒硝
+mistletoe               - 桑寄
+mistletoe               - 桑寄生
+mirror               - 鉴
+mirror               - 镜
+mountain belt              - 山廓
+mitral valve              - 僧帽瓣
+mix               - 混
+alleviate               - 蠲
+amenorrhea               - 闭经
+American ginseng              - 佛兰参
+anguish               - 懊
+American ginseng              - 花旗参
+allow               - 许
+anguish               - 懊-+
+American ginseng              - 西参
+All-Round Construction              - 周营
+American ginseng              - 西洋参
+anxious               - 愁
+aorta               - 主动脉
+aortic valve              - 主动脉瓣
+arborvitae               - 檗
+ark               - 蚶
+aplastic anemia              - 再生障碍性贫血
+apluda               - 水蔗草
+aponeurosis               - 腱膜
+appendectomy               - 阑尾切除术
+arm               - 手
+appendicitis               - 阑尾炎
+appendix               - 阑尾
+arm               - 手臂
+arm               - 膊
+appetite               - 食欲
+apple               - 天然子
+arm               - 臂膊
+apple               - 平波
+apple               - 柰
+apple               - 柰子
+armillaria               - 松蕈
+apple               - 苹
+apple               - 苹果
+all fractures              - 一切折伤
+ancient               - 古
+amaranth               - 白苋
+amaranth               - 苋
+and               - 而
+amaranth               - 苋菜
+andrographis               - 一见喜
+amaranth               - 青香苋
+andrographis               - 榄核莲
+amber               - 兽魄
+amber               - 珀
+amber               - 琥
+acorus               - 菖
+acute gastritis              - 急性胃炎
+acute gastroenteritis              - 急性胃肠炎
+acrid               - 辣
+acute pancreatitis              - 急性胰腺炎
+originally               - 本
+arsenopyrite               - 礜石
+assess               - 审
+assess               - 揆
+aversion to cold             - 恶冷
+arteriosclerosis               - 动脉硬化
+artery               - 动脉
+assist               - 赞
+arthritis               - 关节炎
+aversion               - 相恶
+antenoron               - 金线草
+apricot               - 杏子
+antepartum               - 临蓐
+apricot               - 杏实
+antepartum               - 产前
+antepartum               - 胎前
+areca               - 榔
+anterior               - 前
+areca               - 槟
+apricot kernel              - 杏核仁
+apricot kernel              - 杏梅仁
+aster [root]              - 紫苑
+avocado               - 樟梨
+avocado               - 酪梨
+Aster Powder              - 紫菀散
+artichoke               - 朝鲜蓟
+avocado               - 鳄梨
+avocado               - 黄油梨
+aster [root]              - 紫菀茸
+avoid               - 免
+articular               - 关节
+aster [root]              - 紫蒨
+aster [root]              - 返魂草根
+as               - 如
+aster [root]              - 青菀
+asarum               - 小辛
+avoid               - 避
+asarum               - 细辛
+asthma               - 气喘
+await               - 须
+Asthma               - 气端
+awaken               - 寤
+asbestos               - 不灰木
+astragalus [root]              - 绵黄-+
+ascariasis               - 蛔虫病
+awl               - 锥
+ascending colon              - 升结肠
+ax               - 斧
+ascites               - 腹水
+axilla               - 腋窝
+intimidate               - 凌
+intractable               - 痼
+inhale               - 吸气
+inherit               - 嗣
+instep               - 跗
+intermittent               - 时作时休
+intersection point              - 交会穴
+institute               - 院
+intermittent               - 时发时止
+instructions               - 嘱
+intermittent               - 时时
+insufferable               - 不可忍
+intermittent               - 闰
+insufficiency               - 不足
+injury               - 损伤
+interstices               - 腠理
+ink               - 墨
+insufficient               - 不足
+ink [NID]              - 墨
+ink               - 香墨
+insufflation               - 吹药
+internal damage              - 内伤
+intestinal obstruction              - 肠梗阻
+intangible               - 无形
+Inner Court              - 内庭
+indiscriminate use              - 概用
+inflammatory               - 炎性的
+inhibited               - 不利
+inhibited               - 不畅
+infection               - 传染
+infection               - 感染
+inferior               - 卑
+insomnia               - 不得眠
+insomnia               - 不眠
+infertility               - 不妊
+insomnia               - 不睡
+infertility               - 不孕
+infertility               - 女性不孕症
+insomnia               - 失眠
+Infertility               - 绝孕
+insomnia               - 无眠
+inspect               - 审
+inspect               - 察
+interlocking               - 错
+intermediary               - 间
+inhibition               - 不利
+inflate               - 膨
+indistinct               - 渺
+inflation               - 膨胀
+indeed               - 审
+bottle gourd              - 蒲芦
+breakdown               - 不
+breakdown               - 失司
+bottom               - 底
+breakdown               - 失权
+breakdown               - 无权
+botulism               - 肠菌毒病
+breakfast               - 早餐
+borax               - 大朋砂
+breakfast               - 早饭
+borax               - 月石
+borax               - 盆砂
+borax               - 硼
+bountiful               - 丰
+borax               - 蓬砂
+breast               - 乳房
+borax               - 西月石
+borax               - 鹏砂
+border               - 际
+bow               - 弓
+borderland               - 蕃
+breast milk              - 乳汁
+bore               - 穿
+bore               - 钻
+borneol               - 冰片
+blue               - 绀
+blue               - 蓝
+bolt               - 楗
+blood block              - 血闭
+bluebeard               - 兰香草
+bluebeard               - 山薄荷
+Bone Growth              - 成骨
+blurred vision              - 目糊
+blurred vision              - 目视-+
+blurred vision              - 目视-+-+
+blurred vision              - 目视-+-+无所见
+blurred vision              - 目视模糊
+blurred vision              - 视物-+-+
+blurred vision              - 视物模糊
+blurred vision              - 视物模糊不清
+bone fracture              - 骨折
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+hair loss              - 发堕
+hair loss              - 发落
+hair               - 发髲
+harsh               - 烈
+harsh               - 酷
+hair               - 毛发
+hasten               - 催
+hat               - 帽
+have not              - 冇
+have not              - 无
+have               - 有
+hay fever              - 枯草热
+hazelnut               - 榛子
+head               - 头
+head wind              - 头风
+head               - 首
+headache               - 头痛
+hard               - 硬
+halitosis               - 口臭
+Hall of Fame             - 名堂
+hall               - 堂
+hare               - 兔
+halloysite               - 吃油脂
+halloysite               - 石脂
+harelip               - 兔唇
+halloysite               - 红高岭
+halloysite               - 赤石土
+halloysite               - 赤石脂
+hallucination               - 妄有所见
+hallucination               - 妄见
+gymnema               - 武靴藤
+harm               - 害
+hammer               - 椎
+gymnotheca               - 水折耳
+hamper               - 妨碍
+hamper               - 碍
+harmonious               - 雍
+gynostemma               - 七叶胆
+harmonization               - 和法
+gynura               - 三七草
+ground beetle              - 地鳖
+ground beetle              - 地鳖虫
+grow               - 长
+gruel               - 稀饭
+half               - 半
+halfbeak               - 鱵+鱼
+guard               - 侠
+harmonization               - 和解法
+gypsum               - 白虎
+gypsum               - 石膏
+rice bean              - 朱赤豆
+rice husk              - 杵头糠
+rip               - 扯
+rip               - 撕
+rheumatism               - 风湿
+rise               - 起
+residual heat              - 余热未尽
+regulated               - 自调
+remedy               - 方技
+rehabilitation               - 复康
+resin               - 脂
+remolars               - 前臼齿
+remove oil              - 去油
+resistance               - 抵抗力
+remove the skin             - 去皮
+Return               - 归来
+remove               - 没
+review               - 审
+revise               - 校
+restraining               - 相克
+resuscitation               - 苏厥
+rice               - 米
+revive               - 兴
+retainer               - 约束
+revolve               - 旋
+rice water              - 米沉
+rice water              - 米泔水
+rice husk              - 米皮糠
+rice wine              - 米酒
+retching               - 呕逆
+reineckea               - 吉祥草
+renal function              - 肾功能
+renal artery              - 肾动脉
+renal pelvis              - 肾盂
+renal calculi              - 肾结石
+renal failure              - 肾衰竭
+respiration               - 呼吸
+rib               - 肋骨
+respiratory failure              - 呼吸衰竭
+respiratory tract              - 息道
+render               - 烊化
+respond to              - 应
+pyuria               - 脓尿
+radermachera               - 菜豆树
+radial artery              - 桡动脉
+radish               - 土酥
+radish               - 罗服
+radish               - 莱菔
+quaff               - 顿服
+radish               - 菜头
+good               - 好
+gland               - 腺
+glans penis              - 阴头
+ginger               - 地辛
+ginger               - 姜
+glass               - 玻
+glass cup              - 玻璃罐
+ginger               - 姜仔
+glass               - 璃
+ginger juice              - 姜汁
+glutinous rice              - 糯
+glutinous rice              - 糯米
+ginger juice              - 鲜生姜汁
+glutinous rice flour             - 糯米粉
+glaucoma               - 绿内障
+glycerine               - 甘油
+glaucoma               - 青光眼
+glazing               - 釉
+golden eagle              - 雕
+good               - 良
+goodyera               - 斑叶兰
+ginseng               - 土精
+ginseng               - 神草
+girardinia               - 大荃麻
+girdling fire cinnabar             - 缠腰火丹
+genitalia               - 生殖器
+GIV               - 带脉
+giant typhonium              - 独角莲
+genitals               - 下阴
+give               - 与
+give               - 付
+genitals               - 前阴
+genitals               - 生殖器
+golden carp              - 鲫
+grade               - 品
+gradual onset              - 徐发
+gradual               - 渐
+gm               - 公克
+generalized               - 周
+generalized               - 周身
+ginseng               - 东洋参
+Chinese olive              - 榄
+Chinese olive              - 橄
+chlorophytum               - 三角草
+choke               - 呛
+choke               - 懿
+childbearing               - 生育
+chest               - 膻
+childbirth               - 免乳
+childbirth               - 免身
+scaly skin              - 肌若鱼鳞
+scleroderma               - 硬皮病
+scoparia               - 野甘草
+scorch               - 烁
+margin               - 际
+meal               - 餐
+mark               - 痕
+market               - 市
+mean               - 曰
+mean               - 爰
+measles               - 痧子
+mania               - 狂易
+mandarin               - 柑
+measles               - 麻疹
+medial malleolus              - 内踝
+medial               - 正
+mediastinum               - 纵隔
+medical matters              - 医物
+melon               - 银瓜
+melon               - 青皮瓜
+melon               - 香瓜
+melon               - 黄金瓜
+medication               - 用药
+metabolism               - 新陈代谢
+Metacarpophalangeal               - 指掌
+millet               - 小米
+manipulate               - 操
+marten               - 貂
+manipulation               - 手法
+manipulation               - 操纵
+martial               - 武
+manna               - 刺糖
+manna               - 刺蜜
+massage               - 按摩
+manna               - 羊刺蜜
+massage               - 按蹻
+manna               - 阳塔克西克尔
+manna               - 骆驼刺糖
+mansion               - 府
+mastitis               - 乳腺炎
+mat               - 席
+mat               - 茵
+material               - 料
+mantis               - 螳
+maternal               - 母
+mantis               - 螳螂
+matting               - 篱
+mature               - 陈
+dendrobium               - 禁生
+dianthus               - 瞿
+nosebleed               - 鼻衄
+gypsum               - 细理石
+hand               - 手丫
+gypsum               - 细石
+gypsum               - 软石膏
+hack               - 喀
+harmonize               - 和解
+handful               - 把
+haggard               - 悴
+hang               - 吊
+harmonize               - 调和
+hang down              - 垂
+hang               - 挂
+hair               - 乱发
+hair               - 发
+hair loss              - 发堕
+hair loss              - 发落
+hair               - 发髲
+harsh               - 烈
+harsh               - 酷
+hair               - 毛发
+hasten               - 催
+hat               - 帽
+have not              - 冇
+have not              - 无
+have               - 有
+hay fever              - 枯草热
+hazelnut               - 榛子
+head               - 头
+head wind              - 头风
+head               - 首
+headache               - 头痛
+hard               - 硬
+halitosis               - 口臭
+Hall of Fame             - 名堂
+hall               - 堂
+hare               - 兔
+halloysite               - 吃油脂
+halloysite               - 石脂
+harelip               - 兔唇
+halloysite               - 红高岭
+halloysite               - 赤石土
+halloysite               - 赤石脂
+hallucination               - 妄有所见
+hallucination               - 妄见
+gymnema               - 武靴藤
+harm               - 害
+hammer               - 椎
+gymnotheca               - 水折耳
+hamper               - 妨碍
+lizard               - 蜥蜴
+spinach               - 角菜
+asparagus bean              - 豇豆
+elder               - 接骨草
+lysimachia               - 过路黄
+watermelon               - 水瓜
+umbilicaria               - 灵芝
+carcinoma of the uterine cervix           - 子宫颈癌
+numbness of the tongue            - 舌麻
+back of the throat            - 喉底
+thrombophlebitis               - 血栓性静脉炎
+thrombosis               - 血栓
+throughout               - 彻
+three               - 参
+throw               - 丢
+throw               - 投
+thrush               - 鹅口疮
+thud               - 憺
+thumb               - 大指
+thumb               - 手大指
+thumb               - 拇
+thumb               - 母指
+thump               - 挫
+thumping               - 振法
+toad               - 蟾
+thirst               - 口渴
+therefore               - 故
+thirst               - 渴
+Three Kingdoms              - 三国
+this               - 兹
+this               - 是
+three corpses              - 三尸
+thoracic               - 胸
+thoracic vertebrae              - 胸椎骨
+thoracic cavity              - 胸腔
+throat               - 咙
+throat               - 咽
+throat               - 咽喉
+tight               - 秘
+tetany               - 发痉
+tetany               - 痉病
+tend               - 偏
+tetrastigma               - 五爪金龙
+thamnolia               - 雪茶
+thin               - 瘦
+thank               - 谢
+tender               - 嫩
+thin               - 稀
+that               - 尔
+that               - 彼
+adjuvant               - 副料
+acupuncture               - 刺法
+adjuvant               - 辅料
+aglaia               - 米仔兰
+admire               - 景
+acupuncture point              - 穴位
+acupuncture point              - 穴道
+adrenal glands              - 肾上腺
+agriculture               - 农
+Advance               - 前进
+acupuncture point              - 输穴
+advance               - 迈
+acupuncture               - 针刺
+advanced stage              - 后期
+acupuncture               - 针法
+abstraction               - 精神恍惚
+absurd               - 谬
+abdominal pain              - 腹痛
+abundance               - 殷
+abundant               - 裕
+abyss               - 渊
+abdominal examination              - 腹诊
+abdominal discomfort              - 腹部不适
+accelerate               - 增快
+accelerate               - 增速
+accompanied by              - 伴有
+abduction               - 导法
+accompany               - 伴
+accumulate               - 潴留
+abductor               - 外展肌
+accumulate               - 累
+abhor               - 憎
+sphagnum               - 满天星
+ganoderma               - 灵芝
+foaming at the mouth            - 口吐白沫
+tip of the nose            - 鼻准
+acorus               - 菖
+acute gastritis              - 急性胃炎
+acute gastroenteritis              - 急性胃肠炎
+acrid               - 辣
+acute pancreatitis              - 急性胰腺炎
+acromegaly               - 肢端肥大病
+agastache               - 土藿香
+acute appendicitis              - 急性阑尾炎
+centella               - 连钱草
+emilia               - 一点红
+coleus               - 金耳环
+marsdenia               - 乌骨藤
+digenea               - 鹧鸪菜
+sweet potato              - 地瓜
+pea               - 寒豆
+sweet potato              - 山芋
+elder               - 接骨木
+potato               - 土豆
+turnip               - 大芥
+jujube               - 枣子
+ludwigia               - 水丁香
+adina               - 水杨梅
+duckweed               - 水花
+rotala               - 水苋菜
+abdomen               - 肚
+abdominal pain              - 肚疼
+abdominal pain              - 肚痛
+abdominal aorta              - 腹主动脉
+absorption               - 吸收
+abstraction               - 恍
+celery               - 芹菜
+vallisneria               - 苦草
+lizard               - 蜥蜴
+spinach               - 角菜
+asparagus bean              - 豇豆
+elder               - 接骨草
+lysimachia               - 过路黄
+watermelon               - 水瓜
+umbilicaria               - 灵芝
+carcinoma of the uterine cervix           - 子宫颈癌
+numbness of the tongue            - 舌麻
+back of the throat            - 喉底
+arsenopyrite               - 礜石
+assess               - 审
+assess               - 揆
+aversion to cold             - 恶冷
+arteriosclerosis               - 动脉硬化
+artery               - 动脉
+assist               - 赞
+arthritis               - 关节炎
+aversion               - 相恶
+antenoron               - 金线草
+apricot               - 杏子
+antepartum               - 临蓐
+apricot               - 杏实
+antepartum               - 产前
+antepartum               - 胎前
+areca               - 榔
+anterior               - 前
+areca               - 槟
+apricot kernel              - 杏核仁
+apricot kernel              - 杏梅仁
+aster [root]              - 紫苑
+avocado               - 樟梨
+impairment               - 不
+impairment               - 失权
+human umbilical cord             - 坎气
+hypecoum               - 角茴香
+human skull              - 天灵盖
+impairment               - 失职
+hyperactive               - 弄
+impairment               - 无权
+impede               - 痹阻
+impede               - 阻碍
+humerus               - 肱骨
+humerus               - 膊骨
+humerus               - 臑骨
+impediment               - 痹
+hypercapnia               - 血碳酸过度
+impediment               - 痹痛
+hyperopia               - 远视
+hypersplenism               - 脾功能亢进
+hump               - 隆
+hypertension               - 血压高
+hypertension               - 高血压
+humpback               - 腰背偻俯
+hypertension               - 高血压病
+hyperthyroidism               - 甲亢
+hyperthyroidism               - 甲状腺机能亢进症
+hunchback               - 隆背
+impotence               - 阳萎
+impotence               - 阳萎不举
+idiopathic thrombocytopenic purpura             - 原发性血小板减少性紫癜
+horse chestnut              - 娑罗子
+horse               - 马
+houttuynia               - 侧耳根
+houttuynia               - 十药
+houttuynia               - 岑草
+houttuynia               - 猪鼻孔
+houttuynia               - 紫背鱼腥草
+houttuynia               - 紫蕺
+houttuynia               - 臭腥草
+huddle               - 啬
+houttuynia               - 臭蕺
+huff               - 膹
+houttuynia               - 臭质草
+houttuynia               - 蒩菜
+houttuynia               - 蕺
+houttuynia               - 蕺菜
+huge               - 庞
+houttuynia               - 鱼腥草
+hydrocephalus               - 水脑
+hugging               - 挽指法
+immortal               - 仙
+jujube               - 大枣
+jujube               - 干枣
+isatis root              - 板蓝根
+isatis root              - 蓝靛根
+isatis root              - 靛青根
+ischium               - 坐骨
+islet               - 渚
+issue               - 出
+Japanese               - 倭
+itch               - 发痒
+itch               - 奇痒
+itch               - 瘙
+jade               - 玉
+join               - 接
+joining               - 透针
+joint               - 关节
+Jade Spring              - 玉泉
+iron               - 铁
+iron ore              - 铁
+internal carotid artery             - 颈内动脉
+intravenous drip              - 静脉滴注
+internal jugular vein             - 颈内静脉
+iron broom              - 铁扫竹
+introduction               - 概论
+jaundice               - 黄瘅
+jaw               - 颌
+itchy skin              - 皮肤瘙痒
+itchy eyes              - 目痒
+jealous               - 妒
+jejunum               - 空肠
+itchy nose              - 鼻痒
+item               - 品
+intense heat              - 炅
+inner canthus              - 内眦
+intestinal tract              - 肠道
+inula               - 旋覆梗
+inula               - 金佛草
+iron powder              - 铁粉
+inula               - 金沸草
+invade               - 侵袭
+invasion               - 侵入
+invasion               - 侵袭
+irregular               - 失常
+inhibitory effect              - 抑制作用
+instep               - 胕
+initial               - 初
+instep               - 足趺
+instep               - 趺
+initial stage              - 初起
+initial stage              - 发病期
+bloodletting               - 出血
+boar               - 豭
+bloodletting               - 放血
+board               - 板
+bone pain              - 骨痛
+boat               - 舟
+boat               - 舟楫
+bone               - 骸
+boat               - 船
+bobbing               - 厥厥
+blood stasis              - 血瘀
+blood pressure              - 血压
+blood vessels              - 血管
+blood sugar              - 血糖
+bloody stool              - 大便下血
+bloody stool              - 大便出血
+bloody stool              - 血便
+blood vessel              - 血脉
+boil               - 沸
+boil               - 煨水
+boil               - 熬
+blow               - 吹气
+boschniakia               - 草苁蓉
+blind               - 瞎
+blindness               - 视觉缺失
+bladder disease              - 膀胱病
+blink               - 眨
+blink               - 瞬
+blinking               - 目眨
+blistering               - 发泡
+blistering               - 提泡
+blistering               - 起泡
+bloating               - 饱胀
+block               - 拦
+blood               - 血液
+blood circulation              - 血液循环
+blood thirst              - 血渴
+blood heat              - 血热
+blood loss              - 出血
+bleed               - 放血
+bleeding               - 出血
+bleeding wound              - 创伤出血
+bleeding               - 流血
+black eye              - 眼胞瘀痛
+black tea              - 红茶
+blemish               - 疵
+blepharoptosis               - 睑下垂
+blood loss              - 失血
+bicuspids               - 二尖齿
+black soy              - 豆黄
+string               - 穿
+subluxation               - 不全脱位
+string               - 绳
+sudden reversal              - 薄厥
+white wax              - 蜂白蜡
+west               - 西
+white cabbage              - 西土蓝
+white face              - 面白
+water spinach              - 藤藤菜
+warm               - 暖
+watermelon               - 夏瓜
+watermelon               - 天生白虎汤
+water trough              - 水沟
+watermelon               - 寒瓜
+watermelon               - 西瓜
+thrombophlebitis               - 血栓性静脉炎
+thrombosis               - 血栓
+throughout               - 彻
+three               - 参
+throw               - 丢
+throw               - 投
+thrush               - 鹅口疮
+thud               - 憺
+thumb               - 大指
+thumb               - 手大指
+thumb               - 拇
+thumb               - 母指
+thump               - 挫
+thumping               - 振法
+toad               - 蟾
+thirst               - 口渴
+therefore               - 故
+thirst               - 渴
+Three Kingdoms              - 三国
+this               - 兹
+this               - 是
+three corpses              - 三尸
+thoracic               - 胸
+thoracic vertebrae              - 胸椎骨
+thoracic cavity              - 胸腔
+throat               - 咙
+throat               - 咽
+throat               - 咽喉
+tight               - 秘
+tetany               - 发痉
+tetany               - 痉病
+tend               - 偏
+tetrastigma               - 五爪金龙
+thamnolia               - 雪茶
+thin               - 瘦
+distill               - 蒸露
+disharmony               - 不和
+distillate               - 药露
+dissipate               - 发散
+distillate               - 露剂
+disharmony               - 失调
+disharmony               - 逆调
+distilled water              - 蒸馏水
+distinct               - 晰
+dissipate cold              - 散寒
+distorted vision              - 目瞀
+distress               - 急迫
+dissipate heat              - 散热
+distress               - 逼迫
+ditch               - 沟
+diuresis               - 利尿
+divergence               - 别
+dissipate               - 涣
+dissipate               - 涣散
+dizziness               - 头晕目眩
+disintegrate               - 破削
+doctrine               - 说
+dislocate               - 脱
+dislocation               - 脱位
+dislocation               - 脱臼
+donkey               - 驴
+dragon horn              - 龙角
+oven-dry               - 烘干
+onset               - 起病
+onychium               - 小叶金花草
+organelle               - 细胞器
+organs               - 脏腑
+osteogenesis imperfecta              - 成骨不全
+ovarian cyst              - 卵巢囊肿
+osteomalacia               - 软骨病
+osteomyelitis               - 骨髓炎
+open heart surgery             - 开心外科手术
+osteoporosis               - 骨质疏松症
+ovaries               - 卵巢
+other               - 别
+otitis externa              - 外耳炎
+oven               - 灶
+otolith               - 石首鱼头石
+orifice               - 空窍
+otolith               - 鱼脑石
+obstruction               - 障
+old woman              - 婆
+old               - 旧
+optic neuritis              - 视神经炎
+omphalia               - 雷丸
+crimson               - 绛
+court               - 廷
+crush               - 打碎
+crush               - 碓
+crush               - 粉碎
+courtyard               - 庭
+cover               - 奄
+cover               - 核
+cover               - 盖
+crust               - 疕
+cover               - 蔽
+cripple               - 躄
+cover               - 被
+cry               - 啼
+crack               - 皲
+cracked               - 碎
+countenance               - 容
+cotton               - 棉
+cramp               - 抽筋
+crown of thorns             - 铁海棠
+cramp               - 转筋
+crane               - 鹤
+crucible               - 坩
+crucible               - 坩埚
+country               - 国
+crataegus               - 朹
+cordyceps               - 冬虫草
+continuous               - 绵
+convulsion               - 抽搐
+cordyceps               - 夏草冬虫
+correspond               - 相应
+convulsion               - 抽搦
+continuous               - 绵绵不休
+cordyceps               - 虫草
+convulsion               - 搐
+correspondence               - 相应
+continuous               - 绵绵不已
+corridor               - 廊
+continuous               - 绵绵不断
+convulsion               - 搐搦
+core               - 心
+continuous               - 绵绵不绝
+corrugator               - 皱肌
+continuous               - 缘缘
+cook               - 炊
+coriander               - 胡荽
+continuous               - 连绵不休
+coriander               - 芫荽
+cooked               - 熟
+wedelia               - 蟛蜞菊
+lumbago               - 腰痛
+louse               - 虱
+loss               - 减退
+love               - 爱
+low grade              - 下品
+low               - 低
+lumbar vertebrae              - 腰椎骨
+loss of sight             - 失明
+Low Position              - 低位
+lotus seed              - 石莲肉
+lower extreme              - 下极
+lotus               - 荷
+look               - 望
+lotus flower              - 荷花
+lotus               - 莲
+lophatherum               - 淡竹叶
+luculia               - 野丁香根
+lophatherum               - 竹叶麦冬
+lophatherum               - 竹叶麦冬青
+lophatherum               - 野麦冬
+lower extremity              - 下肢
+lower limb              - 下肢
+lumbar spine              - 腰脊
+low voice              - 声低
+low-lying               - 卑
+litchee               - 勒枝
+litchee               - 火山荔
+litchee               - 离支
+litchee               - 荔
+litchee               - 荔支
+litchee               - 荔枝
+lobar pneumonia              - 大叶性肺炎
+lobe               - 叶
+lobectomy               - 叶切除术
+located at              - 在
+longevity               - 寿
+lochia               - 恶露
+lotus flower              - 莲花
+lower abdomen              - 下腹
+liquidambar               - 枫香脂
+liquidambar               - 白胶香
+liverwort               - 地梭罗
+livestock               - 畜
+lizard               - 石龙子
+long summer              - 长夏
+lizard               - 蜥
+liquor               - 汤液
+liver cancer              - 肝癌
+literature               - 文
+lock               - 锁
+draw               - 托
+dream               - 梦
+dragon gate              - 龙门
+dizziness               - 眩
+dissolve               - 冲化
+distal               - 远
+distal surface              - 远侧面
+dizziness               - 眩晕
+dizziness               - 眴
+doris               - 海牛
+dragonfly               - 蜒
+dragonfly               - 蜻
+dosage               - 用量
+dosage               - 药量
+do not eat             - 忌食
+doctor               - 医
+doctor               - 医师
+doctor               - 大夫
+double               - 加倍
+doctor fish              - 臭都鱼
+double               - 双
+drift               - 逸
+disharmonious               - 乖
+distill               - 蒸露
+disharmony               - 不和
+distillate               - 药露
+dissipate               - 发散
+distillate               - 露剂
+disharmony               - 失调
+disharmony               - 逆调
+distilled water              - 蒸馏水
+distinct               - 晰
+dissipate cold              - 散寒
+distorted vision              - 目瞀
+distress               - 急迫
+dissipate heat              - 散热
+distress               - 逼迫
+ditch               - 沟
+diuresis               - 利尿
+divergence               - 别
+dissipate               - 涣
+dissipate               - 涣散
+dizziness               - 头晕目眩
+disintegrate               - 破削
+doctrine               - 说
+dislocate               - 脱
+dislocation               - 脱位
+dislocation               - 脱臼
+donkey               - 驴
+dragon horn              - 龙角
+tangible               - 有形
+tendon               - 腱
+tenesmus               - 里急后重
+tea [leaf]              - 茶叶
+tense               - 紧张
+teach               - 傅
+Tear Hole              - 泪孔
+tension               - 挛急
+loss of visual acuity            - 视力减退
+black morning glory [seed]            - 黑牵牛子
+autoimmune hemolytic anemia (AIHA)            - 自身免疫性溶血性贫血

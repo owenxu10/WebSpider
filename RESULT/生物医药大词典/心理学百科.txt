@@ -1,0 +1,8274 @@
+心理学百科
+
+Self-efficacy - 自我效能
+degeneration - 变性
+Nash equilibrium - 纳什均衡
+twinship - 孪生
+physiological psychology - 生理心理学
+psychophysiology - 心理生理学
+bilingualism - 双语
+sign language - 手语
+dichotic listening - 双听技术
+problem box - 问题箱
+monochromator - 单色仪
+endogenous clock - 内源性时钟
+self-stimulation - 自我刺激
+brain modeling - 脑模拟
+closed-loop control - 闭环控制
+corresponding retinal points - 视网膜对称点
+spiritualism - 唯灵论
+nativistic theory - 先天理论
+teleology - 目的论
+neural computation - 神经计算
+open field test - 旷场试验
+functional solution - 功能性解决
+linguistic relativity - 语言相对性
+open-loop control - 开环控制
+cognition - 认知
+imprinting - 印记
+dual psychology - 二重心理学
+theory of convergence effect - 聚合效应论
+foveal vision - 中央窝视觉
+context effect - 上下文效应
+analysis of variance, ANOVA - 方差分析
+criterion referenced test - 目标参照测验
+one-tailed test - 单尾检验
+individual therapy - 个别心理治疗
+personality - 人格
+personality psychology - 人格心理学
+job analysis - 职务分析
+stanine - 标准九分
+Kendall's concordance coefficient - 肯德尔和谐系数
+goodness of fit test - 适合度检验
+psychological reactance - 心理逆反
+human error - 人为失误
+neuroethology - 神经习性学
+desynchronized wave - 去同步化波
+two-tailed test - 双尾检验
+mental health - 心理健康
+action research - 动作研究[法
+coping style - 应付方式
+mental age - 心理年龄
+autism - 孤独症
+autism - 孤独症
+self-report inventory - 自陈问卷
+script - 脚本
+transpersonal psychology - 超个人心理学
+cognition - 认知
+background information - 背景信息
+Beck Depression Inventory - 白氏抑郁症量表
+pathic - 被奸者
+concomitant - 伴随的
+clew - 暗示
+think nothing of - 不在乎
+immaturity - 不成熟
+whiplash - 鞭打
+anchoring effect - 参照效应
+asynchronous - 不同时的
+operating data - 操作数据
+inadequacy - 不适当
+immature - 不成熟
+color space - 彩色空间
+peripheral - 边缘的
+immobility - 不动性
+mourning - 悲痛
+confidential data - 保密资料
+borderline personality disorder - 边缘型人格异常
+marginality - 边缘性
+laterality - 边利性
+sense of identity - 本体感
+white board - 白板
+mercy killing - 安死术
+encoder - 编码器
+labeling - 标记
+ve - 爱
+unaccountable - 不可理解的
+social withdrawal - 不合群
+necessary - 必然的
+wave - 波
+ultrasonic - 超声波的
+tireless - 不易疲劳的
+asocial - 不合群
+incoordination - 不协调
+express - 表达
+coded signal - 编码信号
+mammal - 哺乳动物
+inkling - 暗示
+original nature - 本性
+adventuresome - 爱冒险的
+deprive - 剥夺
+waveshape - 波形
+outbreak - 爆发
+telltale - 暴露内情的
+individual difference - 个体差异
+ontogenesis - 个体发生
+case study - 个案研究
+personal space - 个人空间
+ideal - 理想
+rationalism - 理性主义
+deviation - 离差
+understanding - 理解
+empiricism - 经验论
+reversibility - 可逆性
+cretinism - 克汀病
+spatial frequency - 空间频率
+classroom discipline - 课堂纪律
+collective unconscious - 集体无意识
+recency effect - 近因效应
+mental deterioration - 精神衰退
+sense of rhythm - 节奏感
+healthy personality - 健全人格
+interaction - 交互作用
+role - 角色
+criminal behavior - 犯罪行为
+product-moment correlation - 积差相关
+muscle fatigue - 肌肉疲劳
+simple cell - 简单细胞
+functionalism - 机能主义
+robot - 机器人
+rote learning - 机械学习
+value - 价值[观]
+photoreceptor - 光感受器
+trace theory - 痕迹理论
+backward masking - 后向掩蔽
+reciprocity - 互反性
+nuclear family - 核心家庭
+rapport - 和睦关系
+hippocampal formation - 海马结构
+reflection - 反映
+activity - 活动
+hyperactivity - 活动过度
+affiliation - 亲和
+prosocial behavior - 亲社会行为
+cognitive map - 认知地图
+cognitive style - 认知方式
+epistemology - 认识论
+identity - 认同
+intensity - 强度
+dynorphin - 强啡肽
+reinforcement - 强化
+obsession - 强迫观念
+three-dimensional pattern - 三维模式
+social psychology - 社会心理学
+distort - 曲解
+lack - 缺乏
+inflection - 曲折
+hearken - 倾听
+tenor - 趋向
+annul - 取消
+colony - 群体
+consumer      - 消费者
+spiritualism      - 唯灵论，强调超自然精神作用。
+coping style     - 应付方式，又称“应对方式”。
+imprinting      - 印记，许多动物在生活早期的一种学习形式。
+transition      - 转换
+puberty      - 青春期，又称“发身期”。
+construct validity     - 构想效度，又称“结构效度”。
+dyslexia      - 诵读困难
+sadism      - 施虐癖
+mental age     - 心理年龄，又称“智力年龄”。
+action research     - 动作研究[法］，又称“行动研究[法]”。
+grooming      - 理毛行为，又称“修饰行为”。
+antagonist      - 拮抗物
+vigilance      - 警觉，又称“警戒”。
+mental disorder     - 心理障碍，又称“精神障碍”。
+nucleus      - 细胞核
+cluster analysis     - 聚类分析
+discriminant analysis     - 判别分析
+cortex      - 皮质，又称“皮层”。
+fetishism      - 恋物癖，又称“恋物症”。
+color space - 彩色空间
+immature - 不成熟
+inadequacy - 不适当
+operating data - 操作数据
+asynchronous - 不同时的
+anchoring effect - 参照效应
+whiplash - 鞭打
+immaturity - 不成熟
+think nothing of - 不在乎
+clew - 暗示
+concomitant - 伴随的
+pathic - 被奸者
+Beck Depression Inventory - 白氏抑郁症量表
+background information - 背景信息
+phenobarbital - 苯巴比妥
+despise - 鄙视
+presentation - 表象
+uncertainty - 不确定性
+waviness - 波动
+boundary - 边缘
+standard temperature - 标准温度
+unfortunate - 不幸的
+waver - 波动
+slow wave sleep - 慢波睡眠
+equilibrium - 平衡
+heuristics - 启发法
+inquisitiveness - 求知欲
+Total Quality Control - 全面质量控制
+curvature - 曲率
+absenteeism - 缺席
+group training - 群体训练
+prefrontal cortex - 前额皮质
+forebrain - 前脑
+group - 群体
+group dynamics - 群体动力学
+group decision - 群体决策
+group theory - 群体理论
+affective disorder - 情感障碍
+complex - 情结
+episodic memory - 情景记忆
+age characteristics - 年龄特征
+cohesiveness - 凝聚力
+flavour - 气味
+transfer - 迁移
+balance theory - 平衡理论
+prejudice - 偏见
+rating method - 评定法
+assessment - 评估
+fatigue - 疲劳
+electroencephalograph - 脑电图描记器
+ventricle - 脑室
+internal representation - 内部表征
+introspection - 内省
+introvert - 内向人格者
+intrinsic motivation - 内在激励
+visibility - 能见度
+drive - 内驱力
+content analysis - 内容分析
+expectancy - 期望
+priming - 启动［效应］
+clinical psychology - 临床心理学
+critical value - 临界值
+range - 全距
+emotion - 情绪
+taxis - 趋避性
+somatization - 躯体化
+simulation - 模拟
+simulation method - 模拟法
+simulation training - 模拟训练
+descriptive statistics - 描述统计
+goal setting - 目标设置
+mood - 心境
+mood disorder - 心境障碍
+percent - 百分数
+retaliation - 报复
+dorsal - 背侧的
+comparative - 比较的
+unacceptable - 不可接受的
+white noise - 白噪声
+nasal cavity - 鼻腔
+change - 变化
+natural ability - 本能
+report - 报告
+case - 病例
+talion - 报复
+dialectical materialism - 辩证唯物主义
+opaque - 不透明的
+predisposition - 秉赋
+suckle - 哺乳
+amoeba - 变形虫
+ama - 半规管膨隆
+instinctive movement - 本能运动
+cancer cells - 癌细胞
+accompaniment - 伴随物
+NAFTA - 北美自由贸易协定
+dorsal root ganglion - 背根神经节
+knob - 按钮
+arrogance - 傲慢
+brink - 边缘
+talent education - 才能教育
+dialectical relation - 辩证关系辩证关
+edge detector - 边缘觉察器
+standard curve - 标准曲线
+evince - 表明
+Y theory  - Y理论
+bemoan - 悲叹
+noumenon - 本体
+assault - 暴行
+confront - 比较
+Alkalosis - 阿卡洛斯体质
+sorrow - 悲哀
+safety information - 安全信息
+back up data - 备查资料
+label - 标记
+mark - 标记
+agnogenic - 病因不明的
+unmoving - 不动的
+office layout - 办公室布局
+PKU - 苯酮尿症
+game theory - 博奕论
+white box - 白箱
+A - 埃
+GABA - γ氨基丁酸
+anthropic - 人为的
+cavum - 腔
+power structure - 权力结构
+confirm - 确证
+DS - 去同步睡眠
+clear off - 清除
+transition probability - 迁移概率
+unsure - 缺乏信心的
+courtship - 求爱
+distort - 曲解
+lack - 缺乏
+inflection - 曲折
+hearken - 倾听
+tenor - 趋向
+annul - 取消
+colony - 群体
+consumer      - 消费者
+spiritualism      - 唯灵论，强调超自然精神作用。
+coping style     - 应付方式，又称“应对方式”。
+imprinting      - 印记，许多动物在生活早期的一种学习形式。
+transition      - 转换
+puberty      - 青春期，又称“发身期”。
+construct validity     - 构想效度，又称“结构效度”。
+dyslexia      - 诵读困难
+sadism      - 施虐癖
+mental age     - 心理年龄，又称“智力年龄”。
+action research     - 动作研究[法］，又称“行动研究[法]”。
+grooming      - 理毛行为，又称“修饰行为”。
+antagonist      - 拮抗物
+vigilance      - 警觉，又称“警戒”。
+mental disorder     - 心理障碍，又称“精神障碍”。
+nucleus      - 细胞核
+cluster analysis     - 聚类分析
+discriminant analysis     - 判别分析
+cortex      - 皮质，又称“皮层”。
+fetishism      - 恋物癖，又称“恋物症”。
+microscope - 显微镜
+loudness discrimination - 响度辨别
+caution - 小心
+LQ - 下四分位值
+anarchy - 无政府状态
+habitability - 习惯能力
+mescaline - 仙人球毒碱
+uninformed - 无知的
+attraction - 吸引
+footling - 无价值的
+external behavior - 外表行为
+externality - 外在化
+physical cause - 物理原因
+system design - 系统设计
+dippy - 疯癫的
+complex variable - 复合变量
+inanimate - 非生物性
+obese - 肥胖的
+parasympathetic - 副交感的
+engineer - 工程师
+embarrassment - 尴尬
+individualism - 个人主义
+industrialization - 工业化
+sympathetic response - 共鸣
+aplastic - 发育不全的
+response function - 反应功能
+patrilineal - 父系的
+defensive strategy - 防卫策略
+negativity - 否定性
+interspike interval - 峰电位间距
+annex - 附加
+bisect - 分开
+skin color - 肤色
+bring up - 抚养
+adrenal gland - 副肾
+compound proposition - 复合命题
+intervention - 干预
+read back - 复述
+improvement - 改善
+probability analysis - 概率分析
+sensorial - 感觉的
+betterment - 改善
+branch point - 分支点
+blarney - 奉承话
+sorting - 分类
+subordination - 附属
+aesthesia - 感觉
+dispersive - 分散的
+apochromat - 复消色差物镜
+gentle - 高贵的
+perversion - 反常
+feedback - 反馈
+scheme - 方案
+divided attention - 分散注意
+analyzer - 分析器
+molecular genetics - 分子遗传学
+Freudianism - 佛洛伊德学说
+copy - 复制
+intervene - 干预
+amplitude - 幅
+rage - 愤怒
+fragmentation - 分裂
+method - 方法
+nonspecific - 非特异性的
+equilibrium - 平衡
+heuristics - 启发法
+inquisitiveness - 求知欲
+Total Quality Control - 全面质量控制
+curvature - 曲率
+absenteeism - 缺席
+practical problem - 实际问题
+gamete - 生殖细胞
+collector - 收藏者
+socially deprived - 受社会剥夺者
+addiction - 嗜好
+fecundity - 生殖力
+visual defect - 视觉缺陷
+comfort zone - 舒适区
+vegetarianism - 素食主义
+ventilation - 舒发
+EFA - 探索性因素分析
+ordering relation - 顺序关系
+truancy - 逃学
+especial - 特别的
+retreat - 逃避
+egotism - 自我中心论
+ego psychology - 自我心理学
+readability - 易读性
+opinion - 意见
+consciousness - 意识
+attention - 注意
+attention span - 注意广度
+artistic ability - 艺术能力
+artistic appreciation - 艺术欣赏
+left hemisphere - 左半球
+forgetting - 遗忘
+amnesia - 遗忘症
+medical model - 医学模式
+compliance - 依从
+mental illness - 心理疾病
+mental set - 心理定势
+mental workload - 心理工作负荷
+mental process - 心理过程
+predictive validity - 预测效度
+meta-analysis - 元分析
+need - 需要
+false alarm - 虚报
+confidence interval - 置信区间
+intelligence - 智力
+sexual abuse - 性虐待
+learning process - 学习过程
+gonad - 性腺
+preference method - 偏好法
+authoritarianism - 权威主义
+secondary - 二级的
+feedback circuit - 反馈回路
+homing instinct - 返巢本能
+generator - 发生器
+prefrontal lobotomy - 额叶前部切除术
+otolith - 耳石
+multinomial - 多项式
+child welfare - 儿童福利
+multivariate statistical analysis - 多变量统计分析
+morbidity rate - 发病率
+atrocity - 恶毒
+animal genetics - 动物遗传学
+frontal area - 额区
+antiscience - 反科学
+variance - 方差
+MAB - 多底算术块
+criminology - 犯罪学
+spectrum - 范围
+invention - 发明
+reflexive - 反射性
+hypoplasia - 发育不全
+legal regulation - 法律条例
+throw back - 返祖
+find - 发现
+electroconvulsive shock - 电痉挛休克
+investigation - 调查研究
+multimodal - 多峰的
+zoomorphic - 动物形的
+AP - 动作电位
+independent control - 独立控制
+dichotomy - 二分法
+bionics - 仿生学
+inertia - 惰性
+dopa - 多巴
+acting in - 动作显露
+dynamic network - 动态网络
+experimental biology - 实验生物学
+food deprivation - 食物剥夺
+optic chiasma - 视神经交叉
+neurohumoral - 神经元介质的
+occurrence - 事件
+visual acuity - 视敏度
+dialysis - 渗析
+experimental apparatus - 实验仪器
+decay - 衰退
+quantitative data - 数量资料
+growth curve - 生长曲线
+biocoenosis - 生物群落
+experimental study - 实验研究
+empiricism - 实证论
+world outlook - 世界观
+identify - 识别
+familiarity - 熟识
+sonic boom - 声爆
+training school - 师范学校
+neurologist - 神经病学家
+neurotica - 神经机能病
+N Ⅱ - 视神经
+fingers - 手指
+acoustical - 声的
+manual - 手的
+footman - 侍从
+theological seminary - 神学院
+biosensor - 生理传感器
+visual thinking - 视觉思维
+factual knowledge - 事实性知识
+group training - 群体训练
+prefrontal cortex - 前额皮质
+forebrain - 前脑
+group - 群体
+group dynamics - 群体动力学
+group decision - 群体决策
+group theory - 群体理论
+affective disorder - 情感障碍
+complex - 情结
+episodic memory - 情景记忆
+age characteristics - 年龄特征
+cohesiveness - 凝聚力
+flavour - 气味
+transfer - 迁移
+balance theory - 平衡理论
+prejudice - 偏见
+rating method - 评定法
+assessment - 评估
+fatigue - 疲劳
+electroencephalograph - 脑电图描记器
+ventricle - 脑室
+internal representation - 内部表征
+introspection - 内省
+introvert - 内向人格者
+intrinsic motivation - 内在激励
+visibility - 能见度
+drive - 内驱力
+content analysis - 内容分析
+expectancy - 期望
+priming - 启动［效应］
+clinical psychology - 临床心理学
+critical value - 临界值
+range - 全距
+emotion - 情绪
+SCN - 视交叉上核
+AL - 适应水平
+relevancy - 适切度
+discharge - 释放
+manual method - 手语法
+sleep pattern - 睡眠类型
+darken - 使模糊
+trainee - 受训练者
+binocular disparity - 双眼像差
+schedule - 时间表
+vex - 使烦恼
+vital capacity - 生活力
+video frequency - 视频
+acoustic information - 声音信息
+tracer - 示踪器
+neural activity - 神经活动
+design of experiment - 实验设计
+pilot sample - 试点样本
+terminology - 术语学
+time series - 时序
+visual display unit - 视觉显示单元
+positivism - 实证主义
+habitat type - 生境型
+career development - 事业发展
+baby boom - 生育高峰期
+visual range - 视觉范围
+avarice - 贪婪
+processing of data - 数据处理
+thinking type - 思想型
+predilection - 特别爱好
+sight - 视力
+SRF - 生长激素释放因子
+pun - 双关语
+social morality - 社会道德
+visual stimulus - 视觉刺激
+data manipulation - 数据处理数据处理
+defect - 缺陷
+concern - 涉及
+body measurement - 身体测量
+astigmatism - 散光眼
+daylight - 日光
+infanticide - 杀婴
+uptake - 摄取
+tryptophan - 色氨酸
+cognitive appraisal - 认知评价
+bear with - 忍受
+social issue - 社会问题
+neurodegenerative - 神经变性的
+cognitive strategy - 认知策略
+cancel - 删去
+Atman - 宇宙我
+PTS - 永久性阈移
+image analysis - 映象分析
+naturalized - 驯化的
+animus - 阳性基质
+medical model - 医疗模式
+empathize - 移情
+phonemics - 音位学
+anomalies - 异常的因果情况
+conceal - 隐蔽
+heterogeneous group - 异质群体
+conscious experience - 意识经验
+virility - 有男性特征
+fickle - 易变的
+blood group - 血型
+art - 艺术
+research work - 研究工作
+commitment - 义务感
+genetic complement - 遗传互补
+disinhibition - 抑制解除
+general activity - 一般活动
+aboulia - 意志缺失
+implantation - 移植
+strength of will - 意志力
+uniform - 一致
+shading - 阴影
+impressionism - 印象派
+migration - 移居
+hermaphrodite - 阴阳人
+learner - 学习者
+apparatus - 仪器
+migrant - 移居者
+deduce - 演绎
+domestication - 驯养
+genetic engineer - 遗传工程学家
+art test - 艺术测验
+acetylcholinesterase - 乙酰胆碱脂酶
+will power - 意志力
+artistry - 艺术性
+loss of consciousness - 意识丧失
+AChE - 乙酰胆碱脂酶
+indecision - 犹豫
+academic research - 学术研究
+repression - 压抑
+asthenopia - 眼疲劳
+learning organization - 学习型组织
+transmigrate - 移居
+artistic talent - 艺术才能
+scholastic test - 学业测验
+research methodology - 研究方法论
+specific transfer - 特定迁移
+scribble - 涂鸦
+synchronize - 同时发生
+norma - 外观颅
+completely normal - 完全常规的
+unique - 唯一的
+homophobia - 同性恋恐怖症
+gastralgia - 胃痛
+homogeneous - 同质的
+striatum - 纹状体
+problem teaching - 问题教学
+covet - 妄想
+flavour - 味
+deterrence - 威慑
+CS - 条件刺激
+random sample - 随机样本
+homogeneity - 同质性
+synaptic cleft - 突触裂
+concur - 同时发生
+alloplasty - 外向性力
+GPS - 通用问题解答
+carpale - 腕骨
+group dynamics - 团体动力学
+graphic analysis - 图解分析
+outer ear - 外耳
+immature - 未成熟的
+peripheral - 外周的
+atrophic - 萎缩的
+cultural adaptation - 文化适应
+ellipsoid - 椭圆
+RAS - 网状激活系统
+unwanted - 讨厌的
+graph theory - 图论
+sibling - 同胞
+flinch - 退缩
+full word - 完全词
+advice note - 通知单
+conjecture - 推测
+microcomputer - 微型计算机
+dimensional analysis - 维量分析维量分析
+peripheral nervous - 外周神经
+temperature - 温度
+peer group - 同伴团体
+homozygote - 同型接合子
+unforeseen - 未预见到的
+involvement - 投入
+body fluid - 体液
+postsynaptic potential - 突触后电位
+physical appearance - 体态
+headache - 头痛
+petrification - 僵化
+substratum - 基质
+activator - 激活剂
+collective ideal - 集体的理想
+indirect correlation - 间接相关
+premium - 奖赏
+remember - 记得
+stepmother - 继母
+ophthalmoscopy - 检眼镜检查法
+healthy personality - 健康人格
+reduction - 还原
+boil - 激动
+myograph - 肌动描记器
+metric space - 计量空间
+dysfunction - 机能障碍
+AAA - 急性焦虑发作
+spinocerebellar - 脊髓小脑的
+circumstantial evidence - 间接证据
+sympathesis - 交感作用
+methionine - 甲硫丁胺酸
+timer - 计时器
+basic conflict - 基本冲突
+mnemonic - 记忆的
+gap - 间断
+mating - 交配
+focal attention - 集中注意
+interval - 间距
+provocation - 激发
+integrated circuit - 集成电路
+base line - 基线
+incite - 激励
+immediate reaction - 即时反应
+custodian - 监护人
+planning - 计划
+memory ability - 记忆能力
+health survey - 健康调查
+insufficiency - 机能不全
+basic statistics - 基本统计
+environ - 环绕
+amalgamation - 混合种
+base point - 基点
+concentration - 集中
+jealousy - 嫉妒
+pedigree - 家谱
+overlap - 交叉
+cutting - 尖刻的
+performance evaluation - 绩效评估
+robust design - 坚稳设计
+computer control system - 计算机控制系统
+values clarification - 价值观辨析
+withdrawal - 退缩
+untreated - 未治疗的
+pretend - 伪装
+unappreciated - 未得赏识的
+insipid - 无味的
+bloodless - 无生气的
+inviting - 吸引人的
+ingrate - 忘恩的人
+invisible - 无形的
+UCR - 无条件反射
+transaction - 相互影响
+ation - 文明阶段
+teasing - 戏弄
+extractive - 提取的
+gateway - 途径
+group study - 团体研究
+urchin - 顽童
+detoxification - 脱毒作用
+civilization - 文明
+flavor - 味
+gastroscope - 胃窥镜
+conglomerate - 团块
+group decision making - 团体决策
+group identity - 团体同一性
+chainless - 无束缚的
+analysis situs - 拓朴学
+external auditory canal - 外耳道
+feeding - 喂食
+culture type - 文化形态
+perfectionism - 完美主义
+camouflage - 伪装
+pregnance - 完整倾向
+infringe - 违反
+axenic - 无外来污染的
+anarchism - 无政府主义
+complete design - 完全设计
+convergent validity - 同证效度
+postsynaptic - 突触后的
+cultural difference - 文化差异
+cower - 畏缩
+micrometer - 微米
+maintenance function - 稳定机能
+configuration - 完形
+intimidate - 威胁
+unforeseen event - 未预见事件
+feint - 伪装
+overt - 外显的
+abiotic - 无生命的
+UCS - 无条件刺激
+smile - 微笑
+aerodynamic - 空气动力学
+critical - 临界的
+logical record - 逻辑记号
+altruistic - 利他的
+instance - 例证
+join - 联合
+soul - 灵魂
+CBS - 慢性脑综合症
+junction - 联结
+excursive - 离题的
+critical region - 临界区域
+aesthetics - 美学
+analogical - 类拟的
+curable - 可治愈的
+exploitable - 可开发的
+avigation - 空中领航空中领航
+terrorism - 恐怖主义
+inheritable - 可遗传的
+lysine - 赖氨酸
+decentralization - 离中化
+interest group - 利益团体
+deafness - 聋
+connector - 联结器
+good figure - 良型
+fortune - 命运
+handedness - 利手
+quantum - 量子
+slow wave - 慢波
+senile - 老年的
+link - 联结
+treatise - 论文
+CR - 临界比
+follicle - 卵泡囊
+vehicle - 媒介物
+absenteeism - 旷工
+scientific theory - 科学理论
+air pollution - 空气污染
+orality - 口头形态
+commiserate - 怜悯
+pity - 怜悯
+oral examination - 口试
+promiscuity - 滥交
+predator model - 掠夺者模式
+exemplification - 例证
+logical reasoning - 逻辑推理
+paralytic - 麻痹的
+opiate - 麻醉剂
+coalesce - 联合
+force - 力
+credentialism - 履历至上主义
+aloneness - 孤独感
+employ - 雇用
+relevant dimension - 关联维度
+point of view - 观点
+transition period - 过渡期
+comatose state - 昏迷状态
+process - 过程
+functional relationship - 函数关系
+ignoramus - 毫无知识的人
+outing - 户外活动
+yellow race - 黄色人种
+photon - 光子
+scala tympani - 鼓阶
+idiom - 惯用语
+inspire - 鼓舞
+connection - 关联
+homing - 归巢
+attribution - 归因
+interflow - 互通
+reductionism - 化约主义
+classic - 古典的
+coadjutant - 合作的
+nuclear - 核
+break - 工间休息
+loner - 孤独的人
+regularity - 规律性
+functional - 功能性的
+ossification - 骨化作用
+work system - 工作系统
+light sensitive - 光敏的
+instrumentality - 功用性
+crackpot - 古怪的
+osteology - 骨骼学
+fixedness - 固著现象
+beam - 光束
+chimpanzee - 黑猩猩
+fruit fly - 果蝇
+core - 核心
+desirability - 合意性
+cooperative learning - 合作学习
+conk - 昏晕
+transitivity - 过渡性
+personal traits - 个人特质
+personal image - 个人意象
+tube - 管
+job security - 工作保障
+employer - 雇主
+nasty - 感性
+phose - 光觉
+ancient - 古代的
+marginality - 边缘性
+borderline personality disorder - 边缘型人格异常
+confidential data - 保密资料
+mourning - 悲痛
+immobility - 不动性
+peripheral - 边缘的
+withhold - 阻抑
+respondence - 作答
+impedance - 阻抗
+performance - 作业
+composition theory - 组合说
+OST - 最优序列训练器
+AS - 左耳
+restlessness - 坐立不安
+longitudinal research - 纵向研究
+maximum temperature - 最高温度
+respect - 尊重
+minimum - 最小量
+organization psychology - 组织管理心理学
+minimum error - 最小误差
+coordinate - 坐标
+autonomic reflex - 自主反射
+religious cult - 宗教崇拜
+arrangement of components - 组件排列
+OB - 组织行为组织行为
+restrain oneself - 自制
+synthetic method - 综合法
+primary - 最初的
+aggregative method - 综合法
+longitudinal - 纵向的
+Y coordinate - 纵坐标
+natural law - 自然法则
+esteem need - 尊重需要
+delinquent - 罪犯
+maximum likelihood method - 最大似然法
+observance - 遵守
+hold back - 阻止
+best allocation - 最佳配置
+optimum temperature - 最适温度
+synthesizing type - 综合型
+maximizing - 最大化
+job control - 作业控制
+best fit - 最佳配合
+coordinate system - 坐标系
+best estimate - 最佳推算数
+maximum - 最大
+bloke - 醉鬼
+spontaneous - 自发的
+integrated management - 综合管理
+population structure - 总体结构
+management function - 管理功能
+optical communication - 光学通信
+airsickness - 航空病
+nucleoside - 核甙
+over development - 过度发育
+communication channels - 沟通渠道
+exhort - 规劝
+filter - 过滤器
+function - 函数
+chill - 寒冷
+job redesign - 工作再设计
+widower - 鳏夫
+management strategy - 管理策略
+observation group - 观察组
+advertising media - 广告媒体
+reciprocal altruism - 互利主义
+aloneness - 孤独感
+employ - 雇用
+relevant dimension - 关联维度
+point of view - 观点
+transition period - 过渡期
+comatose state - 昏迷状态
+process - 过程
+functional relationship - 函数关系
+ignoramus - 毫无知识的人
+outing - 户外活动
+yellow race - 黄色人种
+photon - 光子
+scala tympani - 鼓阶
+idiom - 惯用语
+inspire - 鼓舞
+connection - 关联
+homing - 归巢
+attribution - 归因
+interflow - 互通
+reductionism - 化约主义
+classic - 古典的
+coadjutant - 合作的
+nuclear - 核
+break - 工间休息
+loner - 孤独的人
+regularity - 规律性
+functional - 功能性的
+ossification - 骨化作用
+work system - 工作系统
+light sensitive - 光敏的
+instrumentality - 功用性
+crackpot - 古怪的
+osteology - 骨骼学
+fixedness - 固著现象
+extrinsic - 外加的
+awe - 畏惧
+temperature sense - 温觉
+culture base - 文化基础
+rationalization - 文饰作用
+hippie movement - 嬉皮运动
+carpal - 腕关节的
+mongoloid - 先天愚型样的
+literature - 文献
+irregularity - 误差
+isthmus - 峡
+flagging - 萎靡不振的
+safety reliability - 系统可靠性
+angusty - 狭窄
+displays - 显示器
+correlate - 相关
+mental examination - 心理测验
+law of diminishing returns - 效果递减法则
+proofreading - 校对
+Siamese twins - 暹罗双胎
+questionnaire - 问卷
+unfeeling - 无情的
+cell death - 细胞坏死
+striate cortex - 纹状皮质
+cheeky - 无耻的
+error estimation - 误差估计
+system structure - 系统结构
+phenomenology - 现象学
+linear equation - 线性方程
+organized play - 组织性游戏
+indulgent - 纵容的
+trophoblast - 滋养层
+total - 总计
+optimal choice - 最优选择
+total environment - 总体环境
+secondary specialized school - 中等专科学校
+refreezing - 重新冻结
+bode well - 主吉
+assembly shop - 装配车间
+inferiority - 自卑
+central nucleus - 中央核
+key research project - 重点科研项目
+nature study - 自然研究
+think twice - 重新考虑
+active reaction - 主动反应
+automatic control - 自动控制
+expertise - 专门知识
+reorganization - 重组
+homunculus - 侏儒
+master gland - 主腺
+view - 观点
+common - 共同
+fixed effect - 固定效果
+manager - 管理者
+aggressiveness - 攻击性
+FR - 固定比率强化
+photoperception - 光感受
+tool making - 工具制作
+collective ownership - 共同所有权
+cockerel - 好斗的年轻人
+symbiotic - 共生的
+photoreception - 光感受
+insulate - 隔离
+work task - 工作任务
+encouragement - 鼓励
+fixed idea - 固定观念
+anchylosis - 关节僵硬
+qualification test - 合格考试
+black box - 黑匣子
+fixer - 固定器
+laryngitis - 喉炎
+high myopia - 高度近视
+industrial safety - 工业安全
+intimation - 告知
+critical - 关键的
+photochemistry - 光化学
+light sensitivity - 光敏度
+functional training - 功能性训练
+deadening - 隔音材料
+work surface - 工作面
+functional literacy - 功能性读书能力
+appropriate reaction - 适当反应
+interrogation - 审讯
+physiological ecology - 生理生态学
+forethought - 事先考虑
+visual performance - 视觉功能
+prostration - 衰竭
+releaser - 释放体
+zygote - 受精卵
+write - 书写
+assure - 使确信
+test pilot - 试飞员
+gather data - 收集数据
+social events - 社会事件
+feeding behavior - 摄食行为
+social system - 社会制度
+physical control - 身体控制
+social interference - 社会干扰
+social stratification - 社会阶层化
+ecological distribution - 生态分布
+synchronization - 同步作用
+group work - 团体工作
+conditionality - 条件性
+alloantigen - 同种抗原
+team structure - 团队结构
+head length - 头长
+extraneous variable - 外扰变量
+uncorrected - 未加管教的
+cultural relativism - 文化相对论
+arithmetic method - 算术平均法
+isomorphic - 同型的
+particularity - 特殊性
+aspect - 特点
+popularity - 通俗性
+communication center - 通信中心
+flightism - 逃跑主义
+prompting - 提示
+physique - 体格
+feature analysis - 特征分析
+statistical study - 统计研究
+ectoderm - 外胚叶
+imperil - 危害
+bogus - 伪造的
+totem pole - 图腾柱
+RAS - 网状觉醒系统
+introjection - 投入作用
+externals - 外控者
+outward manifestation - 外在表现
+pain - 痛
+emergent - 突变
+inference - 推论
+microfilm - 微缩胶卷
+group size - 团体大小
+extrapolate - 推断
+engorge - 贪吃
+CER - 条件性情绪反应
+audition - 听音
+prerogative - 特权
+privilege - 特权
+specific transfer - 特定迁移
+scribble - 涂鸦
+synchronize - 同时发生
+norma - 外观颅
+completely normal - 完全常规的
+unique - 唯一的
+homophobia - 同性恋恐怖症
+gastralgia - 胃痛
+homogeneous - 同质的
+striatum - 纹状体
+problem teaching - 问题教学
+implicit - 内隐的
+glimmer - 模糊感觉
+FSH - 卵泡刺激素
+another world - 另一世界
+mobility - 流动
+ovarium - 卵巢
+meter - 米
+describe - 描述
+target - 目标
+MEG - 脑磁图描记术
+internal capsule - 内囊
+bridge - 脑桥
+CBE - 能力本位教育
+dummy - 模拟人
+authorize - 批准
+age ratio - 年龄比
+youngling - 年轻人
+scorer - 评分员
+improvisation - 临时润饰
+chronicity - 慢性
+zero point - 零点
+paralyzed - 麻痹的
+echolalia - 模仿言语
+logical combination - 逻辑组合
+capillary - 毛细管
+imitation - 模仿
+aesthetic sensibility - 美感
+acromegaly - 末端肥大症
+American Sign Language - 美语手语
+medial longitudinal fasciculus - 内侧纵束
+thrall - 奴隶
+fainthearted - 懦弱的
+striving - 努力
+homeostatic - 内衡的
+inner - 内部
+argument - 论证
+pulse - 脉膊
+motherhood - 母性
+internal milieu - 内环境
+power function - 幂函数
+internal locus of control - 内控点
+heroine - 女英雄
+tolerance - 耐力
+intractable - 难控制的
+nirvana - 涅
+modularity - 模块化
+monopolist - 垄断者
+bewilderment - 迷惑状态
+logical law - 逻辑定律
+glamour - 魅力
+projection - 投射
+psychology - 心理学
+decentration - 脱中心性
+mental scanning - 心理扫描
+regression - 退行
+diathesis - 素质
+sense of speed - 速度感
+schema theory - 图式理论
+figure-ground - 图形-背景
+neuropsychology - 神经心理学
+anorexia nervosa - 神经性厌食[症]
+neurotrophic factor - 神经营养因子
+thinking type - 思维型
+apparent movement - 似动
+evasion - 闪避
+scan - 扫描
+mankind - 人类
+daily life - 日常生活
+chromatography - 色谱法
+alkalescence - 弱碱性
+tumultuous - 骚动
+artificial organ - 人工器官
+admission qualification - 入学资格
+circle - 圈
+heat stress - 热应激
+human error - 人的误差
+advise - 劝告
+population composition - 人口构成
+cognitive model - 认知模型
+anthroposophy - 人智学
+weakness - 弱
+suckling - 乳儿
+population control - 人口控制
+distortion - 曲解
+human needs - 人类需要
+area - 区域
+personality factor - 人格因素
+cognitive ability - 认知能力
+personality factor questionnaire - 人格因素量表
+emotional experience - 情绪体验
+man - 人
+anthropometry - 人体测量学
+ethnobiology - 人种生物学
+invade - 侵入
+pigment - 色素
+tolerance - 容忍
+sensual - 肉欲的
+polygraph - 多导[生理]记录仪
+contrast - 对比
+socioeconomic status - 社会经济地位
+telephone interview - 电话访谈
+matched sample - 对等样本
+await - 等待
+dol - 多尔
+majority - 大多数
+wager - 赌博
+read out - 读出
+dither - 发抖
+attack - 发作
+anomaly - 反常
+PCPA - 对氯苯丙胺
+exemplary - 典型的
+oculomotor nerve - 动眼神经
+ChE - 胆碱脂酶
+tune - 调谐
+electric stimulation - 电刺激
+estrogenicity - 动情性
+third ventricle - 第三脑室
+quantitative analysis - 定量分析
+resist - 抵抗
+animal breeding - 动物育种
+N Ⅲ - 动眼神经
+collate - 对照
+zoological - 动物学的
+cohort study - 断代研究
+telex - 电报
+board of directors - 董事会
+polygenic inheritance - 多基因遗传
+inventory - 调查
+opposition - 对立
+theory of error - 错误说
+band - 带
+television screen - 电视屏
+job relocation - 调职
+CET - 大脑电疗法
+Delphi method - 德尔菲法
+originality - 独创性
+short arm - 短腕
+mediator - 调停人
+pricing - 定价
+animal magnetism - 动物磁性说
+electrical activity - 电活动
+complain - 抱怨
+analytics - 解析学
+psychotropic drugs - 精神药物
+absolute zero - 绝对零点
+antimicrobial - 抗菌的
+beware - 谨防
+modesty - 谨慎
+polymerization - 聚合作用
+school teacher - 教师
+ailment - 疾病
+testing procedure - 检验程序
+basal ganglion - 基底神经节
+assemblage - 集合
+family member - 家族成员
+skill training - 技能训练
+memory capacity - 记忆容量
+basal metabolic rate - 基础代谢率
+boarder - 寄宿的学生
+meter design - 计器设计
+parole - 监护
+decompressing - 减压
+computerization - 计算机化
+indirect relation - 间接关系
+agitate - 焦急不安
+remedial teaching - 矫正指导
+checklist - 检核表
+classification - 鉴别
+basic form - 基本形式
+basic element - 基本元素
+formalin - 甲醛溶液
+matrical - 基质的
+laser irradiation - 激光照射
+intraspinal - 脊柱内的
+computer programming language - 计算机程序语言
+secondary source - 间接来源
+basic sentence - 基本句子
+CAI - 计算机辅助教学
+disciplinary measure - 纪律措施纪律措施
+weight coefficient - 加权系数
+sham - 假装
+insistent - 坚持的
+disguise - 假装
+interaction effect - 交互作用效果
+metric - 计量
+pseudowords - 假字
+inspection - 检验
+compendium - 简要
+athletic type - 健壮型
+focal length - 焦距
+centralization - 集权化
+kinetin - 激动素
+familial incidence - 家族内发病数
+deformation - 畸型
+memory transfer - 记忆移植
+spinal cord - 脊髓
+differentiation - 鉴别
+cipher - 计算
+talkative - 健谈的
+PMA - 基本心理能力
+chance - 机遇
+recovery - 恢复
+nucleotide - 核甙酸
+activity need - 活动需求
+malfunction - 机能障碍
+environmental gradient - 环境梯度
+verve - 活力
+carney - 哄骗
+neglect - 忽视
+congregation - 集合
+primary - 基本的
+plan - 计划
+aberrance - 畸变
+machine intelligence - 机器智慧
+limit process - 极限法
+dyscalculia - 计算失能
+tonus - 肌肉紧张
+ribonucleic acid - 核糖核酸
+myodynia - 肌痛
+collaborate - 合作
+arousal - 唤起
+mechanism - 机制
+concord - 和谐
+rote memorization - 机械背诵
+basic research - 基本研究
+grassroots - 基础
+bellow - 吼叫
+anabiosis - 回生
+echo - 回波
+macrostructure - 宏观结构
+fantastic play - 幻想游戏
+fellow - 伙伴
+foundation - 基金
+wit - 机智
+value analysis - 价值分析
+note - 记录
+transition point - 过渡点
+antic - 滑稽动作
+turmoil - 混乱
+goggles - 护目镜
+glider - 滑翔
+need for affiliation - 归属需要
+functional structure - 机能结构
+cold environment - 寒冷环境
+blackout - 黑视
+myoclonus - 肌阵挛
+chimera - 幻想
+trance - 昏迷
+allergic reaction - 过敏性反应
+untoward - 倔强的
+noticeable - 可觉察的
+decomposition - 解体
+vinous - 酒的
+taboo - 禁忌
+sagacity - 精明
+inspect - 检验
+run - 进行
+interview method - 交谈法
+spasmolytic - 解痉的
+traffic signal - 交通信号
+footnote - 脚注
+alarm - 警报
+binding energy - 结合能
+competing - 竞争
+configuration - 结构形态
+alcohol - 酒精
+net - 净
+examine - 检查
+touchstone - 检验标准
+saltiness - 碱度
+method of weighting - 加权法
+value judgment - 价值判断
+housework - 家务劳动
+role stress - 角色压力
+class management - 教室管理
+standing at attention - 紧张型直立姿势
+tensive - 紧张的
+SEM - 结构方程模型
+intercept - 交点
+dormant state - 静态
+duration - 久暂
+CT - 计算机断层摄影术
+psychonosema - 精神薄弱
+approximant - 近似值
+craftiness - 狡猾
+employment - 就业
+ETV - 教育电视
+admit - 容许
+singularity - 奇异
+derivatives - 派生物
+frequency analysis - 频次分析
+referred pain - 牵涉性疼痛
+breakage - 破损
+quality scale - 品质量表
+test of character - 品德测验
+equilibrant - 平衡力
+equalitarianism - 平等主义
+imperative - 强迫的
+decontaminate - 去污染
+colorimetry - 色度学
+generation - 生育
+fertility - 生殖力
+disability - 失能
+neuromuscular - 神经肌肉
+aesthetic value - 审美价值
+tangible - 实体的
+luxury - 奢侈
+neurosyphilis - 神经症系统梅毒
+growth stage - 生长阶段
+bereavement - 丧亲之哀
+bolt - 筛选
+social pattern - 社会模式
+body image - 身体意象
+physical maturity - 生理成熟
+germ cell - 生殖细胞
+eroticism - 色情
+Chauvinism - 沙文主义
+neurohormones - 神经激素
+amblyopia - 弱视
+physical handicap - 身体缺陷
+id - 本我
+adulthood - 成年期
+punishment - 惩罚
+spoken language - 出声语言
+saturation - 饱和度
+coefficient of variation - 变异系数
+script - 脚本
+F distribution - F 分布
+F test - F 检验
+personality psychology - 人格心理学
+job analysis - 职务分析
+retrieval - 提取
+construct validity - 构想效度
+puberty - 青春期
+individual therapy - 个别心理治疗
+suggestion - 暗示
+standardized test - 标准化测验
+standard error - 标准误差
+image - 表象
+contour - 轮廓
+autism - 孤独症
+emotional expression - 表情
+body language - 身体语言
+musical therapy - 音乐疗法
+coping - 应付
+mental health - 心理健康
+action research - 动作研究[法
+formal operation - 形式运思
+locus of control - 控制点
+eye contact - 目光接触
+national culture - 民族文化
+inner segment - 内节
+muttering - 嗫语
+simulator - 模拟器
+cerebrospinal fluid - 脑脊液
+competence - 能力
+cephalocele - 脑膨出
+discriminant - 判别式
+MD - 平均差
+logical deduction - 逻辑演绎
+risk - 冒险
+confidant - 密友
+pattern - 模式
+American Psychiatric Association - 美国精神病学会
+chum - 密友
+mimicry - 模仿
+purpose - 目的
+brain pathology - 脑病理学
+descriptive statistics - 描述统计学
+cerebral palsy - 脑性瘫痪
+mobility - 迁移率
+organa - 器官
+vagal - 迷走神经的
+defy - 蔑视
+intension - 内涵
+opinion poll - 民意测验
+implicit - 内隐的
+glimmer - 模糊感觉
+FSH - 卵泡刺激素
+another world - 另一世界
+mobility - 流动
+ovarium - 卵巢
+meter - 米
+describe - 描述
+target - 目标
+MEG - 脑磁图描记术
+internal capsule - 内囊
+bridge - 脑桥
+CBE - 能力本位教育
+dummy - 模拟人
+authorize - 批准
+age ratio - 年龄比
+youngling - 年轻人
+scorer - 评分员
+improvisation - 临时润饰
+chronicity - 慢性
+zero point - 零点
+paralyzed - 麻痹的
+echolalia - 模仿言语
+bookish - 书生气
+tract - 束
+postnatal development - 生后发育
+OC - 视神经交叉
+adaptive reaction - 适应反应
+sense of alienation - 疏离感
+time score - 时间分数
+internship - 实习生
+time data - 时间数据
+marketing management - 市场管理
+wench - 私通
+SCN - 视交叉上核
+AL - 适应水平
+relevancy - 适切度
+discharge - 释放
+manual method - 手语法
+sleep pattern - 睡眠类型
+darken - 使模糊
+trainee - 受训练者
+binocular disparity - 双眼像差
+schedule - 时间表
+vex - 使烦恼
+vital capacity - 生活力
+video frequency - 视频
+acoustic information - 声音信息
+tracer - 示踪器
+neural activity - 神经活动
+design of experiment - 实验设计
+pilot sample - 试点样本
+terminology - 术语学
+time series - 时序
+visual display unit - 视觉显示单元
+positivism - 实证主义
+habitat type - 生境型
+career development - 事业发展
+baby boom - 生育高峰期
+visual range - 视觉范围
+avarice - 贪婪
+processing of data - 数据处理
+thinking type - 思想型
+predilection - 特别爱好
+sight - 视力
+SRF - 生长激素释放因子
+pun - 双关语
+social morality - 社会道德
+visual stimulus - 视觉刺激
+data manipulation - 数据处理数据处理
+defect - 缺陷
+concern - 涉及
+body measurement - 身体测量
+relay - 继电器
+primary color - 基色
+basic law - 基本法律
+milieu - 环境
+activity level - 活动水平
+complementary - 互补的
+motor vehicles - 机动车
+jumble - 混乱
+DNA - 合成
+nucleic acid - 核酸
+laser - 激光
+link - 环
+elemental form - 基本形式
+illness - 疾病
+CMI - 计算机管理教学
+institutionalization - 寄居机构
+acerbate - 激怒
+CAM - 计算机辅助制造
+thyroidea - 甲状腺
+curator - 监护人
+computer analysis - 计算机分析
+dote - 昏愦
+mestizo - 混血儿
+PMA - 基本心理能力
+chance - 机遇
+recovery - 恢复
+nucleotide - 核甙酸
+activity need - 活动需求
+malfunction - 机能障碍
+environmental gradient - 环境梯度
+verve - 活力
+carney - 哄骗
+neglect - 忽视
+congregation - 集合
+primary - 基本的
+plan - 计划
+aberrance - 畸变
+machine intelligence - 机器智慧
+limit process - 极限法
+dyscalculia - 计算失能
+tonus - 肌肉紧张
+ribonucleic acid - 核糖核酸
+myodynia - 肌痛
+collaborate - 合作
+arousal - 唤起
+mechanism - 机制
+concord - 和谐
+rote memorization - 机械背诵
+basic research - 基本研究
+grassroots - 基础
+antianxiety - 抗焦虑的
+antibacterial - 抗细菌的
+ADH - 抗利尿激素
+rapid eye movement sleep - 快速眼动睡眠
+servitude - 劳役
+reliability theory - 可靠性理论
+reproducibility - 可再现性
+antidiuretic hormone - 抗利尿激素
+panel - 控制板
+antiarrhythmic - 抗心律失常的
+intangible - 空灵
+likable - 可爱的
+objective - 客观的
+concreteness - 具体性
+objectivity - 客观性
+withhold - 扣留
+pang - 剧痛
+decision making process - 决策过程
+terrorist - 恐怖分子
+treatment group - 控制组
+intellectuality - 理智性
+example - 例子
+acceptability - 可接受性
+ideologue - 空想家
+aging - 老化
+objective criterion - 客观标准
+radar - 雷达
+objectiveness - 客观性
+accessibility - 可进入性
+hanker - 渴望
+fun - 乐趣
+cold shock - 冷休克
+dotage - 老年记忆衰退
+local control - 局部控制
+balance of power - 均势
+hopelessness - 绝望
+decision analysis - 决策分析
+tribulation - 苦难
+absorbable - 可吸收的
+spoken language - 口头语言
+slip of tongue - 口误
+resemblance - 类似
+negation - 抗拒性
+scientist - 科学家
+educational technology - 教育工艺学
+heartsick - 沮丧的
+open education - 开放教育
+inbreeding coefficient - 近亲系数
+jostle - 竞争
+explicate - 解释
+predominance - 优势
+sound intensity - 音强
+covert - 隐蔽的
+trepan - 诱惑者
+approbation - 赞扬
+play age - 游戏年龄
+harmful substance - 有害物质
+language acquisition - 语言习得
+relational - 有关系的
+healthful - 有益健康的
+operational control - 业务管理
+abnormal results - 异常结果
+heterosexual - 异性的
+eating disorder - 饮食性疾病
+theism - 有神论
+depression - 抑郁症
+hysteria - 癔症
+decoder - 译码器
+pitch - 音调
+grammatical structure - 语法结构
+useful data - 有用数据
+ghetto - 犹太人区
+oxygen toxicity - 氧中毒
+pancreas - 胰脏
+causality - 因果关系
+sense of obligation - 义务感
+volatility - 易变
+angle of repose - 隐角
+recreation - 娱乐说
+damper - 抑制性因素
+imagery - 意象
+dystrophy - 营养不良
+prosody - 语调
+incentive theory - 诱因论
+liminal - 阈限的
+courage - 勇敢
+worry - 忧虑
+tone color - 音色
+obscenity - 淫秽
+inducer - 诱导物
+vantage - 优势
+syllable - 音节
+seclusiveness - 隐居
+relevance - 有关
+diffract - 衍射
+amnesic - 遗忘的
+fatigable - 易疲劳的
+migrator - 移民
+suspiciousness - 疑心
+intentionality - 意向性
+luteinizing hormone - 黄体生长激素
+overstrain - 过度紧张
+hallucination - 幻觉
+blather - 胡说
+mutualist - 互惠共生生物
+copy - 广告用语
+partnership - 合作关系
+environmental factor - 环境因素
+extravagance - 过度
+nanometer - 毫微米
+regression analysis - 回归分析
+posterior probability - 后验概率
+fantasm - 幻影
+mainstreaming - 回归主流
+lethargic - 昏睡的
+disfunction - 机能失常
+basic logic - 基础逻辑
+blow - 呼吸急促
+luminous flux - 光通量
+orphanage - 孤儿院
+conjunction - 合取
+trajectory - 轨迹
+photometer - 光度计
+photochemical reaction - 光化学反应
+light intensity - 光强度
+locus - 轨迹
+RNP - 核糖核蛋白核糖核蛋白
+ribonucleotide - 核糖核苷酸
+overreaction - 过度反应
+arousal system - 唤起系统
+mixed model - 混合模式
+hunger - 饥饿
+myotonia - 肌强直
+assemble - 汇编
+absurdity - 荒唐行为
+specification - 规范
+management information system - 管理信息系统
+international management - 国际化管理
+physiognomic - 观相术
+legitimate claim - 合法要求
+reification - 观念与现象混淆
+nano - 毫微
+millimicron - 毫微米
+sense of belonging - 归属感
+fruity - 果香
+affiliation - 合群
+glide - 滑音
+hybrid - 混血儿
+anabolic effect - 合成作用
+anabolic - 合成代谢
+wish - 愿望
+factor loading - 因子负荷
+payload - 有效负荷
+modeling - 示范
+psychoanalyze - 用精神分析法治疗
+applied research - 应用研究
+crowding - 拥挤感
+reading speed - 阅读速度
+emergency - 应急
+causality - 缘由
+appoint - 约定
+counselor - 咨询者
+independent variable - 自变量
+automatic coding - 自动编码
+somnus - 睡眠
+chronological age - 实足年龄
+arithmetic expression - 算术表达式
+income - 收入
+digital code - 数字代码
+dyad - 双方
+lesion - 损伤
+decamp - 逃亡
+incident - 事件
+algorism - 十进位计算法
+appetite - 食欲
+receptor potential - 受纳器电位
+speculativeness - 思辩
+electroretinogram - 视网膜电图
+lie - 说谎
+test survey - 试验调查
+essentiality - 实质性
+marketing channel - 市场通道
+accustomization - 适应
+generation interval - 世代间隙
+zoomorphic - 兽形的
+optic - 视力的
+readout - 示值读数
+aesthetic appreciation - 审美
+bionomics - 生态学
+ecological environment - 生态环境
+glia - 神经胶质
+achromatopsia - 全色盲
+social order - 社会秩序
+occasion - 时机
+hologram - 全息照相
+badly off - 穷的
+fillet - 丘系
+trend analysis - 趋势分析
+auditory localization - 听觉定位
+trait - 特质
+curvilinear - 曲线的
+extirpation - 切除
+condition - 情况
+emotionalism - 情绪论
+upper bound - 上限
+establishment - 确立
+weak interaction - 弱相互作用
+concession - 让步
+human ability - 人的能力
+personnel - 人事
+AI - 人工智能
+human organism - 人类有机体
+affective communication - 情感传达
+kin group - 亲属团体
+anthropogeny - 人类起源
+early adolescence - 青年早期
+potential demand - 潜在需要
+omnipotent - 全能的
+hot line - 热线
+humanistic psychology - 人本主义心理学
+human-computer interaction - 人机交互作用
+PA - 联对
+propinquity - 邻近性
+membrane transport - 膜输送
+Braille - 盲字
+luminosity - 亮度
+ionizing - 离子化
+calvarium - 颅盖
+choroid - 脉络膜的
+mobility - 灵活性
+barium sulfate - 硫酸钡
+adventurer - 冒险家
+quantification - 量化
+oral communication - 口头沟通
+account - 论述
+territory - 领地
+cage - 笼
+stereotaxic instrument - 立体定位仪
+ambidexterity - 两手同能
+sulcus - 裂
+comprehension test - 理解测验
+power - 力
+paradox - 矛盾
+dream content - 梦之内容
+bicameral - 两腔的
+aesthetic pedagogy - 美育学
+distressful - 令人苦恼的
+fulfillment - 满足
+cryptology - 密码术
+vicinal - 邻近的
+overcompensation - 过度补偿
+skepticism - 怀疑主义
+recollection - 回想
+chemiluminescence - 化学发光
+pathetic nerve - 滑车神经
+activation energy - 活化能
+fundamental principle - 基本原理
+cinerea - 灰质
+activation ratio - 活化比
+environmental variation - 环境变异
+flapdoodle - 胡说
+harmonic - 和睦
+confluence - 汇合
+allergic - 过敏性的
+musculature - 肌肉系统
+cancellation - 划消
+inquisitiveness - 好奇
+environmental pollution - 环境污染
+remorse - 悔恨
+abscissa - 横坐标
+supersensitive - 过敏性
+compatibility - 和谐性
+marital status - 婚姻状况
+transection - 横断面
+anamnesis - 回忆
+mixed culture - 混合文化
+limit analysis - 极限分析
+genic - 基因的
+obtain - 获得
+immediate - 即时的
+cod - 哄骗
+SN - 黑质
+optical character recognition - 光学字符识别
+nationality - 国籍
+collaboration - 合作
+optical instrument - 光学仪器
+national standard - 国家标准
+chemoreceptor - 化学感受器
+baggage - 过时的观念
+money - 货币
+ethical behavior - 合伦理的行为
+macroevolution - 宏观进化
+loop - 环
+myogenic - 肌原性的
+myalgia - 肌痛
+Hz - 赫兹
+wedlock - 婚姻
+function - 机能
+paramedic - 护理人员
+DNA - 合成酶
+dogmatism - 教条主义
+scientific control - 科学控制
+acceptable - 可接受的
+role play - 角色游戏
+structural - 结构
+energetic - 精力充沛的
+educational evaluation - 教育评价
+celibacy - 禁欲
+psychosis - 精神症
+spiritual healing - 精神治疗
+Educational Psychology - 教育心理
+desperation - 绝望
+lunatic - 精神病患者
+evolution theory - 进化论
+recent period - 近期
+deprived children - 经受剥夺的儿童
+detect - 觉察
+mental apparatus - 精神结构
+noisome - 可厌的
+angular gyrus - 角回
+wedding - 结婚
+intercept - 截距
+educator - 教育家
+senesce - 开始衰老
+mastery - 精熟
+proximity - 接近性
+absoluteness - 绝对性
+tonicity - 紧张性
+eclampsia - 惊厥
+appraisal - 考核
+scientific attitude - 科学态度
+mutability - 可突变性
+matrix equation - 矩阵方程
+focal point - 焦点
+educational environment - 教育环境
+operation analysis - 经营分析
+ARM - 抗麻醉性记忆
+ankyloglossia - 结舌
+come along - 进展
+inhibition effect - 禁忌效应
+jocose - 开玩笑的
+wake - 觉醒
+equilibration - 均衡
+vier - 竞争者
+awakening - 觉醒
+static strength - 静态性力量
+absolute time - 绝对时间
+sensible - 可感知的
+dreadful - 可怕的
+objectification - 客观化
+child abuse - 儿童虐待
+brevity - 短暂
+binomial - 二项式
+action time - 动作时间
+confrontation - 对质
+animate - 动物名词
+antithesis - 对立
+EST - 电休克疗法
+zoic - 动物的
+action - 动作
+PS - 对称点
+feedback information - 反馈信息
+oculomotor - 动眼的
+crackers - 发疯的
+feedback inhibition - 反馈抑制
+nightmare - 恶梦
+analysis of variance - 方差分析
+counter - 对立的
+log - 对数
+polymorphous perversity - 多形性反常
+rule - 法则
+polyneuropathy - 多神经病
+multifunctional - 多功能的
+survey study - 调查研究
+oculomotorius - 动眼神经
+pinna - 耳壳
+gambling - 赌博
+aver - 断言
+theorem - 定理
+modulation - 调节
+polyamine - 多胺
+protest - 反抗
+diversity - 多种性
+vicious circle - 恶性循环
+coverage - 范围
+otic - 耳的
+equidistant - 等距离的
+inquire - 调查
+zoology - 动物学
+CG - 对照组
+variety - 多样化
+typical form - 典型式
+heartburn - 妒忌
+gambling house - 赌场
+charge - 电荷
+galvanometer - 电流计
+bach - 独身男人
+extraterrestrial - 地球外的
+adjustment method - 调整法
+logarithmic mean - 对数平均数
+irreparable - 不可弥补的
+stupidity - 迟钝
+unreality - 不现实
+endurance - 持久性
+test stand - 测验台
+profile - 侧面象
+sampling techniques - 抽样技术
+esthesia - 触觉
+stimulate - 刺激
+zest - 刺激性
+urban environment - 城市环境
+costive - 迟缓的
+pituitarism - 垂体机能紊乱
+barbarism - 粗暴行为
+taste - 尝
+blunt - 迟钝的
+unrest - 不安
+indiscretion - 不慎重
+component analysis - 成分分析
+joystick - 操纵杆
+mature - 成熟的
+product planning - 产品计划
+overtime - 超时
+castigate - 惩罚
+success - 成功
+traumatic experiences - 创伤经验
+ISI - 刺激间距刺激间距
+unrefined - 粗俗的
+aphrodisiac - 刺激性欲的
+surrogate mother - 代理母亲
+paranormal - 超常的
+unskillful - 不熟练的
+OTU - 操作分类单位
+dementia - 痴呆
+strategy - 策略
+obsolete - 不明显的
+test reliability - 测验信度
+field - 场
+discrete - 不连续的
+amok - 残暴性狂症
+lateral ventricle - 侧脑室
+initial evaluation - 初始评价
+smart student - 聪明学生
+lamina - 层状体
+incipient - 初始的
+sampling method - 抽样法
+catalysis - 催化作用
+lexical - 词汇
+differential growth - 差别成长差别成长
+abstract thought - 抽象思考
+job vacancy - 职务空缺
+indicant - 指标
+indication - 指示法
+advice - 忠告
+rearrange - 重新安排
+political consciousness - 政治意识
+reconditioning - 重建条件反射
+counsel - 咨询
+dominant role - 主要角色
+proprietary - 专有的
+guide - 指导
+reading rate - 阅读速度
+rate of increase - 增长率
+test stimulus - 试验刺激
+oscillation - 振动
+malpractice - 治疗不当
+hate - 憎恨
+perceptive - 知觉的
+premature ejaculation - 早泄
+composure - 镇静
+TRUE value - 真值
+raphe nucleus - 中缝核
+periphery - 周围
+cartography - 制图法
+normal period - 正常时期
+acromegaly - 肢端过大
+direct correlation - 直接相关
+analysis of matter - 质料分析
+ascendancy - 支配地位
+cure rate - 治愈率
+two cultures - 双重文化
+experimental group - 实验组
+employee involvement - 员工参与
+atomic mass - 原子质量
+sense of reality - 真实感
+hearten - 振作
+temporarily - 暂时的
+euphonic - 悦耳的
+positive feedback - 正反馈
+index - 指数
+aspirational - 志同的
+warmonger - 战争贩子
+illumination - 照明
+twit - 责备
+license - 证书
+knowledge hierarchy - 知识体系
+crucify - 折磨
+paralyzed - 瘫痪的
+recoding - 再编码
+TOT - 欲言难吐
+mental measurement - 心理测量
+vector method - 向量法
+like - 相似
+revoke - 回顾
+moderation - 缓冲
+collective image - 集体意象
+polarity - 极性
+disease - 疾病
+range of activity - 活动范围
+point scale - 积点量表
+basic process - 基本过程
+intense emotion - 激情
+chemosensory - 化学感觉的
+myodynamia - 肌力
+mechanical vibration - 机械振动
+aggregation pheromone - 集合体现象
+numeration - 计算
+infrared ray - 红外线
+yellow light - 黄灯
+monkey - 猴
+rebound - 回跳
+assembly - 汇编
+fornication - 婚外性行为
+hypersensitive - 过敏的
+AE - 后效
+kin - 家族
+computer programming - 计算机编程
+hypothyroidism - 甲状腺机能减退
+substrate - 基质
+aberration rate - 畸变率
+chemosensitivity - 化学敏感性
+LH - 黄体生长激素
+active center - 活力中心
+excitement - 激情
+hormone therapy - 激素疗法
+polarization - 极化
+voluptuous - 激起情欲的
+family background - 家庭背景
+reduction - 减少
+black light - 黑线
+thermostatic - 恒温的
+interactive approach - 互动研究方法
+environmental planning - 环境计划
+reciprocity - 互易性
+machine learning - 机器学习
+positive attitude - 积极态度
+complementarity - 互补性
+phantasy - 幻想
+chemical - 化学的
+agglutination - 集聚
+peduncle - 茎
+warning line - 警戒线
+traffic control - 交通管制
+group discussion - 集体讨论
+tumult - 激动
+calculating machine - 计算机
+CCS - 计算机控制系统
+technology - 技术学
+copulation - 交配
+educate - 教育
+asymptotic theory - 渐近论
+reciprocate - 交互
+focus - 焦点
+modification - 矫正
+birth control - 节制生育
+persona - 角色象
+educational administration - 教育行政管理
+class limitations - 阶级局限性
+flurry - 激动
+tacit - 缄默的
+flair - 鉴别力
+enrage - 激怒
+memory disorder - 记忆障碍
+underpinning - 基础
+test case - 检查实例
+computer control - 计算机控制
+weighting - 加权
+limiting value - 极限值
+decrement - 减量
+imaginary audience - 假想观众
+jail - 监狱
+amnesia - 健忘症
+technicality - 技术性
+technique - 技术
+supraspinal - 脊椎上的
+household - 家庭
+correction - 矫正
+school teacher - 教师
+ailment - 疾病
+testing procedure - 检验程序
+basal ganglion - 基底神经节
+assemblage - 集合
+family member - 家族成员
+skill training - 技能训练
+memory capacity - 记忆容量
+basal metabolic rate - 基础代谢率
+boarder - 寄宿的学生
+meter design - 计器设计
+parole - 监护
+decompressing - 减压
+GLU - 谷胺酸
+management analysis - 管理分析
+thermonasty - 感热性
+isolation - 孤独
+work - 工作
+calling - 感召
+idiographic - 个人签名的
+axiom - 公理
+isolation - 隔离
+overextension - 过度伸展
+work study - 工作研究
+TWI - 工厂内训练
+ogive - 拱形线
+restructuring - 构造转化
+preservation - 固著心向
+codger - 怪癖的人
+advisor - 顾问
+estimation model - 估计模式
+fundamental change - 根本变化
+classical school - 古典学派
+complex form - 复杂形式
+sense organ - 感官
+acrophobia - 高处恐怖症
+key word - 关键词
+work measurement - 工作测量
+sensory impression - 感觉印象
+CHD - 冠心病
+toxoplasmosis - 弓形体病
+spectrum - 光谱
+candid - 公正的
+interfere - 干扰
+higher education - 高等教育
+industrial department - 工业部门
+sympathy - 共感
+structuralism - 构造主义
+employee - 雇员
+anisotropism - 各向异性
+common trait - 共同特质
+rater - 估价人
+conception - 概念
+POX - 个人、他人与事物
+symbolic language - 符号语言
+radiosensitivity - 辐射敏感性
+ergonomics - 工效学
+compound - 复合
+vicarious - 感应式
+Anno Domini - 公元
+utilitarianism - 功利主义
+O - 观察者
+confession - 供认
+GAD - 泛焦虑症
+manner - 方式
+vicious habits - 恶习
+developmental zero - 发展零点发展零点
+attack rate - 发病率
+developmental disorder - 发展失常
+unlearning - 反学习
+R class - 反应类
+auricula - 耳廓
+defame - 诽谤
+multiband - 多频带
+estrus cycle - 发情周期
+analyze - 分析
+manifold - 多样的
+reaction system - 反应体系
+domain - 范围
+growth period - 发育期
+analytic process - 分析过程
+scholasticism - 烦锁哲学
+categorical - 分类的
+offense - 犯罪
+debauchery - 放荡
+inconstancy - 反复无常
+occurrence - 发生
+disclaim - 放弃
+under development - 发育不全的
+catadioptric - 反射折射的
+theory of reflection - 反映论
+cope - 对付
+dopamine - 多巴胺
+come across - 发现
+multiple linear regression  - 多元线性回归
+incidence rate - 发生率
+multicellular - 多细胞的
+independent personality - 独立人格
+polygraph - 多项记录器
+unmusical - 对音乐不感兴趣的
+hypoplastic - 发育不全的
+evolutive - 发展的
+reproductive strategy - 繁衍战略
+sociopath - 反社会者
+malign - 恶毒的
+radioactive substance - 放射物质
+factorial experiment - 多因子实验
+counterclockwise - 反钟向
+fly - 飞
+developmental trend - 发展倾向发展倾向
+analyst - 分析者
+feedback loop - 反馈环
+animal behavior - 动物行为
+musical talent - 音乐才能
+linear program - 直线式程序
+organizational behavior - 组织行为
+noise - 噪声
+main effect - 主效应
+self-actualization - 自我实现
+impaired - 受损
+adaption - 适应
+data collection - 数据收集
+willies - 神经紧张
+rapid change - 速度改变
+palmar - 手掌反射
+career counseling - 事业咨询
+physical development - 生理发展
+procreation - 生殖
+forced vibration - 受迫振动
+tree graph - 树图
+initiative - 首创精神
+particular will - 特殊意志
+nervous - 神经的
+concerted - 商定的
+somatosensory system - 躯体感觉系统
+social interest - 社会性兴趣
+accepted - 认可的
+driving force - 驱动力
+socialization process - 社会化过程
+cognitive subject - 认知主体
+profound mental retardation - 深度智能不足
+anthropocentrism - 人类中心论
+up - 群体多层观察系统
+artificial lighting - 人工照明
+capacity - 容量
+anoxic - 缺氧的
+chafe - 惹怒
+daylighting - 日光照明
+trilinear decomposition - 三线分解
+longish - 稍长的
+human - 人
+sexual dimorphism - 性二形态
+amend - 修正
+PHR - 学分学时比率
+preschool - 学前的
+mask - 掩蔽
+liquid crystal display - 液晶显示
+pivoting - 旋转
+nihilism - 虚无主义
+selective perception - 选择性知觉
+learning capacity - 学习能力
+blood relation - 血统关系
+seminar - 研讨班
+attention deficit disorder - 注意缺失紊乱
+transport - 转移
+autogenous - 自生的
+organizational structure - 组织结构
+cast back - 追溯
+narcissist - 自恋者
+despotic - 专横的
+resource - 资源
+protagonist - 主角演员
+automatic reaction - 自动反应
+ethnic identity - 种族认同
+heed - 注意
+specialism - 专门化
+mesolimbic - 中脑缘的
+reappraisal - 重新评价
+spontaneous reaction - 自发反应
+axon model - 轴突模型
+key data - 主要数据
+regard - 注意
+adapter - 转接器
+natural beauty - 自然美
+intraclass correlation - 组内相关
+displacement - 转移
+hoarding behavior - 贮藏行为
+perfectionism - 至善论
+middle aged - 中年
+subjective - 主观的
+state - 状态
+natural regeneration - 自然更新
+arbitrator - 仲裁人
+nesting - 筑巢
+neutrality - 中性
+column - 柱状体
+natural - 自然的
+automatic speech - 自动口语
+etat - 状况
+footprint - 足迹
+dominant culture - 主文化
+attribute - 属性
+advertent - 注意的
+alphabetic characters - 字母数字符
+histocompatibility - 组织适合性
+absorption - 专注
+professional training - 专业训练
+theme - 主题
+psychedelic - 致幻的
+attire - 装饰
+CEM - 中心兴奋机制
+high school - 中学
+commutator - 转换器
+ascription - 赋属
+rearing - 抚养
+epiphenomenon - 副现象
+conceptual analysis - 概念分析
+sensory memory - 感觉性记忆
+abnormal distribution - 非正态分布
+fit - 发作
+anticultural - 反文化的
+defensiveness - 防御性
+asexual - 非性的
+vocalization - 发音
+heuristic method - 启发法
+oddity - 奇特
+average density - 平均密度
+feminine - 女性的
+embryonic development - 胚胎发育
+athymia - 情感缺失
+equal education - 平等教育
+apathy - 情感淡漠
+slavery - 屈从
+progression - 前进
+omnipotence - 全知
+human operator - 人操作者
+incubation - 潜伏
+adolescent - 青少年
+pubescent - 青春期的
+corpus callosum - 胼胝体
+deafferentation - 去传入作用去传入作用
+ascertainment - 确定
+expectative - 期待的
+chouse - 欺骗
+prophase - 前期
+migration - 迁徙
+aggressiveness - 侵略性
+prefrontal - 前额
+undercurrent - 潜流
+clear - 清晰的
+pontic - 桥体
+universal theory - 普遍理论
+injure - 损伤
+reduced - 缩减的
+data logging - 数据记录
+random model - 随机模式
+ask after - 探问
+ownership - 所有权关系
+input signal - 输入信号
+fact - 事实
+physiological feature - 生理特征
+nerve gas - 神经毒气
+VA - 视敏度
+SN - 黑质
+optical character recognition - 光学字符识别
+nationality - 国籍
+collaboration - 合作
+optical instrument - 光学仪器
+national standard - 国家标准
+chemoreceptor - 化学感受器
+baggage - 过时的观念
+money - 货币
+ethical behavior - 合伦理的行为
+macroevolution - 宏观进化
+loop - 环
+myogenic - 肌原性的
+myalgia - 肌痛
+Hz - 赫兹
+wedlock - 婚姻
+function - 机能
+paramedic - 护理人员
+DNA - 合成酶
+red nucleus - 红核
+erythrocyte - 红血球
+luteinizing hormone - 黄体生长激素
+overstrain - 过度紧张
+hallucination - 幻觉
+blather - 胡说
+mutualist - 互惠共生生物
+copy - 广告用语
+partnership - 合作关系
+environmental factor - 环境因素
+extravagance - 过度
+nanometer - 毫微米
+regression analysis - 回归分析
+posterior probability - 后验概率
+fantasm - 幻影
+mainstreaming - 回归主流
+lethargic - 昏睡的
+disfunction - 机能失常
+basic logic - 基础逻辑
+blow - 呼吸急促
+luminous flux - 光通量
+orphanage - 孤儿院
+conjunction - 合取
+trajectory - 轨迹
+photometer - 光度计
+photochemical reaction - 光化学反应
+light intensity - 光强度
+locus - 轨迹
+RNP - 核糖核蛋白核糖核蛋白
+ribonucleotide - 核糖核苷酸
+overreaction - 过度反应
+satisfies - 满足因素
+bipolar disorder - 两极型异常
+divorcee - 离了婚的人
+sterilization - 绝育
+Latin square experiment - 拉丁方实验法
+rehabilitation center - 康复中心
+spatial configuration - 空间配制
+variation - 离中趋势
+thinkable - 可思考的
+availability - 可用性
+spatial memory - 空间记忆
+rational behavior - 理性行为
+recorder - 录音机
+attribution theory of leadership - 领导归因论
+ethical - 伦理的
+nomad - 流浪者
+insight - 领悟
+theoretical model - 理论模型
+logical analysis - 逻辑分析
+cybernetics - 控制论
+homologous - 类似的
+typology - 类型学
+mole - 克分子
+tongue - 口才
+military training - 军事训练
+lisp - 口齿不清
+convalescent - 康复期的
+stuttering - 口吃
+ideality - 理想
+oral fixation - 口欲滞留
+analogue - 类似物
+theory - 理论
+tie - 联接
+zealots - 狂热者
+digraph - 两字一音
+external world - 客观世界
+theoretical basis - 理论基础
+AS ratio - 联想感觉比
+change in value - 数值变化
+peristalsis - 生理蠕动
+actual number - 实际数
+debriefing - 事后解说
+befit - 适合
+PCL - 手掌传导水平
+ethology - 生态学
+gens - 氏族
+admit - 容许
+singularity - 奇异
+derivatives - 派生物
+frequency analysis - 频次分析
+hypnotism - 催眠术
+conformity - 从众
+cerebral cortex - 大脑皮质
+cerebral hemispheres - 大脑两半球
+interpersonal - 人际的
+colliculus - 丘
+dearth - 缺乏
+emotional health - 情绪健康
+air temperature - 气温
+fervency - 热情
+situation ethics - 情境伦理学
+impassive - 缺乏热情的
+aggregation - 群集
+youth - 青年
+juvenile - 青少年
+thirst - 求知
+depolarization - 去极化
+humankind - 人类
+hard training - 强化训练
+means - 手段
+empirical evidence - 实验证据
+retinal - 视网膜的
+bioenergetics - 生物能量学
+PSP - 突触后电位
+predictive - 推测性
+retired person - 退休人员
+extraneous light - 外部光线
+synchronicity - 同步性
+projection - 投射作用
+spindle - 梭
+substitute - 替代
+sense of hearing - 听觉
+knocker - 挑剔的人
+assimilate - 同化
+rabbit - 兔子
+surgery - 外科
+cow - 威胁
+solipsism - 唯我论
+androgyny - 双性性格
+age at death - 死亡年龄
+earshot - 听觉范围
+quiescence - 恬静
+gifted - 天才
+deduction - 推理
+algetic - 痛的
+bar chart - 条形图
+gradation - 梯变
+challenge - 挑战
+apparition - 突现视幻
+dissolution - 退化
+axoplasmic transport - 轴浆传送
+intrauterine device - 子宫内装置
+anagram - 字谜
+weight - 重量
+storage buffer - 贮存缓冲区
+searching - 仔细检查
+intelligent quotient - 智商
+ethnicity - 种族性
+perineural - 周围神经的
+active imagination - 主动想象力
+curative - 治愈的
+active principle - 主动原则
+specialist - 专家
+pursuit - 追踪
+therapeutic - 治疗的
+IA - 智力年龄
+action zone - 主动区
+professional ethics - 专业道德
+ultraviolet - 紫外线的
+expansiveness - 自高自大
+center - 中枢
+attest - 证实
+knowledge - 知识
+perceptibility - 知觉能力
+authoritarian - 专制的
+suppressant - 制止的
+heat shock - 中暑
+tempter - 诱惑者
+yoga - 瑜珈
+operational stage - 运思期
+farsightedness - 远视
+vibratile - 振动的
+increment - 增加
+inductive effect - 诱导效应
+insensible - 意识不到的
+innuendo - 影射
+semantic category - 语义类别
+child rearing - 育儿
+cogitative - 有思考力的
+apprehension - 忧虑
+elementary analysis - 元素分析
+original - 原始的
+vehicle - 运载工具
+treasure - 珍惜
+sake - 缘故
+intentional - 有意识的
+linguistic competence - 语言能力
+alimentation - 营养法
+aspirational - 有抱负的
+exobiology - 宇宙生物学
+mediate - 传递
+creative thinking - 创造性思考
+treat - 处理
+magnetic susceptibility - 磁性感受性
+wrong answer - 错误答案
+creative ability - 创造能力
+big cheese - 粗鲁男子
+subsistence - 存在
+misperception - 错误知觉
+toilet training - 大小便训练
+appetizing - 促进食欲的
+packing - 存储
+geographical environment - 地理环境
+GCA - 地面控制进场
+point spread function - 点扩散函数
+potential difference - 电位差
+variator - 调音器
+collide - 冲突
+sampling procedure - 抽样程序
+emetics - 催吐剂
+cerebral palsy - 大脑麻痹
+tenderness - 触痛
+cerebral - 大脑的
+reversion - 倒转
+brightness - 聪明程度
+phone - 单音
+conformity - 从众性
+luridine - 胆碱
+cult - 崇拜
+perforator - 穿孔器
+PIF - 催乳激素抑制因子
+size - 大小
+morpheme - 词素
+advancement - 促进
+hardihood - 大胆
+secondary prevention - 次级预防
+hemisphere - 大脑半球
+benignity - 慈祥
+dull - 迟钝的
+monotony - 单音
+stimulating factor - 刺激因素
+birth process - 出生过程
+conductivity - 传导性
+invention - 创造力
+impulse buying - 冲动购买
+fertility - 出生率
+lips - 唇
+error analysis - 错误分析
+primary stage - 初级阶段
+creative expression - 创造性表达
+affectivity - 情感性
+ascending - 上行的
+caste - 社会等级
+delitescence - 潜伏状态
+Cognitive Science - 认知科学
+glossal - 舌的
+social role - 社会角色
+commotion - 骚动
+homicidal - 杀人的
+kindness - 仁慈
+anoxia - 缺氧症
+power spectrum - 权力范围
+footpath - 人行道
+ebullient - 热情奔放的
+personalism - 人本主义
+volume - 容量
+RCBF - 区域性脑血流
+definite - 确定的
+blaspheme - 辱骂
+hypomania - 轻躁狂
+diffidence - 缺乏自信
+manpower - 人力
+deletion - 缺失
+group psychology - 群体心理学
+preference - 爱好
+safety analysis - 安全分析
+safety engineering - 安全工程
+vigilance - 警觉
+Down's syndrome - 唐氏综合征
+surface color - 表面色
+deprivation - 剥夺
+retention - 保持
+counseling - [心理]咨询
+t distribution - t 分布
+t test - t 检验
+operant conditioning - 操作性条件作用
+achievement motivation - 成就动机
+peak experience - 顶峰体验
+frustration - 挫折
+binocular diplopia - 双眼复视
+view of the world - 世界观
+experimental treatment - 实验处理
+carry back - 使回想起
+schematic diagram - 示意图
+visual language - 视觉语言
+experimental method - 实验法
+lethargy - 嗜睡症
+apprehension - 识别
+laboratory experiment - 实验室实验
+double standard - 双重标准
+visual purple - 视紫
+involution - 衰退
+search model - 搜索模型
+lateral thinking - 水平思维
+keck - 讨厌
+pineal gland - 松果腺
+exhaustion - 衰竭
+bivariate - 双变量的
+lynching - 私刑
+algorism - 算法论
+social cohesion - 社会凝聚力
+refractoriness - 失效
+testosterone - 睾丸素
+babbling - 咿呀语
+cooing - 喔啊声
+puromycin - 嘌呤霉素
+ego - 自我
+level indicator - 水平仪
+relaxation - 松弛
+ceptor - 受体
+probation - 试读
+data form - 数据编目
+block sample - 区域样本
+antecedent - 前因
+disdain - 轻视
+population density - 人口密度
+toneless - 缺乏声调的
+balance theory - 平衡论
+condemnation - 谴责
+salad days - 青春少年之时
+match - 匹配
+skewness - 偏态
+assess - 评估
+PCS - 前意识
+affective - 情感的
+expect - 期待
+unconscious - 潜意识
+surd - 清音
+courtship display - 求爱表示
+discriminate - 区别
+unconsciousness - 潜意识
+explicit - 清晰的
+differentiate - 区分
+evaluation function - 评定函数
+initiation factor - 起始因素
+anterior horn - 前角
+latency - 潜伏状态
+adolescence - 青年期
+human information processing - 人类信息加工
+ablation - 切除
+castration - 阉割
+vascular dementia - 血管性痴呆
+correction - 校正数
+validity - 效度
+imagery thinking - 形象思维
+belief - 信念
+information overload - 信息超负荷
+consumer behavior - 消费者行为
+mental imagery - 心象
+reliability - 信度
+signal lights - 信号灯
+correlation - 相关
+field research - 现场研究
+temperature effect - 温度效应
+age score - 年龄分数
+equilibrium theory - 平衡论
+anterior chamber - 前房
+chromatin - 染色质
+foundling - 弃儿
+brand loyalty - 品牌忠实度
+tempus - 颞部
+assortment - 配列
+misspell - 拼错
+expectancy - 期待
+tang - 浓烈的气味
+moron - 轻度低能
+morality - 品德
+discriminate against - 歧视
+reprove - 谴责
+parental - 亲本的
+crowding effect - 群集效应
+affective tone - 情调
+thalamic nuclei - 丘脑核
+origin - 起源
+paresis - 轻瘫
+subfornical organ - 穹窿下器官
+forehead - 前额
+humanitarian - 人道主义者
+eunuch - 去睾者
+ascertain - 确定
+vital energy - 生命力
+physiological characteristics - 生理特点
+fecund - 生殖力旺盛的
+biokinetics - 生物运动学
+physiological - 生理的
+sound field - 声场
+experimental morphology - 实验形态学
+experimentalism - 实验主义
+timeliness - 时间性
+aesthetic concepts - 审美概念
+dominant hand - 优势手
+disconsolate - 忧郁的
+archetype - 原型
+incubation - 酝酿
+hyperkinetic - 运动过度的
+flavorful - 有香味的
+tactics - 战术
+VF - 语言震颤
+primitive belief - 原始信仰
+conative - 意动的
+stressor - 应激源
+fluorescent staining - 荧光染色法
+directed graph - 有向图
+hyperopia - 远视
+columnar - 圆柱的
+foregone - 预知的
+bound energy - 约束能量
+menses - 月经
+cacotrophia - 营养不良
+irresolution - 犹豫不决的
+valuable - 有价值的
+halation - 晕光作用
+induction - 诱导
+predictive value - 预测值
+overcrowd - 拥挤
+phonics - 语音学
+early learning - 早期学习
+melancholic - 忧郁症的
+spaceman - 宇航员
+praise - 赞美
+desire - 欲望
+latah - 谵妄症
+ritual behavior - 仪式行为
+conscious process - 意识历程
+odorous - 有气味的
+derivation - 引生
+sentence structure - 语句结构
+application software - 应用软件
+accessibility - 易接近
+omnipotent - 有无限能力的
+intensity of illumination - 照明强度
+justifiable - 有理由的
+intonation - 语调
+maniac - 噪狂者
+distal - 远的
+enticement - 诱惑物
+commotio - 震荡
+convulsive - 震动的
+prototype - 原型
+subdural hematoma - 硬脑膜下血肿
+orthography - 缀字法
+ensemble - 总体
+mass - 质量
+tracing - 追踪
+demonic character - 着魔性格着魔性格
+autism - 自闭症
+subjective spirit - 主观精神
+legibility - 字迹清晰性
+automatic regulation - 自动调节
+successive approximation - 逐次趋近
+alphanumeric - 字母数字的
+integrated case study - 综合案例研究
+transfer effect - 转移效果
+natural tendency - 自然趋势
+identity formation - 自认形成
+totality - 总体
+maximum likelihood estimation - 最大相似估计法
+automated management - 自动化管理
+MAP - 最低听压
+balance of nature - 自然平衡
+axis - 轴
+subclass - 子类
+miscegenation - 种族间婚配
+automaton - 自动装置
+ADD - 注意缺失紊乱
+pyramid - 锥体
+periodic - 周期的
+CP - 烛光
+subsystem - 子系统
+automatization - 自动化
+footloose - 自由自在的
+complacency - 自满
+chief complaint - 主诉
+purple - 紫
+natural agent - 自然力
+major trend - 主要趋势
+autistic child - 自闭儿
+organizing - 组织
+autonomy - 自主性
+gesture - 姿态
+chunking - 组块
+habilitation - 资格
+reading - 阅读
+motion analysis - 运动分析
+primitive thinking - 原始思维
+aphemia - 运动性失语症
+realness - 真实性
+operation method - 运算法
+incumbency - 责任
+aggregate - 整合
+represent - 描述
+analogue - 模拟
+essay test - 论文测验
+numb - 麻木的
+media mix - 媒介组合
+ethical conduct - 伦理行为
+critical temperature - 临界温度
+pulse rate - 脉膊率
+vagus nerve - 迷走神经
+media - 媒介
+aesthetician - 美学家
+code - 码
+encounter - 面对
+unobserved - 没观察到的
+compunction - 内疚
+nominal - 名义的
+satisfaction - 满足
+blind - 盲点
+obscurant - 蒙昧主义者
+actor - 男演员
+encephalography - 脑照相术
+macroscopical - 目视的
+male - 男性
+ity - 内外之合说
+eliminate - 排除
+arcanum - 秘密
+definitude - 明确
+luminance difference - 亮度差异
+adventure - 冒险
+nightmare - 梦魇
+ethical concept - 伦理概念
+arguer - 论证者
+logical term - 逻辑术语
+unfelt - 没被感觉到的
+rps - 每秒转数每秒转数
+psychedelic drug - 迷幻剂
+acuity - 敏度
+internal - 内在的
+analogue method - 模拟法
+beat generation - 美国“垮了的一代”
+wandering - 流浪不归
+cryptography - 密码术
+dopey - 麻醉状态的
+propositional logic - 命题逻辑
+daze - 迷乱
+connection - 联结
+proximal - 邻近的
+linkage - 联系
+audiotape - 录音磁带
+wanderlust - 漫游癖
+intuitive thinking - 直觉思维
+holistic health - 整体健康
+holism - 整体论
+agonistic behavior - 争胜行为
+meaning - 意义
+exercise addiction - 运动成瘾
+dependency - 依赖性
+attachment - 依恋
+genotype - 遗传型
+reading test - 阅读测验
+psychology of reading - 阅读心理学
+law of learning - 学习律
+color matching - 颜色匹配
+color vision - 颜色视觉
+masking - 掩蔽
+beat - 音拍
+metacognition - 元认知
+primary color - 原色
+perceptual organization - 知觉组织
+illuminance - 照度
+physiological resistance - 生理抗性
+visual deprivation - 视剥夺
+object teaching - 实物教学
+social sciences - 社会科学
+bioreactor - 生物反应器
+jet lag - 时差
+growth hormone - 生长激素
+nerve block - 神经阻断
+market demand - 市场需求
+market economy - 市场经济
+acclimatization - 适应过程
+practical situation - 实际情况
+squeamish - 神经质
+deaden - 使失去知觉
+ALT - 适应水平论
+social learning - 社会学习
+forward masking - 前向掩蔽
+latency - 潜伏期
+repression - 潜抑
+interpersonal communication - 人际沟通
+persona - 人格面具
+personality test - 人格测验
+theory of personality - 人格理论
+frequency index - 频率指数
+convergence - 辐合
+interference theory - 干扰理论
+act - 动作
+divided attention - 分配性注意
+hypophysis - 垂体
+discrimination - 分辨
+spacer - 隔离物
+delinquency - 非行
+goodness of fit - 符合度
+radiation therapy - 放射疗法
+partition - 分段
+decentralization - 分权化
+style - 风格
+altitude - 高度
+partial tone - 分音
+defense mechanism - 防御机制防卫机制
+cockpit - 飞机座舱
+light sensitivity - 感光性
+differential - 分化
+group data - 分类资料
+schizophreniform psychosis - 分裂样精神病
+service man - 服务员
+immaterial - 非物质的
+birth - 分娩
+magnitude - 幅度
+decibel - 分贝
+allocate - 分配
+manner - 风度
+couple therapy - 夫妇心理治疗
+personal communication - 个人沟通
+perceptible - 感觉得到的
+risk - 风险
+reflex - 反射
+apagoge - 反证法
+reactor - 反应者
+dissociative - 分裂的
+disturbed children - 失调儿童失调儿童
+decimal - 十进制
+social activity - 社会行动
+deep - 深的
+nervus - 神经
+biotype - 生物类型
+mode of life - 生活方式
+inactivation - 失活
+experimental - 实验的
+cogitation - 深思
+insurmountable - 不可克服的
+goniometer - 测角器
+test difficulty - 测验难度
+test paper - 测验试卷
+debugging - 程序调整
+fell - 残暴的
+changeless - 不变的
+invariant - 不变的
+unaccented - 不重读的
+TOTE - 测验操作反射弧
+product planning - 产品计划
+overtime - 超时
+castigate - 惩罚
+success - 成功
+traumatic experiences - 创伤经验
+ISI - 刺激间距刺激间距
+unrefined - 粗俗的
+aphrodisiac - 刺激性欲的
+surrogate mother - 代理母亲
+paranormal - 超常的
+unskillful - 不熟练的
+OTU - 操作分类单位
+dementia - 痴呆
+strategy - 策略
+obsolete - 不明显的
+test reliability - 测验信度
+field - 场
+discrete - 不连续的
+amok - 残暴性狂症
+lateral ventricle - 侧脑室
+initial evaluation - 初始评价
+smart student - 聪明学生
+lamina - 层状体
+incipient - 初始的
+sampling method - 抽样法
+catalysis - 催化作用
+lexical - 词汇
+differential growth - 差别成长差别成长
+abstract thought - 抽象思考
+indetermination - 不确定
+unequal - 不等的
+obstetrics - 产科学
+mammalogy - 哺乳动物学
+untrustworthy - 不可靠的
+unpleasantness - 不愉快
+overload - 超负荷
+measurement - 测量
+overage - 超龄
+sampling plan - 抽样计划
+material - 材料
+uncomely - 丑陋的
+order statistics - 次序统计
+diversity - 差异性
+urban poor - 城市贫民
+CRF - 促皮质素释放因子
+battery of tests - 成套测验
+product - 产品
+telepathy - 传心术
+successful managers - 成功的管理者
+beastly - 残忍的
+values - 价值观念
+reward - 奖赏
+SNS - 交感神经系统
+conjunct - 结合
+practice teaching - 教学实习
+time out - 间歇
+acceleration - 加速
+shrinkage - 减缩
+tenacity - 坚持
+corrective - 矫正的
+class - 阶级
+class contradiction - 阶级矛盾
+astonishment - 惊奇
+focal distance - 焦距
+converge - 集中
+technical term - 技术名词
+interrupt - 间断
+collective consciousness - 集体意识
+tackle - 解决
+scene - 景象
+solve - 解决
+finality - 结局
+conciseness - 简约
+piecework - 计件工作
+anxious expectation - 焦躁的期待
+propose - 建议
+concise - 简明的
+tendon reflex - 腱反射
+phase analysis - 阶段分析
+indirect - 间接
+firmness - 坚度
+shearing force - 剪力
+paraplegia - 截瘫
+hormone receptor - 激素受体
+asymptotic normality - 渐近常态
+bonus system - 奖金制度
+assumption - 假设
+interactive - 交互作用的
+enjoin - 禁止
+schizophrenic depression - 精神分裂性抑郁症
+urgency - 紧急
+fasting - 禁食
+texture - 结构
+ascetic - 禁欲主义的
+inflammation - 激动
+tally - 计数
+monitor - 监视器
+withdrawal syndrome - 戒断综合症
+evolutionary - 进化
+taboo - 戒律
+ribonucleic acid - 核糖核酸
+myodynia - 肌痛
+collaborate - 合作
+arousal - 唤起
+mechanism - 机制
+concord - 和谐
+rote memorization - 机械背诵
+basic research - 基本研究
+grassroots - 基础
+bellow - 吼叫
+anabiosis - 回生
+echo - 回波
+macrostructure - 宏观结构
+fantastic play - 幻想游戏
+fellow - 伙伴
+foundation - 基金
+wit - 机智
+value analysis - 价值分析
+note - 记录
+transition point - 过渡点
+antic - 滑稽动作
+turmoil - 混乱
+goggles - 护目镜
+glider - 滑翔
+need for affiliation - 归属需要
+functional structure - 机能结构
+cold environment - 寒冷环境
+blackout - 黑视
+myoclonus - 肌阵挛
+chimera - 幻想
+trance - 昏迷
+allergic reaction - 过敏性反应
+instauration - 恢复
+confusion - 混乱
+chaos - 混乱
+mechanistic approach - 机械观
+bagged - 喝醉的
+logic - 逻辑
+injunction - 命令
+miss - 漏失
+jury - 临时的
+null - 零
+fallacy - 谬误
+perplexity - 迷惘状态
+opinion polling - 民意调查
+law of contradiction - 矛盾律
+internal representation - 内在表征
+inner ear - 内耳
+CSF - 脑脊液
+anaesthesia - 麻木
+prostration - 衰竭
+releaser - 释放体
+zygote - 受精卵
+write - 书写
+assure - 使确信
+test pilot - 试飞员
+gather data - 收集数据
+social events - 社会事件
+feeding behavior - 摄食行为
+social system - 社会制度
+physical control - 身体控制
+social interference - 社会干扰
+social stratification - 社会阶层化
+ecological distribution - 生态分布
+neuroleptics - 神经松弛剂
+adrenal cortex - 肾上腺皮质
+livelihood - 生活
+life goal - 生活目标
+refer - 涉及
+syndrome - 综合征
+population - 总体
+degree of freedom - 自由度
+chunk - 组块
+organizational change - 组织变革
+grammar - 语法
+autonomic learning - 自主学习
+dependent variable - 因变量
+factor analysis - 因素分析
+context - 语境
+reproduction - 再现
+mental retardation - 智力落后
+engram - 印迹
+recognition - 再认
+intuition - 直觉
+intuitive thinking - 直觉思维
+holistic health - 整体健康
+holism - 整体论
+agonistic behavior - 争胜行为
+meaning - 意义
+exercise addiction - 运动成瘾
+dependency - 依赖性
+attachment - 依恋
+genotype - 遗传型
+reading test - 阅读测验
+psychology of reading - 阅读心理学
+law of learning - 学习律
+color matching - 颜色匹配
+color vision - 颜色视觉
+masking - 掩蔽
+beat - 音拍
+debility - 衰弱
+flag - 衰退
+malacia - 嗜调味品癖
+biotics - 生命学
+chromophore - 生色基团
+sonication - 声处理
+audience rating - 视听率
+handwheel - 手轮
+vagrancy - 思想游移不定
+aquatic environment - 水生环境
+practical activity - 实践活动
+lived experience - 生活体验
+tantrum - 脾气发作
+youth culture - 青年文化
+clarity - 清晰
+vividness - 清晰
+marking system - 评分系统
+review - 评论
+PEG - 气脑造影术
+relational - 亲属的
+incubation period - 潜伏期
+evaluation theory - 评价理论
+potentiality - 潜能
+forced oscillation - 强迫振荡
+corticosteroid - 皮质类甾醇
+communis - 普通的
+expectant - 期望的
+aplasia - 器官发育不全
+forcing - 强迫
+character development - 品格发展
+bluff - 欺骗
+abscission - 切除
+bamboozle - 欺骗
+frequency analyzer - 频次分析器
+ability development - 能力发展!能力发展
+parallelism - 平行论
+embryology - 胚胎学
+deviate - 偏离
+brand image - 品牌意象
+deceive - 欺骗
+rebelliousness - 判逆性
+marking - 评分
+latent defect - 潜在缺点
+compulsive - 强迫性的
+censorship - 潜意识稽查
+invasiveness - 侵入力
+will to power - 求权意志
+thirst for knowledge - 求知欲
+mosaic - 拼成的
+underprivileged children - 贫困儿童
+audiometry - 测听术
+error of measurement - 测量误差
+test data - 测验数据
+program - 程序
+tentacle - 触毛
+creative self - 创造性自我
+twinge - 刺痛
+trial - 尝试
+biographer - 传记作者
+convention - 传统
+reefer - 大麻烟卷
+derivation process - 导出法
+sampling investigation - 抽样调查
+monoamine oxidase - 单胺氧化酶
+traditional approach - 传统取向
+centrifugal - 传出的
+long - 长的
+commitment - 承诺
+traditional method - 传统方法
+hemp - 大麻
+anagram - 拚字图
+unsymmetrical - 不对称的
+performance goal - 操作性目标
+unpopular - 不受欢迎的
+inaction - 不活跃
+prenatal diagnosis - 产前检查
+superorganic - 超机体的
+instinct - 本能
+catching - 捕捉
+discrimination - 辨别
+cousin - 表亲
+garbage - 不准确数据
+malpractice - 不法行为
+taunt - 嘲笑
+achievement drive - 成就驱力
+operon - 操纵子
+variation analysis - 差异分析
+remedial - 补习的
+discrepancy - 不符合
+groovy - 常规的
+working place - 操作空间
+boundary zone - 边缘带
+cover story - 表面理由
+incurable - 不能治愈的
+property - 财产
+longevity - 长寿
+ultrasound - 超声
+irremediable - 不可医治的
+wave pattern - 波型
+dissonance - 不协调
+immediate - 即时的
+cod - 哄骗
+SN - 黑质
+optical character recognition - 光学字符识别
+nationality - 国籍
+collaboration - 合作
+optical instrument - 光学仪器
+national standard - 国家标准
+chemoreceptor - 化学感受器
+baggage - 过时的观念
+money - 货币
+ethical behavior - 合伦理的行为
+macroevolution - 宏观进化
+loop - 环
+myogenic - 肌原性的
+myalgia - 肌痛
+Hz - 赫兹
+wedlock - 婚姻
+function - 机能
+paramedic - 护理人员
+DNA - 合成酶
+red nucleus - 红核
+erythrocyte - 红血球
+luteinizing hormone - 黄体生长激素
+overstrain - 过度紧张
+hallucination - 幻觉
+blather - 胡说
+mutualist - 互惠共生生物
+copy - 广告用语
+partnership - 合作关系
+environmental factor - 环境因素
+extravagance - 过度
+nanometer - 毫微米
+regression analysis - 回归分析
+posterior probability - 后验概率
+fantasm - 幻影
+mainstreaming - 回归主流
+lethargic - 昏睡的
+disfunction - 机能失常
+basic logic - 基础逻辑
+blow - 呼吸急促
+luminous flux - 光通量
+orphanage - 孤儿院
+conjunction - 合取
+trajectory - 轨迹
+photometer - 光度计
+photochemical reaction - 光化学反应
+light intensity - 光强度
+locus - 轨迹
+RNP - 核糖核蛋白核糖核蛋白
+concise - 简明的
+tendon reflex - 腱反射
+phase analysis - 阶段分析
+indirect - 间接
+firmness - 坚度
+shearing force - 剪力
+paraplegia - 截瘫
+hormone receptor - 激素受体
+asymptotic normality - 渐近常态
+bonus system - 奖金制度
+assumption - 假设
+interactive - 交互作用的
+enjoin - 禁止
+schizophrenic depression - 精神分裂性抑郁症
+urgency - 紧急
+fasting - 禁食
+texture - 结构
+ascetic - 禁欲主义的
+inflammation - 激动
+tally - 计数
+monitor - 监视器
+withdrawal syndrome - 戒断综合症
+evolutionary - 进化
+taboo - 戒律
+make believe - 假装
+aberrant - 畸变
+enumerate - 计算
+value system - 价值体系
+epigenesis - 渐成律
+concentrate - 集中
+value standard - 价值标准
+computer operator - 计算机操作员
+simple structure - 简单结构
+assume - 假定
+forbidden band - 禁带
+admittance - 接纳
+psychiatrist - 精神病学家
+empirical method - 经验法
+scale of operation - 经营规模
+architecture - 建筑
+pressor - 加压的
+bottom - 基础
+terminal - 极限的
+myelopathy - 脊髓病
+notation - 记号
+genealogy - 家系
+monitoring - 监视
+psychoanalyst - 精神分析学家
+calculation chart - 计算图
+robustness - 坚稳性
+characteristic value - 特征值
+CR - 条件反应
+path - 通路
+medical examination - 体格检查
+fetal membrane - 胎膜
+ageing - 衰老
+negotiation - 谈判
+specific expression - 特有表达式
+bilingualism - 双语制
+explore - 探索
+auditory cortex - 听觉皮层
+homology - 同源性
+random selection - 随机选择
+listen - 听
+stochastic - 随机的
+chart - 图表
+group attack - 团体攻击
+gift - 天资
+group process - 团体历程
+conditioning - 条件作用
+deoxyribonucleic acid - 脱氧核糖核酸
+physical examination - 体检
+dizzy - 头晕目眩
+statistical inference - 统计推理
+referent - 所指对象
+talker - 谈话者
+insult - 损害
+award - 授予
+peptide - 肽
+horizontal vibration - 水平振动
+death wish - 死亡意愿
+fetal electrocardiogram - 胎儿心电图
+discussion - 讨论
+stroboscopic - 速闪的
+candor - 坦率
+channel - 通道
+synchronizer - 同时发生器
+stochastic process - 随机过程
+random order - 随机顺序
+caption - 题目
+carp - 挑剔
+team building - 团队建设
+leapfrog - 跳背游戏
+handicraft - 手工艺
+shaping - 塑造
+sour - 酸
+comfort - 舒适
+pineal body - 松果体
+analysis of data - 数据分析
+double - 双重的
+taciturn - 沉默寡言的
+twitch - 颤搐
+extrasensory - 超感觉的
+disincentive - 不利诱因
+differential response - 差别反应差别反应
+tic - 抽搐
+component - 成分
+conflict process - 冲突过程
+traditional belief - 传统的信仰
+telekinesis - 传心运动
+try - 尝试
+retardation - 迟钝
+abstraction - 抽象作用
+certainty - 必然性
+coded method - 编码方法
+adopt - 采用
+inadequate - 不适当的
+unforgiving - 不原谅人的
+dishonesty - 不诚实
+operating mechanism - 操作机构
+impulsion - 冲动
+irrespective - 不顾的
+erratic - 不稳定的
+misconduct - 不良行为
+unassailable - 不容置疑的
+Zen Buddhism - 禅宗佛教
+normal behavior - 常态行为
+tremolo - 颤音
+abstract reasoning - 抽象推理
+confess - 承认
+menu - 菜单
+seizure - 抽搐
+perceive - 察觉
+order - 次序
+chasten - 惩戒
+open mouthed - 吃惊的
+worship - 崇拜
+parametric model - 参数模式
+bagatelle - 不重要的东西
+asymmetric - 不对称的
+unbeliever - 不轻信的人
+difference - 差异
+performance characteristic - 操作特征
+disparity - 差异
+insecurity - 不安全感
+crest - 波峰
+erection - 勃起
+manipulation - 操作
+bona fides - 诚意
+impulsiveness - 冲动性
+chunk - 组块
+organizational change - 组织变革
+grammar - 语法
+autonomic learning - 自主学习
+dependent variable - 因变量
+factor analysis - 因素分析
+context - 语境
+reproduction - 再现
+mental retardation - 智力落后
+engram - 印迹
+recognition - 再认
+intuition - 直觉
+intuitive thinking - 直觉思维
+holistic health - 整体健康
+holism - 整体论
+agonistic behavior - 争胜行为
+meaning - 意义
+exercise addiction - 运动成瘾
+dependency - 依赖性
+attachment - 依恋
+genotype - 遗传型
+reading test - 阅读测验
+psychology of reading - 阅读心理学
+law of learning - 学习律
+color matching - 颜色匹配
+color vision - 颜色视觉
+masking - 掩蔽
+beat - 音拍
+metacognition - 元认知
+primary color - 原色
+perceptual organization - 知觉组织
+illuminance - 照度
+physiological resistance - 生理抗性
+visual deprivation - 视剥夺
+object teaching - 实物教学
+social sciences - 社会科学
+bioreactor - 生物反应器
+jet lag - 时差
+growth hormone - 生长激素
+nerve block - 神经阻断
+market demand - 市场需求
+market economy - 市场经济
+acclimatization - 适应过程
+practical situation - 实际情况
+squeamish - 神经质
+sense of trust - 信任感
+sexist - 性别优越感者
+scholarship - 学识
+behavioral theory - 行为理论
+impotence - 性无能
+appraise - 评价
+cephalitis - 脑炎
+alarm clock - 闹钟
+strange situation - 陌生情境法
+introversion - 内向性
+parallel - 平行的
+vesica - 泡
+cortical areas - 皮质区
+recruitment - 募集
+splanchnic - 内脏的
+adversity - 逆境
+inaccessible - 难接近的
+age scale - 年龄量表
+age migration - 年龄侵移
+SCR - 皮肤传导反射
+membrane permeability - 膜透性
+fitting - 拟合
+pattern analysis - 模式分析
+unbelievable - 难以相信的
+grandmother - 溺爱
+sadism - 虐待症
+crabby - 脾气坏的
+MES - 内侧前脑束
+junior - 年少的
+freezing - 凝固
+agency - 能量
+fatigue effect - 疲劳效应
+age composition - 年龄构成
+odor - 气味
+brain wave - 脑波
+hobby - 癖好
+management by objectives - 目标管理
+unforgettable - 难忘的
+womanhood - 女子成年期
+delineate - 描绘
+mimetic - 模仿的
+exclusion - 排除
+cocker - 溺爱
+cortisol - 皮质醇
+EDR - 皮肤电反应
+maleness - 男性
+looming - 庞视
+y - 旁观治疗法
+distributor - 配置器
+bisection - 平分
+front - 前面
+bigotry - 偏执
+brand - 品牌
+vandalism - 破坏行为
+skinny - 皮肤的
+compensation - 补偿
+inadaptable - 不能适应的
+colorimeter - 比色计
+random noise - 不规则噪声
+scale of operation - 操作规模
+birth rate - 出生率
+omniscient - 博识的
+addiction - 成瘾
+lateral column - 侧柱
+assay - 测定
+arrangement - 安排
+placement - 安置
+asb - 阿普熙提
+visual aid - 视觉教具
+due - 适当的
+proficiency test - 熟练测验
+noumenon - 实体
+will to live - 生活意志
+oosperm - 受精卵
+life sciences - 生命科学
+life line - 生命线
+identification - 识别
+sonogram - 声波图
+time domain - 时域
+biogeochemistry - 生物地球化学
+productivity - 生产力
+nerve growth factor - 神经原生长因子
+helplessness - 失助
+biological engineering - 生物工程学
+timing control - 时机控制
+trophic - 摄食的
+vital - 生机的
+biochemist - 生物化学家
+sound source - 声源
+social crisis - 社会危机
+biorhythm - 生物节律
+facilitation - 催化作用
+recognize - 承认
+unearthly - 超自然的
+perseverance - 持续性
+Boolean algebra - 布尔代数
+classical school - 传统学派
+catalyze - 催化
+jeer - 嘲笑
+impetus - 冲动
+preliminary analysis - 初步分析
+lateralization - 单侧化
+trigger - 触发
+estrogen - 雌激素
+tester - 测验者
+parallel - 平行的
+vesica - 泡
+cortical areas - 皮质区
+recruitment - 募集
+splanchnic - 内脏的
+adversity - 逆境
+inaccessible - 难接近的
+age scale - 年龄量表
+age migration - 年龄侵移
+SCR - 皮肤传导反射
+membrane permeability - 膜透性
+fitting - 拟合
+pattern analysis - 模式分析
+unbelievable - 难以相信的
+grandmother - 溺爱
+sadism - 虐待症
+crabby - 脾气坏的
+MES - 内侧前脑束
+junior - 年少的
+freezing - 凝固
+agency - 能量
+fatigue effect - 疲劳效应
+age composition - 年龄构成
+odor - 气味
+brain wave - 脑波
+hobby - 癖好
+management by objectives - 目标管理
+unforgettable - 难忘的
+womanhood - 女子成年期
+delineate - 描绘
+mimetic - 模仿的
+exclusion - 排除
+cocker - 溺爱
+cortisol - 皮质醇
+EDR - 皮肤电反应
+maleness - 男性
+looming - 庞视
+y - 旁观治疗法
+distributor - 配置器
+bisection - 平分
+front - 前面
+bigotry - 偏执
+brand - 品牌
+vandalism - 破坏行为
+skinny - 皮肤的
+compression of brain - 脑受压
+disorientation - 迷向
+CBT - 能力本位训练
+SIT - 敏感试验
+idolum - 谬论
+cognitive learning - 认知学习
+juvenile delinquency - 少年犯罪
+spherical aberration - 球面象差
+yaw - 偏航
+intensification - 强化
+disparage - 轻视
+credulity - 轻信
+potentiation - 强化
+prostaglandin - 前列腺素
+temperament - 气质
+flexor muscle - 屈肌
+mob - 群氓
+authoritarian - 权力主义的
+bloom - 闪耀
+arbitrariness - 任意性
+groupment - 群体性
+definitely - 确定的
+curvilinear - 曲线的
+extirpation - 切除
+condition - 情况
+emotionalism - 情绪论
+upper bound - 上限
+establishment - 确立
+weak interaction - 弱相互作用
+concession - 让步
+human ability - 人的能力
+personnel - 人事
+AI - 人工智能
+human organism - 人类有机体
+affective communication - 情感传达
+kin group - 亲属团体
+anthropogeny - 人类起源
+early adolescence - 青年早期
+potential demand - 潜在需要
+omnipotent - 全能的
+hot line - 热线
+humanistic psychology - 人本主义心理学
+human-computer interaction - 人机交互作用
+visual organ - 视觉器官
+alkaloid - 生物碱
+stereoacuity - 实体视敏度
+anachronism - 时代错乱
+deafness - 失聪
+groan - 呻吟
+nerve deafness - 神经性耳聋
+interrogator - 审讯者
+biogenesis - 生源说
+fugue - 神游症
+akinesis - 失动症
+quality of life - 生活质量
+limes - 限量
+admiration - 羡慕
+cytology - 细胞学
+ECG - 心电图
+careful - 小心的
+isomorphism - 心物同形论
+relativity - 相对作用
+mental level - 心理水平
+MA - 心理年龄
+disposition - 性情
+envious - 羡慕的
+sales management - 销售管理
+connate - 先天的
+phase variation - 相变异
+psychological education - 心理教育
+sales potential - 销售潜力
+signal light - 信号灯
+covariation - 协变
+gender identity disorder - 性别认定障碍
+morpha - 形态
+demean - 行为
+A - 型性格
+gender identity - 性别认定
+smooth test - 修匀检验
+interest group - 兴趣团体
+cardiogram - 心动图
+heart rate - 心律
+leakage - 泄漏
+informatics - 信息学
+project management - 项目管理
+correlation method - 相关法
+sell - 销售
+psychotherapist - 心理治疗员
+psychokinesis - 心灵致动
+information source - 信息源
+relativism - 相对主义
+information science - 信息科学
+quantity of information - 信息量
+aberration - 像差
+information gap - 信息差距
+truck - 信息通路
+credit - 信誉
+appreciation - 欣赏
+negative equilibrium - 消极平衡
+cooperate - 协作
+additive model - 相加模型
+fragrant - 香气
+arteriolosclerosis - 小动脉硬化
+balsam - 香油
+mental hygiene - 心理卫生
+forceless - 无力的
+unsystematic - 无系统性
+line - 线
+relative humidity - 相对湿度
+validation study - 效度研究
+revery - 遐思
+confinement - 限制
+MLS - 微语言系统
+unambitious - 无抱负的
+extrinsic - 外加的
+awe - 畏惧
+temperature sense - 温觉
+culture base - 文化基础
+rationalization - 文饰作用
+hippie movement - 嬉皮运动
+carpal - 腕关节的
+mongoloid - 先天愚型样的
+literature - 文献
+irregularity - 误差
+isthmus - 峡
+flagging - 萎靡不振的
+safety reliability - 系统可靠性
+angusty - 狭窄
+displays - 显示器
+correlate - 相关
+mental examination - 心理测验
+law of diminishing returns - 效果递减法则
+proofreading - 校对
+Siamese twins - 暹罗双胎
+questionnaire - 问卷
+unfeeling - 无情的
+cell death - 细胞坏死
+striate cortex - 纹状皮质
+cheeky - 无耻的
+error estimation - 误差估计
+system structure - 系统结构
+phenomenology - 现象学
+linear equation - 线性方程
+organized play - 组织性游戏
+indulgent - 纵容的
+trophoblast - 滋养层
+total - 总计
+optimal choice - 最优选择
+total environment - 总体环境
+secondary specialized school - 中等专科学校
+refreezing - 重新冻结
+bode well - 主吉
+assembly shop - 装配车间
+inferiority - 自卑
+central nucleus - 中央核
+nucleus - 神经核
+As - 散光眼
+authoritarian - 尚权
+social life - 社会生活
+body size - 身体大小
+erotism - 色欲
+UQ - 上四分值
+ganglion - 神经节
+hue - 色调
+fusion - 融合
+triplet - 三胞胎
+color harmony - 色调和
+color theory - 色觉理论
+man analysis - 人员分析
+lie detector - 测谎器
+test method - 测验法
+test anxiety - 测验焦虑
+conflict - 冲突
+abstraction - 抽象
+tracking - 追踪
+self-concept - 自我概念
+self-observation - 自我观察
+trend - 趋向
+human factor - 人的因素
+need for affiliation - 亲合需要
+humanitarianism - 人道主义
+potential ability - 潜在能力
+aggression - 侵犯
+affectivity - 情感性
+ascending - 上行的
+caste - 社会等级
+delitescence - 潜伏状态
+Cognitive Science - 认知科学
+glossal - 舌的
+social role - 社会角色
+commotion - 骚动
+homicidal - 杀人的
+kindness - 仁慈
+anoxia - 缺氧症
+power spectrum - 权力范围
+footpath - 人行道
+ebullient - 热情奔放的
+personalism - 人本主义
+volume - 容量
+RCBF - 区域性脑血流
+definite - 确定的
+blaspheme - 辱骂
+hypomania - 轻躁狂
+diffidence - 缺乏自信
+manpower - 人力
+canon - 准则
+absolutist - 专制主义者
+track - 追踪
+law of nature - 自然律
+compose - 组成
+minimal - 最小的
+freedom - 自由
+bicycle ergometer - 自行车测力计
+autotrophic - 自养的
+holdback - 阻碍物
+panel survey - 专门小组调查
+natural lighting - 自然采光
+assembler language - 装配工语言
+natural phenomena - 自然现象
+depressed - 阻抑的
+tenet - 宗旨
+optimal proportion - 最佳比例
+action principle - 作用量原理
+ancestry - 祖先
+least energy - 最小能量
+word frequency - 字频
+storage - 贮存
+posture - 姿势
+violet - 紫
+component test - 组合测验
+vertical axis - 纵轴
+arson - 纵火
+just noticeable difference - 最小可觉差
+general average - 总平均数
+total employment - 总就业人数
+automation - 自动化
+composition - 组合
+organizational behavior - 组织行为组织行为
+longitudinal study - 纵向研究
+natural feeling - 自然的感情
+natural form - 自然形式
+significant other - 重要他人
+natural science - 自然科学
+egotism - 自我夸张
+parasagittal - 纵侧
+frigidity - 性冷感
+quadrant - 象限
+enjoyment - 享受
+digestive enzyme - 消化酶
+heart sound - 心声
+informational response - 信息反应
+covariance - 协方差
+forming - 形成
+mental compatibility - 心理相容
+information - 信息
+will to power - 求权意志
+thirst for knowledge - 求知欲
+mosaic - 拼成的
+underprivileged children - 贫困儿童
+GCI - 普通认知指数
+sheath - 鞘
+best in quality - 品质优良
+endeavor - 努力
+jigsaw puzzle - 拼板玩具
+duress - 强迫
+progressive - 前进的
+dupe - 欺骗
+corporate image - 企业映象
+youth subculture - 青年次文化
+vestibular function - 前庭机能
+parallel evolution - 平行进化
+deception - 欺骗
+thunderclap - 晴天霹雳似的消息
+potential - 潜力
+equal employment opportunity - 平等就业机会
+helpmate - 配偶
+deviation - 偏差
+misdemeanor - 品行不端
+appraisal - 评定
+runway - 跑道
+VL - 能见度水平
+maltreat - 虐待
+mendicancy - 乞讨生活
+ornithine - 鸟氨酸
+force - 强度
+extort - 敲诈
+procaine - 普鲁卡因
+banal - 平庸的
+episode - 情节
+discard - 抛弃
+enlighten - 启发
+tegument - 皮肤
+entropy - 平均信息量
+universality - 普遍性
+moderate pain - 轻痛
+counterpoise - 平衡
+indigestion - 难以理解
+disposition - 气质
+mediocrity - 平庸
+theory of judgment - 判断论
+ubiquitous - 普遍存在的
+precursor - 前体
+matching - 匹配
+general investigation - 普查
+mean temperature - 平均温度
+audition - 听音
+prerogative - 特权
+privilege - 特权
+specific transfer - 特定迁移
+scribble - 涂鸦
+synchronize - 同时发生
+norma - 外观颅
+completely normal - 完全常规的
+unique - 唯一的
+homophobia - 同性恋恐怖症
+gastralgia - 胃痛
+homogeneous - 同质的
+striatum - 纹状体
+problem teaching - 问题教学
+covet - 妄想
+flavour - 味
+deterrence - 威慑
+CS - 条件刺激
+random sample - 随机样本
+homogeneity - 同质性
+synaptic cleft - 突触裂
+concur - 同时发生
+alloplasty - 外向性力
+GPS - 通用问题解答
+carpale - 腕骨
+group dynamics - 团体动力学
+graphic analysis - 图解分析
+outer ear - 外耳
+immature - 未成熟的
+peripheral - 外周的
+atrophic - 萎缩的
+cultural adaptation - 文化适应
+ellipsoid - 椭圆
+RAS - 网状激活系统
+unwanted - 讨厌的
+graph theory - 图论
+sibling - 同胞
+flinch - 退缩
+full word - 完全词
+advice note - 通知单
+conjecture - 推测
+microcomputer - 微型计算机
+dimensional analysis - 维量分析维量分析
+peripheral nervous - 外周神经
+temperature - 温度
+peer group - 同伴团体
+homozygote - 同型接合子
+unforeseen - 未预见到的
+involvement - 投入
+body fluid - 体液
+odorous - 有气味的
+derivation - 引生
+sentence structure - 语句结构
+application software - 应用软件
+accessibility - 易接近
+omnipotent - 有无限能力的
+intensity of illumination - 照明强度
+justifiable - 有理由的
+intonation - 语调
+maniac - 噪狂者
+distal - 远的
+enticement - 诱惑物
+commotio - 震荡
+convulsive - 震动的
+prototype - 原型
+subdural hematoma - 硬脑膜下血肿
+sitology - 饮食学
+Depression and Anxiety - 抑郁与忧虑
+induce - 诱发
+factor - 因素
+intradural - 硬膜内的
+relevant information - 有关信息
+factorial design - 因素设计
+nutritionist - 营养学家
+finite - 有限的
+divination - 预言
+factor score - 因素分数
+engagement - 约定
+adduce - 引证
+dubious - 犹豫的
+handling - 管理
+functional defect - 功能性缺陷
+rubrospinal tract - 红核脊髓束
+composite image - 复合象
+interference phenomenon - 干扰现象
+estimation - 估计
+skeletal system - 骨骼系统
+luster - 光泽
+work evaluation - 工作评鉴
+consensus - 共识
+administration - 管理
+recidivist - 惯犯
+rate - 率
+quantum theory - 量子说
+mask - 面具
+leader - 领导者
+catalogue - 目录
+aesthetic education - 美育
+Munsell color system - 孟赛尔颜色系统
+maternal effect - 母体效应
+forbidden band - 禁带
+admittance - 接纳
+psychiatrist - 精神病学家
+empirical method - 经验法
+scale of operation - 经营规模
+architecture - 建筑
+pressor - 加压的
+bottom - 基础
+terminal - 极限的
+myelopathy - 脊髓病
+notation - 记号
+genealogy - 家系
+monitoring - 监视
+psychoanalyst - 精神分析学家
+calculation chart - 计算图
+robustness - 坚稳性
+role model - 角色楷模
+axiology - 价值论
+computation - 计算
+technic - 技能
+probation - 见习
+seasonal variation - 季节变异
+fabrication - 建造
+leukoma - 角膜白斑
+teaching method - 教学方法
+alkalinity - 碱度
+intercourse - 交往
+explication - 解释
+peduncle - 茎
+warning line - 警戒线
+traffic control - 交通管制
+group discussion - 集体讨论
+tumult - 激动
+calculating machine - 计算机
+CCS - 计算机控制系统
+technology - 技术学
+copulation - 交配
+educate - 教育
+asymptotic theory - 渐近论
+reciprocate - 交互
+focus - 焦点
+modification - 矫正
+birth control - 节制生育
+persona - 角色象
+educational administration - 教育行政管理
+class limitations - 阶级局限性
+flurry - 激动
+tacit - 缄默的
+flair - 鉴别力
+enrage - 激怒
+addiction - 成瘾
+lateral column - 侧柱
+assay - 测定
+arrangement - 安排
+placement - 安置
+asb - 阿普熙提
+PA - 联对
+propinquity - 邻近性
+membrane transport - 膜输送
+Braille - 盲字
+luminosity - 亮度
+ionizing - 离子化
+calvarium - 颅盖
+choroid - 脉络膜的
+mobility - 灵活性
+barium sulfate - 硫酸钡
+adventurer - 冒险家
+quantification - 量化
+oral communication - 口头沟通
+account - 论述
+territory - 领地
+cage - 笼
+stereotaxic instrument - 立体定位仪
+ambidexterity - 两手同能
+sulcus - 裂
+comprehension test - 理解测验
+power - 力
+paradox - 矛盾
+dream content - 梦之内容
+bicameral - 两腔的
+aesthetic pedagogy - 美育学
+distressful - 令人苦恼的
+fulfillment - 满足
+cryptology - 密码术
+vicinal - 邻近的
+flow chart - 流程图
+logic behavior - 逻辑行为
+logic network - 逻辑网络
+dream world - 梦想世界
+bonding - 母子结
+National Institute of Mental Health      - 美国家心理卫生研究所
+national consciousness - 民族意识
+rational choice - 理性选择
+mobile type - 灵活型
+practice - 练习
+vagotomy - 迷走神经切断术
+imitator - 模拟器
+laggard - 落后者
+beauty - 美
+logical necessity - 逻辑的必然性
+answer key - 答案
+urban ecology - 城市生态学
+tactor - 触器
+commendation - 称赞
+persist - 持续
+component ratio - 成分比率
+prompt - 促使
+chastisement - 惩罚
+innovator - 创新者
+survivorship - 存活
+tact - 触觉
+gorilla - 大猩猩
+code test - 代码测验
+incivility - 粗暴言行
+promote - 促进
+moral reasoning - 道德推理
+cute - 聪明的
+rudiment - 初步
+tropic hormone - 促内分泌腺激素
+test theory - 测验理论
+hierarchy - 层次
+birth order - 出生次序
+sufficient condition - 充分条件
+exciter - 刺激物
+brain activity - 大脑活动
+learning by doing - 从做中学
+code name - 代号
+unilateral - 单侧的
+preliminary study - 初步研究
+asthma - 喘息
+RI - 倒摄抑制
+TSH - 促甲状腺激素
+exist - 存在
+paraesthesia - 触觉异常
+archive - 档案
+status - 地位
+preliminary data - 初步资料
+excite - 刺激
+normality - 常态
+superman - 超人
+DL - 差别阈限
+timeless - 超时间的
+banality - 陈词滥调
+grey area - 次贫地区
+infrasound - 次声
+monophasic action potential - 单相动作电位
+sample plan - 抽样方案
+captious - 吹毛求疵的
+quickening - 初觉胎动
+inspiration - 感悟
+science - 科学
+spatialization - 空间化
+terrorize - 恐吓
+science and technology - 科学与技术
+corrigible - 可矫正的
+reversible process - 可逆过程
+mouth cavity - 口腔
+fetishism - 恋物癖
+chaining - 链锁化
+caretaker - 看管人
+decisive factor - 决定因素
+impasse - 绝境
+approximation - 近似法
+matrix - 矩阵
+starvation - 绝食
+psychic - 精神的
+think about - 考虑
+intravenous injection - 静脉内注射
+spatial distribution - 空间分布
+scientific communication - 科学交流
+probability - 可能性
+scientific concept - 科学概念
+garbage - 垃圾
+association learning - 联想学习
+decision - 决策
+beaten - 筋疲力尽的
+ror - 局部误差
+conjugate - 结合
+entanglement - 精神错乱
+competitive advantage - 竞争优势
+dejection - 沮丧
+exploitation - 开发
+Landolt C - 兰道环视标
+absolute space - 绝对空间
+army personnel - 军事人员
+exploit - 开发
+scientific research - 科学研究
+joy - 快乐
+view - 看法
+positioner - 定位器
+modulator - 调变神经元
+survey - 调查
+cohort analysis - 断代分析
+electrolysis - 电解
+delegacy - 代表制
+current - 电流
+chatter - 喋喋不休
+bilis - 胆汁
+echelon - 等级
+investigation method - 调查法
+radiosensitivity - 辐射敏感性
+ergonomics - 工效学
+compound - 复合
+vicarious - 感应式
+Anno Domini - 公元
+utilitarianism - 功利主义
+O - 观察者
+confession - 供认
+industrial design - 工业设计
+anesthesia - 感觉缺失
+communication skill - 沟通技能
+individual - 个体
+nastic - 感性的
+notion - 观念
+modality - 感觉通道
+obesity - 肥胖症
+imaginative - 富于想象的
+logistics system - 符号逻辑体系
+work days - 工作日
+menopause - 更年期
+sensorineural - 感觉神经的
+personal unconscious - 个人潜意识
+sensory experience - 感觉经验
+taxology - 分类学
+father figure - 父职人物
+syncretism - 概念混合
+sensory system - 感觉系统
+functional factor - 功能因素
+sensual - 感觉论的
+weanling - 刚断奶婴儿
+functional analysis - 功能分析
+ontogeny - 个体发生
+sensibility - 感受性
+administrative staff - 管理人员
+outlook - 观点
+throw back - 隔代遗传者
+henogenesis - 个体发生
+distribution curve - 分配曲线
+symbolic - 符号的
+accessory - 附属的
+woman - 妇女
+sensory overload - 感觉超负荷
+risk factor - 风险因素
+partition method - 分割法
+filiation - 父子关系
+wind speed - 风速
+interference - 干扰
+formant - 共振峰
+common factor - 共同因素
+connexion - 关联
+animal - 动物
+vocabulary test - 词汇测验
+monaural - 单耳的
+monotone - 单调
+efferent - 传出的
+elasticity - 弹性
+metabolic process - 代谢过程
+magic eye - 电眼
+cerebral lesion - 大脑损伤
+antagonistic - 敌对的
+dynamic state - 动态
+jaundice - 妒忌
+magnetic resonance imaging - 磁共振成象
+alternatives - 代替案
+traditional authority - 传统权威
+inadvertent - 粗心大意的
+ranking - 等级评定
+adjustor - 调整器
+cost - 代价
+postnatal - 出生后的
+originate - 创造
+univariate - 单变量的
+tactile sensation - 触觉
+very bright - 聪明儿童
+cholinergic - 胆碱能的
+creation - 创造
+fishy - 呆滞的
+creativity - 创造力
+innovate - 创新
+incentive condition - 刺激条件
+moral value - 道德价值
+being - 存在
+Readings - 读物
+flexible work schedules  - 弹性工作时制
+caress - 爱抚
+theory X  - X理论
+flattery - 阿谀
+X unit  - X单位
+hourly wage - 按时计酬
+chromatic - 半音阶的
+white - 白
+Bergsonian - 柏格森派
+encyclopedia - 百科全书
+insolence - 傲慢
+rheostat - 变阻器
+package - 包装
+safety education - 安全教育
+Ss - 被试者
+cumbrous - 笨重的
+amygdala - 扁桃体
+appointed day - 指定日期
+legitimacy - 正统性
+overmaster - 征服
+integrity - 正直
+overlapping - 重叠
+position power - 职位权力
+periodic motion - 周期运动
+occupational therapist - 职业治疗师
+regnant - 支配的
+normal working hours - 正常工作时间
+indicator - 指示器
+lipid - 脂类
+raphe - 中缝
+hospitalization - 住院治疗
+professionalism - 专业化
+obsession - 执著
+histogram - 直方图
+expostulate - 忠告
+genocide - 种族灭绝
+quality - 质量
+neutral - 中性的
+neutral reaction - 中性反应
+botany - 植物学
+mental retardation - 智力发育迟缓
+step test - 逐级测验
+linearity - 直线性
+experimenter - 主试者
+rearrangement - 重新组织
+bigamy - 重婚
+monograph - 专题文章
+adipose tissue - 脂肪组织
+athletic - 运动型
+D valueD - 值
+positive transfer - 正迁移
+integration - 整合
+allegiance - 忠诚
+terminus - 终点
+subnormal temperature - 正常下温度
+normal development - 正常发展
+staff - 职工
+secondary technical school - 中等技术学校
+historical development - 种族发生
+sedatives - 镇静剂
+polity - 政治形态
+mediator - 中介物
+fixation - 注视
+ivity - 智力活动内化说
+reconstruction - 重组
+leading role - 主导作用
+testimony - 证据
+meditation - 沉思
+hospital discharge - 出院
+unpredictable - 出人意料的
+stimulus overload - 刺激超负荷
+SR - 刺激反应
+agonist - 催动性
+abstracted - 抽象的
+undergraduate - 大学生
+field effect - 场效应
+lexicology - 词汇学
+communication - 传播
+late bloomer - 成熟晚的人
+cosset - 宠爱
+vary in size - 大小不同
+residual - 残余
+adult education - 成人教育
+modality - 程式
+different transfer - 差别迁移
+pacing - 步测
+cull - 采集
+offspring - 产物
+product advertising - 产品广告
+urban - 城市的
+supernormal - 超常的
+big business - 大企业
+mass activity - 大众活动
+MAO - 单胺氧化酶
+creature - 创造物
+year of birth - 出生年
+unhappy - 不幸福的
+test set - 测试装置
+fanatic - 沉迷者
+derision - 嘲笑
+irreparable - 不可弥补的
+stupidity - 迟钝
+unreality - 不现实
+endurance - 持久性
+test stand - 测验台
+profile - 侧面象
+sampling techniques - 抽样技术
+esthesia - 触觉
+stimulate - 刺激
+zest - 刺激性
+urban environment - 城市环境
+costive - 迟缓的
+pituitarism - 垂体机能紊乱
+barbarism - 粗暴行为
+taste - 尝
+blunt - 迟钝的
+unrest - 不安
+visual display - 视觉显示
+fugue - 神游
+aesthetic psychology - 审美心理学
+forensic psychology - 审判心理学
+suprachiasmatic nucleus - 视交叉上核
+vision - 视觉
+adolescence - 青少年期
+visual memory - 视觉记忆
+visual cortex - 视觉皮质
+parricide - 杀父母者
+enervation - 神经无力
+neuron - 神经元
+social norm - 社会规范
+socialization - 社会化
+cognitive learning - 认知学习
+juvenile delinquency - 少年犯罪
+spherical aberration - 球面象差
+yaw - 偏航
+intensification - 强化
+disparage - 轻视
+credulity - 轻信
+potentiation - 强化
+prostaglandin - 前列腺素
+temperament - 气质
+flexor muscle - 屈肌
+mob - 群氓
+authoritarian - 权力主义的
+bloom - 闪耀
+arbitrariness - 任意性
+groupment - 群体性
+definitely - 确定的
+curvilinear - 曲线的
+extirpation - 切除
+condition - 情况
+emotionalism - 情绪论
+upper bound - 上限
+establishment - 确立
+weak interaction - 弱相互作用
+concession - 让步
+human ability - 人的能力
+personnel - 人事
+AI - 人工智能
+human organism - 人类有机体
+affective communication - 情感传达
+kin group - 亲属团体
+anthropogeny - 人类起源
+early adolescence - 青年早期
+potential demand - 潜在需要
+omnipotent - 全能的
+hot line - 热线
+legal consciousness - 法律意识
+development - 发展
+developmental stage - 发展阶段
+eardrum - 耳膜
+cochlear nucleus - 耳蜗神经核
+secondary prevention - 二级预防
+binomial distribution - 二项分布
+dualism - 二元论
+informal group - 非正式群体
+defense mechanism - 防御机制
+interview - 访谈
+interview method - 访谈法
+response - 反应
+underload - 低负荷
+low temperature - 低温
+denial - 否认
+tradition - 传统
+field theory - 场论
+time schedule - 时间表
+nerve centre - 神经中枢
+sleeplessness - 失眠
+acoustic - 声的
+NCA - 神经循环衰弱
+mystique - 神秘气氛
+aesthetic ideal - 审美理想
+exercitation - 实习
+market analysis - 市场分析
+affection - 情感
+sociability - 社交能力
+social value - 社会价值
+social exchange theory - 社会交换理论
+visual art - 视觉艺术
+physiological mechanism - 生理机制
+biofeedback - 生物反馈
+morale - 士气
+accident analysis - 事故分析
+neural regeneration - 神经再生
+neuroticism - 神经质
+neuropeptide - 神经肽
+persuasion - 说服
+bimodal distribution - 双峰分布
+homeostasis - 体内平衡
+substitution - 替代
+Stroop effect - 斯特鲁普效应
+thinking - 思维
+shaping - 塑造法
+algorithm - 算法
+error - 误差
+psychophysics - 心理物理学
+synaptic plasticity - 突触可塑性
+SN - 黑质
+optical character recognition - 光学字符识别
+nationality - 国籍
+collaboration - 合作
+optical instrument - 光学仪器
+national standard - 国家标准
+chemoreceptor - 化学感受器
+baggage - 过时的观念
+money - 货币
+ethical behavior - 合伦理的行为
+macroevolution - 宏观进化
+loop - 环
+myogenic - 肌原性的
+myalgia - 肌痛
+Hz - 赫兹
+wedlock - 婚姻
+function - 机能
+paramedic - 护理人员
+DNA - 合成酶
+red nucleus - 红核
+erythrocyte - 红血球
+luteinizing hormone - 黄体生长激素
+overstrain - 过度紧张
+hallucination - 幻觉
+blather - 胡说
+mutualist - 互惠共生生物
+copy - 广告用语
+partnership - 合作关系
+environmental factor - 环境因素
+extravagance - 过度
+nanometer - 毫微米
+regression analysis - 回归分析
+posterior probability - 后验概率
+fantasm - 幻影
+mainstreaming - 回归主流
+lethargic - 昏睡的
+disfunction - 机能失常
+basic logic - 基础逻辑
+blow - 呼吸急促
+luminous flux - 光通量
+orphanage - 孤儿院
+conjunction - 合取
+trajectory - 轨迹
+photometer - 光度计
+photochemical reaction - 光化学反应
+light intensity - 光强度
+locus - 轨迹
+RNP - 核糖核蛋白核糖核蛋白
+ribonucleotide - 核糖核苷酸
+overreaction - 过度反应
+MDS - 多维量表
+first cousin - 嫡亲表兄妹
+creative enthusiasm - 创作热情
+stimulator - 刺激器
+upside down - 颠倒
+epileptic attack - 癫痫发作
+agent - 动因
+diversion - 导离
+neurohypophysis - 垂体神经部
+malleus - 槌骨
+existence - 存在
+ethical value - 道德价值
+compensatory mechanism - 代偿机制
+imputation - 诋毁
+way - 道路
+section - 地段
+fitful - 癫痫的
+toll - 代价
+eerie - 胆怯的
+intricacy - 错综复杂
+topography - 地形学
+hostility - 敌意
+gradation - 等级
+A - 调幅
+animal - 动物
+vocabulary test - 词汇测验
+monaural - 单耳的
+monotone - 单调
+efferent - 传出的
+elasticity - 弹性
+metabolic process - 代谢过程
+magic eye - 电眼
+cerebral lesion - 大脑损伤
+antagonistic - 敌对的
+dynamic state - 动态
+jaundice - 妒忌
+magnetic resonance imaging - 磁共振成象
+alternatives - 代替案
+traditional authority - 传统权威
+inadvertent - 粗心大意的
+ranking - 等级评定
+adjustor - 调整器
+cost - 代价
+postnatal - 出生后的
+originate - 创造
+univariate - 单变量的
+tactile sensation - 触觉
+very bright - 聪明儿童
+cholinergic - 胆碱能的
+creation - 创造
+tentacle - 触毛
+creative self - 创造性自我
+twinge - 刺痛
+trial - 尝试
+biographer - 传记作者
+convention - 传统
+reefer - 大麻烟卷
+derivation process - 导出法
+sampling investigation - 抽样调查
+monoamine oxidase - 单胺氧化酶
+traditional approach - 传统取向
+centrifugal - 传出的
+long - 长的
+commitment - 承诺
+traditional method - 传统方法
+hemp - 大麻
+anagram - 拚字图
+unsymmetrical - 不对称的
+performance goal - 操作性目标
+unpopular - 不受欢迎的
+inaction - 不活跃
+prenatal diagnosis - 产前检查
+superorganic - 超机体的
+instinct - 本能
+catching - 捕捉
+discrimination - 辨别
+cousin - 表亲
+garbage - 不准确数据
+malpractice - 不法行为
+taunt - 嘲笑
+achievement drive - 成就驱力
+operon - 操纵子
+variation analysis - 差异分析
+remedial - 补习的
+discrepancy - 不符合
+groovy - 常规的
+working place - 操作空间
+boundary zone - 边缘带
+cover story - 表面理由
+incurable - 不能治愈的
+property - 财产
+longevity - 长寿
+ultrasound - 超声
+irremediable - 不可医治的
+wave pattern - 波型
+dissonance - 不协调
+cost analysis - 成本分析
+black out - 撤光
+AA - 成就年龄
+preliminary investigation - 初步调查
+parasympathetic - 副交感的
+engineer - 工程师
+embarrassment - 尴尬
+individualism - 个人主义
+industrialization - 工业化
+sympathetic response - 共鸣
+aplastic - 发育不全的
+response function - 反应功能
+patrilineal - 父系的
+defensive strategy - 防卫策略
+negativity - 否定性
+interspike interval - 峰电位间距
+annex - 附加
+bisect - 分开
+skin color - 肤色
+bring up - 抚养
+adrenal gland - 副肾
+compound proposition - 复合命题
+intervention - 干预
+read back - 复述
+improvement - 改善
+probability analysis - 概率分析
+sensorial - 感觉的
+betterment - 改善
+branch point - 分支点
+blarney - 奉承话
+sorting - 分类
+subordination - 附属
+aesthesia - 感觉
+dispersive - 分散的
+apochromat - 复消色差物镜
+gentle - 高贵的
+perversion - 反常
+feedback - 反馈
+scheme - 方案
+divided attention - 分散注意
+analyzer - 分析器
+molecular genetics - 分子遗传学
+Freudianism - 佛洛伊德学说
+copy - 复制
+intervene - 干预
+amplitude - 幅
+rage - 愤怒
+fragmentation - 分裂
+method - 方法
+nonspecific - 非特异性的
+auxiliary facilities - 辅助设备
+restatement - 复述
+approach - 方法
+dibasic - 二元的
+saltant - 突变型
+cephalic - 头的
+elliptical - 椭圆的
+CR - 条件反射
+threshold of pain - 痛觉阈
+uncivilized - 未开化的
+cohort - 同辈
+external locus of control - 外控点
+abductor - 外展肌
+autistic - 我向的
+cease - 停息
+convergence - 妥协
+arithmetical unit - 算术单元
+special class - 特殊班级
+survey of attitudes - 态度调查
+projection system - 投射系统
+graphic representation - 图示
+glycometabolism - 糖代谢
+insinuating - 讨好的
+conditioned stimulus - 条件刺激
+graphic presentation - 图像显示
+hearing impairment - 听力损伤
+flux - 通量
+investor - 投资者
+foreign exchange - 外汇
+biologist - 生物学家
+slip - 疏忽
+drinker - 嗜酒者
+debility - 衰弱
+flag - 衰退
+malacia - 嗜调味品癖
+biotics - 生命学
+chromophore - 生色基团
+sonication - 声处理
+audience rating - 视听率
+handwheel - 手轮
+vagrancy - 思想游移不定
+aquatic environment - 水生环境
+practical activity - 实践活动
+lived experience - 生活体验
+tantrum - 脾气发作
+youth culture - 青年文化
+clarity - 清晰
+vividness - 清晰
+marking system - 评分系统
+review - 评论
+PEG - 气脑造影术
+relational - 亲属的
+incubation period - 潜伏期
+evaluation theory - 评价理论
+voltage - 电压
+law of large numbers - 大数定律
+simplicity - 单一性
+cleverly - 聪明的
+unisex - 单性
+allele - 等位基因
+moral dilemma - 道德两难处境
+TV - 电视
+jarring - 刺耳的
+cursory - 粗俗的
+SS connection - 刺激刺激联系
+gastrin - 促胃液素
+conductance - 传导
+thigh - 大腿
+zenith - 顶峰
+dynamic strength - 动态性力量
+ethical dilemma - 道德困境
+innovation strategy - 创新战略
+irritant - 刺激性
+mediate - 传递
+creative thinking - 创造性思考
+treat - 处理
+magnetic susceptibility - 磁性感受性
+wrong answer - 错误答案
+creative ability - 创造能力
+big cheese - 粗鲁男子
+subsistence - 存在
+misperception - 错误知觉
+toilet training - 大小便训练
+appetizing - 促进食欲的
+packing - 存储
+geographical environment - 地理环境
+GCA - 地面控制进场
+point spread function - 点扩散函数
+potential difference - 电位差
+variator - 调音器
+collide - 冲突
+sampling procedure - 抽样程序
+emetics - 催吐剂
+cerebral palsy - 大脑麻痹
+tenderness - 触痛
+cerebral - 大脑的
+reversion - 倒转
+brightness - 聪明程度
+phone - 单音
+conformity - 从众性
+luridine - 胆碱
+cult - 崇拜
+perforator - 穿孔器
+PIF - 催乳激素抑制因子
+reticular formation - 网状结构
+indiscipline - 无纪律
+pentobarbital - 戊巴比妥
+indignity - 侮辱
+cultural - 文化
+ethos - 习性
+cultural diffusion - 文化传播
+anodynia - 无痛
+relative value - 相对值
+unattended - 无陪伴的
+tasteless - 无味的
+junkie - 吸毒者
+LID - 喜欢无所谓厌恶
+dramatic - 戏剧的
+precursor - 先质
+chat - 闲谈
+unassisted - 无助的
+gulp - 吞咽
+anamorphosis - 歪象
+befoul - 污蔑
+SIDS - 突然性婴儿死亡症
+map - 图谱
+species - 物种
+externalization - 外化
+sociologist - 唯社会论者
+foreign - 外国的
+infringement - 违法行为
+lackluster - 无生气
+UCR - 无条件反应
+microclimate - 微小气候
+systematic analysis - 系统分析
+crisis theory - 危机论
+inspiration - 吸入
+phase - 位相
+error method - 误差法
+denotation - 外延
+position - 位置
+unanswerable - 无法回答的
+extroversion - 外向性
+exploit - 推销
+nursery school - 托儿所
+literature - 文学
+retire - 退休
+microstructure - 微观结构
+cultural pattern - 文化模式
+bedridden - 卧床不起
+folkways - 习俗
+system - 系统
+unoccupied - 无所事事的
+stabilize - 稳定
+experimental treatment - 实验处理
+carry back - 使回想起
+schematic diagram - 示意图
+visual language - 视觉语言
+experimental method - 实验法
+lethargy - 嗜睡症
+apprehension - 识别
+laboratory experiment - 实验室实验
+double standard - 双重标准
+search operation - 探索操作
+illustration - 说明
+pawn - 受摆布者
+datum - 数据
+visual environment - 视觉环境
+gather - 收集
+sleeping posture - 睡眠姿势
+color planning - 色彩计划
+census - 人口调查
+admit - 容许
+singularity - 奇异
+derivatives - 派生物
+frequency analysis - 频次分析
+referred pain - 牵涉性疼痛
+breakage - 破损
+quality scale - 品质量表
+test of character - 品德测验
+equilibrant - 平衡力
+equalitarianism - 平等主义
+imperative - 强迫的
+decontaminate - 去污染
+aesthetic feeling - 美感
+maze - 迷津
+luminance - 亮度
+chronic alcoholism - 慢性酒精中毒
+ambivalence - 矛盾心态
+ERG - 视网膜电图
+psycholinguistics - 心理语言学
+trainer - 训练器
+pressure sensation - 压觉
+suppression - 压抑
+castration - 阉割
+vascular dementia - 血管性痴呆
+correction - 校正数
+validity - 效度
+imagery thinking - 形象思维
+belief - 信念
+information overload - 信息超负荷
+consumer behavior - 消费者行为
+mental imagery - 心象
+reliability - 信度
+chunk - 信息块
+requisite - 需要的
+penalty - 刑罚
+cardiovascular system - 心血管系统
+pungent - 辛辣的
+sexual preference - 性爱好
+aerobic metabolism - 需氧代谢
+strict - 严格的
+temperament - 性情
+N Ⅰ - 嗅神经
+morphogenesis - 形态发生
+male - 雄性
+palpitation - 心悸
+upset - 心烦意乱
+trust - 信任
+sexual relationship - 性关系
+telekinesis - 心灵致动
+scholastic aptitude - 学术能力倾向
+arrhythmia - 心律不齐
+behavior - 行为
+choice - 选择
+sexual urge - 性冲动
+figure - 形象
+student activism - 学生激进活动
+sex discrimination - 性别鉴别
+selection method - 选择法
+action research - 行动研究
+utility - 效用
+alloplasty - 兴趣外向
+covariance matrix - 协方差距阵
+MMY - 心理测量年鉴
+PGR - 心理肤电反射
+information process - 信息过程
+psychological test - 心理测验
+mentality - 心态
+morphological analysis - 形态分析法
+morphological plasticity - 形态可塑性
+predisposition - 性情
+academic achievement - 学术成就
+information technology - 信息技术
+blushing - 羞愧
+morphosis - 形态构成
+myocardium - 心肌
+mental content - 心理内容
+utility theory - 效用理论
+theory of information - 信息论
+tion - 象征式互动
+excitation - 兴奋
+TSD - 信号觉察理论
+erogenous - 性欲的
+clear - 清晰的
+pontic - 桥体
+universal theory - 普遍理论
+sense of trust - 信任感
+sexist - 性别优越感者
+scholarship - 学识
+behavioral theory - 行为理论
+impotence - 性无能
+demand curve - 需求曲线
+olfaction - 嗅觉
+erotic - 性的
+dazzle - 眩目
+orgasm - 性乐高潮
+tickle - 痒
+vasopressin - 血管加压素
+acting out - 行
+erotogenic - 性感的
+ambulate - 行走
+mental characteristics - 心理特征
+EPSP - 兴奋性突触后电位
+morphology - 形态学
+move - 行动
+choice behavior - 选择行为
+excitability - 兴奋性
+sexual - 性的
+messenger - 信使
+leisure time - 休闲时间
+discipline - 学科
+formalism - 形式主义
+research worker - 研究人员
+rotation method - 循环法
+cordial - 兴奋的
+excessive drinking - 酗酒
+level of confidence - 信心程度
+endogenous - 内源性
+ingroup - 内集团
+active reason - 能动的理性
+generalize - 普遍化
+inversion - 逆向转化
+hormonal system - 内分泌系统
+convolution - 脑回
+mate - 配偶
+cerebrospinal - 脑脊的
+tire - 疲劳
+hydrocephalus - 脑积水
+mean value - 平均值
+servility - 奴性
+gutter - 贫民区
+frequency curve - 频率曲线
+rating - 评定
+impostor - 谎言癖者
+amalgamate - 合并
+environmental education - 环境教育
+basic principle - 基本原理
+environmental stress - 环境紧张
+family planning - 计划生育
+base - 基础
+functional activity - 机能活动
+collective ownership - 集体所有权
+irritation - 激怒
+ansa - 脊神经
+relay - 继电器
+primary color - 基色
+basic law - 基本法律
+milieu - 环境
+activity level - 活动水平
+complementary - 互补的
+motor vehicles - 机动车
+jumble - 混乱
+DNA - 合成
+nucleic acid - 核酸
+laser - 激光
+link - 环
+elemental form - 基本形式
+illness - 疾病
+CMI - 计算机管理教学
+institutionalization - 寄居机构
+acerbate - 激怒
+CAM - 计算机辅助制造
+thyroidea - 甲状腺
+curator - 监护人
+computer analysis - 计算机分析
+dote - 昏愦
+mestizo - 混血儿
+PMA - 基本心理能力
+chance - 机遇
+recovery - 恢复
+nucleotide - 核甙酸
+activity need - 活动需求
+malfunction - 机能障碍
+environmental gradient - 环境梯度
+verve - 活力
+carney - 哄骗
+neglect - 忽视
+congregation - 集合
+primary - 基本的
+plan - 计划
+aberrance - 畸变
+machine intelligence - 机器智慧
+limit process - 极限法
+intellectual development - 智力发展
+sort - 种类
+sense of inferiority - 自卑感
+ethnic origin - 种族本源
+accuracy of data - 资料正确性
+referral - 转介
+agonize - 折磨
+evidence - 证据
+ordinary - 正常
+orthodox - 正统的
+race - 种族
+exponent - 指数
+ambient noise - 周围环境噪声
+intuitive judgment - 直观判断
+professionalization - 职业化
+formal interview - 正式面谈
+total system - 整体系统
+institutionalization - 制度化
+intelligence development - 智力发展
+cheer - 振奋
+determent - 制止
+job security - 职业安全感
+falsification - 证伪
+appointed day - 指定日期
+legitimacy - 正统性
+overmaster - 征服
+integrity - 正直
+overlapping - 重叠
+position power - 职位权力
+periodic motion - 周期运动
+occupational therapist - 职业治疗师
+regnant - 支配的
+normal working hours - 正常工作时间
+indicator - 指示器
+lipid - 脂类
+raphe - 中缝
+hospitalization - 住院治疗
+professionalism - 专业化
+obsession - 执著
+histogram - 直方图
+expostulate - 忠告
+genocide - 种族灭绝
+quality - 质量
+neutral - 中性的
+neutral reaction - 中性反应
+botany - 植物学
+mental retardation - 智力发育迟缓
+step test - 逐级测验
+linearity - 直线性
+experimenter - 主试者
+unbred - 无教养的
+extraversion - 外倾
+graphic display - 图示
+exploitation - 推销
+reticular - 网状的
+detoxication - 脱毒
+gastric - 胃的
+estheticism - 唯美主义
+microscopic - 微观的
+uncontrolled - 无控制的
+complete - 完整的
+caudate nucleus - 尾状核
+incertitude - 无把握
+amorphism - 无定形性
+materialization - 物质化
+locomotion - 位置移动
+system engineering - 系统工程
+unadjusted - 未调整的
+acquired - 习得的习得的
+insulting - 无礼的
+unskilled - 无需技能的
+bearing down - 下坠力
+matter - 物质
+stabilization - 稳定作用
+pleasure principle - 唯乐原则
+NED - 无疾病迹象
+unmarried - 未婚的
+unconditional - 无条件
+languor - 无力
+hector - 威吓者
+physical reality - 物理现实
+fibrae - 纤维
+cultural integration - 文化整合
+nonsense - 无意义
+cellule - 细胞
+sociolinguistics - 社会语言学
+neurosis - 神经官能症
+trough - 低谷
+belladonna - 颠茄
+law - 定律
+reader - 读者
+inert - 惰性的
+dialogue - 对话
+ballistics - 弹道学
+indifference - 淡漠
+previous generation - 当代
+spot - 点
+independent experiment - 独立实验
+evildoing - 恶劣行为
+break point - 断点
+accompaniment - 伴随物
+NAFTA - 北美自由贸易协定
+dorsal root ganglion - 背根神经节
+knob - 按钮
+arrogance - 傲慢
+brink - 边缘
+talent education - 才能教育
+dialectical relation - 辩证关系辩证关
+edge detector - 边缘觉察器
+standard curve - 标准曲线
+evince - 表明
+Y theory  - Y理论
+bemoan - 悲叹
+noumenon - 本体
+assault - 暴行
+confront - 比较
+Alkalosis - 阿卡洛斯体质
+sorrow - 悲哀
+safety information - 安全信息
+back up data - 备查资料
+label - 标记
+mark - 标记
+agnogenic - 病因不明的
+unmoving - 不动的
+office layout - 办公室布局
+PKU - 苯酮尿症
+game theory - 博奕论
+white box - 白箱
+A - 埃
+GABA - γ氨基丁酸
+subjects - 被试者
+idiot - 白痴
+arranged in order - 按次序排列
+aegis - 保护
+surface contact - 表面接触
+ammeter - 安培计
+scotoma - 暗点
+refugee - 避难者
+Platonic love - 柏拉图式爱情
+gorge - 暴食
+amino acid - 氨基酸
+bigot - 抱偏见的人
+tragic atmosphere - 悲剧气氛
+peripheral vision - 边缘视觉
+semiofficial - 半官方的
+radial - 半径
+bilious - 暴躁的
+insurance - 保险
+restitution - 补偿
+percentile - 百分位
+get away with - 侥幸做成
+fascia - 筋膜
+integrator - 精神分裂测验器
+lenticular nucleus - 晶状体核
+degree of accuracy - 精确度
+emulation - 竞赛
+warning - 警戒
+MS - 均方
+didacticism - 教训方法
+marriage - 结婚
+class identification - 阶级身份
+decide - 决定
+polymer - 聚合体
+forbid - 禁止
+psyche - 精神
+dogma - 教条
+terminate - 结尾
+asylum - 精神病院
+biological clock - 生物钟
+adaptability test - 适应性测验
+disappointment - 失望
+ecosphere - 生态圈
+mentation - 心理状态
+asthenia - 虚弱
+psychological need - 心理需求
+correlation analysis - 相关分析
+relative stability - 相对稳定性
+emblems - 象征动作
+preconditioning - 先条件作用
+envision - 想象
+negative influence - 消极作用
+mouse - 小鼠
+neonatal - 新生期的
+behavioral - 行为的
+balsamic - 香料香
+symbol - 象征
+strabismus - 斜视
+handler - 信息处理机
+vector analysis - 向量分析
+fibrous tissue - 纤维组织
+display - 显示
+phenomenological method - 现象学方法
+TA - 相互作用分析
+token - 象征
+interaction process - 相互作用过程
+coaction - 协力
+audience - 信息收受者
+thymus - 胸腺
+confidence - 信心
+male sex hormone - 雄性激素
+humanity - 人性
+social category - 社会类属
+Celsius - 摄氏的
+admissible parameter - 容许参数
+chromatogram - 色谱图
+curve - 曲线
+preoccupation - 全神贯注
+HPG - 人垂体促性腺激素
+general anesthesia - 全身麻醉
+accommodating - 迁就
+intimacy - 亲密
+physical - 躯体的
+power - 权力
+acquaintance - 认识
+source of power - 权力来源
+emotionality - 情绪性
+request - 请求
+expulsion - 驱逐
+human skills - 人际技能
+affect - 情感
+cerebral ganglion - 丘脑
+related language - 亲属语言
+job hunter - 求职者
+retractor - 牵缩肌
+full color - 全色
+expectation - 期望
+emmetropia - 屈光正常
+air conditioning - 气温调节
+emotional content - 情绪内容
+common notion - 普通观念
+herd - 群
+emphasis - 强调
+resection - 切除术
+diurnal - 昼夜的
+narcissistic personality - 自恋人格
+free competition - 自由竞争
+indulgence - 恣纵
+automatic processing - 自动化加工
+comprehensive summary - 综合摘要
+initial - 最初的
+initial period - 最初时期
+class boundary - 组限
+APC - 自动程序控制
+nature worship - 自然祟拜
+autoplasty - 自我变更性适应
+retrieve - 重新得到
+priming effect - 准备效应
+accuracy - 准确性
+pecking order - 啄击顺序
+commit suicide - 自杀
+direction - 指导
+immediate - 直接的
+trueness - 真实性
+verify - 证实
+augur - 占卜者
+concussion - 震荡
+direct experience - 直接经验
+paper and pencil test - 纸笔测验
+Spearman rank correlation coefficient - 斯皮尔曼等级相关系数
+probing - 探究
+work ethic - 职业伦理
+vibrator - 振动器
+dioptric - 折射的
+valid positive - 正确肯定
+class - 种类
+intelligentsia - 知识界
+visualized - 直观的
+centre - 中心
+LE - 职业介绍所
+immediate experience - 直接经验
+domination - 支配
+apraxia - 运用不能
+noise level - 噪声级
+mania - 噪狂症
+intellect - 智力
+redifferentiation - 再分化
+dominance hierarchy - 支配等级
+strategic management - 战略管理
+delirious - 谵妄的
+genuineness - 真挚
+recognition method - 再认法
+rection - 直配
+normal temperature - 正常温度
+IVI - 重要值指数
+panel - 专门小组
+anodyne - 止痛的
+progesterone - 助孕激素
+periodicity - 周期性
+data sheet - 资料表
+dead ahead - 正前方
+witness - 证据
+direct method - 直接法
+tranquilizer - 镇静剂
+labor exchange - 职业介绍所
+diagnostic method - 诊断法
+positive reaction - 正反应
+informed consent - 知会同意
+enforcement - 实施
+whole method - 整体法
+intuitive thinking - 直观思维
+aphorism - 格言
+nstincts - 复性说
+height - 高度
+idiotype - 个体基因型
+work plan - 工作面
+relation analysis - 关系分析
+dispersion - 分散度
+categorical data - 分类数据
+relapse - 复发
+madman - 疯子
+secrete - 分泌
+dissociation - 分裂
+retest - 复测
+air velocity - 风速
+calcium pump - 钙棒
+detraction - 分心
+custom - 风俗
+deny - 否定
+translocation - 改变位置
+oliva - 橄榄体
+ontogenetic development - 个体发展
+theory of probability - 概率论
+principle of probability - 概率原则
+spurt - 奋进
+service market - 服务市场
+grouping - 分组
+involuntary - 非志愿
+molecular vehicle - 分子载体
+classification - 分组
+libel - 诽谤
+baboon - 狒狒
+boon - 福利
+division - 分配
+tectorial membrane - 覆膜
+raving - 疯话
+discrete variable - 分散变量
+invalidity - 缺效度
+emotional disorder - 情绪失常
+cognition - 认知
+imprinting - 印记
+spiritualism - 唯灵论
+neural computation - 神经计算
+population study - 人口研究
+cognitive - 认知的
+ungifted - 缺乏才能的
+incomprehension - 缺乏理解
+pia mater - 软膜
+ethnography - 人种史
+gatekeeper - 社会观察人员
+coercive power - 强制权力
+paralyzed - 麻痹的
+echolalia - 模仿言语
+logical combination - 逻辑组合
+capillary - 毛细管
+imitation - 模仿
+aesthetic sensibility - 美感
+acromegaly - 末端肥大症
+American Sign Language - 美语手语
+medial longitudinal fasciculus - 内侧纵束
+thrall - 奴隶
+fainthearted - 懦弱的
+striving - 努力
+homeostatic - 内衡的
+inner - 内部
+argument - 论证
+pulse - 脉膊
+motherhood - 母性
+internal milieu - 内环境
+power function - 幂函数
+internal locus of control - 内控点
+heroine - 女英雄
+tolerance - 耐力
+intractable - 难控制的
+nirvana - 涅
+modularity - 模块化
+monopolist - 垄断者
+bewilderment - 迷惑状态
+logical law - 逻辑定律
+glamour - 魅力
+internal factor - 内部因素
+membrane - 膜
+ungovernable - 难抑制的
+subiculum - 脑下脚
+fissure - 脑裂
+nikethamide - 尼可刹米
+warming up - 暖化
+cowardice - 懦弱
+internal cause - 内因
+anonymous - 匿名的
+brainwork - 脑力劳动
+foraging - 觅食
+pattern recognition - 模式识别
+table of contents - 目录
+intrinsic - 内部的
+interceptor - 内受器
+cranial - 脑的
+incretion - 内分泌
+internals - 内控者
+proposition - 命题
+thiourea - 硫脲
+R class - 反应类
+auricula - 耳廓
+defame - 诽谤
+multiband - 多频带
+estrus cycle - 发情周期
+analyze - 分析
+manifold - 多样的
+reaction system - 反应体系
+domain - 范围
+growth period - 发育期
+analytic process - 分析过程
+scholasticism - 烦锁哲学
+categorical - 分类的
+offense - 犯罪
+debauchery - 放荡
+inconstancy - 反复无常
+occurrence - 发生
+disclaim - 放弃
+under development - 发育不全的
+catadioptric - 反射折射的
+theory of reflection - 反映论
+cope - 对付
+dopamine - 多巴胺
+come across - 发现
+multiple linear regression  - 多元线性回归
+incidence rate - 发生率
+multicellular - 多细胞的
+independent personality - 独立人格
+polygraph - 多项记录器
+unmusical - 对音乐不感兴趣的
+hypoplastic - 发育不全的
+evolutive - 发展的
+reproductive strategy - 繁衍战略
+sociopath - 反社会者
+malign - 恶毒的
+radioactive substance - 放射物质
+factorial experiment - 多因子实验
+counterclockwise - 反钟向
+fly - 飞
+developmental trend - 发展倾向发展倾向
+analyst - 分析者
+feedback loop - 反馈环
+animal behavior - 动物行为
+bit - 二进制位
+offspring - 儿女
+legal guarantee - 法律保证
+unsocial - 非社会的
+fidget - 烦躁
+discharge - 放射
+radiation - 放射
+topic - 主题
+autonomous - 自治的
+reintegration - 重整作用
+inferiority complex - 自卑情结
+autonomous - 自发的
+reconsider - 重新考虑
+agonist - 主动肌
+CC - 主诉
+key variable - 主要变量
+chalk talk - 注入式教学法
+attention deficit disorder - 注意缺失紊乱
+transport - 转移
+autogenous - 自生的
+organizational structure - 组织结构
+cast back - 追溯
+narcissist - 自恋者
+despotic - 专横的
+resource - 资源
+protagonist - 主角演员
+automatic reaction - 自动反应
+ethnic identity - 种族认同
+heed - 注意
+specialism - 专门化
+mesolimbic - 中脑缘的
+reappraisal - 重新评价
+spontaneous reaction - 自发反应
+axon model - 轴突模型
+key data - 主要数据
+regard - 注意
+adapter - 转接器
+natural beauty - 自然美
+intraclass correlation - 组内相关
+displacement - 转移
+hoarding behavior - 贮藏行为
+perfectionism - 至善论
+middle aged - 中年
+subjective - 主观的
+state - 状态
+natural regeneration - 自然更新
+arbitrator - 仲裁人
+nesting - 筑巢
+neutrality - 中性
+column - 柱状体
+natural - 自然的
+automatic speech - 自动口语
+etat - 状况
+footprint - 足迹
+dominant culture - 主文化
+attribute - 属性
+advertent - 注意的
+epithelium - 上皮
+mammary gland - 乳腺
+cognitive characteristics - 认知特征
+cheerless - 缺乏欢乐的
+body diathesis - 身体素质
+caprice - 任性
+demography - 人口统计学
+blasphemer - 辱骂者
+sharpness - 锐度
+cognitive power - 认知力
+humanity - 人性
+social category - 社会类属
+Celsius - 摄氏的
+admissible parameter - 容许参数
+chromatogram - 色谱图
+curve - 曲线
+preoccupation - 全神贯注
+HPG - 人垂体促性腺激素
+general anesthesia - 全身麻醉
+accommodating - 迁就
+intimacy - 亲密
+physical - 躯体的
+power - 权力
+acquaintance - 认识
+source of power - 权力来源
+emotionality - 情绪性
+request - 请求
+expulsion - 驱逐
+human skills - 人际技能
+affect - 情感
+cerebral ganglion - 丘脑
+related language - 亲属语言
+job hunter - 求职者
+retractor - 牵缩肌
+full color - 全色
+expectation - 期望
+emmetropia - 屈光正常
+air conditioning - 气温调节
+emotional content - 情绪内容
+common notion - 普通观念
+herd - 群
+emphasis - 强调
+resection - 切除术
+diurnal - 昼夜的
+narcissistic personality - 自恋人格
+free competition - 自由竞争
+indulgence - 恣纵
+automatic processing - 自动化加工
+comprehensive summary - 综合摘要
+initial - 最初的
+genetic stability - 遗传稳定性
+recessive gene - 隐性基因
+vanishing point - 隐没点
+factorial analysis - 因素分析
+extract - 引出
+nourishment - 营养
+conscious state - 意识状态
+meaningfulness - 意义性
+enuresis - 遗尿
+finite region - 有限区域
+dereliction - 遗弃
+relevant data - 有关数据
+depress - 抑制
+color reaction - 颜色感应
+calculus - 演算
+medical genetics - 医学遗传学
+blood supply - 血液供给
+electronystagmography - 眼震颤电描记法
+forget - 遗忘
+ocular dominance column - 眼优势小柱
+general death rate - 一般死亡率
+introductory - 引导的
+stress reaction - 应激反应
+myelinated - 有髓的
+lateral inhibition - 一侧抑制
+path analysis - 因径分析
+obligation - 义务
+inhibit - 抑制
+causationist - 因果律
+noxious - 有害的
+temperate - 有节制的
+Atman - 宇宙我
+PTS - 永久性阈移
+image analysis - 映象分析
+naturalized - 驯化的
+animus - 阳性基质
+medical model - 医疗模式
+empathize - 移情
+phonemics - 音位学
+anomalies - 异常的因果情况
+conceal - 隐蔽
+heterogeneous group - 异质群体
+conscious experience - 意识经验
+virility - 有男性特征
+fickle - 易变的
+blood group - 血型
+art - 艺术
+research work - 研究工作
+commitment - 义务感
+genetic complement - 遗传互补
+type - 感觉反应型
+synopsis - 梗概
+working hours - 工作时
+work process - 工作过程
+task complexity - 工作复杂性
+working curve - 工作曲线
+panel data - 固定样本数据
+fractionation - 分段
+accusation - 非难
+accuse - 非难
+individuation - 个别化
+service industry - 服务行业
+probability distribution - 概率分布
+retest reliability - 复测信度
+callback - 复查
+individual difference - 个别差异
+negative contrast - 负对比
+analytic proposition - 分析命题
+job interview - 工作访谈
+sensory cortex - 感觉皮层
+observe - 观察
+job analysis - 工作分析
+individuality - 个性
+multiple regression analysis - 复回归分析
+atypical - 非典型的
+assortment - 分类
+excretion - 分泌
+parental discipline - 父母训练
+adiposis - 肥胖症
+aphorism - 格言
+nstincts - 复性说
+height - 高度
+idiotype - 个体基因型
+work plan - 工作面
+relation analysis - 关系分析
+dispersion - 分散度
+categorical data - 分类数据
+relapse - 复发
+madman - 疯子
+secrete - 分泌
+dissociation - 分裂
+retest - 复测
+air velocity - 风速
+calcium pump - 钙棒
+detraction - 分心
+custom - 风俗
+deny - 否定
+translocation - 改变位置
+oliva - 橄榄体
+ontogenetic development - 个体发展
+wager - 赌博
+read out - 读出
+dither - 发抖
+attack - 发作
+anomaly - 反常
+PCPA - 对氯苯丙胺
+exemplary - 典型的
+oculomotor nerve - 动眼神经
+ChE - 胆碱脂酶
+tune - 调谐
+electric stimulation - 电刺激
+estrogenicity - 动情性
+third ventricle - 第三脑室
+quantitative analysis - 定量分析
+resist - 抵抗
+animal breeding - 动物育种
+N Ⅲ - 动眼神经
+collate - 对照
+zoological - 动物学的
+cohort study - 断代研究
+telex - 电报
+board of directors - 董事会
+polygenic inheritance - 多基因遗传
+inventory - 调查
+opposition - 对立
+theory of error - 错误说
+band - 带
+television screen - 电视屏
+job relocation - 调职
+CET - 大脑电疗法
+Delphi method - 德尔菲法
+originality - 独创性
+short arm - 短腕
+mediator - 调停人
+pricing - 定价
+animal magnetism - 动物磁性说
+electrical activity - 电活动
+complain - 抱怨
+self-defeating - 自我挫败
+centralism - 中枢论
+median - 中数
+transitivity - 转移性
+test-retest reliability - 再测信度
+early experience - 早期经验
+language - 语言
+language function - 语言功能
+positive correlation - 正相关
+central control room - 中央控制室
+phylogenesis - 种系发生
+ethnocentrism - 种族中心主义
+vigilance - 警觉
+Down's syndrome - 唐氏综合征
+surface color - 表面色
+deprivation - 剥夺
+retention - 保持
+counseling - [心理]咨询
+t distribution - t 分布
+t test - t 检验
+operant conditioning - 操作性条件作用
+achievement motivation - 成就动机
+peak experience - 顶峰体验
+frustration - 挫折
+binocular diplopia - 双眼复视
+view of the world - 世界观
+experimental treatment - 实验处理
+carry back - 使回想起
+schematic diagram - 示意图
+visual language - 视觉语言
+experimental method - 实验法
+lethargy - 嗜睡症
+apprehension - 识别
+laboratory experiment - 实验室实验
+double standard - 双重标准
+search operation - 探索操作
+illustration - 说明
+pawn - 受摆布者
+datum - 数据
+visual environment - 视觉环境
+gather - 收集
+sleeping posture - 睡眠姿势
+color planning - 色彩计划
+census - 人口调查
+logic - 逻辑
+injunction - 命令
+miss - 漏失
+jury - 临时的
+null - 零
+fallacy - 谬误
+perplexity - 迷惘状态
+opinion polling - 民意调查
+law of contradiction - 矛盾律
+internal representation - 内在表征
+inner ear - 内耳
+CSF - 脑脊液
+anaesthesia - 麻木
+critical point - 临界点
+leading - 领导
+simulation model - 模拟模式
+ambidextrous - 两手同利
+charm - 魅力
+standard time - 标准时间
+irreplaceable - 不可替代的
+dramatic play - 表演游戏
+inconsistency - 不一致性
+wayward child - 不听话的儿童
+shaking - 颤抖
+insurmountable - 不可克服的
+goniometer - 测角器
+test difficulty - 测验难度
+test paper - 测验试卷
+debugging - 程序调整
+fell - 残暴的
+changeless - 不变的
+invariant - 不变的
+unaccented - 不重读的
+TOTE - 测验操作反射弧
+hypersensitivity - 超敏性
+instability - 不稳定性
+formulation - 编制
+indeterminate - 不确定的
+mutation - 变声期
+refutation - 辩驳
+inadvisable - 不明智的
+trembling - 颤动
+sufficient cause - 充足原因
+test check - 抽查
+discourteous - 不礼貌的
+unemotional - 不易动感情的
+guess - 猜测
+segment - 部分
+resistance to change - 变革阻力
+operational objectives - 操作对象
+morbid - 病态
+repugnance - 不一致
+Zen therapy - 禅理治疗法
+imbecile - 痴愚
+watch - 表
+antisocial - 不爱社交的
+breakdown - 崩溃
+standard - 标准
+amelanotic - 不含黑色素的
+unaware - 不知道的
+inexistent - 不存在的
+irreducible minimum - 不可减少的最小值
+misbehavior - 不正当行为
+operation standard - 操作标准
+hypernormal - 超常的
+irreversibility - 不可逆性
+ballistic - 颤搐的
+morbid state - 病态
+group psychology - 群体心理学
+preference - 爱好
+safety analysis - 安全分析
+safety engineering - 安全工程
+vigilance - 警觉
+Down's syndrome - 唐氏综合征
+surface color - 表面色
+deprivation - 剥夺
+retention - 保持
+counseling - [心理]咨询
+t distribution - t 分布
+t test - t 检验
+operant conditioning - 操作性条件作用
+achievement motivation - 成就动机
+peak experience - 顶峰体验
+frustration - 挫折
+binocular diplopia - 双眼复视
+view of the world - 世界观
+experimental treatment - 实验处理
+carry back - 使回想起
+schematic diagram - 示意图
+visual language - 视觉语言
+experimental method - 实验法
+lethargy - 嗜睡症
+apprehension - 识别
+laboratory experiment - 实验室实验
+double standard - 双重标准
+search operation - 探索操作
+illustration - 说明
+pawn - 受摆布者
+datum - 数据
+visual environment - 视觉环境
+gather - 收集
+sleeping posture - 睡眠姿势
+color planning - 色彩计划
+census - 人口调查
+logic - 逻辑
+injunction - 命令
+miss - 漏失
+jury - 临时的
+null - 零
+fallacy - 谬误
+perplexity - 迷惘状态
+opinion polling - 民意调查
+law of contradiction - 矛盾律
+internal representation - 内在表征
+inner ear - 内耳
+CSF - 脑脊液
+anaesthesia - 麻木
+critical point - 临界点
+alcohol - 酒精
+net - 净
+examine - 检查
+touchstone - 检验标准
+saltiness - 碱度
+method of weighting - 加权法
+value judgment - 价值判断
+housework - 家务劳动
+role stress - 角色压力
+class management - 教室管理
+standing at attention - 紧张型直立姿势
+tensive - 紧张的
+SEM - 结构方程模型
+intercept - 交点
+dormant state - 静态
+duration - 久暂
+CT - 计算机断层摄影术
+psychonosema - 精神薄弱
+approximant - 近似值
+craftiness - 狡猾
+employment - 就业
+ETV - 教育电视
+color space - 彩色空间
+immature - 不成熟
+inadequacy - 不适当
+operating data - 操作数据
+asynchronous - 不同时的
+anchoring effect - 参照效应
+whiplash - 鞭打
+immaturity - 不成熟
+think nothing of - 不在乎
+clew - 暗示
+concomitant - 伴随的
+pathic - 被奸者
+Beck Depression Inventory - 白氏抑郁症量表
+background information - 背景信息
+phenobarbital - 苯巴比妥
+despise - 鄙视
+presentation - 表象
+uncertainty - 不确定性
+waviness - 波动
+boundary - 边缘
+standard temperature - 标准温度
+unfortunate - 不幸的
+waver - 波动
+victim - 被害人
+viral - 病毒的
+erg - 本能特性
+discriminating - 辨别的
+inequality - 不平等
+rearrangement - 重新组织
+bigamy - 重婚
+monograph - 专题文章
+adipose tissue - 脂肪组织
+athletic - 运动型
+D valueD - 值
+positive transfer - 正迁移
+integration - 整合
+allegiance - 忠诚
+terminus - 终点
+subnormal temperature - 正常下温度
+normal development - 正常发展
+staff - 职工
+secondary technical school - 中等技术学校
+historical development - 种族发生
+sedatives - 镇静剂
+polity - 政治形态
+mediator - 中介物
+fixation - 注视
+ivity - 智力活动内化说
+reconstruction - 重组
+leading role - 主导作用
+testimony - 证据
+fingerprint - 指纹
+brainpower - 智力
+atony - 张力缺失
+orthosis - 整直法
+calmative - 镇静的
+sine wave - 正弦波
+portent - 征兆
+assignment - 指定作业
+job description - 职业描述
+tetanization - 致强直作用
+neutralization - 中性化
+iatreusiology - 治疗学
+direction - 指导
+immediate - 直接的
+trueness - 真实性
+verify - 证实
+augur - 占卜者
+concussion - 震荡
+direct experience - 直接经验
+paper and pencil test - 纸笔测验
+Spearman rank correlation coefficient - 斯皮尔曼等级相关系数
+probing - 探究
+work ethic - 职业伦理
+vibrator - 振动器
+dioptric - 折射的
+valid positive - 正确肯定
+class - 种类
+popularity - 通俗性
+communication center - 通信中心
+flightism - 逃跑主义
+prompting - 提示
+physique - 体格
+feature analysis - 特征分析
+statistical study - 统计研究
+ectoderm - 外胚叶
+imperil - 危害
+bogus - 伪造的
+totem pole - 图腾柱
+RAS - 网状觉醒系统
+introjection - 投入作用
+externals - 外控者
+outward manifestation - 外在表现
+pain - 痛
+emergent - 突变
+inference - 推论
+microfilm - 微缩胶卷
+group size - 团体大小
+extrapolate - 推断
+engorge - 贪吃
+CER - 条件性情绪反应
+audition - 听音
+prerogative - 特权
+privilege - 特权
+specific transfer - 特定迁移
+scribble - 涂鸦
+synchronize - 同时发生
+norma - 外观颅
+completely normal - 完全常规的
+unique - 唯一的
+homophobia - 同性恋恐怖症
+gastralgia - 胃痛
+homogeneous - 同质的
+striatum - 纹状体
+problem teaching - 问题教学
+covet - 妄想
+flavour - 味
+deterrence - 威慑
+CS - 条件刺激
+random sample - 随机样本
+homogeneity - 同质性
+synaptic cleft - 突触裂
+concur - 同时发生
+alloplasty - 外向性力
+GPS - 通用问题解答
+carpale - 腕骨
+group dynamics - 团体动力学
+graphic analysis - 图解分析
+arithmetic expression - 算术表达式
+income - 收入
+digital code - 数字代码
+dyad - 双方
+lesion - 损伤
+decamp - 逃亡
+incident - 事件
+algorism - 十进位计算法
+appetite - 食欲
+receptor potential - 受纳器电位
+speculativeness - 思辩
+electroretinogram - 视网膜电图
+lie - 说谎
+test survey - 试验调查
+essentiality - 实质性
+marketing channel - 市场通道
+accustomization - 适应
+generation interval - 世代间隙
+zoomorphic - 兽形的
+optic - 视力的
+readout - 示值读数
+aesthetic appreciation - 审美
+bionomics - 生态学
+ecological environment - 生态环境
+glia - 神经胶质
+achromatopsia - 全色盲
+social order - 社会秩序
+occasion - 时机
+hologram - 全息照相
+badly off - 穷的
+fillet - 丘系
+trend analysis - 趋势分析
+auditory localization - 听觉定位
+trait - 特质
+body sensation - 体觉
+genius - 天才
+gifted child - 天才儿童
+aphasia - 失语症
+time concept - 时间概念
+random sampling - 随机抽样
+randomization - 随机化
+apraxia - 失用症
+isomorphism - 同型论
+childhood - 童年期
+statistical analysis - 统计分析
+statistical probability - 统计概率
+channel capacity - 通道容量
+cohort - 同层人
+deep structure - 深层结构
+bipolar disorder - 双相型障碍
+scene - 景象
+solve - 解决
+finality - 结局
+conciseness - 简约
+piecework - 计件工作
+anxious expectation - 焦躁的期待
+propose - 建议
+concise - 简明的
+tendon reflex - 腱反射
+phase analysis - 阶段分析
+indirect - 间接
+firmness - 坚度
+shearing force - 剪力
+paraplegia - 截瘫
+hormone receptor - 激素受体
+asymptotic normality - 渐近常态
+bonus system - 奖金制度
+assumption - 假设
+interactive - 交互作用的
+enjoin - 禁止
+schizophrenic depression - 精神分裂性抑郁症
+urgency - 紧急
+fasting - 禁食
+texture - 结构
+ascetic - 禁欲主义的
+inflammation - 激动
+tally - 计数
+monitor - 监视器
+withdrawal syndrome - 戒断综合症
+evolutionary - 进化
+taboo - 戒律
+make believe - 假装
+aberrant - 畸变
+enumerate - 计算
+value system - 价值体系
+epigenesis - 渐成律
+concentrate - 集中
+value standard - 价值标准
+computer operator - 计算机操作员
+simple structure - 简单结构
+assume - 假定
+forbidden band - 禁带
+admittance - 接纳
+psychiatrist - 精神病学家
+empirical method - 经验法
+scale of operation - 经营规模
+architecture - 建筑
+pressor - 加压的
+bottom - 基础
+terminal - 极限的
+classify - 分类
+ireful - 愤怒的
+caseworker - 个案工作者
+induction - 归纳
+loading - 负荷量
+complexity - 复杂性
+paternal inheritance - 父性遗传
+esthesia - 感觉
+gnosis - 感悟
+segregation - 分离
+grouped data - 分组数据
+coincidence - 符合
+Freudian - 佛洛依德学派的
+probability - 概率
+service organizations - 服务性组织
+symbolic representation - 符号性表象
+probability density function - 概率密度函数
+sensus - 感觉
+work place - 工作场地
+Graves disease - 格氏病
+Gallup polls - 盖洛普民意测验
+PE - 概误
+GT - 概化理论概化理论
+grouped - 分组
+infect - 感染
+adrenal cortex - 副肾皮质
+sensor - 感受器
+perceptual knowledge - 感性认识
+altimeter - 高度表
+nastic movement - 感性运动
+sensitivity - 感受性
+esthesis - 感觉
+type - 感觉反应型
+synopsis - 梗概
+working hours - 工作时
+work process - 工作过程
+task complexity - 工作复杂性
+working curve - 工作曲线
+panel data - 固定样本数据
+fractionation - 分段
+accusation - 非难
+accuse - 非难
+individuation - 个别化
+service industry - 服务行业
+probability distribution - 概率分布
+retest reliability - 复测信度
+callback - 复查
+individual difference - 个别差异
+negative contrast - 负对比
+analytic proposition - 分析命题
+management ability - 管理能力
+light difference - 光差
+GLU - 谷胺酸
+management analysis - 管理分析
+thermonasty - 感热性
+isolation - 孤独
+work - 工作
+calling - 感召
+idiographic - 个人签名的
+axiom - 公理
+isolation - 隔离
+overextension - 过度伸展
+work study - 工作研究
+TWI - 工厂内训练
+ogive - 拱形线
+restructuring - 构造转化
+preservation - 固著心向
+codger - 怪癖的人
+advisor - 顾问
+estimation model - 估计模式
+fundamental change - 根本变化
+classical school - 古典学派
+complex form - 复杂形式
+sense organ - 感官
+acrophobia - 高处恐怖症
+key word - 关键词
+work measurement - 工作测量
+sensory impression - 感觉印象
+CHD - 冠心病
+toxoplasmosis - 弓形体病
+spectrum - 光谱
+candid - 公正的
+interfere - 干扰
+higher education - 高等教育
+industrial department - 工业部门
+sympathy - 共感
+structuralism - 构造主义
+employee - 雇员
+anisotropism - 各向异性
+common trait - 共同特质
+rater - 估价人
+conception - 概念
+POX - 个人、他人与事物
+symbolic language - 符号语言
+radiosensitivity - 辐射敏感性
+ergonomics - 工效学
+compound - 复合
+vicarious - 感应式
+Anno Domini - 公元
+utilitarianism - 功利主义
+amnesia - 健忘症
+technicality - 技术性
+technique - 技术
+supraspinal - 脊椎上的
+household - 家庭
+correction - 矫正
+school teacher - 教师
+ailment - 疾病
+testing procedure - 检验程序
+basal ganglion - 基底神经节
+assemblage - 集合
+family member - 家族成员
+skill training - 技能训练
+memory capacity - 记忆容量
+basal metabolic rate - 基础代谢率
+boarder - 寄宿的学生
+meter design - 计器设计
+parole - 监护
+decompressing - 减压
+computerization - 计算机化
+indirect relation - 间接关系
+agitate - 焦急不安
+remedial teaching - 矫正指导
+checklist - 检核表
+classification - 鉴别
+basic form - 基本形式
+basic element - 基本元素
+formalin - 甲醛溶液
+matrical - 基质的
+laser irradiation - 激光照射
+intraspinal - 脊柱内的
+computer programming language - 计算机程序语言
+secondary source - 间接来源
+basic sentence - 基本句子
+CAI - 计算机辅助教学
+disciplinary measure - 纪律措施纪律措施
+weight coefficient - 加权系数
+sham - 假装
+insistent - 坚持的
+disguise - 假装
+interaction effect - 交互作用效果
+metric - 计量
+pseudowords - 假字
+inspection - 检验
+compendium - 简要
+athletic type - 健壮型
+focal length - 焦距
+centralization - 集权化
+kinetin - 激动素
+familial incidence - 家族内发病数
+life - 生命
+necropsy - 尸体剖检
+concept of time - 时间概念
+life experience - 生活经验
+nerve cell - 神经细胞
+connatural - 生来的
+physiological dependence - 生理依赖
+object lesson - 实物教学课
+nerve net - 神经网
+biochemical mechanism - 生化机制
+norm - 常模
+production system - 产生式系统
+representation - 表征
+parallel processing - 并行加工
+motivation - 动机
+adjustment - 调整
+performance test - 操作测验
+Broca's area - 布罗卡区
+talent - 才能
+parameter - 参数
+parameter estimation - 参数估计
+induced abortion - 人为堕胎
+social impulse - 社会冲动
+kinship - 亲族
+athymia - 情感缺乏
+interpersonal relationship - 人际关系
+tolerant - 容忍
+SD - 社会赞许性
+screening - 筛选
+personal bias - 人为偏误
+color difference - 色差
+apex linguae - 舌尖
+time gradient - 时间梯度
+concrete thought - 实际思想
+menu - 软件菜单
+sound energy - 声能
+cognitive competence - 认知能力
+boyhood - 少年时代
+body posture - 身体姿式
+sociopath - 社会病
+taste nerve - 味觉神经
+inferior oblique muscles - 下斜肌
+appearance - 现象
+agree - 同意
+mydriasis - 瞳孔放大
+hygiene - 卫生学
+ictal - 突发的
+dehydration - 脱水
+belabor - 痛打
+regress - 退化
+hostility - 敌意
+gradation - 等级
+A - 调幅
+animal - 动物
+vocabulary test - 词汇测验
+monaural - 单耳的
+monotone - 单调
+efferent - 传出的
+elasticity - 弹性
+metabolic process - 代谢过程
+magic eye - 电眼
+cerebral lesion - 大脑损伤
+antagonistic - 敌对的
+dynamic state - 动态
+jaundice - 妒忌
+magnetic resonance imaging - 磁共振成象
+alternatives - 代替案
+traditional authority - 传统权威
+inadvertent - 粗心大意的
+ranking - 等级评定
+adjustor - 调整器
+cost - 代价
+postnatal - 出生后的
+originate - 创造
+univariate - 单变量的
+tactile sensation - 触觉
+very bright - 聪明儿童
+cholinergic - 胆碱能的
+creation - 创造
+fishy - 呆滞的
+creativity - 创造力
+innovate - 创新
+incentive condition - 刺激条件
+moral value - 道德价值
+being - 存在
+Readings - 读物
+flexible work schedules  - 弹性工作时制
+caress - 爱抚
+theory X  - X理论
+flattery - 阿谀
+X unit  - X单位
+hourly wage - 按时计酬
+chromatic - 半音阶的
+white - 白
+Bergsonian - 柏格森派
+encyclopedia - 百科全书
+insolence - 傲慢
+rheostat - 变阻器
+package - 包装
+safety education - 安全教育
+repugnance - 厌恶
+accordance - 一致
+coping skills - 应对技能
+allure - 诱惑力
+intriguing - 引起兴趣的
+folly - 愚笨
+nutritional requirement - 营养需要量
+educative - 有教育意义的
+forgive - 原谅
+cathode - 阴极
+humor - 幽默
+error of prediction - 预测误差
+monogamy - 一夫一妻制
+artistic style - 艺术风格
+breeding - 养育
+berate - 训斥
+research - 研究
+misogyny - 厌女症
+coherency - 一贯性
+concealed - 隐藏的
+weariness - 厌倦
+nocuous - 有害的
+eliciting - 诱发
+genetic control - 遗传控制
+heterogeneity - 异质性
+anecdote - 轶事
+escape hatch - 应急出口
+jaundiced - 有偏见的
+discerning - 有辨别力的
+effectiveness - 有效性
+expectation - 预测
+opium - 鸦片
+CFA - 验证性因素分析
+aversive techniques - 厌恶技术
+itch - 痒
+legibility - 易读性
+idea - 意见
+craving - 瘾
+foster parents - 养父母
+genetic stability - 遗传稳定性
+recessive gene - 隐性基因
+vanishing point - 隐没点
+factorial analysis - 因素分析
+extract - 引出
+nourishment - 营养
+conscious state - 意识状态
+meaningfulness - 意义性
+enuresis - 遗尿
+finite region - 有限区域
+dereliction - 遗弃
+instinctive movement - 本能运动
+cancer cells - 癌细胞
+accompaniment - 伴随物
+NAFTA - 北美自由贸易协定
+dorsal root ganglion - 背根神经节
+knob - 按钮
+arrogance - 傲慢
+brink - 边缘
+talent education - 才能教育
+dialectical relation - 辩证关系辩证关
+edge detector - 边缘觉察器
+standard curve - 标准曲线
+evince - 表明
+Y theory  - Y理论
+bemoan - 悲叹
+noumenon - 本体
+assault - 暴行
+confront - 比较
+Alkalosis - 阿卡洛斯体质
+sorrow - 悲哀
+safety information - 安全信息
+back up data - 备查资料
+label - 标记
+mark - 标记
+agnogenic - 病因不明的
+unmoving - 不动的
+office layout - 办公室布局
+PKU - 苯酮尿症
+game theory - 博奕论
+white box - 白箱
+A - 埃
+GABA - γ氨基丁酸
+subjects - 被试者
+idiot - 白痴
+arranged in order - 按次序排列
+aegis - 保护
+surface contact - 表面接触
+ammeter - 安培计
+scotoma - 暗点
+refugee - 避难者
+Platonic love - 柏拉图式爱情
+gorge - 暴食
+amino acid - 氨基酸
+bigot - 抱偏见的人
+tragic atmosphere - 悲剧气氛
+peripheral vision - 边缘视觉
+semiofficial - 半官方的
+radial - 半径
+bilious - 暴躁的
+insurance - 保险
+natural beauty - 自然美
+intraclass correlation - 组内相关
+displacement - 转移
+hoarding behavior - 贮藏行为
+perfectionism - 至善论
+middle aged - 中年
+subjective - 主观的
+state - 状态
+natural regeneration - 自然更新
+arbitrator - 仲裁人
+nesting - 筑巢
+neutrality - 中性
+column - 柱状体
+natural - 自然的
+automatic speech - 自动口语
+etat - 状况
+footprint - 足迹
+dominant culture - 主文化
+attribute - 属性
+advertent - 注意的
+alphabetic characters - 字母数字符
+histocompatibility - 组织适合性
+absorption - 专注
+professional training - 专业训练
+theme - 主题
+psychedelic - 致幻的
+attire - 装饰
+CEM - 中心兴奋机制
+high school - 中学
+commutator - 转换器
+property - 属性
+tenacity - 注意凝聚
+automatic - 自动的
+chromatism - 着色异常
+brilliance - 卓著
+synthetic data - 综合数据
+organizational reform - 组织变革
+suitable environment - 最优环境
+subgroup - 子群
+toxication - 中毒
+circuit - 周围
+key parameter - 主要参数
+aid - 助手
+censure - 指责
+absolutism - 专制主义
+directivity - 指向性
+automata - 自动装置
+IV - 自变量
+ERG - 视网膜电描记器
+attractiveness - 吸引力
+retaliate - 报复
+necessary condition - 必然条件
+comparison - 比较
+gravimetric - 比重测定的
+passiveness - 被动性
+expression - 表情
+unfair treatment - 不公平待遇
+entry - 表列值
+passivism - 被动倾向
+standard test - 标准测验
+expressiveness - 表情丰富
+response rate - 反应率
+acclimation - 服水土
+negative transfer - 负迁移
+affective commitment - 感情承诺
+informal network - 非正式沟通网络
+submission - 服从
+ventral - 腹侧
+parsing - 分析
+distribution method - 分布法
+negative acceleration - 负加速
+high correlation - 高相关
+upbringing - 抚养
+spacer - 隔离物
+delinquency - 非行
+goodness of fit - 符合度
+radiation therapy - 放射疗法
+partition - 分段
+decentralization - 分权化
+style - 风格
+altitude - 高度
+partial tone - 分音
+defense mechanism - 防御机制防卫机制
+cockpit - 飞机座舱
+light sensitivity - 感光性
+differential - 分化
+group data - 分类资料
+schizophreniform psychosis - 分裂样精神病
+service man - 服务员
+immaterial - 非物质的
+birth - 分娩
+magnitude - 幅度
+decibel - 分贝
+allocate - 分配
+manner - 风度
+couple therapy - 夫妇心理治疗
+personal communication - 个人沟通
+perceptible - 感觉得到的
+risk - 风险
+reflex - 反射
+idiotype - 个体基因型
+work plan - 工作面
+relation analysis - 关系分析
+dispersion - 分散度
+categorical data - 分类数据
+relapse - 复发
+madman - 疯子
+secrete - 分泌
+dissociation - 分裂
+retest - 复测
+air velocity - 风速
+calcium pump - 钙棒
+detraction - 分心
+custom - 风俗
+deny - 否定
+translocation - 改变位置
+oliva - 橄榄体
+ontogenetic development - 个体发展
+theory of probability - 概率论
+principle of probability - 概率原则
+spurt - 奋进
+service market - 服务市场
+grouping - 分组
+involuntary - 非志愿
+molecular vehicle - 分子载体
+classification - 分组
+libel - 诽谤
+baboon - 狒狒
+boon - 福利
+division - 分配
+tectorial membrane - 覆膜
+raving - 疯话
+discrete variable - 分散变量
+admit - 容许
+singularity - 奇异
+derivatives - 派生物
+frequency analysis - 频次分析
+referred pain - 牵涉性疼痛
+breakage - 破损
+quality scale - 品质量表
+test of character - 品德测验
+equilibrant - 平衡力
+equalitarianism - 平等主义
+imperative - 强迫的
+decontaminate - 去污染
+aesthetic feeling - 美感
+maze - 迷津
+luminance - 亮度
+chronic alcoholism - 慢性酒精中毒
+ambivalence - 矛盾心态
+scientific management - 科学管理
+confidentiality - 可靠性
+determinant - 决定因素
+CG - 控制组
+current check - 例行校检
+science - 科学
+spatialization - 空间化
+terrorize - 恐吓
+science and technology - 科学与技术
+corrigible - 可矫正的
+reversible process - 可逆过程
+mouth cavity - 口腔
+fetishism - 恋物癖
+chaining - 链锁化
+caretaker - 看管人
+decisive factor - 决定因素
+impasse - 绝境
+approximation - 近似法
+matrix - 矩阵
+starvation - 绝食
+psychic - 精神的
+think about - 考虑
+intravenous injection - 静脉内注射
+spatial distribution - 空间分布
+scientific communication - 科学交流
+probability - 可能性
+scientific concept - 科学概念
+garbage - 垃圾
+association learning - 联想学习
+decision - 决策
+beaten - 筋疲力尽的
+ror - 局部误差
+conjugate - 结合
+entanglement - 精神错乱
+competitive advantage - 竞争优势
+dejection - 沮丧
+exploitation - 开发
+Landolt C - 兰道环视标
+absolute space - 绝对空间
+army personnel - 军事人员
+exploit - 开发
+scientific research - 科学研究
+joy - 快乐
+view - 看法
+positioner - 定位器
+modulator - 调变神经元
+survey - 调查
+cohort analysis - 断代分析
+electrolysis - 电解
+delegacy - 代表制
+rhythm - 节律
+coach - 教练员
+teaching system - 教学系统
+mind - 精神
+coaching - 教练法
+conclusion - 结论
+anatomical features - 解剖特点
+decision criteria - 决策标准
+fast - 节制饮食
+interchange - 交换
+colloid - 胶体
+focusing - 焦点效应
+conclude - 结束
+introgression - 渐渗现象
+overcorrection - 矫正过度
+tension system - 紧张体系
+groupthink - 集体思考
+vigorous - 健壮性
+structure - 结构
+wale - 精选
+traffic signs - 交通标志
+supposition - 假定
+hypothetical data - 假设数据
+memory storage - 记忆储存
+teaching level - 教学水平
+trier - 检验者
+vertical growth - 垂直成长
+irritate - 刺激
+sampled data - 抽样数据
+afferent fibers - 传入纤维
+creativity - 创造性
+univariate analysis - 单变量分析
+stimulation - 刺激作用
+mature age - 成人年龄
+probability of success - 成功概率
+conducting tissue - 传导组织
+take a risk - 承担风险
+processing error - 处理误差
+TRF - 促甲状腺释放因子
+rumination - 沉思
+triumph - 成功
+image formation - 成象
+ethical characteristics - 道德特征
+conduct - 传导
+origination - 创始
+stimulus - 刺激
+ignominy - 耻辱
+creative activity - 创造性活动
+existential - 存在的
+present - 出现
+seduce - 诱惑
+threshold - 阈限
+transgression - 越轨
+free nerve endings - 游离神经末梢
+right handed - 右利
+semantic information - 语义信息
+praecox - 早熟
+induced mutation - 诱导突变
+foreseeability - 预见性
+early - 早期的
+space system - 宇宙体系
+language center - 语言中枢
+vehicles - 载体
+perceptual - 知觉的
+see after - 照顾
+user - 用户
+cosmology - 宇宙论
+motor region - 运动区
+astrology - 占星术
+preview - 展望
+frankness - 真实
+movement therapy - 运动疗法
+occupation - 职业
+positive reinforcement - 正强化
+occupational therapy - 职业疗法
+atomic structure - 原子结构
+with - 愿望
+kinesiology - 运动学
+despite - 憎恨
+plasma - 原生质
+neoteny - 幼态持续
+temporize - 顺应时势
+dual function - 双重作用
+perimeter - 视野计
+truth to tell - 说实话
+memorizing - 熟记
+benumb - 使僵化
+VEP - 视觉诱发电位
+deterioration - 衰退
+apparent motion - 似动
+proprietary rights - 所有权
+empirical research - 实证研究
+market trend - 市场趋势
+marketing research - 市场研究
+test flight - 试飞
+stochastic variable - 随机变量
+DQ - 衰退商数
+technics - 术语
+algorithms - 算法式
+special talent - 特殊才能
+figure - 形象
+student activism - 学生激进活动
+sex discrimination - 性别鉴别
+selection method - 选择法
+action research - 行动研究
+utility - 效用
+alloplasty - 兴趣外向
+covariance matrix - 协方差距阵
+MMY - 心理测量年鉴
+PGR - 心理肤电反射
+information process - 信息过程
+psychological test - 心理测验
+mentality - 心态
+morphological analysis - 形态分析法
+morphological plasticity - 形态可塑性
+predisposition - 性情
+academic achievement - 学术成就
+information technology - 信息技术
+blushing - 羞愧
+morphosis - 形态构成
+myocardium - 心肌
+mental content - 心理内容
+utility theory - 效用理论
+theory of information - 信息论
+tion - 象征式互动
+excitation - 兴奋
+TSD - 信号觉察理论
+erogenous - 性欲的
+center of rotation - 旋转中心
+venery - 性欲的
+androgen - 雄性激素
+sex role - 性别角色
+shyness - 羞怯
+mental effect - 心理效应
+mental status - 心理状态
+mental confusion - 心智惑乱
+successive - 相继的
+vector - 向量
+oblique - 斜的
+mental representation - 心理表征
+mind control - 心控术
+evil thoughts - 邪念
+neonate - 新生儿
+sex - 性
+sexual hormone - 性激素
+lness - 性善恶混论
+signaling system - 信号系统
+fraternal - 兄弟般的
+mental element - 心理元素
+SDT - 信号检测论
+social interaction - 社会交互作用
+GH - 生长激素
+fit - 适合
+identification problem - 识别问题
+visual angle - 视角
+test chamber - 试验室
+digitize - 数字化
+tire out - 十分疲劳
+ellipsis - 省略
+fitness - 适合性
+nervous system - 神经系统
+degrade - 使退化
+ganglioside - 神经节苷脂
+physiological saline - 生理盐水
+body movement - 身体活动
+nerve cord - 神经索
+social networks - 社交网络
+social phobia - 社会恐怖症
+vocal - 声音的
+visualization - 视觉化
+nervi - 神经
+time - 时间
+social development - 社会发展
+myth - 神话
+tensor - 伸肌
+equipment - 设备
+literacy - 识字
+oscillometry - 示波测量法
+harm - 伤害
+deification - 神化
+generative organs - 生殖器官
+social cost - 社会成本
+nocuity - 伤害性
+nursling - 乳婴
+neuropsychopharmacology - 神经精神药理学
+phonics - 声学
+experimental effect - 实验效应
+application - 申请
+time test - 时间测验
+nerve regeneration - 神经再生
+suitable temperature - 舒适温度
+depression scores - 情感消沉积分
+ecologic - 生态的
+ecology - 生态学
+personnel - 人员
+day school - 日间学校
+nucleus - 神经核
+As - 散光眼
+authoritarian - 尚权
+social life - 社会生活
+hemp - 大麻
+anagram - 拚字图
+unsymmetrical - 不对称的
+performance goal - 操作性目标
+unpopular - 不受欢迎的
+inaction - 不活跃
+prenatal diagnosis - 产前检查
+superorganic - 超机体的
+instinct - 本能
+catching - 捕捉
+discrimination - 辨别
+cousin - 表亲
+garbage - 不准确数据
+malpractice - 不法行为
+taunt - 嘲笑
+achievement drive - 成就驱力
+operon - 操纵子
+variation analysis - 差异分析
+remedial - 补习的
+discrepancy - 不符合
+groovy - 常规的
+working place - 操作空间
+boundary zone - 边缘带
+cover story - 表面理由
+incurable - 不能治愈的
+property - 财产
+longevity - 长寿
+ultrasound - 超声
+irremediable - 不可医治的
+wave pattern - 波型
+dissonance - 不协调
+cost analysis - 成本分析
+black out - 撤光
+AA - 成就年龄
+preliminary investigation - 初步调查
+unbecoming - 不恰当的
+sterility - 不育
+inharmony - 不和谐
+testing method - 测验方法
+punitive - 惩罚的
+tipsy - 步履不稳的
+ultrasonograph - 超声波检查仪
+tactile - 触觉的
+lability - 不稳定性
+aftercare - 病后调护病後调护
+inexcusable - 不可原谅的
+unsubstantial - 不现实的
+dissatisfied - 不满的
+flagellate - 鞭笞
+patron - 庇护人
+bioengineering - 生物工程学
+permeability - 渗透性
+TOE - 时序误差
+abysmal - 深不可测的
+crisis intervention - 危机干预
+pheromone - 外激素
+explicit memory - 外显记忆
+algesia - 痛觉
+projection - 投射
+psychology - 心理学
+decentration - 脱中心性
+mental scanning - 心理扫描
+regression - 退行
+diathesis - 素质
+sense of speed - 速度感
+schema theory - 图式理论
+figure-ground - 图形-背景
+neuropsychology - 神经心理学
+anorexia nervosa - 神经性厌食[症]
+neurotrophic factor - 神经营养因子
+thinking type - 思维型
+apparent movement - 似动
+evasion - 闪避
+scan - 扫描
+mankind - 人类
+daily life - 日常生活
+chromatography - 色谱法
+alkalescence - 弱碱性
+tumultuous - 骚动
+artificial organ - 人工器官
+admission qualification - 入学资格
+circle - 圈
+heat stress - 热应激
+human error - 人的误差
+advise - 劝告
+population composition - 人口构成
+cognitive model - 认知模型
+anthroposophy - 人智学
+weakness - 弱
+suckling - 乳儿
+population control - 人口控制
+distortion - 曲解
+human needs - 人类需要
+area - 区域
+personality factor - 人格因素
+cognitive ability - 认知能力
+personality factor questionnaire - 人格因素量表
+emotional experience - 情绪体验
+man - 人
+anthropometry - 人体测量学
+unconditioned reflex - 非条件反射
+nonverbal communication - 非言语沟通
+high temperature - 高温
+work efficiency - 工作效率
+aggression - 攻击
+recall - 回忆
+critical period - 关键期
+computer simulation - 计算机模拟
+movement therapy - 活动疗法
+rationalization - 合理化作用
+cooperation - 合作
+interpretation - 解释
+withdrawal syndrome - 戒断综合征
+vasopressin - 加压素
+anxiety - 焦虑
+anxiety disorder - 焦虑性障碍
+cross validation - 交叉效度分析
+dread - 恐惧
+libido - 力比多
+intelligibility - 可懂度
+Oedipus complex - 恋母情结
+inspiration - 灵感
+leadership - 领导
+senile dementia - 老年痴呆
+aptitude - 能力倾向
+control - 控制
+endorphin - 内啡肽
+internalization - 内化
+guilt - 内疚
+slow wave sleep - 慢波睡眠
+equilibrium - 平衡
+heuristics - 启发法
+inquisitiveness - 求知欲
+Total Quality Control - 全面质量控制
+curvature - 曲率
+absenteeism - 缺席
+amaurosis - 全盲
+pubertal - 青春期的
+glaucoma - 青光眼
+zeal - 热心
+emotional state - 情绪状态
+missing data - 缺失数据
+bridge - 桥
+talking out - 倾诉
+potential - 潜在的
+disinhibition - 去抑效应
+organon - 器官
+bioethics - 生物伦理学
+seeing - 视力
+trade mark - 商标
+anthropometry - 人体测量学
+ethnobiology - 人种生物学
+invade - 侵入
+pigment - 色素
+tolerance - 容忍
+sensual - 肉欲的
+polygraph - 多导[生理]记录仪
+contrast - 对比
+socioeconomic status - 社会经济地位
+block - 区
+living condition - 生活条件
+aesthetic attitude - 审美态度
+habitat isolation - 生境隔离
+effectuate - 实现
+pain tolerance - 忍痛度
+task - 任务
+neurohumoral - 神经体液的
+material - 身体的
+ascendant - 上升的
+social work - 社会工作
+human ethology - 人类习性学
+social movement - 社会运动
+neurotransmitter - 神经介质
+ITI - 赏试时距
+murderer - 杀人犯
+MAB - 人和生物圈计划
+cognitive style - 认知类型
+benevolence - 仁爱
+kinesthetic - 动觉的
+productiveness - 多产性
+anarchic - 反常的
+feedback regulation - 反馈调节
+developmental mechanism - 发育机制
+encumbrance - 妨害
+symmetrical distribution - 对称分配
+multifrequency - 多频率的
+DA - 多巴胺
+orienting response - 方向反应
+multifunction - 多功能
+multilingual - 多种语言者
+nausea - 恶心
+hypogenesis - 发育不全
+backtrack - 反退
+flight training - 飞行训练
+multimedia - 多种方式的
+tecnology - 儿童学
+matching response - 对等反应
+dopamine receptor - 多巴胺受体
+antonymy - 反义现象
+offence - 犯罪
+glaucoma - 青光眼
+zeal - 热心
+emotional state - 情绪状态
+missing data - 缺失数据
+bridge - 桥
+talking out - 倾诉
+potential - 潜在的
+disinhibition - 去抑效应
+organon - 器官
+bioethics - 生物伦理学
+seeing - 视力
+trade mark - 商标
+ganglia - 神经节
+blight - 使失望
+opsin - 视蛋白
+careful reflection - 慎思
+social dynamics - 社会动力
+atrous - 深黑色
+bioecology - 生物生态学
+production - 生产
+social isolation - 社会隔绝
+biotechnology - 生物技术学
+physical aggression - 身体攻击
+lethal - 致命的
+mesencephalon - 中脑
+filial generation - 子代
+middle term - 中词
+intrauterine - 子宫内
+loyalty - 忠诚
+spontaneous generation - 自然发生
+truism - 自明之理
+conceit - 自负
+volunteer - 自愿者
+device - 装置
+position - 职位
+termination - 终止
+bossy - 专横的
+supervisor - 指导员
+therapeutic alliance - 治疗配合
+hoard - 贮藏
+quality control - 质量控制
+axoplasmic transport - 轴浆传送
+intrauterine device - 子宫内装置
+anagram - 字谜
+weight - 重量
+storage buffer - 贮存缓冲区
+searching - 仔细检查
+intelligent quotient - 智商
+ethnicity - 种族性
+perineural - 周围神经的
+reflexive - 反射性
+hypoplasia - 发育不全
+legal regulation - 法律条例
+throw back - 返祖
+find - 发现
+electroconvulsive shock - 电痉挛休克
+investigation - 调查研究
+multimodal - 多峰的
+zoomorphic - 动物形的
+AP - 动作电位
+independent control - 独立控制
+dichotomy - 二分法
+bionics - 仿生学
+inertia - 惰性
+dopa - 多巴
+acting in - 动作显露
+dynamic network - 动态网络
+experimental biology - 实验生物学
+food deprivation - 食物剥夺
+optic chiasma - 视神经交叉
+neurohumoral - 神经元介质的
+occurrence - 事件
+visual acuity - 视敏度
+dialysis - 渗析
+experimental apparatus - 实验仪器
+decay - 衰退
+quantitative data - 数量资料
+growth curve - 生长曲线
+biocoenosis - 生物群落
+experimental study - 实验研究
+empiricism - 实证论
+world outlook - 世界观
+identify - 识别
+familiarity - 熟识
+sonic boom - 声爆
+training school - 师范学校
+neurologist - 神经病学家
+neurotica - 神经机能病
+N Ⅱ - 视神经
+fingers - 手指
+acoustical - 声的
+manual - 手的
+footman - 侍从
+theological seminary - 神学院
+biosensor - 生理传感器
+visual thinking - 视觉思维
+factual knowledge - 事实性知识
+counselor - 咨询者
+independent variable - 自变量
+automatic coding - 自动编码
+double - 双重的
+substitution method - 替代法
+speculation - 思辩
+corporal punishment - 体罚
+symposium - 讨论会
+sone - 宋
+homosexual marriage - 同性婚
+audiology - 听力学
+assent - 同意
+statistical method - 统计方法
+companion - 同伴
+voluntary contraction - 随意收缩
+mathematical ability - 数学能力
+Zen gesture - 双手合十
+empowerment - 授权
+speedometer - 速度计
+attenuation curve - 衰减曲线
+agreeableness - 随和性
+bimodal distribution - 双峰分配
+avaricious - 贪婪的
+grizzle - 诉苦
+lithium carbonate - 碳酸锂盐
+special education - 特殊教育
+glutton - 贪食者
+flutter - 跳动
+synaptic transmission - 突触传递
+velocity - 速度
+Quixote - 唐吉柯德式的人
+cleft palate - 裂腭
+description - 描述
+convergent validity - 聚合效度
+RMS - 均方根
+life jacket - 救生衣
+absolutism - 绝对论
+impoverishment - 枯竭
+waste - 浪费
+grievance - 牢骚
+vigilance - 警戒
+recency - 近因
+evolutionary force - 进化动力
+psychotic disorder - 精神症失常
+equal probability - 均等机率
+cyan - 孔雀兰
+discriminable - 可辨别的
+Kaufman Assessment Battery for Children      - 考夫曼儿童成套评价测验
+direful - 可怕的
+sanguine - 乐天型
+discouragement - 沮丧
+open mind - 开放性心理
+megalomania - 夸大狂
+intensity of illumination - 照明强度
+justifiable - 有理由的
+intonation - 语调
+maniac - 噪狂者
+distal - 远的
+enticement - 诱惑物
+commotio - 震荡
+convulsive - 震动的
+prototype - 原型
+subdural hematoma - 硬脑膜下血肿
+sitology - 饮食学
+Depression and Anxiety - 抑郁与忧虑
+induce - 诱发
+factor - 因素
+intradural - 硬膜内的
+relevant information - 有关信息
+factorial design - 因素设计
+nutritionist - 营养学家
+finite - 有限的
+divination - 预言
+factor score - 因素分数
+engagement - 约定
+adduce - 引证
+dubious - 犹豫的
+handling - 管理
+functional defect - 功能性缺陷
+rubrospinal tract - 红核脊髓束
+composite image - 复合象
+interference phenomenon - 干扰现象
+estimation - 估计
+skeletal system - 骨骼系统
+luster - 光泽
+work evaluation - 工作评鉴
+consensus - 共识
+administration - 管理
+recidivist - 惯犯
+invalidity - 缺效度
+emotional disorder - 情绪失常
+cognition - 认知
+imprinting - 印记
+spiritualism - 唯灵论
+neural computation - 神经计算
+population study - 人口研究
+cognitive - 认知的
+ungifted - 缺乏才能的
+incomprehension - 缺乏理解
+pia mater - 软膜
+ethnography - 人种史
+gatekeeper - 社会观察人员
+coercive power - 强制权力
+synergism - 协同
+harmonize - 协调
+cell assembly - 细胞结集
+IA - 项目和配列
+correlational study - 相关研究
+phase diagram - 相位图
+microglia - 小神经胶质
+mental measurement - 心理测量
+vector method - 向量法
+like - 相似
+revoke - 回顾
+moderation - 缓冲
+collective image - 集体意象
+polarity - 极性
+disease - 疾病
+range of activity - 活动范围
+point scale - 积点量表
+basic process - 基本过程
+intense emotion - 激情
+chemosensory - 化学感觉的
+myodynamia - 肌力
+mechanical vibration - 机械振动
+aggregation pheromone - 集合体现象
+numeration - 计算
+infrared ray - 红外线
+yellow light - 黄灯
+monkey - 猴
+rebound - 回跳
+assembly - 汇编
+fornication - 婚外性行为
+hypersensitive - 过敏的
+AE - 后效
+kin - 家族
+computer programming - 计算机编程
+hypothyroidism - 甲状腺机能减退
+substrate - 基质
+aberration rate - 畸变率
+chemosensitivity - 化学敏感性
+LH - 黄体生长激素
+active center - 活力中心
+excitement - 激情
+hormone therapy - 激素疗法
+polarization - 极化
+voluptuous - 激起情欲的
+family background - 家庭背景
+reduction - 减少
+black light - 黑线
+thermostatic - 恒温的
+interactive approach - 互动研究方法
+environmental planning - 环境计划
+imagination - 想象
+learning motivation - 学习动机
+social engineering - 社会工程
+social withdrawal - 社会退缩
+cognizance - 认识
+productive age - 生产年龄
+biocycle - 生活周期
+trophic level - 营养水平
+temporal - 暂时的
+optic tract - 视束
+papaverine - 罂粟碱
+syntactic analysis - 语法分析
+athlete - 运动员
+myxedema - 粘液性水肿症
+hardware - 硬件
+spacecraft - 宇宙飞船
+operation time - 运算时间
+congener - 有连带关系
+truth - 真理
+forces - 势力
+April fool - 愚人节中的受愚弄者
+presentiment - 预感
+primary reward - 原奖赏
+faint - 晕厥
+motor learning - 运动学习
+integer - 整数
+positive interaction - 正相互作用
+ODH - 正字法深度假说
+remoteness - 远隔性
+musical language - 音乐语言
+imply - 蕴涵
+O - 有机体
+premeditated crime - 预谋犯罪
+primal - 原始的
+misbehavior - 越轨行为
+deactivate - 使无效
+thoroughbred - 受过良好教养的
+footed - 有足的
+limbus - 缘
+telecommuting - 在家办公
+semantic rule - 语义规则
+language barrier - 语言障碍
+being and not being - 有与无
+agglomeration - 粘结
+verbal reasoning - 语文推理
+phonology - 语音学
+retraining - 再训练
+TTS - 暂时性阈移
+antispasmodic - 镇痉的
+applied ethics - 应用伦理学
+hyperopia - 远视
+columnar - 圆柱的
+foregone - 预知的
+bound energy - 约束能量
+menses - 月经
+cacotrophia - 营养不良
+irresolution - 犹豫不决的
+valuable - 有价值的
+halation - 晕光作用
+induction - 诱导
+predictive value - 预测值
+overcrowd - 拥挤
+phonics - 语音学
+early learning - 早期学习
+melancholic - 忧郁症的
+spaceman - 宇航员
+praise - 赞美
+desire - 欲望
+latah - 谵妄症
+ritual behavior - 仪式行为
+conscious process - 意识历程
+odorous - 有气味的
+derivation - 引生
+sentence structure - 语句结构
+application software - 应用软件
+accessibility - 易接近
+omnipotent - 有无限能力的
+intensity of illumination - 照明强度
+justifiable - 有理由的
+intonation - 语调
+maniac - 噪狂者
+distal - 远的
+enticement - 诱惑物
+commotio - 震荡
+convulsive - 震动的
+prototype - 原型
+subdural hematoma - 硬脑膜下血肿
+sitology - 饮食学
+Depression and Anxiety - 抑郁与忧虑
+induce - 诱发
+factor - 因素
+intradural - 硬膜内的
+relevant information - 有关信息
+factorial design - 因素设计
+nutritionist - 营养学家
+finite - 有限的
+divination - 预言
+factor score - 因素分数
+engagement - 约定
+adduce - 引证
+upper arm - 上腕
+crack - 神经错乱的
+emotional attachment - 情绪依恋
+approval - 认可
+electrode - 电极
+first language - 第一语言
+mass media - 大众传媒
+mass communication - 大众沟通
+ascending series - 递增系列
+sampling - 抽样
+hypnosis - 催眠
+hypnotherapy - 催眠疗法
+hypnotism - 催眠术
+conformity - 从众
+cerebral cortex - 大脑皮质
+cerebral hemispheres - 大脑两半球
+interpersonal - 人际的
+colliculus - 丘
+dearth - 缺乏
+emotional health - 情绪健康
+air temperature - 气温
+fervency - 热情
+situation ethics - 情境伦理学
+impassive - 缺乏热情的
+aggregation - 群集
+youth - 青年
+juvenile - 青少年
+thirst - 求知
+depolarization - 去极化
+humankind - 人类
+hard training - 强化训练
+means - 手段
+empirical evidence - 实验证据
+retinal - 视网膜的
+bioenergetics - 生物能量学
+PSP - 突触后电位
+predictive - 推测性
+retired person - 退休人员
+extraneous light - 外部光线
+synchronicity - 同步性
+projection - 投射作用
+spindle - 梭
+substitute - 替代
+sense of hearing - 听觉
+knocker - 挑剔的人
+assimilate - 同化
+rabbit - 兔子
+surgery - 外科
+cow - 威胁
+solipsism - 唯我论
+terminology - 术语学
+time series - 时序
+visual display unit - 视觉显示单元
+positivism - 实证主义
+habitat type - 生境型
+career development - 事业发展
+baby boom - 生育高峰期
+visual range - 视觉范围
+avarice - 贪婪
+processing of data - 数据处理
+thinking type - 思想型
+predilection - 特别爱好
+sight - 视力
+SRF - 生长激素释放因子
+pun - 双关语
+social morality - 社会道德
+visual stimulus - 视觉刺激
+data manipulation - 数据处理数据处理
+defect - 缺陷
+concern - 涉及
+body measurement - 身体测量
+astigmatism - 散光眼
+daylight - 日光
+infanticide - 杀婴
+uptake - 摄取
+tryptophan - 色氨酸
+cognitive appraisal - 认知评价
+bear with - 忍受
+social issue - 社会问题
+neurodegenerative - 神经变性的
+cognitive strategy - 认知策略
+cancel - 删去
+SIS model - 社会相互作用顺序模型
+physical training - 身体训练
+entrance - 入学
+flicker - 闪烁
+easy - 容易
+social condition - 社会状况
+social action - 社会行动
+pornography - 色情文艺
+fluidics - 射流技术
+fluid technology - 射流技术
+Celsius temperature - 摄氏温度
+stature - 身材
+neurotic need - 神经质需求
+prodigy - 神童
+social character - 社会性格
+social rank - 社会等级
+zeitgeist - 时代精神
+neurogenesis - 神经发生
+sense of honor - 荣誉感
+amuck - 杀人狂症状
+depth interview - 深度访谈
+crack up - 失去控制
+pedal - 踏板
+explanation - 说明
+abacus - 算盘
+physical attractiveness - 体态吸引力
+acquaintance - 熟悉
+canalization - 疏引作用
+mathematical model - 数学模型
+reproductivity - 生殖力
+vital statistics - 生命统计
+conferment - 授与
+specifications - 说明书
+embolism - 栓塞
+data - 数据
+senescence - 衰老
+moment - 瞬间
+marrow - 髓
+impairment - 损伤
+data reduction - 数据间化
+random sampling method - 随机抽样法
+palmistry - 手相学
+adaptive control - 适应性控制
+suitability - 适用性
+panmixis - 随机交配
+asylum - 收容所
+cosiness - 舒适
+bimodal - 双峰的
+world view - 世界观
+geminus - 双生子
+bookish - 书生气
+tract - 束
+postnatal development - 生后发育
+OC - 视神经交叉
+adaptive reaction - 适应反应
+sense of alienation - 疏离感
+time score - 时间分数
+internship - 实习生
+time data - 时间数据
+marketing management - 市场管理
+wench - 私通
+SCN - 视交叉上核
+AL - 适应水平
+relevancy - 适切度
+discharge - 释放
+manual method - 手语法
+sleep pattern - 睡眠类型
+darken - 使模糊
+measurement - 测量
+overage - 超龄
+sampling plan - 抽样计划
+material - 材料
+uncomely - 丑陋的
+order statistics - 次序统计
+diversity - 差异性
+urban poor - 城市贫民
+CRF - 促皮质素释放因子
+battery of tests - 成套测验
+product - 产品
+telepathy - 传心术
+successful managers - 成功的管理者
+beastly - 残忍的
+dissatisfaction - 不满足
+frame of reference - 参照架构
+gait - 步态
+clairvoyant - 超感视觉的
+intolerance - 不容忍
+level of abstraction - 抽象程度
+transcortical motor aphasia - 超皮质运动失语症
+cleverness - 聪明
+clarification - 澄清
+haptic - 触觉的
+stimulus intervals - 刺激间隔
+intracerebral - 大脑内的
+clairvoyance - 超感视觉
+A Q - 成绩商数
+complemental - 补充的
+operant - 操作的
+chronic anxiety - 长期焦虑
+complement - 补充
+unwearied - 不疲劳的
+irrecoverable - 不能挽回的
+part time - 部分工时
+ignore - 不顾
+reference point - 参照点
+NRT - 常模参照测验
+presentation - 呈现
+unnecessary - 不必要的
+uninhabitable - 不适于居住的
+abstract intelligence - 抽象智力
+urbanite - 城市居民
+corpuscles - 触觉小体
+supernaturalism - 超自然主义
+program analysis - 程序分析
+catalyst - 催化剂
+D score - 差异分数
+procedure - 程序
+grimace - 愁眉苦脸
+secondary specialized school - 中等专科学校
+refreezing - 重新冻结
+bode well - 主吉
+assembly shop - 装配车间
+inferiority - 自卑
+central nucleus - 中央核
+key research project - 重点科研项目
+nature study - 自然研究
+think twice - 重新考虑
+active reaction - 主动反应
+automatic control - 自动控制
+expertise - 专门知识
+reorganization - 重组
+homunculus - 侏儒
+master gland - 主腺
+transition zone - 转变区
+natural language - 自然语言
+summation - 总和
+orthography - 缀字法
+ensemble - 总体
+mass - 质量
+tracing - 追踪
+demonic character - 着魔性格着魔性格
+autism - 自闭症
+subjective spirit - 主观精神
+legibility - 字迹清晰性
+automatic regulation - 自动调节
+successive approximation - 逐次趋近
+alphanumeric - 字母数字的
+integrated case study - 综合案例研究
+transfer effect - 转移效果
+natural tendency - 自然趋势
+identity formation - 自认形成
+totality - 总体
+maximum likelihood estimation - 最大相似估计法
+automated management - 自动化管理
+MAP - 最低听压
+balance of nature - 自然平衡
+axis - 轴
+subclass - 子类
+miscegenation - 种族间婚配
+automaton - 自动装置
+ADD - 注意缺失紊乱
+pyramid - 锥体
+periodic - 周期的
+CP - 烛光
+subsystem - 子系统
+automatization - 自动化
+footloose - 自由自在的
+complacency - 自满
+terrify - 惊吓
+psychosurgery - 精神外科学
+class society - 阶级社会
+abscission - 截断
+tensity - 紧张
+schizophrenic - 精神分裂症患者
+amazement - 惊愕
+economization - 节省
+experience - 经验
+nervous breakdown - 精神崩溃
+spermatophore - 精原细胞
+empiricism - 经验主义
+evolve - 进展
+bounty - 慷慨
+startle reflex - 惊跳反射
+lay off - 解雇
+teacher - 教师
+whoop it up - 尽情欢乐
+dead end - 尽头
+structural equation - 结构方程
+detoxify - 解毒
+refuse - 拒绝
+reciprocal influence - 交互影响
+collapse - 精神崩溃
+principle of economy - 经济律
+tangled - 纠缠的
+mean square error - 均方误
+strain - 紧张
+waking - 觉醒
+lenticular - 晶状体的
+resolvent - 解决办法
+competition theory - 竞争理论
+flat spin - 精神错乱
+traffic noise - 交通噪声
+toper - 酒徒
+internment - 拘留
+psychopathy - 精神病态
+relay - 交接
+educational level - 教育水平
+tonic - 紧张的
+evolution - 进化
+empirical validity - 经验效度
+asceticism - 禁欲主义
+ciliary muscle - 睫状肌
+inbred - 近亲交配
+evolutionism - 进化论
+interface - 接口
+CTT - 经典测验理论
+imbroglio - 纠葛
+rejection - 拒绝
+ether - 醚
+gastronome - 美食家
+sensibility - 敏感性
+logical expression - 逻辑表达
+unpalatable - 令人不快的
+MBTI - 曼布二氏类型指标
+oralism - 口授法
+leadership skills - 领导技能
+serially - 连续地
+turnover rate - 流动率
+associative meaning - 联想意义
+aerodynamic - 空气动力学
+critical - 临界的
+logical record - 逻辑记号
+altruistic - 利他的
+instance - 例证
+join - 联合
+soul - 灵魂
+CBS - 慢性脑综合症
+junction - 联结
+excursive - 离题的
+critical region - 临界区域
+aesthetics - 美学
+analogical - 类拟的
+curable - 可治愈的
+exploitable - 可开发的
+avigation - 空中领航空中领航
+terrorism - 恐怖主义
+inheritable - 可遗传的
+lysine - 赖氨酸
+decentralization - 离中化
+interest group - 利益团体
+deafness - 聋
+connector - 联结器
+good figure - 良型
+fortune - 命运
+handedness - 利手
+quantum - 量子
+slow wave - 慢波
+senile - 老年的
+link - 联结
+treatise - 论文
+CR - 临界比
+follicle - 卵泡囊
+vehicle - 媒介物
+absenteeism - 旷工
+scientific theory - 科学理论
+air pollution - 空气污染
+orality - 口头形态
+commiserate - 怜悯
+equilibrium - 平衡
+heuristics - 启发法
+inquisitiveness - 求知欲
+Total Quality Control - 全面质量控制
+curvature - 曲率
+absenteeism - 缺席
+visual organ - 视觉器官
+alkaloid - 生物碱
+stereoacuity - 实体视敏度
+anachronism - 时代错乱
+deafness - 失聪
+groan - 呻吟
+nerve deafness - 神经性耳聋
+interrogator - 审讯者
+biogenesis - 生源说
+fugue - 神游症
+akinesis - 失动症
+quality of life - 生活质量
+social impact - 社会冲击
+social situation - 社会情境
+actual population - 实际人口
+retinitis pigmentosa - 色素性视网膜炎
+satyr - 色情狂
+aestheticism - 审美感
+physiologic - 生理的
+ejaculation - 射精
+commerce - 商业
+neurobiology - 神经生物学
+body - 身体
+chew - 深思
+neuroglia - 神经胶质
+whiz kid - 神童
+approved school - 少年罪犯教养院
+sociality - 社会性
+photographic memory - 摄影式记忆
+neuropsychiatry - 神经精神病学神经精神病学
+genital - 生殖器的
+individual difference - 个体差异
+ontogenesis - 个体发生
+case study - 个案研究
+personal space - 个人空间
+ideal - 理想
+rationalism - 理性主义
+deviation - 离差
+understanding - 理解
+empiricism - 经验论
+reversibility - 可逆性
+cretinism - 克汀病
+spatial frequency - 空间频率
+classroom discipline - 课堂纪律
+intraclass correlation - 组内相关
+displacement - 转移
+hoarding behavior - 贮藏行为
+perfectionism - 至善论
+middle aged - 中年
+subjective - 主观的
+state - 状态
+natural regeneration - 自然更新
+arbitrator - 仲裁人
+nesting - 筑巢
+neutrality - 中性
+column - 柱状体
+natural - 自然的
+automatic speech - 自动口语
+etat - 状况
+footprint - 足迹
+dominant culture - 主文化
+attribute - 属性
+advertent - 注意的
+alphabetic characters - 字母数字符
+histocompatibility - 组织适合性
+absorption - 专注
+professional training - 专业训练
+theme - 主题
+psychedelic - 致幻的
+attire - 装饰
+CEM - 中心兴奋机制
+high school - 中学
+commutator - 转换器
+property - 属性
+tenacity - 注意凝聚
+automatic - 自动的
+chromatism - 着色异常
+brilliance - 卓著
+synthetic data - 综合数据
+organizational reform - 组织变革
+suitable environment - 最优环境
+subgroup - 子群
+toxication - 中毒
+circuit - 周围
+key parameter - 主要参数
+aid - 助手
+censure - 指责
+absolutism - 专制主义
+directivity - 指向性
+automata - 自动装置
+IV - 自变量
+acquaintance - 熟悉
+canalization - 疏引作用
+mathematical model - 数学模型
+repulsion - 拒绝
+objective mind - 客观精神
+objective reality - 客观现实
+advanced character - 进步特征
+partial correlation coefficient - 净相关系数
+approximate value - 近似值
+alcoholism - 酒精中毒
+result - 结果
+anatomize - 解剖
+determination - 决定
+evolutionistic - 进化论派的
+footrace - 竞走
+tuberous sclerosis - 结节性硬化症
+philosophy of mind - 精神哲学
+antihypertensive - 抗高血压的
+spiritual world - 精神世界
+hypnotizability - 可催眠性
+spatial organization - 空间组合
+exult - 狂喜
+card reader - 卡片读出器
+openness - 开放
+edification - 教诲
+desires - 节欲说
+educational measurement - 教育测量
+wakefulness - 觉醒状态
+counterbalance - 抗衡
+management structure - 经营结构
+alarm pheromone - 警告外激素
+interface - 界面
+mental - 精神的
+mental relaxation - 精神放松
+disallow - 拒绝承认
+funk - 恐怖
+obtainable - 可获得的
+assertion - 肯定
+spirituality - 精神性
+pathos - 精神病态
+antidepressant drug - 抗抑郁剂
+angle range - 角范围
+antagonistic - 颉抗的
+psychoanalytic theory - 精神分析论
+embodiment - 具体化
+exclude - 拒绝接纳
+matching - 竞赛
+antigrowth - 抗生长的
+objective law - 客观规律
+maintainability - 可维修性
+educational statistics - 教育统计学
+ament - 精神错乱者
+dogmatism - 教条主义
+link - 环
+elemental form - 基本形式
+illness - 疾病
+CMI - 计算机管理教学
+institutionalization - 寄居机构
+acerbate - 激怒
+CAM - 计算机辅助制造
+thyroidea - 甲状腺
+curator - 监护人
+computer analysis - 计算机分析
+dote - 昏愦
+mestizo - 混血儿
+PMA - 基本心理能力
+chance - 机遇
+recovery - 恢复
+nucleotide - 核甙酸
+activity need - 活动需求
+malfunction - 机能障碍
+environmental gradient - 环境梯度
+verve - 活力
+carney - 哄骗
+neglect - 忽视
+congregation - 集合
+primary - 基本的
+plan - 计划
+aberrance - 畸变
+machine intelligence - 机器智慧
+limit process - 极限法
+dyscalculia - 计算失能
+tonus - 肌肉紧张
+ribonucleic acid - 核糖核酸
+myodynia - 肌痛
+collaborate - 合作
+arousal - 唤起
+mechanism - 机制
+concord - 和谐
+rote memorization - 机械背诵
+basic research - 基本研究
+grassroots - 基础
+bellow - 吼叫
+anabiosis - 回生
+echo - 回波
+macrostructure - 宏观结构
+fantastic play - 幻想游戏
+fellow - 伙伴
+foundation - 基金
+wit - 机智
+value analysis - 价值分析
+note - 记录
+transition point - 过渡点
+brainstorming - 头脑风暴法
+body cavity - 体腔
+relaxation oscillation - 松弛颤动
+synchronism - 同步现象
+hypothermia - 体温过低
+exogenous variable - 外生变量
+sympathize - 同情
+exterior - 外部的
+mate - 同伴
+cultural context - 文化环境
+rewards - 奖励
+repeater - 留级生
+disturbed children - 失调儿童失调儿童
+decimal - 十进制
+social activity - 社会行动
+deep - 深的
+nervus - 神经
+biotype - 生物类型
+mode of life - 生活方式
+inactivation - 失活
+experimental - 实验的
+cogitation - 深思

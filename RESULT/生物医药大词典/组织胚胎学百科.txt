@@ -1,0 +1,354 @@
+组织胚胎学百科
+
+apoptosis - 程序性细胞死亡,凋落,凋亡
+fertilized ovum - 受精卵
+morula - 桑椹胚
+polychromatophilic erythroblast - 中幼红细胞
+core complex - 轴心复合体
+superficial epithelium, germinal epithelium - 表面上皮
+enterochromaffin cell, EC cell - 肠嗜铬细胞
+primary ossification center, diaphysis ossification center - 初级骨化中心
+electron microscopy, EM - 电子显微镜术
+apocrine - 顶质分泌
+arterial capillary - 动脉毛细血管
+polymorphonuclear leukocyte - 多形核白细胞
+cochlear duct，scala media(拉) - 耳蜗管
+Weibel-Palade body - 怀布尔-帕拉德体
+venous capillary - 静脉毛细血管
+merocrine - 局质分泌
+avidin-biotin-peroxidase complex method, ABC method - 抗生物素蛋白-生物素-过氧化物酶复合物法
+avidin - 抗生物素蛋白
+antibody-producting cell - 抗体生成细胞
+Korff's fiber - 科尔夫纤维
+Russell body - 拉塞尔小体
+steroid-secretory cell - 类固醇分泌细胞
+spiral organ of Corti, organ of Corti - 螺旋器
+membrane-coating granule, lamellated granule - 膜被颗粒
+bridged avidin-biotin method,BAB method - 桥连抗生物素蛋白-生物素法
+sheathed capillary - 鞘毛细血管
+holocrine - 全质分泌
+oligodendroglia, oligodendrocyte - 少突胶质
+neurosecretory neuron, neurosecretory cell - 神经分泌神经元
+Schreger line, Hunter-Schreger band - 施雷格线
+reduced enamel epithelium - 缩余釉上皮
+stereology - 体视学
+postsynaptic portion, postsynaptic element - 突触后部
+presynaptic portion, presynaptic element - 突触前部
+Tomes' granular layer - 托姆斯颗粒层
+eccrine sweat gland - 外泌汗腺
+normoblast, orthochromatic erythroblast - 晚幼红细胞
+gastro-entero-pancreatic endocrine system, GEP - 胃肠胰内分泌系统
+thin myofilament, actin filament - 细肌丝
+small intensely fluorescent cell, SIF cell - 小强荧光细胞
+specific atrial granule - 心房特殊颗粒
+stellate reticulum, enamel pulp - 星网层
+morphometry - 形态计量法
+thymus-dependent lymphocyte, T lymphocyte, T cell - 胸腺依赖淋巴细胞
+ambiguous phase, Go phase - 休止期
+incremental line of Owen, Owen's line - 牙本质生长线
+incremental line of enamel, Retzius line - 釉质生长线
+enamel sheath - 釉柱鞘
+proerythroblast, pronormoblast - 原红细胞
+basophilic erythroblast - 早幼红细胞
+neutrophilic granulocyte, neutrophil - 中性粒细胞
+neutrophilic metamyelocyte - 中性晚幼粒细胞
+neutrophilic promyelocyte - 中性早幼粒细胞
+peroxidase-anti-peroxidase complex method, PAP method - 过氧化物酶-抗过氧化物酶复合物法
+post-synthetic phase, G2  phase - 合成后期
+presynthetic phase, G1  phase - 合成前期
+Hertwig epithelial root sheath - 赫特维希上皮根鞘
+type A spermatogonium, spermatogonium A - A型精原细胞
+type B spermatogonium, spermatogonium B - B型精原细胞
+synthetic phase, S phase - DNA 合成期
+M line, mesophragma(拉) - M线
+Z membrane, Z disc, telophragma(拉) - Z膜
+in situ hybridization,hybridization histochemistry - [分子]原位杂交
+parafollicular cell, C cell - [甲状腺]滤泡旁细胞
+bursa-dependent lymphocyte, B lymphocyte, B cell - [腔上]囊依赖淋巴细胞
+crystalloid of Charcot-Bottcher - [支持细胞]类晶体
+I band, isotropic band, light band - Ⅰ带
+planum semilunatum(拉) - 半月平面
+Bergmann cell - 贝格曼[胶质]细胞
+labeled avidin-biotin method, LAB method - 标记抗生物素蛋白-生物素法
+neutrophilic myelocyte - 中性中幼粒细胞
+arcuate artery - 弓状动脉
+periosteal bud, osteogenic bud - 骨膜芽
+bone marrow-dependent lymphocyte, B lymphocyte, B cell - 骨髓依赖淋巴细胞
+light microscopy, LM - 光学显微镜术
+periodic acid Schiff reaction,PAS reaction - 过碘酸希夫反应
+vertebral and cardiac tracho-esophageal renal and limb syndrome, VACTERAL syndrome; - VACTERAL综合征
+Arnold-Chiari malformation; - 阿-基氏脑畸形
+birth defects; - 出生缺陷
+modulation; - 调变
+internal glomerulus; - 内肾小球
+urogenital plate, urethral plate; - 尿生殖板
+urogenital opening; - 尿生殖孔
+teratogen, teratogenic agent; - 致畸因子
+germ plasm,idioplasm; - 种质
+uterovaginal  primordium, uterovaginal canal; - 子宫阴道原基
+electron microscope - 电子显微镜
+first polar body - 第一极体
+duct - 导管
+monolayer culture - 单层培养
+haploid - 单倍体
+large vein - 大静脉
+large artery - 大动脉
+basal cell - [味蕾]基细胞
+corneal endothelium - 角膜内皮
+corneal stroma - 角膜基质
+collagen fibril - 胶原原纤维
+mesothelial cell - 间皮细胞
+pseudostratified columnar epithelium - 假复层柱状上皮
+subculture - 继代培养
+capillary - 毛细血管
+ovum - 卵,卵细胞
+histochemistry - 组织化学
+bone lamella - 骨板
+glomerulus - 肾小球，血管球
+bone matrix - 骨基质
+primordial follicle - 原始卵泡
+ground substance - 基质
+mast cell - 肥大细胞
+epidermis - 表皮
+implantation - 植入
+epicardium - 心外膜
+satellite cell - 卫星细胞
+stromal cell - 基质细胞
+stratum corneum - 角质层
+fixation - 固定
+fetal membrane - 胎膜
+dendrite - 树突
+lens fiber - 晶状体纤维
+aortic arch - 主动脉,弓动脉
+spina bifida occulta - 隐性脊柱裂
+muscle satellite cell - 肌卫星细胞
+cell - 细胞
+sinusoid - 血窦
+hair follicle - 毛囊
+duct - 导管
+histology - 组织学
+interference microscope - 干涉显微镜
+hepatic lobule - 肝小叶
+ossification center - 骨化中心
+skeletal muscle fiber - 骨骼肌纤维
+fixation - 固定
+light microscope - 光学显微镜
+peroxisome - 过氧化物酶体
+ribosome - 核糖体
+melanin - 黑[色]素
+melanosome - 黑[色]素体
+red bone marrow - 红骨髓
+interphase - 分裂间期
+secretory cell - 分泌细胞
+mounting - 封固
+stratified columnar epithelium - 复层柱状上皮
+axonal transport - 轴突运输
+core complex - 轴心复合体
+brown adipose tissue - 棕脂肪组织
+histochemistry - 组织化学
+testis - 睾丸
+mitotic figure - 有丝分裂象
+primary culture - 原代培养
+tendon cell - 腱细胞
+follicular dendritic cell - 小结树突细胞
+small vein - 小静脉
+trabecular meshwork - 小梁网
+small lymphocyte - 小淋巴细胞
+protoplasm - 原生质
+fibril - 原纤维
+menstrual cycle - 月经周期
+hybrid cell - 杂交细胞
+intermediate filament - 中间丝
+central vein - 中央静脉
+diakinesis - 终变期
+axo-dendritic synapse - 轴-树突触
+cardiac muscle - 心肌
+cardiac muscle cell - 心肌细胞
+glomus - 血管球
+heteroploid - 异倍体
+penis - 阴茎
+silver staining - 银染色
+fluorescence staining - 荧光染色
+fluorescein - 荧光素
+extrahepatic biliary atresia - 肝外胆管闭锁
+aortic arch - 弓动脉
+basal plate - 基板
+myotube - 肌管
+scoliosis - 脊柱侧凸
+lateral fold - 侧褶
+superovulation - 超[数]排卵
+postnatal development - 出生后发育
+female gamete - 雌[性]配子
+follicle - 滤泡
+central vein - 中央静脉
+dermis - 真皮
+serosa - 浆膜
+fundic gland - 胃底腺
+alveoli - 腺泡,肺泡
+lens capsule - 晶状体囊
+macula densa - 致密斑
+hepatic lobule - 肝小叶
+reticular fiber - 网状纤维
+endothelium - 内皮
+lens epithelium - 晶状体上皮
+muscle tissue - 肌组织
+lens - 晶体
+dental pulp - 牙髓
+bone mineral - 骨盐
+foramen ovale - 卵圆孔
+arteriole - 微动脉
+decidua - 蜕膜
+foramen primum - 原发孔(第一房间孔)
+inner cell mass - 内细胞群
+lymphoid tissue - 淋巴组织
+gamete - 配子
+endometrium - 子宫内膜
+internode - 结间体
+osseous tissue - 骨组织
+hepatocyte - 肝细胞
+capsule - 荚膜,被膜,囊胞
+filament - 细丝
+pulmonary macrophage - 肺巨噬细胞
+cell junction - 细胞连接
+germinal center - 生发中心
+fibroblast - 成纤维细胞
+terminal cisternae - 终池
+oligodendrocyte - 少突胶质细胞
+follicular cell - 卵泡细胞
+cartilage - 软骨
+eyelid - 眼睑
+induction - 诱导
+gingiva - 牙龈
+paracrine - 旁分泌
+axon - 轴索，轴突
+desmosome - 桥粒
+tracheoesophageal fistula - 气管食管瘘
+triplets - 三胎
+morula stage - 桑椹胚期
+horseshoe kidney - 马蹄肾
+choroid fissure - 脉络膜裂
+extraembryonic coelom - 胚外体腔
+umbilical artery - 脐动脉
+umbilical vein - 脐静脉
+urachal cyst - 脐尿囊
+dyskeratosis - 角化不良症
+atelectasis - 肺膨胀不全
+lens epithelium - 晶状体上皮
+seminal vesicle - 精囊
+avidin - 抗生物素蛋白
+frozen section - 冷冻切片
+filtration membrane - 滤过膜
+embryology - 胚胎学
+foregut - 前肠
+ganglion cell - 节细胞
+gap junction - 缝隙连接
+basement membrane - 基底膜，基膜
+microtubule - 微管
+gastric mucosa - 胃粘膜
+cell division - 细胞分裂
+cytoskeleton - 细胞骨架
+nucleus - 细胞核
+cell clone - 细胞克隆
+cell junction - 细胞连接
+cell culture - 细胞培养
+organelle - 细胞器
+cytosol - 细胞溶胶
+cell biology - 细胞生物学
+cytology - 细胞学
+cell adhesion - 细胞粘着
+paraffin section - 石蜡切片
+basophilia - 嗜碱性
+micromanipulator - 显微操作器
+microspectrophotometer - 显微分光光度计
+mitochondrion - 线粒体
+section - 切片
+microtome - 切片机
+argentaffin - 亲银性
+defined medium - 确定成分培养基
+chondrogenesis - 软骨发生
+cartilage tissue - 软骨组织
+epithelial cell - 上皮细胞
+in vivo - 体内
+in vitro - 体外
+clearing - 透明
+synaptic vesicle - 突触[小]泡
+image analysis - 图象分析
+image analysis system - 图象分析系统
+flow cytometry - 流式细胞计
+ovum - 卵[子]
+oogenesis - 卵[子]发生
+renal cortex - 肾皮质
+adrenal cortex - 肾上腺皮质
+vocal fold - 声襞
+spermatogenic cell - 生精细胞
+germ cell - 生殖细胞
+membranous semicircular canal - 膜半规管
+male reproductive system - 男性生殖系统
+endocrine system - 内分泌系统
+endothelial cell - 内皮细胞
+retrograde axonal transport - 逆向轴突运输
+female reproductive system - 女性生殖系统
+culture medium - 培养基
+polarizing microscope - 偏光显微镜
+organ culture - 器官培养
+amniotic fluid - 羊水
+ectopic implantation - 异位植入
+induced ovulation - 诱发排卵
+limb bud - 肢芽
+microcephaly - 小头
+neural crest - 神经嵴
+conjunctiva - 结膜
+conjunctival epithelium - 结膜上皮
+limiting plate - 界板
+proximal tubule - 近端小管
+lens capsule - 晶状体囊
+counterstaining - 对比染色
+sarcomere - 肌[原纤维]节
+myofibroblast - 肌成纤维细胞
+muscle cell - 肌细胞
+muscular artery - 肌性动脉
+hormone receptor - 激素受体
+subculture - 继代培养
+pseudostratified columnar epithelium - 假复层柱状上皮
+mesothelial cell - 间皮细胞
+collagen fibril - 胶原原纤维
+corneal stroma - 角膜基质
+corneal endothelium - 角膜内皮
+basal cell - [味蕾]基细胞
+large artery - 大动脉
+large vein - 大静脉
+haploid - 单倍体
+monolayer culture - 单层培养
+duct - 导管
+first polar body - 第一极体
+electron microscope - 电子显微镜
+electron-dense - 电子致密
+apocrine - 顶质分泌
+G cell - G 细胞
+I cell - I 细胞
+IG cell - IG 细胞
+K cell - K 细胞
+L cell - L细胞
+P cell - P 细胞
+A cell - [胰岛] A细胞
+B cell - [胰岛] B 细胞
+C cell - [胰岛] C 细胞
+D cell - [胰岛] D细胞
+aminergic neuron - 胺能神经元
+valve - 瓣[膜]
+embedding - 包埋
+subcapsular sinus - 被膜下淋巴窦
+comparative histology - 比较组织学
+border cell - 边缘细胞
+marginal sinus - 边缘窦
+erectile tissue - 勃起组织
+X cell - X 细胞
+basilar membrane - [耳蜗]基底膜
+anaphase - [分裂]后期
+telophase - [分裂]末期
+clear cell - [汗腺]明细胞
+head - [精子]头
+tail - [精子]尾
+ovarian cortex - [卵巢]皮质
+bipolar cell - [视网膜]双极细胞
+outer nuclear layer - [视网膜]外核层
