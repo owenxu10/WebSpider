@@ -1,23 +1,31 @@
 # -*- coding: utf-8 -*-
 import scrapy
-
+import sys
 from bs4 import BeautifulSoup
 from tianya.items import TianyaItem 
 
 class PatianyaSpider(scrapy.Spider):
     name = "patianya"
     allowed_domains = ["bbs.tianya.cn/"]
-    start_urls = ['http://bbs.tianya.cn/list.jsp?item=100&sub=14']
+    start_urls = ['http://bbs.tianya.cn/list.jsp?item=100&sub=12']
     base_url = "http://bbs.tianya.cn"
 
     def parse_post(self, response):
+        reload(sys)                         
+        sys.setdefaultencoding('utf-8')  
+ 
     	print response.url
     	item = TianyaItem()
-    	item['title'] = response.meta['title']
+
+        item['title'] = response.meta['title']
     	item['author'] = response.meta['author']
     	item['click_number'] = response.meta['click_number']
     	item['response_number'] = response.meta['response_number']
     	item['response_time'] = response.meta['response_time']
+
+        filename = "result/"+item['title']+".txt"
+        f = open(filename, 'w+')
+
     	soup = BeautifulSoup(response.text,'lxml')
     	contents = soup.select('div .bbs-content')
     	item['first_post'] = contents[0].text.strip()
@@ -26,7 +34,10 @@ class PatianyaSpider(scrapy.Spider):
     	for content in contents:
     		other_posts = other_posts + u"回复:"+ '\n' + content.text.strip() + '\n\n'
     	item['other_posts'] = other_posts
-    	yield item
+        f = open(filename, 'w+')
+        f.write(item['first_post']+'\n\n')
+        f.write(other_posts)
+        f.close()
 
     def parse(self, response):
         print response.url
