@@ -2,4 +2,5 @@
 .DS_Store
 Thumbs.db
 /scrapy/zhihu/result
-/scrapy/scrapy-zhihu-users-master/
+/scrapy/scrapy-zhihu-users-master
+/scrapy/tutorial
