@@ -2,6 +2,7 @@
 .DS_Store
 Thumbs.db
 /scrapy/zhihu/result
+/scrapy/zhihu/zhihu/myconfig.py
 /scrapy/scrapy-zhihu-users-master
 /scrapy/tutorial
 /scrapy/sanjiu/result
