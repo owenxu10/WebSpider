@@ -21,7 +21,7 @@ class PazhihuSpider(scrapy.Spider):
 		"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
 	}
 	login_url = 'https://www.zhihu.com/login/email'
-	resource_url = "https://www.zhihu.com/topic/19610621/hot"
+	resource_url = "https://www.zhihu.com/topic/19856971/hot"
 	base_url = "https://www.zhihu.com"
 	post_url = "https://www.zhihu.com/node/QuestionAnswerListV2"
 	question_links = set()
@@ -97,7 +97,8 @@ class PazhihuSpider(scrapy.Spider):
 				#new question
 				question_url = self.base_url + question_link
 				self.question_links.add(question.select('h2 a')[0].get('href'))
-				print len(question_links)
+				print ">>question number:"
+				print len(self.question_links)
 				yield scrapy.Request(
 					question_url, 
 					headers = self.headers,
@@ -111,7 +112,7 @@ class PazhihuSpider(scrapy.Spider):
 		offset =  questions[-1]['data-score']
 		print offset
 		start = 0
-		yield scrapy.FormRequest("https://www.zhihu.com/topic/19610621/hot",
+		yield scrapy.FormRequest(self.resource_url,
 					headers = self.headers,
 					formdata={'start': str(start), 'offset': str(offset)},
 					callback=self.parse_hot)
